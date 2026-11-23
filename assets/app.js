@@ -16,7 +16,8 @@ const EMBEBIDA = window.BIBLIOTECA_EMBEBIDA || { catalogo: [], documentos: {}, p
 const idInicial = (() => {
   const disponibles = EMBEBIDA.catalogo.filter((c) => c.activo !== false && EMBEBIDA.documentos[c.id]).map((c) => c.id);
   const pedido = new URLSearchParams(location.search).get('documento');
-  return [pedido, leerAjuste('documento', null, (v) => typeof v === 'string')].find((id) => disponibles.includes(id)) || disponibles[0];
+  const guardado = /^#pregunta-\d+$/.test(location.hash) ? null : leerAjuste('documento', null, (v) => typeof v === 'string');
+  return [pedido, guardado].find((id) => disponibles.includes(id)) || disponibles[0];
 })();
 const estado = {
   catalogo: EMBEBIDA.catalogo,
@@ -412,7 +413,8 @@ function mostrarDocumento(c, datos, pendientes, { conservarPagina = false } = {}
 }
 
 async function actualizarActivo() {
-  const pedido = new URLSearchParams(location.search).get('documento') || leerAjuste('documento', null, (v) => typeof v === 'string');
+  const pedido = new URLSearchParams(location.search).get('documento')
+    || (/^#pregunta-\d+$/.test(location.hash) ? null : leerAjuste('documento', null, (v) => typeof v === 'string'));
   if (pedido && pedido !== estado.activo && estado.catalogo.some((x) => x.id === pedido && x.activo !== false)) {
     await elegir(pedido);
     if (estado.activo === pedido) { abrirDesdeEnlace(); return; }
