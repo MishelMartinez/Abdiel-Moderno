@@ -91,6 +91,7 @@ function filtrar() {
       textos.push(g.inciso);
       for (const c of g.citas || []) textos.push(etiquetaCita(c), textoCita(c), c?.referenciaComparativa, c?.pasajeComparativo);
     }
+    if (q.datoCurioso) textos.push(q.datoCurioso.texto, q.datoCurioso.cita, q.datoCurioso.pasaje);
     return normalizar(textos.join(' ')).includes(termino);
   });
   return { termino, lista: seleccion.sort((a, b) => Number(a.numero) - Number(b.numero)) };
