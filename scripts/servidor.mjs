@@ -10,7 +10,9 @@ const tipos = { '.html': 'text/html; charset=utf-8', '.js': 'text/javascript; ch
   '.json': 'application/json; charset=utf-8', '.webmanifest': 'application/manifest+json', '.svg': 'image/svg+xml', '.png': 'image/png' };
 
 createServer(async (req, res) => {
-  const ruta = decodeURIComponent(new URL(req.url, 'http://x').pathname);
+  let ruta;
+  try { ruta = decodeURIComponent(new URL(req.url, 'http://x').pathname); } catch { res.writeHead(400).end(); return; }
+  if (ruta.split('/').some((s) => s.startsWith('.') || s === 'node_modules')) { res.writeHead(404).end('No encontrado'); return; }
   const archivo = normalize(join(raiz, ruta.endsWith('/') ? `${ruta}index.html` : ruta));
   if (!archivo.startsWith(raiz)) { res.writeHead(403).end(); return; }
   try {
