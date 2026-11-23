@@ -1,10 +1,10 @@
 {
   "titulo": "Catecismo Mayor de Westminster",
   "totalPreguntas": 196,
-  "preguntasCompletas": 10,
+  "preguntasCompletas": 40,
   "versionBiblica": "Reina-Valera 1909",
   "observaciones": [
-    "Versión en revisión: incluye las preguntas 1 a 10 de 196.",
+    "Versión en revisión: incluye las preguntas 1 a 40 de 196.",
     "Traducción propia al español a partir del texto histórico en inglés (dominio público).",
     "Las letras de los incisos siguen la edición estándar de las pruebas bíblicas; la fuente en línea las presenta sin letras."
   ],
@@ -514,9 +514,9 @@
               "Pasaje": "19. Por tanto, id, y doctrinad á todos los Gentiles, bautizándolos en el nombre del Padre, y del Hijo, y del Espíritu Santo:"
             },
             {
-              "cita": "2 Cor. 13:13",
+              "cita": "2 Cor. 13:14",
               "Pasaje": "13. La gracia del Señor Jesucristo, y el amor de Dios, y la participación del Espíritu Santo sea con vosotros todos. Amén. La segunda [Epístola] á los Corintios fué enviada de Filipos de Macedonia con Tito y Lucas.",
-              "observacionPasaje": "En inglés «2 Corinthians 13:14»; en la Reina-Valera 1909 este versículo es 2 Cor. 13:13."
+              "observacionPasaje": "En inglés «2 Corinthians 13:14»; en la Reina-Valera 1909 este versículo es el 13."
             },
             {
               "cita": "Jn. 10:30",
@@ -559,6 +559,1646 @@
             {
               "cita": "Gál. 4:6",
               "Pasaje": "6. Y por cuanto sois hijos, Dios envió el Espíritu de su Hijo en vuestros corazones, el cual clama: Abba, Padre."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 11,
+      "pregunta": "¿Cómo se manifiesta que el Hijo y el Espíritu Santo son Dios, iguales al Padre?",
+      "respuesta": "Las Escrituras manifiestan que el Hijo y el Espíritu Santo son Dios, iguales al Padre, atribuyéndoles nombres, atributos, obras y adoración tales que son propios solamente de Dios.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Isa. 6:3,5,8",
+              "Pasaje": "3. Y el uno al otro daba voces, diciendo: Santo, santo, santo, Jehová de los ejércitos: toda la tierra está llena de su gloria.\n5. Entonces dije: ¡Ay de mí! que soy muerto; que siendo hombre inmundo de labios, y habitando en medio de pueblo que tiene labios inmundos, han visto mis ojos al Rey, Jehová de los ejércitos.\n8. Después oí la voz del Señor, que decía: ¿A quién enviaré, y quién nos irá? Entonces respondí yo: Heme aquí, envíame á mí."
+            },
+            {
+              "cita": "Jn. 12:41",
+              "Pasaje": "41. Estas cosas dijo Isaías cuando vió su gloria, y habló de él."
+            },
+            {
+              "cita": "Hech. 28:25",
+              "Pasaje": "25. Y como fueron entre sí discordes, se fueron, diciendo Pablo esta palabra: Bien ha hablado el Espíritu Santo por el profeta Isaías á nuestros padres,"
+            },
+            {
+              "cita": "1 Jn. 5:20",
+              "Pasaje": "20. Empero sabemos que el Hijo de Dios es venido, y nos ha dado entendimiento para conocer al que es verdadero: y estamos en el verdadero, en su Hijo Jesucristo. Este es el verdadero Dios, y la vida eterna."
+            },
+            {
+              "cita": "Hech. 5:3-4",
+              "Pasaje": "3. Y dijo Pedro: Ananías, ¿por qué ha llenado Satanás tu corazón á que mintieses al Espíritu Santo, y defraudases del precio de la heredad?\n4. Reteniéndola, ¿no se te quedaba á ti? y vendida, ¿no estaba en tu potestad? ¿Por qué pusiste esto en tu corazón? No has mentido á los hombres, sino á Dios."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Jn. 1:1",
+              "Pasaje": "1. EN el principio era el Verbo, y el Verbo era con Dios, y el Verbo era Dios."
+            },
+            {
+              "cita": "Isa. 9:6",
+              "Pasaje": "6. Porque un niño nos es nacido, hijo nos es dado; y el principado sobre su hombro: y llamaráse su nombre Admirable, Consejero, Dios fuerte, Padre eterno, Príncipe de paz."
+            },
+            {
+              "cita": "Jn. 2:24-25",
+              "Pasaje": "24. Mas el mismo Jesús no se confiaba á sí mismo de ellos, porque él conocía á todos,\n25. Y no tenía necesidad que alguien le diese testimonio del hombre; porque él sabía lo que había en el hombre."
+            },
+            {
+              "cita": "1 Cor. 2:10-11",
+              "Pasaje": "10. Empero Dios nos [lo] reveló á nosotros por el Espíritu: porque el Espíritu todo lo escudriña, aun lo profundo de Dios.\n11. Porque ¿quién de los hombres sabe las cosas del hombre, sino el espíritu del hombre que está en él? Así tampoco nadie conoció las cosas de Dios, sino el Espíritu de Dios."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Col. 1:16",
+              "Pasaje": "16. Porque por él fueron criadas todas las cosas que [están] en los cielos, y que [están] en la tierra, visibles é invisibles; sean tronos, sean dominios, sean principados, sean potestades; todo fué criado por él y para él."
+            },
+            {
+              "cita": "Gén. 1:2",
+              "Pasaje": "2. Y la tierra estaba desordenada y vacía, y las tinieblas estaban sobre la haz del abismo, y el Espíritu de Dios se movía sobre la haz de las aguas."
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "Mat. 28:19",
+              "Pasaje": "19. Por tanto, id, y doctrinad á todos los Gentiles, bautizándolos en el nombre del Padre, y del Hijo, y del Espíritu Santo:"
+            },
+            {
+              "cita": "2 Cor. 13:14",
+              "Pasaje": "13. La gracia del Señor Jesucristo, y el amor de Dios, y la participación del Espíritu Santo sea con vosotros todos. Amén. La segunda [Epístola] á los Corintios fué enviada de Filipos de Macedonia con Tito y Lucas.",
+              "observacionPasaje": "La fuente indica «2 Corinthians 8:14», que no trata de la adoración a la Trinidad; las ediciones estándar citan 2 Corintios 13:14. En inglés «2 Corinthians 13:14»; en la Reina-Valera 1909 este versículo es el 13."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 12,
+      "pregunta": "¿Qué son los decretos de Dios?",
+      "respuesta": "Los decretos de Dios son los actos sabios, libres y santos del consejo de su voluntad, por los cuales, desde toda la eternidad, él ha preordenado inmutablemente, para su propia gloria, todo lo que sucede en el tiempo, especialmente en lo que concierne a los ángeles y a los hombres.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Ef. 1:11",
+              "Pasaje": "11. En él [digo], en quien asimismo tuvimos suerte, habiendo sido predestinados conforme al propósito del que hace todas las cosas según el consejo de su voluntad,"
+            },
+            {
+              "cita": "Rom. 11:33",
+              "Pasaje": "33. ¡Oh profundidad de las riquezas de la sabiduría y de la ciencia de Dios! ¡Cuán incomprensibles son sus juicios, é inescrutables sus caminos!"
+            },
+            {
+              "cita": "Rom. 9:14-15,18",
+              "Pasaje": "14. ¿Pues qué diremos? ¿Que hay injusticia en Dios? En ninguna manera.\n15. Mas á Moisés dice: Tendré misericordia del que tendré misericordia, y me compadeceré del que me compadeceré.\n18. De manera que del que quiere tiene misericordia; y al que quiere, endurece."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Ef. 1:4,11",
+              "Pasaje": "4. Según nos escogió en él antes de la fundación del mundo, para que fuésemos santos y sin mancha delante de él en amor;\n11. En él [digo], en quien asimismo tuvimos suerte, habiendo sido predestinados conforme al propósito del que hace todas las cosas según el consejo de su voluntad,"
+            },
+            {
+              "cita": "Rom. 9:22-23",
+              "Pasaje": "22. ¿Y qué, si Dios, queriendo mostrar la ira y hacer notoria su potencia, soportó con mucha mansedumbre los vasos de ira preparados para muerte,\n23. Y para hacer notorias las riquezas de su gloria, [mostrólas] para con los vasos de misericordia que él ha preparado para gloria;"
+            },
+            {
+              "cita": "Sal. 33:11",
+              "Pasaje": "11. El consejo de Jehová permanecerá para siempre; los pensamientos de su corazón por todas las generaciones."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 13,
+      "pregunta": "¿Qué ha decretado Dios especialmente acerca de los ángeles y de los hombres?",
+      "respuesta": "Dios, por un decreto eterno e inmutable, por su mero amor, para alabanza de su gloriosa gracia que había de manifestarse a su debido tiempo, ha elegido a algunos ángeles para gloria; y en Cristo ha escogido a algunos hombres para vida eterna, y también los medios para ella; y asimismo, conforme a su poder soberano y al consejo inescrutable de su propia voluntad (por el cual extiende o retiene su favor como le place), ha pasado por alto a los demás y los ha preordenado a deshonra e ira, que les será infligida por su pecado, para alabanza de la gloria de su justicia.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "1 Tim. 5:21",
+              "Pasaje": "21. [Te] requiero delante de Dios y del Señor Jesucristo, y de sus ángeles escogidos, que guardes estas cosas sin perjuicio de nadie, que nada hagas inclinándote á la una parte."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Ef. 1:4-6",
+              "Pasaje": "4. Según nos escogió en él antes de la fundación del mundo, para que fuésemos santos y sin mancha delante de él en amor;\n5. Habiéndonos predestinado para ser adoptados hijos por Jesucristo á sí mismo, según el puro afecto de su voluntad,\n6. Para alabanza de la gloria de su gracia, con la cual nos hizo aceptos en el Amado:"
+            },
+            {
+              "cita": "2 Tes. 2:13-14",
+              "Pasaje": "13. Mas nosotros debemos dar siempre gracias á Dios por vosotros, hermanos amados del Señor, de que Dios os haya escogido desde el principio para salud, por la santificación del Espíritu y fe de la verdad:\n14. A lo cual os llamó por nuestro evangelio, para alcanzar la gloria de nuestro Señor Jesucristo."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Rom. 9:17-18,21-22",
+              "Pasaje": "17. Porque la Escritura dice de Faraón: Que para esto mismo te he levantado, para mostrar en ti mi potencia, y que mi nombre sea anunciado por toda la tierra.\n18. De manera que del que quiere tiene misericordia; y al que quiere, endurece.\n21. ¿O no tiene potestad el alfarero para hacer de la misma masa un vaso para honra, y otro para vergüenza?\n22. ¿Y qué, si Dios, queriendo mostrar la ira y hacer notoria su potencia, soportó con mucha mansedumbre los vasos de ira preparados para muerte,"
+            },
+            {
+              "cita": "Mat. 11:25-26",
+              "Pasaje": "25. En aquel tiempo, respondiendo Jesús, dijo: Te alabo, Padre, Señor del cielo y de la tierra, que hayas escondido estas cosas de los sabios y de los entendidos, y las hayas revelado á los niños.\n26. Así, Padre, pues que así agradó en tus ojos."
+            },
+            {
+              "cita": "2 Tim. 2:20",
+              "Pasaje": "20. Mas en una casa grande, no solamente hay vasos de oro y de plata, sino también de madera y de barro: y asimismo unos para honra, y otros para deshonra."
+            },
+            {
+              "cita": "Jud. 1:4",
+              "Pasaje": "4. Porque algunos hombres han entrado encubiertamente, los cuales desde antes habían estado ordenados para esta condenación, hombres impíos, convirtiendo la gracia de nuestro Dios en disolución, y negando á Dios que solo es el que tiene dominio, y á nuestro Señor Jesucristo."
+            },
+            {
+              "cita": "1 Ped. 2:8",
+              "Pasaje": "8. Y Piedra de tropiezo, y roca de escándalo á aquellos que tropiezan en la palabra, siendo desobedientes; para lo cual fueron también ordenados."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 14,
+      "pregunta": "¿Cómo ejecuta Dios sus decretos?",
+      "respuesta": "Dios ejecuta sus decretos en las obras de la creación y de la providencia, conforme a su presciencia infalible y al consejo libre e inmutable de su propia voluntad.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Ef. 1:11",
+              "Pasaje": "11. En él [digo], en quien asimismo tuvimos suerte, habiendo sido predestinados conforme al propósito del que hace todas las cosas según el consejo de su voluntad,"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 15,
+      "pregunta": "¿Qué es la obra de la creación?",
+      "respuesta": "La obra de la creación es aquella en la cual Dios, en el principio, por la palabra de su poder, hizo de la nada el mundo y todas las cosas que hay en él, para sí mismo, en el espacio de seis días, y todo muy bueno.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Gén. 1",
+              "Pasaje": "1. EN el principio crió Dios los cielos y la tierra.\n2. Y la tierra estaba desordenada y vacía, y las tinieblas estaban sobre la haz del abismo, y el Espíritu de Dios se movía sobre la haz de las aguas.\n3. Y dijo Dios: Sea la luz: y fué la luz.\n4. Y vió Dios que la luz era buena: y apartó Dios la luz de las tinieblas.\n5. Y llamó Dios á la luz Día, y á las tinieblas llamó Noche: y fué la tarde y la mañana un día.\n6. Y dijo Dios: Haya expansión en medio de las aguas, y separe las aguas de las aguas.\n7. E hizo Dios la expansión, y apartó las aguas que estaban debajo de la expansión, de las aguas que estaban sobre la expansión: y fué así.\n8. Y llamó Dios á la expansión Cielos: y fué la tarde y la mañana el día segundo.\n9. Y dijo Dios: Júntense las aguas que [están] debajo de los cielos en un lugar, y descúbrase la seca: y fué así.\n10. Y llamó Dios á la seca Tierra, y á la reunión de las aguas llamó Mares: y vió Dios que era bueno.\n11. Y dijo Dios: Produzca la tierra hierba verde, hierba que dé simiente; árbol de fruto que dé fruto según su género, que su simiente esté en él, sobre la tierra: y fué así.\n12. Y produjo la tierra hierba verde, hierba que da simiente según su naturaleza, y árbol que da fruto, cuya simiente está en él, según su género: y vió Dios que era bueno.\n13. Y fué la tarde y la mañana el día tercero.\n14. Y dijo Dios: Sean lumbreras en la expansión de los cielos para apartar el día y la noche: y sean por señales, y para las estaciones, y para días y años;\n15. Y sean por lumbreras en la expansión de los cielos para alumbrar sobre la tierra: y fué así.\n16. E hizo Dios las dos grandes lumbreras; la lumbrera mayor para que señorease en el día, y la lumbrera menor para que señorease en la noche: [hizo] también las estrellas.\n17. Y púsolas Dios en la expansión de los cielos, para alumbrar sobre la tierra,\n18. Y para señorear en el día y en la noche, y para apartar la luz y las tinieblas: y vió Dios que era bueno.\n19. Y fué la tarde y la mañana el día cuarto.\n20. Y dijo Dios: Produzcan las aguas reptil de ánima viviente, y aves que vuelen sobre la tierra, en la abierta expansión de los cielos.\n21. Y crió Dios las grandes ballenas, y toda cosa viva que anda arrastrando, que las aguas produjeron según su género, y toda ave alada según su especie: y vió Dios que era bueno.\n22. Y Dios los bendijo diciendo: Fructificad y multiplicad, y henchid las aguas en los mares, y las aves se multipliquen en la tierra.\n23. Y fué la tarde y la mañana el día quinto.\n24. Y dijo Dios: Produzca la tierra seres vivientes según su género, bestias y serpientes y animales de la tierra según su especie: y fué así.\n25. E hizo Dios animales de la tierra según su género, y ganado según su género, y todo animal que anda arrastrando sobre la tierra según su especie: y vió Dios que era bueno.\n26. Y dijo Dios: Hagamos al hombre á nuestra imagen, conforme á nuestra semejanza; y señoree en los peces de la mar, y en las aves de los cielos, y en las bestias, y en toda la tierra, y en todo animal que anda arrastrando sobre la tierra.\n27. Y crió Dios al hombre á su imagen, á imagen de Dios lo crió; varón y hembra los crió.\n28. Y los bendijo Dios; y díjoles Dios: Fructificad y multiplicad, y henchid la tierra, y sojuzgadla, y señoread en los peces de la mar, y en las aves de los cielos, y en todas las bestias que se mueven sobre la tierra.\n29. Y dijo Dios: He aquí que os he dado toda hierba que da simiente, que está sobre la haz de toda la tierra; y todo árbol en que hay fruto de árbol que da simiente, seros ha para comer.\n30. Y á toda bestia de la tierra, y á todas las aves de los cielos, y á todo lo que se mueve sobre la tierra, en que hay vida, toda hierba verde [les será] para comer: y fué así.\n31. Y vió Dios todo lo que había hecho, y he aquí que era bueno en gran manera. Y fué la tarde y la mañana el día sexto.",
+              "observacionPasaje": "Capítulo completo."
+            },
+            {
+              "cita": "Heb. 11:3",
+              "Pasaje": "3. Por la fe entendemos haber sido compuestos los siglos por la palabra de Dios, siendo hecho lo que se ve, de lo que no se veía."
+            },
+            {
+              "cita": "Prov. 16:4",
+              "Pasaje": "4. Todas las cosas ha hecho Jehová por sí mismo, y aun al impío para el día malo."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 16,
+      "pregunta": "¿Cómo creó Dios a los ángeles?",
+      "respuesta": "Dios creó a todos los ángeles espíritus, inmortales, santos, sobresalientes en conocimiento, poderosos en fuerza, para ejecutar sus mandamientos y alabar su nombre; no obstante, sujetos a cambio.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Col. 1:16",
+              "Pasaje": "16. Porque por él fueron criadas todas las cosas que [están] en los cielos, y que [están] en la tierra, visibles é invisibles; sean tronos, sean dominios, sean principados, sean potestades; todo fué criado por él y para él."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Sal. 104:4",
+              "Pasaje": "4. El que hace á sus ángeles espíritus, sus ministros al fuego flameante."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Mat. 22:30",
+              "Pasaje": "30. Porque en la resurrección, ni los hombres tomarán mujeres, ni las mujeres maridos; mas son como los ángeles de Dios en el cielo."
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "Mat. 25:31",
+              "Pasaje": "31. Y cuando el Hijo del hombre venga en su gloria, y todos los santos ángeles con él, entonces se sentará sobre el trono de su gloria."
+            }
+          ]
+        },
+        {
+          "inciso": "e",
+          "citas": [
+            {
+              "cita": "2 Sam. 14:17",
+              "Pasaje": "17. Tu sierva pues dice: Que sea ahora la respuesta de mi señor el rey para descanso; pues que mi señor el rey es como un ángel de Dios para escuchar lo bueno y lo malo. Así Jehová tu Dios sea contigo."
+            },
+            {
+              "cita": "Mat. 24:36",
+              "Pasaje": "36. Empero del día y hora nadie sabe, ni aun los ángeles de los cielos, sino mi Padre solo."
+            }
+          ]
+        },
+        {
+          "inciso": "f",
+          "citas": [
+            {
+              "cita": "2 Tes. 1:7",
+              "Pasaje": "7. Y á vosotros, que sois atribulados, [dar] reposo con nosotros, cuando se manifestará el Señor Jesús del cielo con los ángeles de su potencia,"
+            }
+          ]
+        },
+        {
+          "inciso": "g",
+          "citas": [
+            {
+              "cita": "Sal. 103:20-21",
+              "Pasaje": "20. Bendecid á Jehová, vosotros sus ángeles, poderosos en fortaleza, que ejecutáis su palabra, obedeciendo á la voz de su precepto.\n21. Bendecid á Jehová, vosotros todos sus ejércitos, ministros suyos, que hacéis su voluntad."
+            }
+          ]
+        },
+        {
+          "inciso": "h",
+          "citas": [
+            {
+              "cita": "2 Ped. 2:4",
+              "Pasaje": "4. Porque si Dios no perdonó á los ángeles que habían pecado, sino que habiéndolos despeñado en el infierno con cadenas de oscuridad, los entregó para ser reservados al juicio;"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 17,
+      "pregunta": "¿Cómo creó Dios al hombre?",
+      "respuesta": "Después de haber hecho todas las demás criaturas, Dios creó al hombre, varón y hembra; formó el cuerpo del hombre del polvo de la tierra, y a la mujer de la costilla del hombre; los dotó de almas vivientes, racionales e inmortales; los hizo conforme a su propia imagen, en conocimiento, justicia y santidad, teniendo la ley de Dios escrita en sus corazones y poder para cumplirla, y dominio sobre las criaturas; aunque sujetos a caer.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Gén. 1:27",
+              "Pasaje": "27. Y crió Dios al hombre á su imagen, á imagen de Dios lo crió; varón y hembra los crió."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Gén. 2:7",
+              "Pasaje": "7. Formó, pues, Jehová Dios al hombre del polvo de la tierra, y alentó en su nariz soplo de vida; y fué el hombre en alma viviente."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Gén. 2:22",
+              "Pasaje": "22. Y de la costilla que Jehová Dios tomó del hombre, hizo una mujer, y trájola al hombre."
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "Gén. 2:7",
+              "Pasaje": "7. Formó, pues, Jehová Dios al hombre del polvo de la tierra, y alentó en su nariz soplo de vida; y fué el hombre en alma viviente."
+            },
+            {
+              "cita": "Job 35:11",
+              "Pasaje": "11. Que nos enseña más que á las bestias de la tierra, y nos hace sabios más que las aves del cielo?"
+            },
+            {
+              "cita": "Ecl. 12:7",
+              "Pasaje": "7. Y el polvo se torne á la tierra, como era, y el espíritu se vuelva á Dios que lo dió."
+            },
+            {
+              "cita": "Mat. 10:28",
+              "Pasaje": "28. Y no temáis á los que matan el cuerpo, mas al alma no pueden matar: temed antes á aquel que puede destruir el alma y el cuerpo en el infierno."
+            },
+            {
+              "cita": "Luc. 23:43",
+              "Pasaje": "43. Entonces Jesús le dijo: De cierto te digo, que hoy estarás conmigo en el paraíso."
+            }
+          ]
+        },
+        {
+          "inciso": "e",
+          "citas": [
+            {
+              "cita": "Gén. 1:27",
+              "Pasaje": "27. Y crió Dios al hombre á su imagen, á imagen de Dios lo crió; varón y hembra los crió."
+            }
+          ]
+        },
+        {
+          "inciso": "f",
+          "citas": [
+            {
+              "cita": "Col. 3:10",
+              "Pasaje": "10. Y revestídoos del nuevo, el cual por el conocimiento es renovado conforme á la imagen del que lo crió;"
+            },
+            {
+              "cita": "Ef. 4:24",
+              "Pasaje": "24. Y vestir el nuevo hombre que es criado conforme á Dios en justicia y en santidad de verdad."
+            }
+          ]
+        },
+        {
+          "inciso": "g",
+          "citas": [
+            {
+              "cita": "Rom. 2:14-15",
+              "Pasaje": "14. Porque los Gentiles que no tienen ley, naturalmente haciendo lo que es de la ley, los tales, aunque no tengan ley, ellos son ley á sí mismos:\n15. Mostrando la obra de la ley escrita en sus corazones, dando testimonio juntamente sus conciencias, y acusándose y también excusándose sus pensamientos unos con otros;"
+            }
+          ]
+        },
+        {
+          "inciso": "h",
+          "citas": [
+            {
+              "cita": "Ecl. 7:29",
+              "Pasaje": "29. He aquí, solamente he hallado esto: que Dios hizo al hombre recto, mas ellos buscaron muchas cuentas."
+            }
+          ]
+        },
+        {
+          "inciso": "i",
+          "citas": [
+            {
+              "cita": "Gén. 1:28",
+              "Pasaje": "28. Y los bendijo Dios; y díjoles Dios: Fructificad y multiplicad, y henchid la tierra, y sojuzgadla, y señoread en los peces de la mar, y en las aves de los cielos, y en todas las bestias que se mueven sobre la tierra."
+            }
+          ]
+        },
+        {
+          "inciso": "k",
+          "citas": [
+            {
+              "cita": "Gén. 3:6",
+              "Pasaje": "6. Y vió la mujer que el árbol era bueno para comer, y que era agradable á los ojos, y árbol codiciable para alcanzar la sabiduría; y tomó de su fruto, y comió; y dió también á su marido, el cual comió así como ella."
+            },
+            {
+              "cita": "Ecl. 7:29",
+              "Pasaje": "29. He aquí, solamente he hallado esto: que Dios hizo al hombre recto, mas ellos buscaron muchas cuentas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 18,
+      "pregunta": "¿Cuáles son las obras de providencia de Dios?",
+      "respuesta": "Las obras de providencia de Dios son su preservación y gobierno sumamente santos, sabios y poderosos de todas sus criaturas, ordenándolas a ellas y a todas sus acciones para su propia gloria.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Sal. 145:17",
+              "Pasaje": "17. Justo es Jehová en todos sus caminos, y misericordioso en todas sus obras."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Sal. 104:24",
+              "Pasaje": "24. ¡Cuán muchas son tus obras, oh Jehová! Hiciste todas ellas con sabiduría: la tierra está llena de tus beneficios."
+            },
+            {
+              "cita": "Isa. 28:29",
+              "Pasaje": "29. También esto salió de Jehová de los ejércitos, para hacer maravilloso el consejo y engrandecer la sabiduría."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Heb. 1:3",
+              "Pasaje": "3. El cual siendo el resplandor de su gloria, y la misma imagen de su sustancia, y sustentando todas las cosas con la palabra de su potencia, habiendo hecho la purgación de nuestros pecados por sí mismo, se sentó á la diestra de la Majestad en las alturas,"
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "Sal. 103:19",
+              "Pasaje": "19. Jehová afirmó en los cielos su trono; y su reino domina sobre todos."
+            }
+          ]
+        },
+        {
+          "inciso": "e",
+          "citas": [
+            {
+              "cita": "Mat. 10:29-31",
+              "Pasaje": "29. ¿No se venden dos pajarillos por un cuarto? Con todo, ni uno de ellos cae á tierra sin vuestro Padre.\n30. Pues aun vuestros cabellos están todos contados.\n31. Así que, no temáis: más valéis vosotros que muchos pajarillos."
+            },
+            {
+              "cita": "Gén. 45:7",
+              "Pasaje": "7. Y Dios me envió delante de vosotros, para que vosotros quedaseis en la tierra, y para daros vida por medio de grande salvamento."
+            }
+          ]
+        },
+        {
+          "inciso": "f",
+          "citas": [
+            {
+              "cita": "Rom. 11:36",
+              "Pasaje": "36. Porque de él, y por él, y en él, son todas las cosas. A él sea gloria por siglos. Amén."
+            },
+            {
+              "cita": "Isa. 63:14",
+              "Pasaje": "14. El espíritu de Jehová los pastoreó, como á una bestia que desciende al valle; así pastoreaste tu pueblo, para hacerte nombre glorioso."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 19,
+      "pregunta": "¿Cuál es la providencia de Dios para con los ángeles?",
+      "respuesta": "Dios, por su providencia, permitió que algunos de los ángeles cayeran, voluntaria e irremediablemente, en el pecado y la condenación, limitando y ordenando aquello, y todos sus pecados, para su propia gloria; y confirmó a los demás en santidad y felicidad, empleándolos a todos, según su beneplácito, en la administración de su poder, misericordia y justicia.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Jud. 1:6",
+              "Pasaje": "6. Y á los ángeles que no guardaron su dignidad, mas dejaron su habitación, los ha reservado debajo de oscuridad en prisiones eternas hasta el juicio del gran día:"
+            },
+            {
+              "cita": "2 Ped. 2:4",
+              "Pasaje": "4. Porque si Dios no perdonó á los ángeles que habían pecado, sino que habiéndolos despeñado en el infierno con cadenas de oscuridad, los entregó para ser reservados al juicio;"
+            },
+            {
+              "cita": "Heb. 2:16",
+              "Pasaje": "16. Porque ciertamente no tomó á los ángeles, sino á la simiente de Abraham tomó."
+            },
+            {
+              "cita": "Jn. 8:44",
+              "Pasaje": "44. Vosotros de [vuestro] padre el diablo sois, y los deseos de vuestro padre queréis cumplir. El, homicida ha sido desde el principio, y no permaneció en la verdad, porque no hay verdad en él. Cuando habla mentira, de suyo habla; porque es mentiroso, y padre de mentira."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Job 1:12",
+              "Pasaje": "12. Y dijo Jehová á Satán: He aquí, todo lo que tiene está en tu mano: solamente no pongas tu mano sobre él. Y salióse Satán de delante de Jehová."
+            },
+            {
+              "cita": "Mat. 8:31",
+              "Pasaje": "31. Y los demonios le rogaron, diciendo: Si nos echas, permítenos ir á aquel hato de puercos."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "1 Tim. 5:21",
+              "Pasaje": "21. [Te] requiero delante de Dios y del Señor Jesucristo, y de sus ángeles escogidos, que guardes estas cosas sin perjuicio de nadie, que nada hagas inclinándote á la una parte."
+            },
+            {
+              "cita": "Mar. 8:38",
+              "Pasaje": "38. Porque el que se avergonzare de mí y de mis palabras en esta generación adulterina y pecadora, el Hijo del hombre se avergonzará también de él, cuando vendrá en la gloria de su Padre con los santos ángeles."
+            },
+            {
+              "cita": "Heb. 12:22",
+              "Pasaje": "22. Mas os habéis llegado al monte de Sión, y á la ciudad del Dios vivo, Jerusalem la celestial, y á la compañía de muchos millares de ángeles,"
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "Sal. 104:4",
+              "Pasaje": "4. El que hace á sus ángeles espíritus, sus ministros al fuego flameante."
+            },
+            {
+              "cita": "2 Rey. 19:35",
+              "Pasaje": "35. Y aconteció que la misma noche salió el ángel de Jehová, é hirió en el campo de los Asirios ciento ochenta y cinco mil; y como se levantaron por la mañana, he aquí los cuerpos de los muertos."
+            },
+            {
+              "cita": "Heb. 1:14",
+              "Pasaje": "14. ¿No son todos espíritus administradores, enviados para servicio á favor de los que serán herederos de salud?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 20,
+      "pregunta": "¿Cuál fue la providencia de Dios para con el hombre en el estado en que fue creado?",
+      "respuesta": "La providencia de Dios para con el hombre en el estado en que fue creado consistió en colocarlo en el paraíso, encargarle que lo labrase y darle libertad para comer del fruto de la tierra; en poner las criaturas bajo su dominio y ordenar el matrimonio para su ayuda; en concederle comunión consigo mismo; en instituir el día de reposo; en entrar en un pacto de vida con él, bajo la condición de una obediencia personal, perfecta y perpetua, del cual el árbol de la vida era una prenda; y en prohibirle comer del árbol del conocimiento del bien y del mal, bajo pena de muerte.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Gén. 2:8,15-16",
+              "Pasaje": "8. Y había Jehová Dios plantado un huerto en Edén al oriente, y puso allí al hombre que había formado.\n15. Tomó, pues, Jehová Dios al hombre, y le puso en el huerto de Edén, para que lo labrara y lo guardase.\n16. Y mandó Jehová Dios al hombre, diciendo: De todo árbol del huerto comerás;"
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Gén. 1:28",
+              "Pasaje": "28. Y los bendijo Dios; y díjoles Dios: Fructificad y multiplicad, y henchid la tierra, y sojuzgadla, y señoread en los peces de la mar, y en las aves de los cielos, y en todas las bestias que se mueven sobre la tierra."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Gén. 2:18",
+              "Pasaje": "18. Y dijo Jehová Dios: No es bueno que el hombre esté solo; haréle ayuda idónea para él."
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "Gén. 1:26-29",
+              "Pasaje": "26. Y dijo Dios: Hagamos al hombre á nuestra imagen, conforme á nuestra semejanza; y señoree en los peces de la mar, y en las aves de los cielos, y en las bestias, y en toda la tierra, y en todo animal que anda arrastrando sobre la tierra.\n27. Y crió Dios al hombre á su imagen, á imagen de Dios lo crió; varón y hembra los crió.\n28. Y los bendijo Dios; y díjoles Dios: Fructificad y multiplicad, y henchid la tierra, y sojuzgadla, y señoread en los peces de la mar, y en las aves de los cielos, y en todas las bestias que se mueven sobre la tierra.\n29. Y dijo Dios: He aquí que os he dado toda hierba que da simiente, que está sobre la haz de toda la tierra; y todo árbol en que hay fruto de árbol que da simiente, seros ha para comer."
+            },
+            {
+              "cita": "Gén. 3:8",
+              "Pasaje": "8. Y oyeron la voz de Jehová Dios que se paseaba en el huerto al aire del día: y escondióse el hombre y su mujer de la presencia de Jehová Dios entre los árboles del huerto."
+            }
+          ]
+        },
+        {
+          "inciso": "e",
+          "citas": [
+            {
+              "cita": "Gén. 2:3",
+              "Pasaje": "3. Y bendijo Dios al día séptimo, y santificólo, porque en él reposó de toda su obra que había Dios criado y hecho."
+            }
+          ]
+        },
+        {
+          "inciso": "f",
+          "citas": [
+            {
+              "cita": "Gál. 3:12",
+              "Pasaje": "12. La ley también no es de la fe; sino, El hombre que los hiciere, vivirá en ellos."
+            },
+            {
+              "cita": "Rom. 10:5",
+              "Pasaje": "5. Porque Moisés describe la justicia que es por la ley: Que el hombre que hiciere estas cosas, vivirá por ellas."
+            }
+          ]
+        },
+        {
+          "inciso": "g",
+          "citas": [
+            {
+              "cita": "Gén. 2:9",
+              "Pasaje": "9. Y había Jehová Dios hecho nacer de la tierra todo árbol delicioso á la vista, y bueno para comer: también el árbol de vida en medio del huerto, y el árbol de ciencia del bien y del mal."
+            }
+          ]
+        },
+        {
+          "inciso": "h",
+          "citas": [
+            {
+              "cita": "Gén. 2:17",
+              "Pasaje": "17. Mas del árbol de ciencia del bien y del mal no comerás de él; porque el día que de él comieres, morirás."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 21,
+      "pregunta": "¿Permaneció el hombre en el estado en que Dios lo creó al principio?",
+      "respuesta": "Nuestros primeros padres, habiendo sido dejados a la libertad de su propia voluntad, por la tentación de Satanás transgredieron el mandamiento de Dios al comer del fruto prohibido, y por ello cayeron del estado de inocencia en que habían sido creados.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Gén. 3:6-8,13",
+              "Pasaje": "6. Y vió la mujer que el árbol era bueno para comer, y que era agradable á los ojos, y árbol codiciable para alcanzar la sabiduría; y tomó de su fruto, y comió; y dió también á su marido, el cual comió así como ella.\n7. Y fueron abiertos los ojos de entrambos, y conocieron que estaban desnudos: entonces cosieron hojas de higuera, y se hicieron delantales.\n8. Y oyeron la voz de Jehová Dios que se paseaba en el huerto al aire del día: y escondióse el hombre y su mujer de la presencia de Jehová Dios entre los árboles del huerto.\n13. Entonces Jehová Dios dijo á la mujer: ¿Qué es lo que has hecho? Y dijo la mujer: La serpiente me engañó, y comí."
+            },
+            {
+              "cita": "Ecl. 7:29",
+              "Pasaje": "29. He aquí, solamente he hallado esto: que Dios hizo al hombre recto, mas ellos buscaron muchas cuentas."
+            },
+            {
+              "cita": "2 Cor. 11:3",
+              "Pasaje": "3. Mas temo que como la serpiente engañó á Eva con su astucia, sean corrompidos así vuestros sentidos en alguna manera, de la simplicidad que es en Cristo."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 22,
+      "pregunta": "¿Cayó todo el género humano en aquella primera transgresión?",
+      "respuesta": "Habiendo sido hecho el pacto con Adán como persona pública, no solo para sí mismo sino para su posteridad, todo el género humano, que desciende de él por generación ordinaria, pecó en él y cayó con él en aquella primera transgresión.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Hech. 17:26",
+              "Pasaje": "26. Y de una sangre ha hecho todo el linaje de los hombres, para que habitasen sobre toda la faz de la tierra; y [les] ha prefijado el orden de los tiempos, y los términos de la habitación de ellos;"
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Gén. 2:16-17",
+              "Pasaje": "16. Y mandó Jehová Dios al hombre, diciendo: De todo árbol del huerto comerás;\n17. Mas del árbol de ciencia del bien y del mal no comerás de él; porque el día que de él comieres, morirás."
+            },
+            {
+              "cita": "Rom. 5:12-20",
+              "Pasaje": "12. De consiguiente, [vino la reconciliación por uno], así como el pecado entró en el mundo por un hombre, y por el pecado la muerte, y la muerte así pasó á todos los hombres, pues que todos pecaron.\n13. Porque hasta la ley, el pecado estaba en el mundo; pero no se imputa pecado no habiendo ley.\n14. No obstante, reinó la muerte desde Adam hasta Moisés, aun en los que no pecaron á la manera de la rebelión de Adam; el cual es figura del que había de venir.\n15. Mas no como el delito, tal fué el don: porque si por el delito de aquel uno murieron los muchos, mucho más abundó la gracia de Dios á los muchos, y el don por la gracia de un hombre, Jesucristo.\n16. Ni tampoco de la manera que por un pecado, [así] también el don: porque el juicio á la verdad [vino] de un [pecado] para condenación, mas la gracia [vino] de muchos delitos para justificación.\n17. Porque, si por un delito reinó la muerte por uno, mucho más reinarán en vida por un Jesucristo los que reciben la abundancia de la gracia, y del don de la justicia.\n18. Así que, de la manera que por un delito [vino la culpa] á todos los hombres para condenación, así por una justicia [vino la gracia] á todos los hombres para justificación de vida.\n19. Porque como por la desobediencia de un hombre los muchos fueron constituídos pecadores, así por la obediencia de uno los muchos serán constituídos justos.\n20. La ley empero entró para que el pecado creciese; mas cuando el pecado creció, sobrepujó la gracia;"
+            },
+            {
+              "cita": "1 Cor. 15:21-22",
+              "Pasaje": "21. Porque por cuanto la muerte [entró] por un hombre, también por un hombre la resurrección de los muertos.\n22. Porque así como en Adam todos mueren, así también en Cristo todos serán vivificados."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 23,
+      "pregunta": "¿A qué estado llevó la caída al género humano?",
+      "respuesta": "La caída llevó al género humano a un estado de pecado y miseria.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Rom. 5:12",
+              "Pasaje": "12. De consiguiente, [vino la reconciliación por uno], así como el pecado entró en el mundo por un hombre, y por el pecado la muerte, y la muerte así pasó á todos los hombres, pues que todos pecaron."
+            },
+            {
+              "cita": "Rom. 3:23",
+              "Pasaje": "23. Por cuanto todos pecaron, y están destituídos de la gloria de Dios;"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 24,
+      "pregunta": "¿Qué es el pecado?",
+      "respuesta": "El pecado es cualquier falta de conformidad con cualquier ley de Dios, o transgresión de ella, dada como regla a la criatura racional.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "1 Jn. 3:4",
+              "Pasaje": "4. Cualquiera que hace pecado, traspasa también la ley; pues el pecado es transgresión de la ley."
+            },
+            {
+              "cita": "Gál. 3:10,12",
+              "Pasaje": "10. Porque todos los que son de las obras de la ley, están bajo de maldición. Porque escrito está: Maldito todo aquel que no permaneciere en todas las cosas que están escritas en el libro de la ley, para hacerlas.\n12. La ley también no es de la fe; sino, El hombre que los hiciere, vivirá en ellos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 25,
+      "pregunta": "¿En qué consiste la pecaminosidad de aquel estado en que cayó el hombre?",
+      "respuesta": "La pecaminosidad de aquel estado en que cayó el hombre consiste en la culpa del primer pecado de Adán, en la falta de aquella justicia en que fue creado y en la corrupción de su naturaleza, por la cual está totalmente indispuesto, incapacitado y opuesto a todo lo que es espiritualmente bueno, y enteramente inclinado a todo mal, y eso continuamente; lo cual comúnmente se llama pecado original, y del cual proceden todas las transgresiones actuales.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Rom. 5:12,19",
+              "Pasaje": "12. De consiguiente, [vino la reconciliación por uno], así como el pecado entró en el mundo por un hombre, y por el pecado la muerte, y la muerte así pasó á todos los hombres, pues que todos pecaron.\n19. Porque como por la desobediencia de un hombre los muchos fueron constituídos pecadores, así por la obediencia de uno los muchos serán constituídos justos."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Rom. 3:10-19",
+              "Pasaje": "10. Como está escrito: No hay justo, ni aun uno;\n11. No hay quien entienda, no hay quien busque á Dios;\n12. Todos se apartaron, á una fueron hechos inútiles; no hay quien haga lo bueno, no hay ni aun uno:\n13. Sepulcro abierto es su garganta; con sus lenguas tratan engañosamente; veneno de áspides está debajo de sus labios;\n14. Cuya boca está llena de maledicencia y de amargura;\n15. Sus pies son ligeros á derramar sangre;\n16. Quebrantamiento y desventura hay en sus caminos;\n17. Y camino de paz no conocieron:\n18. No hay temor de Dios delante de sus ojos.\n19. Empero sabemos que todo lo que la ley dice, á los que están en la ley lo dice, para que toda boca se tape, y que todo el mundo se sujete á Dios:"
+            },
+            {
+              "cita": "Ef. 2:1-3",
+              "Pasaje": "1. Y [DE ella recibisteis] vosotros, que estabais muertos en vuestros delitos y pecados,\n2. En que en otro tiempo anduvisteis conforme á la condición de este mundo, conforme al príncipe de la potestad del aire, el espíritu que ahora obra en los hijos de desobediencia:\n3. Entre los cuales todos nosotros también vivimos en otro tiempo en los deseos de nuestra carne, haciendo la voluntad de la carne y de los pensamientos; y éramos por naturaleza hijos de ira, también como los demás."
+            },
+            {
+              "cita": "Rom. 5:6",
+              "Pasaje": "6. Porque Cristo, cuando aun éramos flacos, á su tiempo murió por los impíos."
+            },
+            {
+              "cita": "Rom. 8:7-8",
+              "Pasaje": "7. Por cuanto la intención de la carne es enemistad contra Dios; porque no se sujeta á la ley de Dios, ni tampoco puede.\n8. Así que, los que están en la carne no pueden agradar á Dios."
+            },
+            {
+              "cita": "Gén. 6:5",
+              "Pasaje": "5. Y vió Jehová que la malicia de los hombres [era] mucha en la tierra, y que todo designio de los pensamientos del corazón de ellos era de continuo solamente el mal."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Sant. 1:14-15",
+              "Pasaje": "14. Sino que cada uno es tentado, cuando de su propia concupiscencia es atraído, y cebado.\n15. Y la concupiscencia, después que ha concebido, pare el pecado: y el pecado, siendo cumplido, engendra muerte."
+            },
+            {
+              "cita": "Mat. 15:19",
+              "Pasaje": "19. Porque del corazón salen los malos pensamientos, muertes, adulterios, fornicaciones, hurtos, falsos testimonios, blasfemias."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 26,
+      "pregunta": "¿Cómo se transmite el pecado original de nuestros primeros padres a su posteridad?",
+      "respuesta": "El pecado original se transmite de nuestros primeros padres a su posteridad por generación natural, de modo que todos los que proceden de ellos de esa manera son concebidos y nacen en pecado.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Sal. 51:5",
+              "Pasaje": "5. He aquí, en maldad he sido formado, y en pecado me concibió mi madre."
+            },
+            {
+              "cita": "Job 14:4",
+              "Pasaje": "4. ¿Quién hará limpio de inmundo? Nadie."
+            },
+            {
+              "cita": "Jn. 3:6",
+              "Pasaje": "6. Lo que es nacido de la carne, carne es; y lo que es nacido del Espíritu, espíritu es."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 27,
+      "pregunta": "¿Qué miseria trajo la caída sobre el género humano?",
+      "respuesta": "La caída trajo sobre el género humano la pérdida de la comunión con Dios, su desagrado y su maldición; de modo que somos por naturaleza hijos de ira, esclavos de Satanás y justamente expuestos a todos los castigos en este mundo y en el venidero.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Gén. 3:8,10,24",
+              "Pasaje": "8. Y oyeron la voz de Jehová Dios que se paseaba en el huerto al aire del día: y escondióse el hombre y su mujer de la presencia de Jehová Dios entre los árboles del huerto.\n10. Y él respondió: Oí tu voz en el huerto, y tuve miedo, porque estaba desnudo; y escondíme.\n24. Echó, pues, fuera al hombre, y puso al oriente del huerto de Edén querubines, y una espada encendida que se revolvía á todos lados, para guardar el camino del árbol de la vida."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Ef. 2:2-3",
+              "Pasaje": "2. En que en otro tiempo anduvisteis conforme á la condición de este mundo, conforme al príncipe de la potestad del aire, el espíritu que ahora obra en los hijos de desobediencia:\n3. Entre los cuales todos nosotros también vivimos en otro tiempo en los deseos de nuestra carne, haciendo la voluntad de la carne y de los pensamientos; y éramos por naturaleza hijos de ira, también como los demás."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "2 Tim. 2:26",
+              "Pasaje": "26. Y se zafen del lazo del diablo, en que están cautivos á voluntad de él."
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "Gén. 2:17",
+              "Pasaje": "17. Mas del árbol de ciencia del bien y del mal no comerás de él; porque el día que de él comieres, morirás."
+            },
+            {
+              "cita": "Lam. 3:39",
+              "Pasaje": "39. ¿Por qué murmura el hombre viviente, el hombre en su pecado?"
+            },
+            {
+              "cita": "Rom. 6:23",
+              "Pasaje": "23. Porque la paga del pecado es muerte: mas la dádiva de Dios es vida eterna en Cristo Jesús Señor nuestro."
+            },
+            {
+              "cita": "Mat. 25:41",
+              "Pasaje": "41. Entonces dirá también á los que [estarán] á la izquierda: Apartaos de mí, malditos, al fuego eterno preparado para el diablo y para sus ángeles:"
+            },
+            {
+              "cita": "Mat. 25:46",
+              "Pasaje": "46. E irán éstos al tormento eterno, y los justos á la vida eterna."
+            },
+            {
+              "cita": "Jud. 1:7",
+              "Pasaje": "7. Como Sodoma y Gomorra, y las ciudades comarcanas, las cuales de la misma manera que ellos habían fornicado, y habían seguido la carne extraña, fueron puestas por ejemplo, sufriendo el juicio del fuego eterno."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 28,
+      "pregunta": "¿Cuáles son los castigos del pecado en este mundo?",
+      "respuesta": "Los castigos del pecado en este mundo son, o interiores, como ceguera de entendimiento, sentido reprobado, fuertes engaños, dureza de corazón, horror de conciencia y afectos viles; o exteriores, como la maldición de Dios sobre las criaturas por causa nuestra, y todos los demás males que nos sobrevienen en nuestros cuerpos, nombres, bienes, relaciones y ocupaciones; juntamente con la muerte misma.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Ef. 4:18",
+              "Pasaje": "18. Teniendo el entendimiento entenebrecido, ajenos de la vida de Dios por la ignorancia que en ellos hay, por la dureza de su corazón:"
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Rom. 1:28",
+              "Pasaje": "28. Y como á ellos no les pareció tener á Dios en [su] noticia, Dios los entregó á una mente depravada, para hacer lo que no conviene,"
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "2 Tes. 2:11",
+              "Pasaje": "11. Por tanto, pues, les envía Dios operación de error, para que crean á la mentira;"
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "Rom. 2:5",
+              "Pasaje": "5. Mas por tu dureza, y por tu corazón no arrepentido, atesoras para ti mismo ira para el día de la ira y de la manifestación del justo juicio de Dios;"
+            }
+          ]
+        },
+        {
+          "inciso": "e",
+          "citas": [
+            {
+              "cita": "Isa. 33:14",
+              "Pasaje": "14. Los pecadores se asombraron en Sión, espanto sobrecogió á los hipócritas. ¿Quién de nosotros morará con el fuego consumidor? ¿quién de nosotros habitará con las llamas eternas?"
+            },
+            {
+              "cita": "Gén. 4:13",
+              "Pasaje": "13. Y dijo Caín á Jehová: Grande es mi iniquidad para ser perdonada."
+            },
+            {
+              "cita": "Mat. 27:4",
+              "Pasaje": "4. Diciendo: Yo he pecado entregando la sangre inocente. Mas ellos dijeron: ¿Qué [se nos da] á nosotros? Viéras[lo] tú."
+            }
+          ]
+        },
+        {
+          "inciso": "f",
+          "citas": [
+            {
+              "cita": "Rom. 1:26",
+              "Pasaje": "26. Por esto Dios los entregó á afectos vergonzosos; pues aun sus mujeres mudaron el natural uso en el uso que es contra naturaleza:"
+            }
+          ]
+        },
+        {
+          "inciso": "g",
+          "citas": [
+            {
+              "cita": "Gén. 3:17",
+              "Pasaje": "17. Y al hombre dijo: Por cuanto obedeciste á la voz de tu mujer, y comiste del árbol de que te mandé diciendo, No comerás de él; maldita será la tierra por amor de ti; con dolor comerás de ella todos los días de tu vida;"
+            }
+          ]
+        },
+        {
+          "inciso": "h",
+          "citas": [
+            {
+              "cita": "Deut. 28:15-18",
+              "Pasaje": "15. Y será, si no oyeres la voz de Jehová tu Dios, para cuidar de poner por obra todos sus mandamientos y sus estatutos, que yo te intimo hoy, que vendrán sobre ti todas estas maldiciones, y te alcanzarán.\n16. Maldito serás tu en la ciudad, y maldito en el campo.\n17. Maldito tu canastillo, y tus sobras.\n18. Maldito el fruto de tu vientre, y el fruto de tu tierra, y la cría de tus vacas, y los rebaños de tus ovejas."
+            }
+          ]
+        },
+        {
+          "inciso": "i",
+          "citas": [
+            {
+              "cita": "Rom. 6:21,23",
+              "Pasaje": "21. ¿Qué fruto, pues, teníais de aquellas cosas de las cuales ahora os avergonzáis? porque el fin de ellas es muerte.\n23. Porque la paga del pecado es muerte: mas la dádiva de Dios es vida eterna en Cristo Jesús Señor nuestro."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 29,
+      "pregunta": "¿Cuáles son los castigos del pecado en el mundo venidero?",
+      "respuesta": "Los castigos del pecado en el mundo venidero son la separación eterna de la presencia consoladora de Dios y los más graves tormentos en alma y cuerpo, sin interrupción, en el fuego del infierno para siempre.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "2 Tes. 1:9",
+              "Pasaje": "9. Los cuales serán castigados de eterna perdición por la presencia del Señor, y por la gloria de su potencia,"
+            },
+            {
+              "cita": "Mar. 9:43-44,46,48",
+              "Pasaje": "43. Y si tu mano te escandalizare, córtala: mejor te es entrar á la vida manco, que teniendo dos manos ir á la Gehenna, al fuego que no puede ser apagado;\n44. Donde su gusano no muere, y el fuego nunca se apaga.\n46. Donde el gusano de ellos no muere, y el fuego nunca se apaga.\n48. Donde el gusano de ellos no muere, y el fuego nunca se apaga."
+            },
+            {
+              "cita": "Luc. 16:24",
+              "Pasaje": "24. Entonces él, dando voces, dijo: Padre Abraham, ten misericordia de mí, y envía á Lázaro que moje la punta de su dedo en agua, y refresque mi lengua; porque soy atormentado en esta llama."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 30,
+      "pregunta": "¿Deja Dios que todo el género humano perezca en el estado de pecado y miseria?",
+      "respuesta": "Dios no deja que todos los hombres perezcan en el estado de pecado y miseria, en el cual cayeron por la violación del primer pacto, comúnmente llamado pacto de obras; sino que, por su mero amor y misericordia, libra de él a sus elegidos y los lleva a un estado de salvación por medio del segundo pacto, comúnmente llamado pacto de gracia.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "1 Tes. 5:9",
+              "Pasaje": "9. Porque no nos ha puesto Dios para ira, sino para alcanzar salud por nuestro Señor Jesucristo;"
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Gál. 3:10,12",
+              "Pasaje": "10. Porque todos los que son de las obras de la ley, están bajo de maldición. Porque escrito está: Maldito todo aquel que no permaneciere en todas las cosas que están escritas en el libro de la ley, para hacerlas.\n12. La ley también no es de la fe; sino, El hombre que los hiciere, vivirá en ellos."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Tit. 3:4-7",
+              "Pasaje": "4. Mas cuando se manifestó la bondad de Dios nuestro Salvador, y su amor para con los hombres,\n5. No por obras de justicia que nosotros habíamos hecho, mas por su misericordia nos salvó, por el lavacro de la regeneración, y de la renovación del Espíritu Santo;\n6. El cual derramó en nosotros abundantemente por Jesucristo nuestro Salvador,\n7. Para que, justificados por su gracia, seamos hechos herederos según la esperanza de la vida eterna."
+            },
+            {
+              "cita": "Gál. 3:21",
+              "Pasaje": "21. ¿Luego la ley es contra las promesas de Dios? En ninguna manera: porque si la ley dada pudiera vivificar, la justicia fuera verdaderamente por la ley."
+            },
+            {
+              "cita": "Rom. 3:20-22",
+              "Pasaje": "20. Porque por las obras de la ley ninguna carne se justificará delante de él; porque por la ley [es] el conocimiento del pecado.\n21. Mas ahora, sin la ley, la justicia de Dios se ha manifestado, testificada por la ley y por los profetas:\n22. La justicia de Dios por la fe de Jesucristo, para todos los que creen en él; porque no hay diferencia;"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 31,
+      "pregunta": "¿Con quién fue hecho el pacto de gracia?",
+      "respuesta": "El pacto de gracia fue hecho con Cristo como el segundo Adán, y en él con todos los elegidos como su simiente.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Gál. 3:16",
+              "Pasaje": "16. A Abraham fueron hechas las promesas, y á su simiente. No dice: Y á las simientes, como de muchos; sino como de uno: Y á tu simiente, la cual es Cristo."
+            },
+            {
+              "cita": "Rom. 5:15-21",
+              "Pasaje": "15. Mas no como el delito, tal fué el don: porque si por el delito de aquel uno murieron los muchos, mucho más abundó la gracia de Dios á los muchos, y el don por la gracia de un hombre, Jesucristo.\n16. Ni tampoco de la manera que por un pecado, [así] también el don: porque el juicio á la verdad [vino] de un [pecado] para condenación, mas la gracia [vino] de muchos delitos para justificación.\n17. Porque, si por un delito reinó la muerte por uno, mucho más reinarán en vida por un Jesucristo los que reciben la abundancia de la gracia, y del don de la justicia.\n18. Así que, de la manera que por un delito [vino la culpa] á todos los hombres para condenación, así por una justicia [vino la gracia] á todos los hombres para justificación de vida.\n19. Porque como por la desobediencia de un hombre los muchos fueron constituídos pecadores, así por la obediencia de uno los muchos serán constituídos justos.\n20. La ley empero entró para que el pecado creciese; mas cuando el pecado creció, sobrepujó la gracia;\n21. Para que, de la manera que el pecado reinó para muerte, así también la gracia reine por la justicia para vida eterna por Jesucristo Señor nuestro."
+            },
+            {
+              "cita": "Isa. 53:10-11",
+              "Pasaje": "10. Con todo eso Jehová quiso quebrantarlo, sujetándole á padecimiento. Cuando hubiere puesto su vida en expiación por el pecado, verá linaje, vivirá por largos días, y la voluntad de Jehová será en su mano prosperada.\n11. Del trabajo de su alma verá [y] será saciado; con su conocimiento justificará mi siervo justo á muchos, y él llevará las iniquidades de ellos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 32,
+      "pregunta": "¿Cómo se manifiesta la gracia de Dios en el segundo pacto?",
+      "respuesta": "La gracia de Dios se manifiesta en el segundo pacto en que él provee y ofrece gratuitamente a los pecadores un Mediador, y vida y salvación por medio de él; y, requiriendo la fe como condición para que tengan parte en él, promete y da su Santo Espíritu a todos sus elegidos, para obrar en ellos esa fe, con todas las demás gracias salvadoras, y para capacitarlos para toda santa obediencia, como evidencia de la verdad de su fe y de su gratitud a Dios, y como el camino que él les ha señalado para la salvación.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Gén. 3:15",
+              "Pasaje": "15. Y enemistad pondré entre ti y la mujer, y entre tu simiente y la simiente suya; ésta te herirá [en] la cabeza, y tú le herirás [en] el calcañar."
+            },
+            {
+              "cita": "Isa. 42:6",
+              "Pasaje": "6. Yo Jehová te he llamado en justicia, y te tendré por la mano; te guardaré y te pondré por alianza del pueblo, por luz de las gentes;"
+            },
+            {
+              "cita": "Jn. 6:27",
+              "Pasaje": "27. Trabajad no por la comida que perece, mas por la comida que á vida eterna permanece, la cual el Hijo del hombre os dará: porque á éste señaló el Padre, [que es] Dios."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "1 Jn. 5:11-12",
+              "Pasaje": "11. Y este es el testimonio: Que Dios nos ha dado vida eterna; y esta vida está en su Hijo.\n12. El que tiene al Hijo, tiene la vida: el que no tiene al Hijo de Dios, no tiene la vida."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Jn. 3:16",
+              "Pasaje": "16. Porque de tal manera amó Dios al mundo, que ha dado á su Hijo unigénito, para que todo aquel que en él cree, no se pierda, mas tenga vida eterna."
+            },
+            {
+              "cita": "Jn. 1:12",
+              "Pasaje": "12. Mas á todos los que le recibieron, dióles potestad de ser hechos hijos de Dios, á los que creen en su nombre:"
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "Prov. 1:23",
+              "Pasaje": "23. Volveos á mi reprensión: he aquí yo os derramaré mi espíritu, y os haré saber mis palabras."
+            }
+          ]
+        },
+        {
+          "inciso": "e",
+          "citas": [
+            {
+              "cita": "2 Cor. 4:13",
+              "Pasaje": "13. Empero teniendo el mismo espíritu de fe, conforme á lo que está escrito: Creí, por lo cual también hablé: nosotros también creemos, por lo cual también hablamos;"
+            }
+          ]
+        },
+        {
+          "inciso": "f",
+          "citas": [
+            {
+              "cita": "Gál. 5:22-23",
+              "Pasaje": "22. Mas el fruto del Espíritu es: caridad, gozo, paz, tolerancia, benignidad, bondad, fe,\n23. Mansedumbre, templanza: contra tales cosas no hay ley."
+            }
+          ]
+        },
+        {
+          "inciso": "g",
+          "citas": [
+            {
+              "cita": "Ez. 36:27",
+              "Pasaje": "27. Y pondré dentro de vosotros mi espíritu, y haré que andéis en mis mandamientos, y guardéis mis derechos, y los pongáis por obra."
+            }
+          ]
+        },
+        {
+          "inciso": "h",
+          "citas": [
+            {
+              "cita": "Sant. 2:18,22",
+              "Pasaje": "18. Pero alguno dirá: Tú tienes fe, y yo tengo obras: muéstrame tu fe sin tus obras, y yo te mostraré mi fe por mis obras.\n22. ¿No ves que la fe obró con sus obras, y que la fe fué perfecta por las obras?"
+            }
+          ]
+        },
+        {
+          "inciso": "i",
+          "citas": [
+            {
+              "cita": "2 Cor. 5:14-15",
+              "Pasaje": "14. Porque el amor de Cristo nos constriñe, pensando esto: Que si uno murió por todos, luego todos son muertos;\n15. Y por todos murió, para que los que viven, ya no vivan para sí, mas para aquel que murió y resucitó por ellos."
+            }
+          ]
+        },
+        {
+          "inciso": "k",
+          "citas": [
+            {
+              "cita": "Ef. 2:18",
+              "Pasaje": "18. Que por él los unos y los otros tenemos entrada por un mismo Espíritu al Padre."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 33,
+      "pregunta": "¿Fue administrado siempre el pacto de gracia de una misma manera?",
+      "respuesta": "El pacto de gracia no siempre fue administrado de la misma manera, sino que sus administraciones bajo el Antiguo Testamento fueron diferentes de las del Nuevo.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "2 Cor. 3:6-9",
+              "Pasaje": "6. El cual asimismo nos hizo ministros suficientes de un nuevo pacto: no de la letra, mas del espíritu; porque la letra mata, mas el espíritu vivifica.\n7. Y si el ministerio de muerte en la letra grabado en piedras, fué con gloria, tanto que los hijos de Israel no pudiesen poner los ojos en la faz de Moisés á causa de la gloria de su rostro, la cual había de perecer,\n8. ¿Cómo no será más bien con gloria el ministerio del espíritu?\n9. Porque si el ministerio de condenación fué [con] gloria, mucho más abundará en gloria el ministerio de justicia."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 34,
+      "pregunta": "¿Cómo fue administrado el pacto de gracia bajo el Antiguo Testamento?",
+      "respuesta": "El pacto de gracia fue administrado bajo el Antiguo Testamento por medio de promesas, profecías, sacrificios, la circuncisión, la pascua y otros tipos y ordenanzas, los cuales todos prefiguraban a Cristo que había de venir, y eran suficientes en aquel tiempo para edificar a los elegidos en la fe en el Mesías prometido, por quien tenían entonces plena remisión de pecados y salvación eterna.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Rom. 15:8",
+              "Pasaje": "8. Digo, pues, que Cristo Jesús fué hecho ministro de la circuncisión por la verdad de Dios, para confirmar las promesas [hechas] á los padres,"
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Hech. 3:20,24",
+              "Pasaje": "20. Y enviará á Jesucristo, que os fué antes anunciado:\n24. Y todos los profetas desde Samuel y en adelante, todos los que han hablado, han anunciado estos días."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Heb. 10:1",
+              "Pasaje": "1. PORQUE la ley, teniendo la sombra de los bienes venideros, no la imagen misma de las cosas, nunca puede, por los mismos sacrificios que ofrecen continuamente cada año, hacer perfectos á los que se allegan."
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "Rom. 4:11",
+              "Pasaje": "11. Y recibió la circuncisión por señal, por sello de la justicia de la fe que tuvo en la incircuncisión: para que fuese padre de todos los creyentes no circuncidados, para que también á ellos les sea contado por justicia;"
+            }
+          ]
+        },
+        {
+          "inciso": "e",
+          "citas": [
+            {
+              "cita": "1 Cor. 5:7",
+              "Pasaje": "7. Limpiad pues la vieja levadura, para que seáis nueva masa, como sois sin levadura: porque nuestra pascua, [que es] Cristo, fué sacrificada por nosotros."
+            }
+          ]
+        },
+        {
+          "inciso": "f",
+          "citas": [
+            {
+              "cita": "Heb. 8,9,10",
+              "Pasaje": "8:1. ASÍ que, la suma acerca de lo dicho [es]: Tenemos tal pontífice que se asentó á la diestra del trono de la Majestad en los cielos;\n8:2. Ministro del santuario, y de aquel verdadero tabernáculo que el Señor asentó, y no hombre.\n8:3. Porque todo pontífice es puesto para ofrecer presentes y sacrificios; por lo cual es necesario que también éste tuviese algo que ofrecer.\n8:4. Así que, si estuviese sobre la tierra, ni aun sería sacerdote, habiendo aún los sacerdotes que ofrecen los presentes según la ley;\n8:5. Los cuales sirven de bosquejo y sombra de las cosas celestiales, como fué respondido á Moisés cuando había de acabar el tabernáculo: Mira, dice, haz todas las cosas conforme al dechado que te ha sido mostrado en el monte.\n8:6. Mas ahora tanto mejor ministerio es el suyo, cuanto es mediador de un mejor pacto, el cual ha sido formado sobre mejores promesas.\n8:7. Porque si aquel primero fuera sin falta, cierto no se hubiera procurado lugar de segundo.\n8:8. Porque reprendiéndolos dice: He aquí vienen días, dice el Señor, y consumaré para con la casa de Israel y para con la casa de Judá un nuevo pacto;\n8:9. No como el pacto que hice con sus padres el día que los tomé por la mano para sacarlos de la tierra de Egipto: porque ellos no permanecieron en mi pacto, y yo los menosprecié, dice el Señor.\n8:10. Por lo cual, este es el pacto que ordenaré á la casa de Israel después de aquellos días, dice el Señor: Daré mis leyes en el alma de ellos, y sobre el corazón de ellos las escribiré; y seré á ellos por Dios, y ellos me serán á mí por pueblo:\n8:11. Y ninguno enseñará á su prójimo, ni ninguno á su hermano, diciendo: Conoce al Señor: porque todos me conocerán, desde el menor de ellos hasta el mayor.\n8:12. Porque seré propicio á sus injusticias, y de sus pecados y de sus iniquidades no me acordaré más.\n8:13. Diciendo, Nuevo [pacto], dió por viejo al primero; y lo que es dado por viejo y se envejece, cerca está de desvanecerse.\n9:1. TENÍA empero también el primer [pacto] reglamentos del culto, y santuario mundano.\n9:2. Porque el tabernáculo fué hecho: el primero, en que [estaban] las lámparas, y la mesa, y los panes de la proposición; lo que llaman el Santuario.\n9:3. Tras el segundo velo [estaba] el tabernáculo, que llaman el Lugar Santísimo;\n9:4. El cual tenía un incensario de oro, y el arca del pacto cubierta de todas partes alrededor de oro; en la que [estaba] una urna de oro que contenía el maná, y la vara de Aarón que reverdeció, y las tablas del pacto;\n9:5. Y sobre ella los querubines de gloria que cubrían el propiciatorio; de las cuales cosas no se puede ahora hablar en particular.\n9:6. Y estas cosas así ordenadas, en el primer tabernáculo siempre entraban los sacerdotes para hacer los oficios del culto;\n9:7. Mas en el segundo, sólo el pontífice una vez en el año, no sin sangre, la cual ofrece por sí mismo, y por los pecados de ignorancia del pueblo:\n9:8. Dando en esto á entender el Espíritu Santo, que aun no estaba descubierto el camino para el santuario, entre tanto que el primer tabernáculo estuviese en pie.\n9:9. Lo cual [era] figura de aquel tiempo presente, en el cual se ofrecían presentes y sacrificios que no podían hacer perfecto, cuanto á la conciencia, al que servía [con ellos];\n9:10. [Consistiendo] sólo en viandas y en bebidas, y en diversos lavamientos, y ordenanzas acerca de la carne, impuestas hasta el tiempo de la corrección.\n9:11. Mas estando ya presente Cristo, pontífice de los bienes que habían de venir, por el más amplio y más perfecto tabernáculo, no hecho de manos, es á saber, no de esta creación;\n9:12. Y no por sangre de machos cabríos ni de becerros, mas por su propia sangre, entró una sola vez en el santuario, habiendo obtenido eterna redención.\n9:13. Porque si la sangre de los toros y de los machos cabríos, y la ceniza de la becerra, rociada á los inmundos, santifica para la purificación de la carne,\n9:14. ¿Cuánto más la sangre de Cristo, el cual por el Espíritu eterno se ofreció á sí mismo sin mancha á Dios, limpiará vuestras conciencias de las obras de muerte para que sirváis al Dios vivo?\n9:15. Así que, por eso es mediador del nuevo testamento, para que interviniendo muerte para la remisión de las rebeliones que había bajo del primer testamento, los que son llamados reciban la promesa de la herencia eterna.\n9:16. Porque donde hay testamento, necesario es que intervenga muerte del testador.\n9:17. Porque el testamento con la muerte es confirmado; de otra manera no es válido entre tanto que el testador vive.\n9:18. De donde [vino] que ni aun el primero fué consagrado sin sangre.\n9:19. Porque habiendo leído Moisés todos los mandamientos de la ley á todo el pueblo, tomando la sangre de los becerros y de los machos cabríos, con agua, y lana de grana, é hisopo, roció al mismo libro, y también á todo el pueblo,\n9:20. Diciendo: Esta es la sangre del testamento que Dios os ha mandado.\n9:21. Y además de esto roció también con la sangre el tabernáculo y todos los vasos del ministerio.\n9:22. Y casi todo es purificado según la ley con sangre; y sin derramamiento de sangre no se hace remisión.\n9:23. Fué, pues, necesario que las figuras de las cosas celestiales fuesen purificadas con estas cosas; empero las mismas cosas celestiales con mejores sacrificios que éstos.\n9:24. Porque no entró Cristo en el santuario hecho de mano, figura del verdadero, sino en el mismo cielo para presentarse ahora por nosotros en la presencia de Dios.\n9:25. Y no para ofrecerse muchas veces á sí mismo, como entra el pontífice en el santuario cada año con sangre ajena;\n9:26. De otra manera fuera necesario que hubiera padecido muchas veces desde el principio del mundo: mas ahora una vez en la consumación de los siglos, para deshacimiento del pecado se presentó por el sacrificio de sí mismo.\n9:27. Y de la manera que está establecido á los hombres que mueran una vez, y después el juicio;\n9:28. Así también Cristo fué ofrecido una vez para agotar los pecados de muchos; y la segunda vez, sin pecado, será visto de los que le esperan para salud.\n10:1. PORQUE la ley, teniendo la sombra de los bienes venideros, no la imagen misma de las cosas, nunca puede, por los mismos sacrificios que ofrecen continuamente cada año, hacer perfectos á los que se allegan.\n10:2. De otra manera cesarían de ofrecerse; porque los que tributan [este] culto, limpios de una vez, no tendrían más conciencia de pecado.\n10:3. Empero en estos [sacrificios] cada año se hace conmemoración de los pecados.\n10:4. Porque la sangre de los toros y de los machos cabríos no puede quitar los pecados.\n10:5. Por lo cual, entrando en el mundo, dice: Sacrificio y presente no quisiste; mas me apropiaste cuerpo:\n10:6. Holocaustos y [expiaciones] por el pecado no te agradaron.\n10:7. Entonces dije: Heme aquí (en la cabecera del libro está escrito de mí) para que haga, oh Dios, tu voluntad.\n10:8. Diciendo arriba: Sacrificio y presente, y holocaustos y [expiaciones] por el pecado no quisiste, ni te agradaron, (las cuales cosas se ofrecen según la ley,)\n10:9. Entonces dijo: Heme aquí para que haga, oh Dios, tu voluntad. Quita lo primero, para establecer lo postrero.\n10:10. En la cual voluntad somos santificados por la ofrenda del cuerpo de Jesucristo [hecha] una sola vez.\n10:11. Así que, todo sacerdote se presenta cada día ministrando y ofreciendo muchas veces los mismos sacrificios, que nunca pueden quitar los pecados:\n10:12. Pero éste, habiendo ofrecido por los pecados un [solo] sacrificio para siempre, está sentado á la diestra de Dios,\n10:13. Esperando lo que resta, hasta que sus enemigos sean puestos por estrado de sus pies.\n10:14. Porque con una sola ofrenda hizo perfectos para siempre á los santificados.\n10:15. Y atestíguanos lo mismo el Espíritu Santo; que después que dijo:\n10:16. Y este es el pacto que haré con ellos después de aquellos días, dice el Señor: Daré mis leyes en sus corazones, y en sus almas las escribiré;\n10:17. [Añade]: Y nunca más me acordaré de sus pecados é iniquidades.\n10:18. Pues donde hay remisión de éstos, no hay más ofrenda por pecado.\n10:19. Así que, hermanos, teniendo libertad para entrar en el santuario por la sangre de Jesucristo,\n10:20. Por el camino que él nos consagró nuevo y vivo, por el velo, esto es, por su carne;\n10:21. Y [teniendo] un gran sacerdote sobre la casa de Dios,\n10:22. Lleguémonos con corazón verdadero, en plena certidumbre de fe, purificados los corazones de mala conciencia, y lavados los cuerpos con agua limpia.\n10:23. Mantengamos firme la profesión de nuestra fe sin fluctuar; que fiel es el que prometió:\n10:24. Y considerémonos los unos á los otros para provocarnos al amor y á las buenas obras;\n10:25. No dejando nuestra congregación, como algunos tienen por costumbre, mas exhortándonos; y tanto más, cuanto veis que aquel día se acerca.\n10:26. Porque si pecáremos voluntariamente después de haber recibido el conocimiento de la verdad, ya no queda sacrificio por el pecado.\n10:27. Sino una horrenda esperanza de juicio, y hervor de fuego que ha de devorar á los adversarios.\n10:28. El que menospreciare la ley de Moisés, por el testimonio de dos ó de tres testigos muere sin ninguna misericordia:\n10:29. ¿Cuánto pensáis que será más digno de mayor castigo, el que hollare al Hijo de Dios, y tuviere por inmunda la sangre del testamento, en la cual fué santificado, é hiciere afrenta al Espíritu de gracia?\n10:30. Sabemos [quién] es el que dijo: Mía es la venganza, yo daré el pago, dice el Señor. Y otra vez: El Señor juzgará su pueblo.\n10:31. Horrenda cosa es caer en las manos del Dios vivo.\n10:32. Empero traed á la memoria los días pasados, en los cuales, después de haber sido iluminados, sufristeis gran combate de aflicciones:\n10:33. Por una parte, ciertamente, con vituperios y tribulaciones fuisteis hechos espectáculo; y por otra parte hechos compañeros de los que estaban en tal estado.\n10:34. Porque de mis prisiones también os resentisteis conmigo, y el robo de vuestros bienes padecisteis con gozo, conociendo que tenéis en vosotros una mejor sustancia en los cielos, y que permanece.\n10:35. No perdáis pues vuestra confianza, que tiene grande remuneración de galardón:\n10:36. Porque la paciencia os es necesaria; para que, habiendo hecho la voluntad de Dios, obtengáis la promesa.\n10:37. Porque aun un poquito, y el que ha de venir vendrá, y no tardará.\n10:38. Ahora el justo vivirá por fe; mas si se retirare, no agradará á mi alma.\n10:39. Pero nosotros no somos tales que nos retiremos para perdición, sino fieles para ganancia del alma.",
+              "observacionPasaje": "Capítulo completo."
+            },
+            {
+              "cita": "Heb. 11:13",
+              "Pasaje": "13. Conforme á la fe murieron todos éstos sin haber recibido las promesas, sino mirándolas de lejos, y creyéndolas, y saludándolas, y confesando que eran peregrinos y advenedizos sobre la tierra."
+            }
+          ]
+        },
+        {
+          "inciso": "g",
+          "citas": [
+            {
+              "cita": "Gál. 3:7-9,14",
+              "Pasaje": "7. Sabéis por tanto, que los que son de fe, los tales son hijos de Abraham.\n8. Y viendo antes la Escritura que Dios por la fe había de justificar á los Gentiles, evangelizó antes á Abraham, [diciendo]: En ti serán benditas todas las naciones.\n9. Luego los de la fe son benditos con el creyente Abraham.\n14. Para que la bendición de Abraham fuese sobre los Gentiles en Cristo Jesús; para que por la fe recibamos la promesa del Espíritu."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 35,
+      "pregunta": "¿Cómo es administrado el pacto de gracia bajo el Nuevo Testamento?",
+      "respuesta": "Bajo el Nuevo Testamento, cuando Cristo, la sustancia, fue manifestado, el mismo pacto de gracia fue, y todavía ha de ser, administrado en la predicación de la Palabra y en la administración de los sacramentos del Bautismo y de la Cena del Señor; en los cuales la gracia y la salvación se presentan a todas las naciones con mayor plenitud, evidencia y eficacia.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Mar. 16:15",
+              "Pasaje": "15. Y les dijo: Id por todo el mundo; predicad el evangelio á toda criatura."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Mat. 28:19-20",
+              "Pasaje": "19. Por tanto, id, y doctrinad á todos los Gentiles, bautizándolos en el nombre del Padre, y del Hijo, y del Espíritu Santo:\n20. Enseñándoles que guarden todas las cosas que os he mandado: y he aquí, yo estoy con vosotros todos los días, hasta el fin del mundo. Amén."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "1 Cor. 11:23-25",
+              "Pasaje": "23. Porque yo recibí del Señor lo que también os he enseñado: Que el Señor Jesús, la noche que fué entregado, tomó pan;\n24. Y habiendo dado gracias, lo partió, y dijo: Tomad, comed: esto es mi cuerpo que por vosotros es partido: haced esto en memoria de mí.\n25. Asimismo [tomó] también la copa, después de haber cenado, diciendo: Esta copa es el nuevo pacto en mi sangre: haced esto todas las veces que bebiereis, en memoria de mí."
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "2 Cor. 3:6-9",
+              "Pasaje": "6. El cual asimismo nos hizo ministros suficientes de un nuevo pacto: no de la letra, mas del espíritu; porque la letra mata, mas el espíritu vivifica.\n7. Y si el ministerio de muerte en la letra grabado en piedras, fué con gloria, tanto que los hijos de Israel no pudiesen poner los ojos en la faz de Moisés á causa de la gloria de su rostro, la cual había de perecer,\n8. ¿Cómo no será más bien con gloria el ministerio del espíritu?\n9. Porque si el ministerio de condenación fué [con] gloria, mucho más abundará en gloria el ministerio de justicia."
+            },
+            {
+              "cita": "Heb. 8:6,10-11",
+              "Pasaje": "6. Mas ahora tanto mejor ministerio es el suyo, cuanto es mediador de un mejor pacto, el cual ha sido formado sobre mejores promesas.\n10. Por lo cual, este es el pacto que ordenaré á la casa de Israel después de aquellos días, dice el Señor: Daré mis leyes en el alma de ellos, y sobre el corazón de ellos las escribiré; y seré á ellos por Dios, y ellos me serán á mí por pueblo:\n11. Y ninguno enseñará á su prójimo, ni ninguno á su hermano, diciendo: Conoce al Señor: porque todos me conocerán, desde el menor de ellos hasta el mayor."
+            },
+            {
+              "cita": "Mat. 28:19",
+              "Pasaje": "19. Por tanto, id, y doctrinad á todos los Gentiles, bautizándolos en el nombre del Padre, y del Hijo, y del Espíritu Santo:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 36,
+      "pregunta": "¿Quién es el Mediador del pacto de gracia?",
+      "respuesta": "El único Mediador del pacto de gracia es el Señor Jesucristo, quien, siendo el eterno Hijo de Dios, de una misma sustancia con el Padre e igual a él, en la plenitud del tiempo se hizo hombre, y así fue y continúa siendo Dios y hombre, en dos naturalezas enteras y distintas, y una sola persona, para siempre.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "1 Tim. 2:5",
+              "Pasaje": "5. Porque hay un Dios, asimismo un mediador entre Dios y los hombres, Jesucristo hombre;"
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Jn. 1:1,14",
+              "Pasaje": "1. EN el principio era el Verbo, y el Verbo era con Dios, y el Verbo era Dios.\n14. Y aquel Verbo fué hecho carne, y habitó entre nosotros (y vimos su gloria, gloria como del unigénito del Padre), lleno de gracia y de verdad."
+            },
+            {
+              "cita": "Jn. 10:30",
+              "Pasaje": "30. Yo y el Padre una cosa somos."
+            },
+            {
+              "cita": "Fil. 2:6",
+              "Pasaje": "6. El cual, siendo en forma de Dios, no tuvo por usurpación ser igual á Dios:"
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Gál. 4:4",
+              "Pasaje": "4. Mas venido el cumplimiento del tiempo, Dios envió su Hijo, hecho de mujer, hecho súbdito á la ley,"
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "Luc. 1:35",
+              "Pasaje": "35. Y respondiendo el ángel le dijo: El Espíritu Santo vendrá sobre ti, y la virtud del Altísimo te hará sombra; por lo cual también lo Santo que nacerá, será llamado Hijo de Dios."
+            },
+            {
+              "cita": "Rom. 9:5",
+              "Pasaje": "5. Cuyos son los padres, y de los cuales es Cristo según la carne, el cual es Dios sobre todas las cosas, bendito por los siglos. Amén."
+            },
+            {
+              "cita": "Col. 2:9",
+              "Pasaje": "9. Porque en él habita toda la plenitud de la divinidad corporalmente:"
+            },
+            {
+              "cita": "Heb. 7:24-25",
+              "Pasaje": "24. Mas éste, por cuanto permanece para siempre, tiene un sacerdocio inmutable:\n25. Por lo cual puede también salvar eternamente á los que por él se allegan á Dios, viviendo siempre para interceder por ellos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 37,
+      "pregunta": "¿Cómo se hizo hombre Cristo, siendo el Hijo de Dios?",
+      "respuesta": "Cristo, el Hijo de Dios, se hizo hombre tomando para sí un cuerpo verdadero y un alma racional, siendo concebido por el poder del Espíritu Santo en el vientre de la virgen María, de la sustancia de ella, y nacido de ella, pero sin pecado.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Jn. 1:14",
+              "Pasaje": "14. Y aquel Verbo fué hecho carne, y habitó entre nosotros (y vimos su gloria, gloria como del unigénito del Padre), lleno de gracia y de verdad."
+            },
+            {
+              "cita": "Mat. 26:38",
+              "Pasaje": "38. Entonces Jesús les dice: Mi alma está muy triste hasta la muerte; quedaos aquí, y velad conmigo."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Luc. 1:27,31,35,42",
+              "Pasaje": "27. A una virgen desposada con un varón que se llamaba José, de la casa de David: y el nombre de la virgen era María.\n31. Y he aquí, concebirás en tu seno, y parirás un hijo, y llamarás su nombre JESUS.\n35. Y respondiendo el ángel le dijo: El Espíritu Santo vendrá sobre ti, y la virtud del Altísimo te hará sombra; por lo cual también lo Santo que nacerá, será llamado Hijo de Dios.\n42. Y exclamó á gran voz, y dijo: Bendita tú entre las mujeres, y bendito el fruto de tu vientre."
+            },
+            {
+              "cita": "Gál. 4:4",
+              "Pasaje": "4. Mas venido el cumplimiento del tiempo, Dios envió su Hijo, hecho de mujer, hecho súbdito á la ley,"
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Heb. 4:15",
+              "Pasaje": "15. Porque no tenemos un Pontífice que no se pueda compadecer de nuestras flaquezas; mas tentado en todo según [nuestra] semejanza, [pero] sin pecado."
+            },
+            {
+              "cita": "Heb. 7:26",
+              "Pasaje": "26. Porque tal pontífice nos convenía: santo, inocente, limpio, apartado de los pecadores, y hecho más sublime que los cielos;"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 38,
+      "pregunta": "¿Por qué era necesario que el Mediador fuese Dios?",
+      "respuesta": "Era necesario que el Mediador fuese Dios, para que pudiese sostener y guardar a la naturaleza humana de hundirse bajo la ira infinita de Dios y el poder de la muerte; dar valor y eficacia a sus sufrimientos, obediencia e intercesión; y para satisfacer la justicia de Dios, obtener su favor, adquirir un pueblo propio, darles su Espíritu, vencer a todos sus enemigos y llevarlos a la salvación eterna.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Hech. 2:24-25",
+              "Pasaje": "24. Al cual Dios levantó, sueltos los dolores de la muerte, por cuanto era imposible ser detenido de ella.\n25. Porque David dice de él: Veía al Señor siempre delante de mí: porque está á mi diestra, no seré conmovido."
+            },
+            {
+              "cita": "Rom. 1:4",
+              "Pasaje": "4. El cual fué declarado Hijo de Dios con potencia, según el espíritu de santidad, por la resurrección de los muertos), de Jesucristo Señor nuestro,"
+            },
+            {
+              "cita": "Rom. 4:25",
+              "Pasaje": "25. El cual fué entregado por nuestros delitos, y resucitado para nuestra justificación."
+            },
+            {
+              "cita": "Heb. 9:14",
+              "Pasaje": "14. ¿Cuánto más la sangre de Cristo, el cual por el Espíritu eterno se ofreció á sí mismo sin mancha á Dios, limpiará vuestras conciencias de las obras de muerte para que sirváis al Dios vivo?"
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Hech. 20:28",
+              "Pasaje": "28. Por tanto mirad por vosotros, y por todo el rebaño en que el Espíritu Santo os ha puesto por obispos, para apacentar la iglesia del Señor, la cual ganó por su sangre."
+            },
+            {
+              "cita": "Heb. 9:14",
+              "Pasaje": "14. ¿Cuánto más la sangre de Cristo, el cual por el Espíritu eterno se ofreció á sí mismo sin mancha á Dios, limpiará vuestras conciencias de las obras de muerte para que sirváis al Dios vivo?"
+            },
+            {
+              "cita": "Heb. 7:25-28",
+              "Pasaje": "25. Por lo cual puede también salvar eternamente á los que por él se allegan á Dios, viviendo siempre para interceder por ellos.\n26. Porque tal pontífice nos convenía: santo, inocente, limpio, apartado de los pecadores, y hecho más sublime que los cielos;\n27. Que no tiene necesidad cada día, como los [otros] sacerdotes, de ofrecer primero sacrificios por sus pecados, y luego por los del pueblo: porque esto [lo] hizo una sola vez, ofreciéndose á sí mismo.\n28. Porque la ley constituye sacerdotes á hombres flacos; mas la palabra del juramento, después de la ley, [constituye] al Hijo, hecho perfecto para siempre."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Rom. 3:24-26",
+              "Pasaje": "24. Siendo justificados gratuitamente por su gracia, por la redención que es en Cristo Jesús;\n25. Al cual Dios ha propuesto en propiciación por la fe en su sangre, para manifestación de su justicia, atento á haber pasado por alto, en su paciencia, los pecados pasados,\n26. Con la mira de manifestar su justicia en este tiempo: para que él sea el justo, y el que justifica al que es de la fe de Jesús."
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "Ef. 1:6",
+              "Pasaje": "6. Para alabanza de la gloria de su gracia, con la cual nos hizo aceptos en el Amado:"
+            },
+            {
+              "cita": "Mat. 3:17",
+              "Pasaje": "17. Y he aquí una voz de los cielos que decía: Este es mi Hijo amado, en el cual tengo contentamiento."
+            }
+          ]
+        },
+        {
+          "inciso": "e",
+          "citas": [
+            {
+              "cita": "Tit. 2:13-14",
+              "Pasaje": "13. Esperando aquella esperanza bienaventurada, y la manifestación gloriosa del gran Dios y Salvador nuestro Jesucristo,\n14. Que se dió á sí mismo por nosotros para redimirnos de toda iniquidad, y limpiar para sí un pueblo propio, celoso de buenas obras."
+            }
+          ]
+        },
+        {
+          "inciso": "f",
+          "citas": [
+            {
+              "cita": "Gál. 4:6",
+              "Pasaje": "6. Y por cuanto sois hijos, Dios envió el Espíritu de su Hijo en vuestros corazones, el cual clama: Abba, Padre."
+            }
+          ]
+        },
+        {
+          "inciso": "g",
+          "citas": [
+            {
+              "cita": "Luc. 1:68-69,71,74",
+              "Pasaje": "68. Bendito el Señor Dios de Israel, que ha visitado y hecho redención á su pueblo,\n69. Y nos alzó un cuerno de salvación en la casa de David su siervo,\n71. Salvación de nuestros enemigos, y de mano de todos los que nos aborrecieron;\n74. Que sin temor librados de nuestros enemigos, le serviríamos"
+            }
+          ]
+        },
+        {
+          "inciso": "h",
+          "citas": [
+            {
+              "cita": "Heb. 5:8-9",
+              "Pasaje": "8. Y aunque era Hijo, por lo que padeció aprendió la obediencia;\n9. Y consumado, vino á ser causa de eterna salud á todos los que le obedecen;"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 39,
+      "pregunta": "¿Por qué era necesario que el Mediador fuese hombre?",
+      "respuesta": "Era necesario que el Mediador fuese hombre, para que pudiese elevar nuestra naturaleza, prestar obediencia a la ley, padecer e interceder por nosotros en nuestra naturaleza y compadecerse de nuestras flaquezas; para que recibiésemos la adopción de hijos y tuviésemos consuelo y acceso confiado al trono de la gracia.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Heb. 2:16",
+              "Pasaje": "16. Porque ciertamente no tomó á los ángeles, sino á la simiente de Abraham tomó."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Gál. 4:4",
+              "Pasaje": "4. Mas venido el cumplimiento del tiempo, Dios envió su Hijo, hecho de mujer, hecho súbdito á la ley,"
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Heb. 2:14",
+              "Pasaje": "14. Así que, por cuanto los hijos participaron de carne y sangre, él también participó de lo mismo, para destruir por la muerte al que tenía el imperio de la muerte, es á saber, al diablo,"
+            },
+            {
+              "cita": "Heb. 7:24-25",
+              "Pasaje": "24. Mas éste, por cuanto permanece para siempre, tiene un sacerdocio inmutable:\n25. Por lo cual puede también salvar eternamente á los que por él se allegan á Dios, viviendo siempre para interceder por ellos."
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "Heb. 4:15",
+              "Pasaje": "15. Porque no tenemos un Pontífice que no se pueda compadecer de nuestras flaquezas; mas tentado en todo según [nuestra] semejanza, [pero] sin pecado."
+            }
+          ]
+        },
+        {
+          "inciso": "e",
+          "citas": [
+            {
+              "cita": "Gál. 4:5",
+              "Pasaje": "5. Para que redimiese á los que estaban debajo de la ley, á fin de que recibiésemos la adopción de hijos."
+            }
+          ]
+        },
+        {
+          "inciso": "f",
+          "citas": [
+            {
+              "cita": "Heb. 4:16",
+              "Pasaje": "16. Lleguémonos pues confiadamente al trono de la gracia, para alcanzar misericordia, y hallar gracia para el oportuno socorro."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 40,
+      "pregunta": "¿Por qué era necesario que el Mediador fuese Dios y hombre en una sola persona?",
+      "respuesta": "Era necesario que el Mediador, que había de reconciliar a Dios y al hombre, fuese él mismo Dios y hombre, y esto en una sola persona, para que las obras propias de cada naturaleza fuesen aceptadas por Dios a favor nuestro, y nosotros confiásemos en ellas como obras de la persona entera.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Mat. 1:21,23",
+              "Pasaje": "21. Y parirá un hijo, y llamarás su nombre JESUS, porque él salvará á su pueblo de sus pecados.\n23. He aquí la virgen concebirá y parirá un hijo, y llamarás su nombre Emmanuel, que declarado, es: Con nosotros Dios."
+            },
+            {
+              "cita": "Mat. 3:17",
+              "Pasaje": "17. Y he aquí una voz de los cielos que decía: Este es mi Hijo amado, en el cual tengo contentamiento."
+            },
+            {
+              "cita": "Heb. 9:14",
+              "Pasaje": "14. ¿Cuánto más la sangre de Cristo, el cual por el Espíritu eterno se ofreció á sí mismo sin mancha á Dios, limpiará vuestras conciencias de las obras de muerte para que sirváis al Dios vivo?"
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "1 Ped. 2:6",
+              "Pasaje": "6. Por lo cual también contiene la Escritura: He aquí, pongo en Sión la principal piedra del ángulo, escogida, preciosa; y el que creyere en ella, no será confundido."
             }
           ]
         }
