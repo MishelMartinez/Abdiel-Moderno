@@ -124,11 +124,6 @@ function tarjeta(q) {
     art.append(aviso);
   }
 
-  const meta = [];
-  if (Array.isArray(q.paginas) && q.paginas.length > 1) meta.push(`Páginas ${q.paginas.length === 2 ? q.paginas.join('–') : q.paginas.join(', ')}`);
-  else if (q.pagina != null) meta.push(`Página ${q.pagina}`);
-  if (q.numeroNotaBiblica != null) meta.push(`Nota bíblica ${q.numeroNotaBiblica}`);
-  if (meta.length) art.append(el('p', 'meta', meta.join(' · ')));
 
   const acciones = el('div', 'acciones');
   const escuchar = el('button', 'boton boton-suave');
@@ -458,7 +453,7 @@ function mostrarPasaje(cita, disparador) {
   $('estadoPasajeTexto').textContent = cita?.estadoPasaje || '';
   $('notaPasaje').hidden = !cita?.observacionPasaje;
   $('notaPasajeTexto').textContent = cita?.observacionPasaje ? `Nota: ${cita.observacionPasaje}` : '';
-  $('versionPasaje').textContent = `Versión: ${estado.documento?.versionBiblica || 'Reina-Valera 1960'}${pasaje ? ' · Texto proporcionado en el JSON' : ''}`;
+  $('versionPasaje').textContent = `Versión: ${estado.documento?.versionBiblica || 'Reina-Valera 1960'}`;
   const comp = cita?.pasajeComparativo;
   $('comparativo').hidden = !comp;
   $('tituloComparativo').textContent = cita?.referenciaComparativa || '';

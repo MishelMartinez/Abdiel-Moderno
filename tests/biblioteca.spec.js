@@ -11,7 +11,6 @@ const PAGINAS = Math.ceil(N / 6);
 const totalCitas = ordenadas.reduce((s, q) => s + q.referenciasBiblicas.reduce((t, g) => t + g.citas.length, 0), 0);
 const tarjetas = (page) => page.locator('#preguntas article');
 const cita = (n, etiqueta) => ordenadas[n - 1].referenciasBiblicas.flatMap((g) => g.citas).find((c) => c.cita === etiqueta);
-const meta = (q) => `${q.paginas?.length > 1 ? `Páginas ${q.paginas.join('–')}` : `Página ${q.pagina}`} · Nota bíblica ${q.numeroNotaBiblica}`;
 const abrirRefs = (page, n) => page.locator(`#pregunta-${n}`).getByText('Referencias bíblicas').click();
 
 test.beforeEach(async ({ page }) => { await page.goto('/'); });
@@ -30,7 +29,7 @@ test(`muestra ${N} preguntas en ${PAGINAS} páginas de 6, en orden ascendente`, 
   await expect(page.getByRole('button', { name: 'Página siguiente' })).toBeDisabled();
 });
 
-test('no omite ningún dato: preguntas, respuestas, citas, estados y metadatos', async ({ page }) => {
+test('no omite ningún dato: preguntas, respuestas, citas y estados', async ({ page }) => {
   test.setTimeout(120_000);
   let citasVistas = 0;
   for (let p = 1; p <= PAGINAS; p++) {
@@ -41,7 +40,7 @@ test('no omite ningún dato: preguntas, respuestas, citas, estados y metadatos',
       const t = tarjetas(page).nth(i);
       await expect(t.locator('.pregunta')).toHaveText(q.pregunta);
       await expect(t.locator('.respuesta p')).toHaveText(q.respuesta);
-      await expect(t.locator('.meta').first()).toHaveText(meta(q));
+      await expect(t).not.toContainText('Nota bíblica');
       const todas = q.referenciasBiblicas.flatMap((g) => g.citas);
       await expect(t.locator('.ref-cuenta')).toHaveText(`${todas.length} ${todas.length === 1 ? 'cita' : 'citas'}`);
       await expect(t.locator('.cita-etiqueta')).toHaveText(todas.map((c) => c.cita), { useInnerText: false });
@@ -65,7 +64,7 @@ test('cada pasaje abre en ventana con su texto exacto y se cierra con Esc', asyn
   expect(await page.locator('#textoPasaje').textContent()).toBe(cita(1, 'Sal. 73:25-28').Pasaje);
   await expect(page.locator('#comparativo')).toBeHidden();
   await expect(page.locator('#estadoPasaje')).toBeHidden();
-  await expect(page.locator('#versionPasaje')).toContainText(datos.versionBiblica);
+  await expect(page.locator('#versionPasaje')).toHaveText(`Versión: ${datos.versionBiblica}`);
   await page.keyboard.press('Escape');
   await expect(ventana).toBeHidden();
   await expect(boton).toBeFocused();
@@ -139,7 +138,6 @@ test('observaciones del archivo en cada pregunta', async ({ page }) => {
   await page.locator('#buscar').fill('33');
   await expect(page.locator('#pregunta-33 .aviso-alerta')).toHaveCount(0);
   await expect(page.locator('#pregunta-33 .aviso-nota')).toContainText(ordenadas[32].observaciones);
-  await expect(page.locator('#pregunta-33 .meta').first()).toHaveText('Páginas 127–128 · Nota bíblica 428');
   await page.locator('#buscar').fill('26');
   await expect(page.locator('#pregunta-26 .aviso-nota')).toContainText('inciso d está cortada');
   await page.locator('#buscar').fill('77');

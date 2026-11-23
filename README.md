@@ -21,7 +21,6 @@ Los ajustes de lectura se guardan en el dispositivo.
 - Todas las preguntas con sus respuestas, en orden numérico ascendente, **6 por página**. La paginación solo aparece si hay más de 6 resultados.
 - Búsqueda: con solo dígitos (por ejemplo `25`) muestra únicamente esa pregunta; con palabras busca en preguntas, respuestas y referencias bíblicas, sin importar acentos. Buscar o cambiar de catecismo regresa a la página 1.
 - Cada pregunta tiene su propio acordeón de **Referencias bíblicas** organizado por inciso. Cada cita con pasaje tiene el botón del ojo, que abre una ventana accesible (se cierra con la X, «Cerrar», clic fuera o Esc).
-- Página del original y número de nota bíblica de cada pregunta.
 - Catálogo de catecismos en `data/catalogo.json`, listo para agregar más.
 - Abrir `index.html` con doble clic funciona sin servidor ni conexión.
 
