@@ -10,21 +10,21 @@ const TAMANOS = [
 ];
 const TEMAS = ['claro', 'sepia', 'oscuro', 'contraste'];
 const COLOR_TEMA = { claro: '#0b4f8a', sepia: '#6b4e2e', oscuro: '#111a24', contraste: '#000000' };
-const CATALOGO_INICIAL = [{
-  id: 'catecismo-menor',
-  titulo: 'Catecismo Menor de Westminster',
-  subtitulo: 'Preguntas, respuestas y referencias bíblicas',
-  archivo: 'data/catecismo-menor.json',
-  activo: true
-}];
 
 const $ = (id) => document.getElementById(id);
-const embebido = window.CATECISMO_EMBEBIDO;
+const EMBEBIDA = window.BIBLIOTECA_EMBEBIDA || { catalogo: [], documentos: {}, pendientes: {} };
+const idInicial = (() => {
+  const disponibles = EMBEBIDA.catalogo.filter((c) => c.activo !== false && EMBEBIDA.documentos[c.id]).map((c) => c.id);
+  const pedido = new URLSearchParams(location.search).get('documento');
+  const guardado = /^#pregunta-\d+$/.test(location.hash) ? null : leerAjuste('documento', null, (v) => typeof v === 'string');
+  return [pedido, guardado].find((id) => disponibles.includes(id)) || disponibles[0];
+})();
 const estado = {
-  catalogo: CATALOGO_INICIAL,
-  activo: 'catecismo-menor',
-  documento: embebido,
-  preguntas: extraerPreguntas(embebido) || [],
+  catalogo: EMBEBIDA.catalogo,
+  activo: idInicial,
+  documento: EMBEBIDA.documentos[idInicial],
+  preguntas: extraerPreguntas(EMBEBIDA.documentos[idInicial]) || [],
+  pendientes: EMBEBIDA.pendientes[idInicial] || [],
   pagina: 1,
   tamano: leerAjuste('tamano', 1, (v) => Number.isInteger(v) && v >= 0 && v < TAMANOS.length),
   tema: leerAjuste('tema', 'claro', (v) => TEMAS.includes(v)),
@@ -48,6 +48,13 @@ function extraerPreguntas(datos) {
 const etiquetaCita = (c) => (typeof c === 'string' ? c : String(c?.cita ?? ''));
 const textoCita = (c) => (c && typeof c === 'object' ? String(c.Pasaje ?? '') : '');
 const normalizar = (v) => String(v ?? '').normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
+function estadoCorto(texto) {
+  const t = normalizar(texto);
+  if (t.startsWith('incompleto')) return 'Incompleto';
+  if (t.includes('no se pudo extraer')) return 'Sin texto';
+  if (t.includes('no identificada') || t.includes('invalida')) return 'Por verificar';
+  return 'Revisar';
+}
 const contarCitas = (q) => (q.referenciasBiblicas || []).reduce((s, g) => s + (Array.isArray(g.citas) ? g.citas.length : 0), 0);
 const plural = (n, uno, varios) => `${n} ${n === 1 ? uno : varios}`;
 
@@ -117,10 +124,6 @@ function tarjeta(q) {
     art.append(aviso);
   }
 
-  const meta = [];
-  if (q.pagina != null) meta.push(`Página ${q.pagina}`);
-  if (q.numeroNotaBiblica != null) meta.push(`Nota bíblica ${q.numeroNotaBiblica}`);
-  if (meta.length) art.append(el('p', 'meta', meta.join(' · ')));
 
   const acciones = el('div', 'acciones');
   const escuchar = el('button', 'boton boton-suave');
@@ -163,17 +166,22 @@ function referencias(q) {
     const citas = el('div', 'citas');
     for (const c of g.citas || []) {
       const etiqueta = etiquetaCita(c);
-      const pasaje = textoCita(c);
-      if (pasaje.trim()) {
-        const b = el('button', 'cita cita-boton');
+      const pasaje = textoCita(c).trim();
+      const aviso = c?.estadoPasaje || '';
+      if (pasaje || aviso || c?.observacionPasaje) {
+        const b = el('button', `cita cita-boton${aviso ? ' cita-pendiente' : ''}`);
         b.type = 'button';
-        b.title = `Leer ${etiqueta}`;
-        b.setAttribute('aria-label', `Ver pasaje bíblico ${etiqueta}`);
-        b.append(el('span', '', etiqueta), icono(ICONO_OJO));
+        b.title = aviso || `Leer ${etiqueta}`;
+        b.setAttribute('aria-label', `${pasaje ? 'Ver pasaje bíblico' : 'Ver estado de la cita'} ${etiqueta}${aviso ? `. ${aviso}` : ''}`);
+        b.append(el('span', 'cita-etiqueta', etiqueta));
+        if (aviso) b.append(el('small', 'cita-estado', estadoCorto(aviso)));
+        b.append(icono(pasaje ? ICONO_OJO : ICONO_ALERTA));
         b.addEventListener('click', () => mostrarPasaje(c, b));
         citas.append(b);
       } else {
-        citas.append(el('span', 'cita', etiqueta));
+        const s = el('span', 'cita');
+        s.append(el('span', 'cita-etiqueta', etiqueta));
+        citas.append(s);
       }
     }
     fila.append(citas);
@@ -286,22 +294,53 @@ function renderNotas() {
   const det = $('notasDocumento');
   const cuerpo = $('notasCuerpo');
   cuerpo.replaceChildren();
-  if (!doc) { det.hidden = true; return; }
+  if (!doc) { renderPendientes(cuerpo); det.hidden = !cuerpo.childElementCount; return; }
   const datos = el('dl', 'notas-datos');
   const agregar = (dt, dd) => { if (dd == null || dd === '') return; datos.append(el('dt', '', dt), el('dd', '', dd)); };
   agregar('Título', doc.titulo);
   agregar('Páginas del original', Array.isArray(doc.paginas) ? doc.paginas.join(', ') : doc.paginas);
   agregar('Total de preguntas', doc.totalPreguntas);
   agregar('Preguntas completas', doc.preguntasCompletas);
+  agregar('Versión bíblica', doc.versionBiblica);
   if (datos.childElementCount) cuerpo.append(datos);
-  const obs = [doc.observaciones].flat().filter(Boolean);
-  if (obs.length) {
-    cuerpo.append(el('h3', '', 'Observaciones'));
+  const lista = (titulo, notas) => {
+    const obs = [notas].flat().filter(Boolean);
+    if (!obs.length) return;
+    cuerpo.append(el('h3', '', titulo));
     const ul = el('ul');
     for (const o of obs) ul.append(el('li', '', o));
     cuerpo.append(ul);
-  }
+  };
+  lista('Observaciones', doc.observaciones);
+  lista('Notas de extracción', doc.observacionesExtraccion);
+  renderPendientes(cuerpo);
   det.hidden = !cuerpo.childElementCount;
+}
+
+function citaDe(numero, etiqueta) {
+  const q = estado.preguntas.find((p) => Number(p.numero) === Number(numero));
+  for (const g of q?.referenciasBiblicas || []) for (const c of g.citas || []) if (etiquetaCita(c) === etiqueta) return c;
+  return null;
+}
+function renderPendientes(cuerpo) {
+  if (!estado.pendientes.length) return;
+  const resuelta = (p) => { const c = citaDe(p.pregunta, p.cita); return !!(textoCita(c).trim() && !c.estadoPasaje); };
+  const recuperadas = estado.pendientes.filter(resuelta).length;
+  cuerpo.append(el('h3', '', 'Referencias pendientes de revisión'));
+  cuerpo.append(el('p', 'meta', `${plural(estado.pendientes.length, 'referencia', 'referencias')} señaladas en el archivo de revisión${recuperadas ? ` · ${recuperadas} ya ${recuperadas === 1 ? 'recuperada' : 'recuperadas'}` : ''}.`));
+  const ul = el('ul', 'pendientes');
+  for (const p of estado.pendientes) {
+    const li = el('li', resuelta(p) ? 'pendiente-resuelta' : '');
+    const b = el('button', 'enlace-pendiente');
+    b.type = 'button';
+    b.append(el('strong', '', `Pregunta ${p.pregunta}`), ` · ${p.cita}`);
+    b.addEventListener('click', () => {
+      if (irAPregunta(p.pregunta)) $(`pregunta-${p.pregunta}`).querySelector('details.referencias').open = true;
+    });
+    li.append(b, el('span', 'pendiente-motivo', resuelta(p) ? `Recuperado de la versión anterior (antes: ${p.motivo})` : p.motivo));
+    ul.append(li);
+  }
+  cuerpo.append(ul);
 }
 
 /* ---------- Catálogo ---------- */
@@ -322,6 +361,8 @@ function renderCatalogo() {
     b.setAttribute('aria-pressed', String(c.id === estado.activo));
     const texto = el('span', 'libro-texto');
     texto.append(el('strong', '', c.titulo), el('small', '', c.subtitulo || 'Preguntas, respuestas y referencias bíblicas'));
+    const n = (c.id === estado.activo ? estado.preguntas : extraerPreguntas(EMBEBIDA.documentos[c.id]))?.length;
+    texto.append(el('small', 'libro-dato', [c.tipo || 'Catecismo', n ? plural(n, 'pregunta', 'preguntas') : ''].filter(Boolean).join(' · ')));
     const ic = el('span', 'libro-icono');
     ic.append(icono(ICONO_LIBRO));
     b.append(ic, texto);
@@ -336,36 +377,54 @@ async function elegir(id) {
   if (!c) return;
   const error = $('errorCarga');
   error.hidden = true;
-  let datos;
-  if (id === 'catecismo-menor') {
-    datos = embebido;
-    try { if (location.protocol !== 'file:') datos = await leerJson(c.archivo); } catch { datos = embebido; }
-  } else {
+  const fallo = (texto) => { error.textContent = texto; error.hidden = false; renderCatalogo(); };
+  let datos = EMBEBIDA.documentos[id];
+  let pendientes = EMBEBIDA.pendientes[id];
+  if (location.protocol !== 'file:') {
     try { datos = await leerJson(c.archivo); } catch (e) {
-      error.textContent = `No se pudo leer el archivo de «${c.titulo}»: ${e.message}. Publica la web en GitHub Pages para cargar archivos adicionales.`;
-      error.hidden = false;
-      renderCatalogo();
-      return;
+      if (!datos) return fallo(`No se pudo leer el archivo de «${c.titulo}»: ${e.message}.`);
     }
+    if (c.pendientes) { try { pendientes = await leerJson(c.pendientes); } catch { /* se usa la copia embebida */ } }
+  } else if (!datos) {
+    return fallo(`«${c.titulo}» no está en la copia sin conexión. Ejecuta «npm run sync» o abre la biblioteca desde GitHub Pages.`);
   }
-  const preguntas = extraerPreguntas(datos);
-  if (!preguntas) {
-    error.textContent = 'El JSON debe contener un arreglo de preguntas o un objeto con la propiedad preguntas.';
-    error.hidden = false;
-    renderCatalogo();
-    return;
-  }
-  estado.activo = id;
+  if (!extraerPreguntas(datos)) return fallo('El JSON debe contener un arreglo de preguntas o un objeto con la propiedad preguntas.');
+  mostrarDocumento(c, datos, pendientes);
+  guardarAjuste('documento', id);
+}
+
+function mostrarDocumento(c, datos, pendientes, { conservarPagina = false } = {}) {
+  estado.activo = c.id;
   estado.documento = datos;
-  estado.preguntas = preguntas;
-  estado.pagina = 1;
+  estado.preguntas = extraerPreguntas(datos) || [];
+  estado.pendientes = Array.isArray(pendientes) ? pendientes : [];
+  if (!conservarPagina) { estado.pagina = 1; $('buscar').value = ''; }
   $('tituloEstudio').textContent = c.titulo;
   $('subtituloEstudio').textContent = c.subtitulo || 'Preguntas, respuestas y referencias bíblicas';
-  $('buscar').value = '';
   renderCatalogo();
   renderNotas();
   renderIndice();
   render();
+}
+
+async function actualizarActivo() {
+  const pedido = new URLSearchParams(location.search).get('documento')
+    || (/^#pregunta-\d+$/.test(location.hash) ? null : leerAjuste('documento', null, (v) => typeof v === 'string'));
+  if (pedido && pedido !== estado.activo && estado.catalogo.some((x) => x.id === pedido && x.activo !== false)) {
+    await elegir(pedido);
+    if (estado.activo === pedido) { abrirDesdeEnlace(); return; }
+  }
+  const c = estado.catalogo.find((x) => x.id === estado.activo) || estado.catalogo.find((x) => x.activo !== false);
+  if (!c) return;
+  if (!estado.documento) { elegir(c.id); return; }
+  try {
+    const datos = await leerJson(c.archivo);
+    let pendientes = estado.pendientes;
+    if (c.pendientes) { try { pendientes = await leerJson(c.pendientes); } catch { /* se conserva */ } }
+    if (extraerPreguntas(datos) && JSON.stringify([datos, pendientes]) !== JSON.stringify([estado.documento, estado.pendientes])) {
+      mostrarDocumento(c, datos, pendientes, { conservarPagina: true });
+    }
+  } catch { /* se usa la copia embebida */ }
 }
 
 /* ---------- Ventanas ---------- */
@@ -389,11 +448,18 @@ function mostrarPasaje(cita, disparador) {
   const pasaje = textoCita(cita);
   $('tituloPasaje').textContent = etiqueta;
   $('textoPasaje').textContent = pasaje;
+  $('textoPasaje').hidden = !pasaje;
+  $('estadoPasaje').hidden = !cita?.estadoPasaje;
+  $('estadoPasajeTexto').textContent = cita?.estadoPasaje || '';
+  $('notaPasaje').hidden = !cita?.observacionPasaje;
+  $('notaPasajeTexto').textContent = cita?.observacionPasaje ? `Nota: ${cita.observacionPasaje}` : '';
+  $('versionPasaje').textContent = `Versión: ${estado.documento?.versionBiblica || 'Reina-Valera 1960'}`;
   const comp = cita?.pasajeComparativo;
   $('comparativo').hidden = !comp;
   $('tituloComparativo').textContent = cita?.referenciaComparativa || '';
   $('textoComparativo').textContent = comp || '';
   const escuchar = $('escucharPasaje');
+  escuchar.hidden = !voz || !pasaje;
   escuchar.onclick = () => alternarVoz(`${etiqueta}. ${pasaje}${comp ? ` Compare con ${cita.referenciaComparativa || ''}. ${comp}` : ''}`, escuchar);
   abrirVentana($('ventanaPasaje'), disparador);
 }
@@ -443,6 +509,7 @@ function actualizarVozDisponible() {
 async function compartirPregunta(q, boton) {
   const url = new URL(location.href);
   url.hash = `pregunta-${q.numero}`;
+  if (estado.catalogo.filter((c) => c.activo !== false).length > 1) url.searchParams.set('documento', estado.activo);
   const local = url.protocol === 'file:';
   const texto = `Pregunta ${q.numero}: ${q.pregunta}\n${q.respuesta}`;
   try {
@@ -522,10 +589,9 @@ if ('ResizeObserver' in window) {
 window.addEventListener('resize', medirFijos);
 aplicarAjustes();
 medirFijos();
-renderCatalogo();
-renderNotas();
-renderIndice();
-render();
+const catalogoInicial = estado.catalogo.find((c) => c.id === estado.activo);
+if (catalogoInicial) mostrarDocumento(catalogoInicial, estado.documento, estado.pendientes, { conservarPagina: true });
+else renderCatalogo();
 if (/^#pregunta-\d+$/.test(location.hash)) {
   if ('scrollRestoration' in history) history.scrollRestoration = 'manual';
   abrirDesdeEnlace();
@@ -535,16 +601,7 @@ if (/^#pregunta-\d+$/.test(location.hash)) {
 if (location.protocol !== 'file:') {
   leerJson('data/catalogo.json').then((cat) => {
     if (Array.isArray(cat.catecismos) && cat.catecismos.length) { estado.catalogo = cat.catecismos; renderCatalogo(); }
-  }).catch((e) => console.warn('Catálogo adicional no disponible. Se conserva el catecismo inicial.', e));
-  leerJson('data/catecismo-menor.json').then((datos) => {
-    const preguntas = extraerPreguntas(datos);
-    if (estado.activo === 'catecismo-menor' && preguntas && JSON.stringify(datos) !== JSON.stringify(estado.documento)) {
-      estado.documento = datos;
-      estado.preguntas = preguntas;
-      renderNotas();
-      renderIndice();
-      render();
-    }
-  }).catch(() => { /* se usa la copia embebida */ });
+  }).catch((e) => console.warn('Catálogo no disponible. Se usa la copia embebida.', e))
+    .finally(actualizarActivo);
   if ('serviceWorker' in navigator) navigator.serviceWorker.register('sw.js').catch(() => {});
 }

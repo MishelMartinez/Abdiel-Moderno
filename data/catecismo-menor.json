@@ -1,17 +1,12 @@
 {
   "titulo": "Catecismo Menor de Westminster",
-  "paginas": [
-    123,
-    124,
-    125,
-    126,
-    127
-  ],
-  "totalPreguntas": 33,
-  "preguntasCompletas": 32,
+  "paginas": "123–138",
+  "totalPreguntas": 107,
+  "preguntasCompletas": 107,
   "observaciones": [
-    "La pregunta 33 continúa en la página 128; se conserva únicamente el texto visible y sus citas quedan pendientes.",
-    "La referencia bíblica 421 de la pregunta 26 continúa fuera del encuadre de la página 126."
+    "Se completó la pregunta 89 con su continuación de la página 136.",
+    "Se conservaron citas de las notas 484 a 502 según las fotografías de las páginas 136–138.",
+    "Persisten algunas referencias de páginas anteriores pendientes de cotejo conforme a las observaciones previas."
   ],
   "preguntas": [
     {
@@ -298,7 +293,8 @@
           "citas": [
             {
               "cita": "Gén. 1",
-              "Pasaje": "1. En el principio creó Dios los cielos y la tierra.\n2. Y la tierra estaba desordenada y vacía, y las tinieblas estaban sobre la faz del abismo, y el Espíritu de Dios se movía sobre la faz de las aguas.\n3. Y dijo Dios: Sea la luz; y fue la luz.\n4. Y vio Dios que la luz era buena; y separó Dios la luz de las tinieblas.\n5. Y llamó Dios a la luz Día, y a las tinieblas llamó Noche. Y fue la tarde y la mañana un día.\n6. Luego dijo Dios: Haya expansión en medio de las aguas, y separe las aguas de las aguas.\n7. E hizo Dios la expansión, y separó las aguas que estaban debajo de la expansión, de las aguas que estaban sobre la expansión. Y fue así.\n8. Y llamó Dios a la expansión Cielos. Y fue la tarde y la mañana el día segundo.\n9. Dijo también Dios: Júntense las aguas que están debajo de los cielos en un lugar, y descúbrase lo seco. Y fue así.\n10. Y llamó Dios a lo seco Tierra, y a la reunión de las aguas llamó Mares. Y vio Dios que era bueno.\n11. Después dijo Dios: Produzca la tierra hierba verde, hierba que dé semilla; árbol de fruto que dé fruto según su género, que su semilla esté en él, sobre la tierra. Y fue así.\n12. Produjo, pues, la tierra hierba verde, hierba que da semilla según su naturaleza, y árbol que da fruto, cuya semilla está en él, según su género. Y vio Dios que era bueno.\n13. Y fue la tarde y la mañana el día tercero.\n14. Dijo luego Dios: Haya lumbreras en la expansión de los cielos para separar el día de la noche; y sirvan de señales para las estaciones, para días y años,\n15. y sean por lumbreras en la expansión de los cielos para alumbrar sobre la tierra. Y fue así.\n16. E hizo Dios las dos grandes lumbreras; la lumbrera mayor para que señorease en el día, y la lumbrera menor para que señorease en la noche; hizo también las estrellas.\n17. Y las puso Dios en la expansión de los cielos para alumbrar sobre la tierra,\n18. y para señorear en el día y en la noche, y para separar la luz de las tinieblas. Y vio Dios que era bueno.\n19. Y fue la tarde y la mañana el día cuarto.\n20. Dijo Dios: Produzcan las aguas seres vivientes, y aves que vuelen sobre la tierra, en la abierta expansión de los cielos.\n21. Y creó Dios los grandes monstruos marinos, y todo ser viviente que se mueve, que las aguas produjeron según su género, y toda ave alada según su especie. Y vio Dios que era bueno.\n22. Y Dios los bendijo, diciendo: Fructificad y multiplicaos, y llenad las aguas en los mares, y multiplíquense las aves en la tierra.\n23. Y fue la tarde y la mañana el día quinto.\n24. Luego dijo Dios: Produzca la tierra seres vivientes según su género, bestias y serpientes y animales de la tierra según su especie. Y fue así.\n25. E hizo Dios animales de la tierra según su género, y ganado según su género, y todo animal que se arrastra sobre la tierra según su especie. Y vio Dios que era bueno.\n26. Entonces dijo Dios: Hagamos al hombre a nuestra imagen, conforme a nuestra semejanza; y señoree en los peces del mar, en las aves de los cielos, en las bestias, en toda la tierra, y en todo animal que se arrastra sobre la tierra.\n27. Y creó Dios al hombre a su imagen, a imagen de Dios lo creó; varón y hembra los creó.\n28. Y los bendijo Dios, y les dijo: Fructificad y multiplicaos; llenad la tierra, y sojuzgadla, y señoread en los peces del mar, en las aves de los cielos, y en todas las bestias que se mueven sobre la tierra.\n29. Y dijo Dios: He aquí que os he dado toda planta que da semilla, que está sobre toda la tierra, y todo árbol en que hay fruto y que da semilla; os serán para comer.\n30. Y a toda bestia de la tierra, y a todas las aves de los cielos, y a todo lo que se arrastra sobre la tierra, en que hay vida, toda planta verde les será para comer. Y fue así.\n31. Y vio Dios todo lo que había hecho, y he aquí que era bueno en gran manera. Y fue la tarde y la mañana el día sexto."
+              "Pasaje": "1. En el principio creó Dios los cielos y la tierra.\n2. Y la tierra estaba desordenada y vacía, y las tinieblas estaban sobre la faz del abismo, y el Espíritu de Dios se movía sobre la faz de las aguas.\n3. Y dijo Dios: Sea la luz; y fue la luz.\n4. Y vio Dios que la luz era buena; y separó Dios la luz de las tinieblas.\n5. Y llamó Dios a la luz Día, y a las tinieblas llamó Noche. Y fue la tarde y la mañana un día.\n6. Luego dijo Dios: Haya expansión en medio de las aguas, y separe las aguas de las aguas.\n7. E hizo Dios la expansión, y separó las aguas que estaban debajo de la expansión, de las aguas que estaban sobre la expansión. Y fue así.\n8. Y llamó Dios a la expansión Cielos. Y fue la tarde y la mañana el día segundo.\n9. Dijo también Dios: Júntense las aguas que están debajo de los cielos en un lugar, y descúbrase lo seco. Y fue así.\n10. Y llamó Dios a lo seco Tierra, y a la reunión de las aguas llamó Mares. Y vio Dios que era bueno.\n11. Después dijo Dios: Produzca la tierra hierba verde, hierba que dé semilla; árbol de fruto que dé fruto según su género, que su semilla esté en él, sobre la tierra. Y fue así.\n12. Produjo, pues, la tierra hierba verde, hierba que da semilla según su naturaleza, y árbol que da fruto, cuya semilla está en él, según su género. Y vio Dios que era bueno.\n13. Y fue la tarde y la mañana el día tercero.\n14. Dijo luego Dios: Haya lumbreras en la expansión de los cielos para separar el día de la noche; y sirvan de señales para las estaciones, para días y años,\n15. y sean por lumbreras en la expansión de los cielos para alumbrar sobre la tierra. Y fue así.\n16. E hizo Dios las dos grandes lumbreras; la lumbrera mayor para que señorease en el día, y la lumbrera menor para que señorease en la noche; hizo también las estrellas.\n17. Y las puso Dios en la expansión de los cielos para alumbrar sobre la tierra,\n18. y para señorear en el día y en la noche, y para separar la luz de las tinieblas. Y vio Dios que era bueno.\n19. Y fue la tarde y la mañana el día cuarto.\n20. Dijo Dios: Produzcan las aguas seres vivientes, y aves que vuelen sobre la tierra, en la abierta expansión de los cielos.\n21. Y creó Dios los grandes monstruos marinos, y todo ser viviente que se mueve, que las aguas produjeron según su género, y toda ave alada según su especie. Y vio Dios que era bueno.\n22. Y Dios los bendijo, diciendo: Fructificad y multiplicaos, y llenad las aguas en los mares, y multiplíquense las aves en la tierra.\n23. Y fue la tarde y la mañana el día quinto.\n24. Luego dijo Dios: Produzca la tierra seres vivientes según su género, bestias y serpientes y animales de la tierra según su especie. Y fue así.\n25. E hizo Dios animales de la tierra según su género, y ganado según su género, y todo animal que se arrastra sobre la tierra según su especie. Y vio Dios que era bueno.\n26. Entonces dijo Dios: Hagamos al hombre a nuestra imagen, conforme a nuestra semejanza; y señoree en los peces del mar, en las aves de los cielos, en las bestias, en toda la tierra, y en todo animal que se arrastra sobre la tierra.\n27. Y creó Dios al hombre a su imagen, a imagen de Dios lo creó; varón y hembra los creó.\n28. Y los bendijo Dios, y les dijo: Fructificad y multiplicaos; llenad la tierra, y sojuzgadla, y señoread en los peces del mar, en las aves de los cielos, y en todas las bestias que se mueven sobre la tierra.\n29. Y dijo Dios: He aquí que os he dado toda planta que da semilla, que está sobre toda la tierra, y todo árbol en que hay fruto y que da semilla; os serán para comer.\n30. Y a toda bestia de la tierra, y a todas las aves de los cielos, y a todo lo que se arrastra sobre la tierra, en que hay vida, toda planta verde les será para comer. Y fue así.\n31. Y vio Dios todo lo que había hecho, y he aquí que era bueno en gran manera. Y fue la tarde y la mañana el día sexto.",
+              "observacionPasaje": "Pasaje recuperado de la versión anterior de la biblioteca (33 preguntas); en el archivo de 107 preguntas el texto iniciaba cortado («1. E tierra…»)."
             },
             {
               "cita": "Heb. 11:3",
@@ -328,7 +324,8 @@
             },
             {
               "cita": "Ef. 4:24",
-              "Pasaje": "24. y renovaos en el espíritu de vuestra mente, y vestíos del nuevo hombre, creado según Dios en la justicia y santidad de la verdad."
+              "Pasaje": "24. y renovaos en el espíritu de vuestra mente, y vestíos del nuevo hombre, creado según Dios en la justicia y santidad de la verdad.",
+              "observacionPasaje": "Pasaje recuperado de la versión anterior de la biblioteca (33 preguntas); en el archivo de 107 preguntas no se pudo extraer del PDF."
             }
           ]
         }
@@ -750,6 +747,7 @@
             {
               "cita": "Heb. 12:25 (compare con 2 Cor. 13:3)",
               "Pasaje": "25. Mirad que no desechéis al que habla. Porque si no escaparon aquellos que desecharon al que los amonestaba en la tierra, mucho menos nosotros, si desecháremos al que amonesta desde los cielos.",
+              "observacionPasaje": "La indicación entre paréntesis del catecismo se conservó en cita; el texto de comparación debe verificarse por separado. El texto comparativo de 2 Cor. 13:3 se recuperó de la versión anterior de la biblioteca (33 preguntas).",
               "referenciaComparativa": "2 Cor. 13:3",
               "pasajeComparativo": "3. pues buscáis una prueba de que habla Cristo en mí, el cual no es débil para con vosotros, sino que es poderoso en vosotros."
             },
@@ -1027,7 +1025,8 @@
           "citas": [
             {
               "cita": "Jn. 1:11,12",
-              "Pasaje": "11. A lo suyo vino, y los suyos no le recibieron.\n12. A lo suyo vino, y los suyos no le recibieron. Mas a todos los que le recibieron, a los que creen en su nombre, les dio potestad de ser hechos hijos de Dios;"
+              "Pasaje": "11. A lo suyo vino, y los suyos no le recibieron.\n12. A lo suyo vino, y los suyos no le recibieron. Mas a todos los que le recibieron, a los que creen en su nombre, les dio potestad de ser hechos hijos de Dios;",
+              "observacionPasaje": "Pasaje recuperado de la versión anterior de la biblioteca (33 preguntas); en el archivo de 107 preguntas estaba incompleto."
             }
           ]
         },
@@ -1225,12 +1224,2679 @@
     {
       "numero": 33,
       "pregunta": "¿Qué es la justificación?",
-      "respuesta": "La justificación es un acto de la libre gracia de Dios, por el cual, Él perdona todos nuestros pecados y nos acepta como justos ante sus ojos,",
-      "referenciasBiblicas": [],
+      "respuesta": "La justificación es un acto de la libre gracia de Dios, por el cual, Él perdona todos nuestros pecados y nos acepta como justos ante sus ojos, solamente en virtud de la justicia de Cristo imputada a nosotros y recibida únicamente por la fe.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Rom. 3:24,25",
+              "Pasaje": "24. pecaron, y están destituidos de la gloria de Dios, siendo justificados gratuitamente por su gracia, mediante la redención\n25. que es en Cristo Jesús, a quien Dios puso como propiciación por medio de la fe en su sangre, para manifestar su justicia, a causa de haber pasado por alto, en su paciencia, los pecados"
+            },
+            {
+              "cita": "Rom. 4:6-8",
+              "Pasaje": "6. Como también David habla de la bienaventuranza del hombre a quien Dios atribuye justicia sin obras, diciendo:\n7. Bienaventurados aquellos cuyas iniquidades son perdonadas, Y cuyos pecados son cubiertos.\n8. Bienaventurado el varón a quien el Señor no inculpa de pecado."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "2 Cor. 5:19,21",
+              "Pasaje": "19. y nos dio el ministerio de la reconciliación; que Dios estaba en Cristo reconciliando consigo al mundo, no tomándoles en cuenta a los hombres sus pecados, y nos encargó a nosotros la palabra de la reconciliación.\n21. Al que no conoció pecado, por nosotros lo hizo pecado, para que nosotros fuésemos hechos justicia de Dios en él."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Rom. 5:17-19",
+              "Pasaje": "17. Pues si por la transgresión de uno solo reinó la muerte, mucho más reinarán en vida por uno solo, Jesucristo, los que reciben la abundancia de la gracia y del don de la justicia.\n18. Así que, como por la transgresión de uno vino la condenación a todos los hombres, de la misma manera por la justicia de uno vino a todos los hombres la justificación de vida.\n19. Porque así como por la desobediencia de un hombre los muchos fueron constituidos pecadores, así también por la obediencia de uno, los muchos serán constituidos justos."
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "Gál. 2:16",
+              "Pasaje": "16. y no pecadores de entre los gentiles, sabiendo que el hombre no es justificado por las obras de la ley, sino por la fe de Jesucristo, nosotros también hemos creído en Jesucristo, para ser justificados por la fe de Cristo y no por las obras de la ley, por cuanto por las obras de la ley nadie será justificado."
+            },
+            {
+              "cita": "Fil. 3:9",
+              "Pasaje": "9. para ganar a Cristo, y ser hallado en él, no teniendo mi propia justicia, que es por la ley, sino la que es por la fe de Cristo,"
+            }
+          ]
+        }
+      ],
       "pagina": 127,
       "numeroNotaBiblica": 428,
-      "completa": false,
-      "observaciones": "La respuesta continúa en la página 128. La nota bíblica 428 no aparece en esta fotografía; referencias pendientes de la página siguiente."
+      "completa": true,
+      "observaciones": "La respuesta inicia en la página 127 y concluye en la página 128; las referencias de la nota 428 aparecen en la página 128.",
+      "paginas": [
+        127,
+        128
+      ]
+    },
+    {
+      "numero": 34,
+      "pregunta": "¿Qué es la adopción?",
+      "respuesta": "La adopción es un acto de la libre gracia de Dios, por el cual somos recibidos en el número y tenemos derecho a todos los privilegios de los hijos de Dios.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "1 Jn. 3:1",
+              "Pasaje": "1. Mirad cuál amor nos ha dado el Padre, para que seamos llamados hijos de Dios; por esto el mundo no nos conoce, porque no le conoció a él."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Jn. 1:12",
+              "Pasaje": null,
+              "estadoPasaje": "No se pudo extraer el pasaje del PDF"
+            },
+            {
+              "cita": "Rom. 8:17",
+              "Pasaje": "17. Y si hijos, también herederos; herederos de Dios y coherederos con Cristo, si es que padecemos juntamente con él, para que juntamente con él seamos glorificados."
+            }
+          ]
+        }
+      ],
+      "pagina": 128,
+      "numeroNotaBiblica": 429,
+      "completa": true
+    },
+    {
+      "numero": 35,
+      "pregunta": "¿Qué es la santificación?",
+      "respuesta": "La santificación es aquella obra de la libre gracia de Dios, por la cual somos completamente restablecidos a la imagen de Dios y puestos en capacidad de morir más y más al pecado y de vivir piamente.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "2 Tes. 2:13",
+              "Pasaje": "13. Pero nosotros debemos dar siempre gracias a Dios respecto a vosotros, hermanos amados por el Señor, de que Dios os haya escogido desde el principio para salvación, mediante la"
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Rom. 6:4,6",
+              "Pasaje": "4. Porque somos sepultados juntamente con él para muerte por el bautismo, a fin de que como Cristo resucitó de los muertos por la gloria del Padre, así también nosotros andemos en vida nueva.\n6. ción; sabiendo esto, que nuestro viejo hombre fue crucificado juntamente con él, para que el cuerpo del pecado sea destruido, a fin de que no sirvamos más al pecado."
+            },
+            {
+              "cita": "Rom. 8:1",
+              "Pasaje": "1. Ahora, pues, ninguna condenación hay para los que están en Cristo Jesús, los que no andan conforme a la carne, sino conforme al Espíritu."
+            }
+          ]
+        }
+      ],
+      "pagina": 128,
+      "numeroNotaBiblica": 430,
+      "completa": true
+    },
+    {
+      "numero": 36,
+      "pregunta": "¿Cuáles son los beneficios que en esta vida acompañan a la justificación, la adopción y la santificación, o que se derivan de ellas?",
+      "respuesta": "Los beneficios que en esta vida acompañan a la justificación, la adopción y la santificación o que se derivan de ellas, son la seguridad del amor de Dios, la tranquilidad de la conciencia, el gozo en el Espíritu Santo, el crecimiento en gracia y la perseverancia en ella hasta el fin.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Rom. 5:1,2,5",
+              "Pasaje": "1. Justificados, pues, por la fe, tenemos paz para con Dios por\n2. medio de nuestro Señor Jesucristo; por quien también tenemos entrada por la fe a esta gracia en la cual estamos firmes, y nos gloriamos en la esperanza de la gloria de Dios.\n5. prueba; y la prueba, esperanza; y la esperanza no avergüenza; porque el amor de Dios ha sido derramado en nuestros corazones por el Espíritu Santo que nos fue dado."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Rom. 14:17",
+              "Pasaje": "17. vuestro bien; porque el reino de Dios no es comida ni bebida, sino justicia, paz y gozo en el Espíritu Santo."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Prov. 4:18",
+              "Pasaje": "18. Mas la senda de los justos es como la luz de la aurora, Que va en aumento hasta que el día es perfecto."
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "1 Jn. 5:13",
+              "Pasaje": "13. Estas cosas os he escrito a vosotros que creéis en el nombre del Hijo de Dios, para que sepáis que tenéis vida eterna, y para que creáis en el nombre del Hijo de Dios."
+            }
+          ]
+        }
+      ],
+      "pagina": 128,
+      "numeroNotaBiblica": 431,
+      "completa": true
+    },
+    {
+      "numero": 37,
+      "pregunta": "¿Qué beneficios reciben de Cristo los creyentes, después de la muerte?",
+      "respuesta": "Las almas de los creyentes después de la muerte son hechas perfectas en santidad y pasan inmediatamente a la gloria; y sus cuerpos, estando todavía unidos a Cristo, reposan en sus tumbas hasta la resurrección.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Heb. 12:23",
+              "Pasaje": "23. llares de ángeles, a la congregación de los primogénitos que están inscritos en los cielos, a Dios el Juez de todos, a los"
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "2 Cor. 5:1,6,8",
+              "Pasaje": "1. Porque sabemos que si nuestra morada terrestre, este tabernáculo, se deshiciere, tenemos de Dios un edificio, una casa no hecha de manos, eterna, en los cielos.\n6. Así que vivimos confiados siempre, y sabiendo que entre tanto que estamos en el cuerpo, estamos\n8. pero confiamos, y más quisiéramos estar ausentes del cuerpo, y presentes al Señor."
+            },
+            {
+              "cita": "Fil. 1:23",
+              "Pasaje": "23. Porque de ambas cosas estoy puesto en estrecho, teniendo deseo de"
+            },
+            {
+              "cita": "Luc. 23:43",
+              "Pasaje": "43. Entonces Jesús le dijo: De cierto te digo que hoy estarás conmigo en el paraíso."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "1 Tes. 4:14",
+              "Pasaje": "14. Porque si creemos que Jesús murió y resucitó, así también traerá Dios con Jesús a los que durmieron en él."
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "Isa. 57:2",
+              "Pasaje": "2. Entrará en la paz; descansarán en sus lechos todos los que andan delante de Dios."
+            }
+          ]
+        },
+        {
+          "inciso": "e",
+          "citas": [
+            {
+              "cita": "Job. 19:26,27",
+              "Pasaje": "26. Y después de deshecha esta mi piel, En mi carne he de ver a Dios;\n27. Al cual veré por mí mismo, Y mis ojos lo verán, y no otro, Aunque mi corazón desfallece dentro de mí. Mas debierais decir: ¿Por qué le perseguimos?"
+            }
+          ]
+        }
+      ],
+      "pagina": 128,
+      "numeroNotaBiblica": 432,
+      "completa": true
+    },
+    {
+      "numero": 38,
+      "pregunta": "¿Qué beneficios reciben de Cristo los creyentes, después de la resurrección?",
+      "respuesta": "Los creyentes, levantándose en gloria en la resurrección, serán públicamente reconocidos y absueltos en el día del juicio, y entrarán en una perfecta bienaventuranza en el pleno gozo de Dios por toda la eternidad.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "1 Cor. 15:43",
+              "Pasaje": "43. Se siembra en deshonra, resucitará en gloria; se siembra en debilidad, resucitará en poder."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Mat. 25:23",
+              "Pasaje": "23. Bien, buen siervo y fiel; sobre poco has sido fiel, sobre mucho te pondré; entra en el gozo de tu señor."
+            },
+            {
+              "cita": "Mat. 10:32",
+              "Pasaje": "32. A cualquiera, pues, que me confiese delante de los hombres, yo también le confesaré delante de mi Padre que está en los cielos."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "1 Jn. 3:2",
+              "Pasaje": "2. Amados, ahora somos hijos de Dios, y aún no se ha manifestado lo que hemos de ser; pero sabemos que cuando él se manifieste, seremos semejantes a él, porque le veremos tal como él es."
+            },
+            {
+              "cita": "1 Cor. 13:12",
+              "Pasaje": "12. Ahora vemos por espejo, oscuramente; mas entonces veremos cara a cara. Ahora conozco en parte; pero entonces conoceré como fui conocido."
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "1 Tes. 4:17,18",
+              "Pasaje": "17. Luego nosotros los que vivimos, los que hayamos quedado, seremos arrebatados juntamente con ellos en las nubes para recibir al Señor en el aire, y así estaremos siempre con el Señor.\n18. Por tanto, alentaos los unos a los otros con estas palabras."
+            }
+          ]
+        }
+      ],
+      "pagina": 128,
+      "numeroNotaBiblica": 433,
+      "completa": true
+    },
+    {
+      "numero": 39,
+      "pregunta": "¿Cuál es el deber que Dios exige al hombre?",
+      "respuesta": "El deber que Dios exige al hombre es la obediencia a su voluntad revelada.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Mq. 6:8",
+              "Pasaje": "8. Oh hombre, él te ha declarado lo que es bueno, y qué pide Jehová de ti: solamente hacer justicia, y amar misericordia, y humillarte ante tu Dios."
+            },
+            {
+              "cita": "1 S. 15:22",
+              "Pasaje": "22. ¿Se complace Jehová tanto en los holocaustos y víctimas, como en que se obedezca a las palabras de Jehová? Ciertamente el obedecer es mejor que los sacrificios, y el prestar atención que la grosura de los carneros."
+            }
+          ]
+        }
+      ],
+      "pagina": 128,
+      "numeroNotaBiblica": 434,
+      "completa": true
+    },
+    {
+      "numero": 40,
+      "pregunta": "¿Cuál fue la primera regla que Dios reveló al hombre como guía de obediencia?",
+      "respuesta": "La primera regla que Dios reveló al hombre, como guía de obediencia, fue la ley moral.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Rom. 2:14,15",
+              "Pasaje": "14. Porque cuando los gentiles que no tienen ley, hacen por naturaleza lo que es de la ley, éstos, aunque no tengan ley, son ley para sí mismos,\n15. mostrando la obra de la ley escrita en sus corazones, dando testimonio su conciencia, y acusándoles o defendiéndoles sus"
+            },
+            {
+              "cita": "Rom. 10:5",
+              "Pasaje": "5. Porque de la justicia que es por la ley Moisés escribe así: El hombre que haga estas cosas, vivirá por ellas. Pero la justicia que es por la fe dice así:"
+            }
+          ]
+        }
+      ],
+      "pagina": 129,
+      "numeroNotaBiblica": 435,
+      "completa": true
+    },
+    {
+      "numero": 41,
+      "pregunta": "¿Dónde se comprende sumariamente la ley moral?",
+      "respuesta": "La ley moral se comprende sumariamente en los diez mandamientos.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Deu. 10:4",
+              "Pasaje": "4. Y escribió en las tablas conforme a la primera escritura, los diez mandamientos que Jehová os había hablado en el monte de en medio del fuego, el día de la asamblea; y me las dio Jehová."
+            },
+            {
+              "cita": "Mat. 19:17",
+              "Pasaje": "17. ¿Por qué me llamas bueno? Ninguno hay bueno sino uno: Dios. Mas si quieres entrar en la vida, guarda los mandamientos. Le dijo: ¿Cuáles?"
+            }
+          ]
+        }
+      ],
+      "pagina": 129,
+      "numeroNotaBiblica": 436,
+      "completa": true
+    },
+    {
+      "numero": 42,
+      "pregunta": "¿Cuál es el resumen de los diez mandamientos?",
+      "respuesta": "El resumen de los diez mandamientos es, amar al Señor nuestro Dios con todo nuestro corazón, con toda nuestra alma, con todas nuestras fuerzas y con todo nuestro entendimiento; y a nuestro prójimo como a nosotros mismos.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Mat. 22:37-40",
+              "Pasaje": "38. Éste es el primero y grande mandamiento. Y el segundo es semejante:\n39. Amarás a tu prójimo como a ti mismo.\n40. De estos dos mandamientos depende toda la ley y los profetas.",
+              "estadoPasaje": "Incompleto: faltan versículos 37"
+            }
+          ]
+        }
+      ],
+      "pagina": 129,
+      "numeroNotaBiblica": 437,
+      "completa": true
+    },
+    {
+      "numero": 43,
+      "pregunta": "¿Cuál es el prefacio de los diez mandamientos?",
+      "respuesta": "El prefacio de los diez mandamientos es: «Yo soy JEHOVÁ tu Dios, que te saqué de la tierra de Egipto, de casa de servidumbre».",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Ex. 20:2",
+              "Pasaje": null,
+              "estadoPasaje": "No se pudo extraer el pasaje del PDF"
+            }
+          ]
+        }
+      ],
+      "pagina": 129,
+      "numeroNotaBiblica": 438,
+      "completa": true
+    },
+    {
+      "numero": 44,
+      "pregunta": "¿Qué nos enseña el prefacio de los diez mandamientos?",
+      "respuesta": "El prefacio de los diez mandamientos nos enseña que, ya que Dios es el Señor y nuestro Dios y Redentor, estamos obligados a guardar todos sus mandamientos.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Luc. 1:74,75",
+              "Pasaje": "74. de conceder Que, librados de nuestros enemigos, Sin temor\n75. le serviríamos En santidad y en justicia delante de él, todos nuestros días."
+            },
+            {
+              "cita": "1 Ped. 1:15-19",
+              "Pasaje": "15. teníais estando en vuestra ignorancia; sino, como aquel que os llamó es santo, sed también vosotros santos en toda vuestra manera de vivir; porque escrito está:\n16. Sed santos, porque yo soy santo.\n17. Y si invocáis por Padre a aquel que sin acepción de personas juzga según la obra de cada uno, conducíos en\n18. temor todo el tiempo de vuestra peregrinación; sabiendo que fuisteis rescatados de vuestra vana manera de vivir, la cual recibisteis de vuestros padres, no con cosas corruptibles, como\n19. oro o plata, sino con la sangre preciosa de Cristo, como de un"
+            }
+          ]
+        }
+      ],
+      "pagina": 129,
+      "numeroNotaBiblica": 439,
+      "completa": true
+    },
+    {
+      "numero": 45,
+      "pregunta": "¿Cuál es el primer mandamiento?",
+      "respuesta": "El primer mandamiento es: «No tendrás dioses ajenos delante de mí».",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Ex. 20:3",
+              "Pasaje": "3. No te, harás imagen, ni ninguna semejanza de lo que esté arriba en el cielo, ni abajo en la tierra, ni en las aguas debajo de la tierra."
+            }
+          ]
+        }
+      ],
+      "pagina": 129,
+      "numeroNotaBiblica": 440,
+      "completa": true
+    },
+    {
+      "numero": 46,
+      "pregunta": "¿Qué se ordena en el primer mandamiento?",
+      "respuesta": "El primer mandamiento nos ordena que conozcamos y confesemos que Dios es el único Dios verdadero, y Dios nuestro; y que le adoremos y le glorifiquemos de acuerdo con esto.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "1 Cr. 28:9",
+              "Pasaje": "9. Y tú, Salomón, hijo mío, reconoce al Dios de tu padre, y sírvele con corazón perfecto y con ánimo voluntario; porque Jehová escudriña los corazones de todos, y entiende todo intento de los pensamientos. Si tú le buscares, lo hallarás; mas si lo dejares, él te desechará para siempre."
+            },
+            {
+              "cita": "Deu. 26:17",
+              "Pasaje": "17. Has declarado solemnemente hoy que Jehová es tu Dios, y que andarás en sus caminos, y guardarás sus estatutos, sus mandamientos y sus decretos, y que escucharás su voz."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Mat. 4:10",
+              "Pasaje": "10. Vete, Satanás, porque escrito está: Al Señor tu Dios adorarás, y a él sólo servirás."
+            },
+            {
+              "cita": "Sal. 29:2",
+              "Pasaje": "2. Dad a Jehová la gloria debida a su nombre; Adorad a Jehová en la hermosura de la santidad."
+            }
+          ]
+        }
+      ],
+      "pagina": 129,
+      "numeroNotaBiblica": 441,
+      "completa": true
+    },
+    {
+      "numero": 47,
+      "pregunta": "¿Qué se prohíbe en el primer mandamiento?",
+      "respuesta": "El primer mandamiento prohíbe que neguemos a Dios o que no adoremos y glorifiquemos al verdadero Dios como Dios y como Dios nuestro; y que demos aquella adoración y gloria a algún otro, las cuales solo a Él son debidas.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Sal. 24:1",
+              "Pasaje": "1. Salmo de David. De Jehová es la tierra y su plenitud; El mundo, y los que en él habitan."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Rom. 1:21",
+              "Pasaje": "21. Pues habiendo conocido a Dios, no le glorificaron como a Dios, ni le dieron gracias, sino que se envanecieron en sus razonamientos, y su necio corazón fue entenebrecido."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Sal. 81:10,11",
+              "Pasaje": "11. Pero mi pueblo no oyó mi voz, E Israel no me quiso a mí.",
+              "estadoPasaje": "Incompleto: faltan versículos 10"
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "Rom. 1:25,26",
+              "Pasaje": "25. propios cuerpos, ya que cambiaron la verdad de Dios por la mentira, honrando y dando culto a las criaturas antes que al Creador, el cual es bendito por los siglos. Amén.\n26. Por esto Dios los entregó a pasiones vergonzosas; pues aun sus mujeres"
+            }
+          ]
+        }
+      ],
+      "pagina": 129,
+      "numeroNotaBiblica": 442,
+      "completa": true,
+      "observaciones": "La respuesta comienza en la página 129 y termina en la página 130; la nota 442 está en la página 130.",
+      "paginas": [
+        129,
+        130
+      ]
+    },
+    {
+      "numero": 48,
+      "pregunta": "¿Qué cosa especial se nos enseña con estas palabras «delante de mí», contenidas en el primer mandamiento?",
+      "respuesta": "En estas palabras, «delante de mí», contenidas en el primer mandamiento, nos enseña que Dios, que todo lo ve, se da cuenta y es grandemente ofendido con el pecado de tener cualquier otro dios.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Eze. 8:5,6",
+              "Pasaje": "5. Hijo de hombre, alza ahora tus ojos hacia el lado del norte. Y alcé mis ojos hacia el norte, y he aquí al norte, junto a la puerta del altar, aquella imagen del celo en la entrada.\n6. Me dijo entonces: Hijo de hombre, ¿no ves lo que éstos hacen, las grandes abominaciones que la casa de Israel hace aquí para alejarme de mi santuario? Pero vuélvete aún, y verás abominaciones mayores."
+            },
+            {
+              "cita": "Sal. 46:20,21",
+              "Pasaje": null,
+              "estadoPasaje": "No se pudo extraer el pasaje del PDF"
+            }
+          ]
+        }
+      ],
+      "pagina": 130,
+      "numeroNotaBiblica": 443,
+      "completa": true,
+      "observaciones": "La segunda referencia de la nota 443 se transcribió como se aprecia en la fotografía, pero conviene verificar su numeración: el Salmo 46 no tiene versículos 20 ni 21."
+    },
+    {
+      "numero": 49,
+      "pregunta": "¿Cuál es el segundo mandamiento?",
+      "respuesta": "El segundo mandamiento, es: «No te harás imagen, ni ninguna semejanza de cosa que esté arriba en el cielo, ni abajo en la tierra, ni en las aguas debajo de la tierra: No te inclinarás a ellas, ni las honrarás; porque yo soy Jehová tu Dios, fuerte, celoso, que visito la maldad de los padres sobre los hijos, sobre los terceros y sobre los cuartos, a los que me aborrecen, y que hago misericordia en millares a los que me aman, y guardan mis mandamientos».",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Ex. 20:4-6",
+              "Pasaje": "5. No te inclinarás a ellas, ni las honrarás; porque yo soy Jehová tu Dios, fuerte, celoso, que visito la maldad de los padres sobre los hijos hasta la tercera y cuarta generación de los que\n6. me aborrecen, y hago misericordia a millares, a los que me aman y guardan mis mandamientos.",
+              "estadoPasaje": "Incompleto: faltan versículos 4"
+            }
+          ]
+        }
+      ],
+      "pagina": 130,
+      "numeroNotaBiblica": 444,
+      "completa": true
+    },
+    {
+      "numero": 50,
+      "pregunta": "¿Qué se ordena en el segundo mandamiento?",
+      "respuesta": "El segundo mandamiento ordena que recibamos, observemos y guardemos, puras y completas, toda la adoración religiosa y las ordenanzas como Dios lo ha establecido en su Palabra.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Deu. 32:46",
+              "Pasaje": "46. Aplicad vuestro corazón a todas las palabras que yo os testifico hoy, para que las mandéis a vuestros hijos, a fin de que cuiden de cumplir todas las palabras de esta ley."
+            },
+            {
+              "cita": "Mat. 28:20",
+              "Pasaje": "20. ritu Santo; enseñándoles que guarden todas las cosas que os he mandado; y he aquí yo estoy con vosotros todos los días, hasta el fin del mundo. Amén."
+            },
+            {
+              "cita": "Hch. 2:42",
+              "Pasaje": "42. Y perseveraban en la doctrina de los apóstoles, en la comunión unos con otros, en el partimiento del pan y en las oraciones."
+            }
+          ]
+        }
+      ],
+      "pagina": 130,
+      "numeroNotaBiblica": 445,
+      "completa": true
+    },
+    {
+      "numero": 51,
+      "pregunta": "¿Qué se prohíbe en el segundo mandamiento?",
+      "respuesta": "El segundo mandamiento prohíbe que la adoración a Dios por medio de imágenes o por cualquier otro medio no autorizado en su Palabra.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Deu. 4:15-19",
+              "Pasaje": "15. Guardad, pues, mucho vuestras almas; pues ninguna figura visteis el día que Jehová\n16. habló con vosotros de en medio del fuego; para que no os corrompáis y hagáis para vosotros escultura, imagen de figura\n17. alguna, efigie de varón o hembra, figura de animal alguno que está en la tierra, figura de ave alguna alada que vuele por el\n18. aire, figura de ningún animal que se arrastre sobre la tierra, figura de pez alguno que haya en el agua debajo de la tierra.\n19. No sea que alces tus ojos al cielo, y viendo el sol y la luna y las estrellas, y todo el ejército del cielo, seas impulsado, y te inclines a ellos y les sirvas; porque Jehová tu Dios los ha concedido a todos los pueblos debajo de todos los cielos."
+            },
+            {
+              "cita": "Ex. 32:5,8",
+              "Pasaje": "5. Y viendo esto Aarón, edificó un altar delante del becerro; y pregonó Aarón, y dijo: Mañana será fiesta para Jehová.\n8. Pronto se han apartado del camino que yo les mandé; se han hecho un becerro de fundición, y lo han adorado, y le han ofrecido sacrificios, y han dicho: Israel, éstos son tus dioses, que te sacaron de la tierra de Egipto. Dijo más Jehová a Moisés:"
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Deu. 12:31,32",
+              "Pasaje": "31. No harás así a Jehová tu Dios; porque toda cosa abominable que Jehová aborrece, hicieron ellos a sus dioses; pues aun a sus hijos y a sus hijas quemaban en el fuego a sus dioses.\n32. Cuidarás de hacer todo lo que yo te mando; no añadirás a ello, ni de ello quitarás."
+            }
+          ]
+        }
+      ],
+      "pagina": 130,
+      "numeroNotaBiblica": 446,
+      "completa": true
+    },
+    {
+      "numero": 52,
+      "pregunta": "¿Cuáles son las razones añadidas al segundo mandamiento?",
+      "respuesta": "Las razones añadidas al segundo mandamiento son: la soberanía de Dios sobre nosotros, su propiedad de nosotros y el celo que Él tiene por su propia adoración.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Sal. 95:2,3,6",
+              "Pasaje": "2. Lleguemos ante su presencia con alabanza; Aclamémosle con cánticos.\n3. Porque Jehová es Dios grande, Y Rey grande sobre todos los dioses.\n6. Venid, adoremos y postrémonos; Arrodillémonos delante de Jehová nuestro Hacedor. Porque él es nuestro Dios;"
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Sal. 45:11",
+              "Pasaje": "11. Y deseará el rey tu hermosura; E inclínate a él, porque él es tu señor."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Ex. 34:13,14",
+              "Pasaje": "13. Derribaréis sus altares, y quebraréis sus estatuas, y cortaréis sus imágenes de Asera.\n14. Porque no te has de inclinar a ningún otro dios, pues Jehová, cuyo nombre es Celoso, Dios celoso es."
+            }
+          ]
+        }
+      ],
+      "pagina": 130,
+      "numeroNotaBiblica": 447,
+      "completa": true
+    },
+    {
+      "numero": 53,
+      "pregunta": "¿Cuál es el tercer mandamiento?",
+      "respuesta": "El tercer mandamiento es: «No tomarás el nombre de Jehová tu Dios en vano; porque no dará por inocente Jehová al que tomare su nombre en vano».",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Ex. 20:7",
+              "Pasaje": "7. No tomarás el nombre de Jehová tu Dios en vano; porque no dará por inocente Jehová al que tomare su nombre en vano."
+            }
+          ]
+        }
+      ],
+      "pagina": 130,
+      "numeroNotaBiblica": 448,
+      "completa": true
+    },
+    {
+      "numero": 54,
+      "pregunta": "¿Qué se exige en el tercer mandamiento?",
+      "respuesta": "El tercer mandamiento exige el uso santo y reverente de los nombres, títulos, atributos, ordenanzas, Palabra y obras de Dios.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Mat. 6:9",
+              "Pasaje": "9. Padre nuestro que estás en los cielos, santificado sea tu nombre."
+            },
+            {
+              "cita": "Deu. 28:58",
+              "Pasaje": "58. Si no cuidares de poner por obra todas las palabras de esta ley que están escritas en este libro, temiendo este nombre glorioso y temible: JEHOVÁ TU DIOS,"
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Sal. 68:4",
+              "Pasaje": "4. Cantad a Dios, cantad salmos a su nombre; Exaltad al que cabalga sobre los cielos. JAH es su nombre; alegraos delante de él."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Apo. 15:3,4",
+              "Pasaje": "3. Y cantan el cántico de Moisés siervo de Dios, y el cántico del Cordero, diciendo: Grandes y maravillosas son tus obras, Señor Dios Todopoderoso; justos y verdaderos son tus caminos, Rey de los santos.\n4. ¿Quién no te temerá, oh Señor, y glorificará tu nombre? pues sólo tú eres santo; por lo cual todas las naciones vendrán y te adorarán, porque tus juicios se han manifestado."
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "Ml. 1:11,14",
+              "Pasaje": "11. Porque desde donde el sol nace hasta donde se pone, es grande mi nombre entre las naciones; y en todo lugar se ofrece a mi nombre incienso y ofrenda limpia, porque grande es mi nombre entre las naciones, dice Jehová de los ejércitos.\n14. Maldito el que engaña, el que teniendo machos en su rebaño, promete, y sacrifica a Jehová lo dañado. Porque yo soy Gran Rey, dice Jehová de los ejércitos, y mi nombre es temible entre las naciones."
+            }
+          ]
+        },
+        {
+          "inciso": "e",
+          "citas": [
+            {
+              "cita": "Sal. 138:1,2",
+              "Pasaje": "1. Salmo de David. Te alabaré con todo mi corazón; Delante de los dioses te cantaré salmos.\n2. Me postraré hacia tu santo templo, Y alabaré tu nombre por tu misericordia y tu fidelidad; Porque has engrandecido tu nombre, y tu palabra sobre todas las cosas."
+            }
+          ]
+        },
+        {
+          "inciso": "f",
+          "citas": [
+            {
+              "cita": "Job. 36:24",
+              "Pasaje": "24. Acuérdate de engrandecer su obra, La cual contemplan los hombres."
+            }
+          ]
+        }
+      ],
+      "pagina": 131,
+      "numeroNotaBiblica": 449,
+      "completa": true
+    },
+    {
+      "numero": 55,
+      "pregunta": "¿Qué prohíbe el tercer mandamiento?",
+      "respuesta": "El tercer mandamiento prohíbe toda profanación o abuso de cualquier cosa por la cual Dios se da a conocer.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Ml. 1:6,7,12",
+              "Pasaje": "6. El hijo honra al padre, y el siervo a su señor. Si, pues, soy yo padre, ¿dónde está mi honra? y si soy señor, ¿dónde está mi temor? dice Jehová de los ejércitos a vosotros, oh sacerdotes, que menospreciáis mi nombre. Y decís: ¿En qué hemos menospreciado tu nombre?\n7. En que ofrecéis sobre mi altar pan inmundo. Y dijisteis: ¿En qué te hemos deshonrado? En que pensáis que la mesa de Jehová es despreciable.\n12. Y vosotros lo habéis profanado cuando decís: Inmunda es la mesa de Jehová, y cuando decís que su alimento es despreciable. Habéis además dicho:"
+            },
+            {
+              "cita": "Ml. 2:2",
+              "Pasaje": "2. Si no oyereis, y si no decidís de corazón dar gloria a mi nombre, ha dicho Jehová de los ejércitos, enviaré maldición sobre vosotros, y maldeciré vuestras bendiciones; y aun las he maldecido, porque no os habéis decidido de corazón."
+            },
+            {
+              "cita": "Ml. 3:14",
+              "Pasaje": "14. ¿Qué aprovecha que guardemos su ley, y que andemos afligidos en presencia de Jehová de los ejércitos?"
+            }
+          ]
+        }
+      ],
+      "pagina": 131,
+      "numeroNotaBiblica": 450,
+      "completa": true
+    },
+    {
+      "numero": 56,
+      "pregunta": "¿Cuál es la razón añadida al tercer mandamiento?",
+      "respuesta": "La razón añadida al tercer mandamiento es, que por más que eviten los infractores de este mandamiento el castigo humano, el Señor, nuestro Dios, no les dejará escapar de Su justo juicio.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "1 S. 2:12,17,22,29",
+              "Pasaje": "12. Los hijos de Elí eran hombres impíos, y no tenían conocimiento de Jehová.\n17. Era, pues, muy grande delante de Jehová el pecado de los jóvenes; porque los hombres menospreciaban las ofrendas de Jehová.\n22. Pero Elí era muy viejo; y oía de todo lo que sus hijos hacían con todo Israel, y cómo dormían con las mujeres que velaban a la puerta del tabernáculo de reunión. Y les dijo:\n29. ¿Por qué habéis hollado mis sacrificios y mis ofrendas, que yo mandé ofrecer en el tabernáculo; y has honrado a tus hijos más que a mí, engordándoos de lo principal de todas las ofrendas de mi pueblo Israel? Por tanto, Jehová el Dios de Israel dice:"
+            },
+            {
+              "cita": "1 S. 3:13",
+              "Pasaje": "13. Y le mostraré que yo juzgaré su casa para siempre, por la iniquidad que él sabe; porque sus hijos han blasfemado a Dios, y él no los ha estorbado."
+            },
+            {
+              "cita": "Deu. 28:58,59",
+              "Pasaje": "58. Si no cuidares de poner por obra todas las palabras de esta ley que están escritas en este libro, temiendo este nombre glorioso y temible: JEHOVÁ TU DIOS,\n59. entonces Jehová aumentará maravillosamente tus plagas y las plagas de tu descendencia, plagas grandes y permanentes, y"
+            }
+          ]
+        }
+      ],
+      "pagina": 131,
+      "numeroNotaBiblica": 451,
+      "completa": true
+    },
+    {
+      "numero": 57,
+      "pregunta": "¿Cuál es el cuarto mandamiento?",
+      "respuesta": "El cuarto mandamiento es: «Acuérdate del día del reposo, para santificarlo: Seis días trabajarás, y harás toda tu obra; Mas el séptimo día será reposo para Jehová tu Dios: no hagas en él obra alguna, tú, ni tu hijo, ni tu hija, ni tu siervo, ni tu criada, ni tu bestia, ni tu extranjero que está dentro de tus puertas: Porque en seis días hizo Jehová los cielos y la tierra, el mar y todas las cosas que en ellos hay, y reposó en el séptimo día: por tanto Jehová bendijo el día del reposo y lo santificó».",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Ex. 20:8-11",
+              "Pasaje": "8. Acuérdate del día de reposo para santificarlo.\n9. Seis días trabajarás, y harás toda tu\n10. obra; mas el séptimo día es reposo para Jehová tu Dios; no hagas en él obra alguna, tú, ni tu hijo, ni tu hija, ni tu siervo, ni tu criada, ni tu bestia, ni tu extranjero que está dentro de tus puertas.\n11. Porque en seis días hizo Jehová los cielos y la tierra, el mar, y todas las cosas que en ellos hay, y reposó en el séptimo día; por tanto, Jehová bendijo el día de reposo y lo santificó."
+            }
+          ]
+        }
+      ],
+      "pagina": 131,
+      "numeroNotaBiblica": 452,
+      "completa": true
+    },
+    {
+      "numero": 58,
+      "pregunta": "¿Qué exige el cuarto mandamiento?",
+      "respuesta": "El cuarto mandamiento exige que consagremos a Dios los tiempos que Él ha señalado en Su Palabra; expresamente un día entero de cada siete, para ser un santo sabbath a Él.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Deu. 5:12-14",
+              "Pasaje": "12. Guardarás el día de reposo para santificarlo, como Jehová tu Dios te ha mandado.\n13. Seis días trabajarás, y\n14. harás toda tu obra; mas el séptimo día es reposo a Jehová tu Dios; ninguna obra harás tú, ni tu hijo, ni tu hija, ni tu siervo, ni tu sierva, ni tu buey, ni tu asno, ni ningún animal tuyo, ni el extranjero que está dentro de tus puertas, para que descanse tu siervo y tu sierva como tú."
+            }
+          ]
+        }
+      ],
+      "pagina": 131,
+      "numeroNotaBiblica": 453,
+      "completa": true
+    },
+    {
+      "numero": 59,
+      "pregunta": "¿Cuál día de los siete ha señalado Dios para ser el sabbath semanal?",
+      "respuesta": "Desde la creación del mundo hasta la resurrección de Cristo, Dios señaló el séptimo día de la semana para ser el sabbath semanal; mas, desde entonces ha señalado el primer día de la semana; para que continúe así hasta el fin del mundo y el cual es el sabbath cristiano.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Gén. 2:2,3",
+              "Pasaje": "2. Y acabó Dios en el día séptimo la obra que hizo; y reposó el día séptimo de toda la obra que hizo.\n3. Y bendijo Dios al día séptimo, y lo santificó, porque en él reposó de toda la obra que había hecho en la creación."
+            },
+            {
+              "cita": "1 Cor. 16:1,2",
+              "Pasaje": "1. En cuanto a la ofrenda para los santos, haced vosotros también de la manera que ordené en las iglesias de Galacia.\n2. Cada primer día de la semana cada uno de vosotros ponga aparte algo, según haya prosperado, guardándolo, para que cuando yo llegue no se recojan entonces ofrendas."
+            },
+            {
+              "cita": "Hch. 20:7",
+              "Pasaje": "7. El primer día de la semana, reunidos los discípulos para partir el pan, Pablo les enseñaba, habiendo de salir al día siguiente; y alargó el discurso hasta la medianoche."
+            }
+          ]
+        }
+      ],
+      "pagina": 131,
+      "numeroNotaBiblica": 454,
+      "completa": true
+    },
+    {
+      "numero": 60,
+      "pregunta": "¿Cómo ha de santificarse el sabbath?",
+      "respuesta": "El sabbath debe ser santificado por un santo descanso durante todo ese día, aún de aquellos empleos o recreaciones mundanales que son lícitos en otros días; y ocupando todo el tiempo en los ejercicios públicos y privados de culto a Dios, salvo aquella parte que se emplee en hacer obras de necesidad o de misericordia.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Ex. 20:8,10",
+              "Pasaje": "8. Acuérdate del día de reposo para santificarlo.\n10. obra; mas el séptimo día es reposo para Jehová tu Dios; no hagas en él obra alguna, tú, ni tu hijo, ni tu hija, ni tu siervo, ni tu criada, ni tu bestia, ni tu extranjero que está dentro de tus puertas."
+            },
+            {
+              "cita": "26:25-28",
+              "Pasaje": "25. De suerte que serán ocho tablas, con sus basas de plata, dieciséis basas; dos basas debajo de una tabla, y dos basas debajo de otra tabla.\n26. Harás también cinco barras de madera de acacia, para las tablas de\n27. un lado del tabernáculo, y cinco barras para las tablas del otro lado del tabernáculo, y cinco barras para las tablas del lado posterior del tabernáculo, al occidente.\n28. Y la barra de en medio pasará por en medio de las tablas, de un extremo al otro."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Neh. 13:15-22",
+              "Pasaje": "15. En aquellos días vi en Judá a algunos que pisaban en lagares en el día de reposo, y que acarreaban haces, y cargaban asnos con vino, y también de uvas, de higos y toda suerte de carga, y que traían a Jerusalén en día de reposo; y los amonesté acerca del día en que vendían las provisiones.\n16. También había en la ciudad tirios que traían pescado y toda mercadería, y vendían en día de reposo a los hijos de Judá en Jerusalén.\n17. Y reprendí a los señores de Judá y les dije: ¿Qué mala cosa es ésta que vosotros hacéis, profanando así el día de reposo?\n18. ¿No hicieron así vuestros padres, y trajo nuestro Dios todo este mal sobre nosotros y sobre esta ciudad? ¿Y vosotros añadís ira sobre Israel profanando el día de reposo?\n19. Sucedió, pues, que cuando iba oscureciendo a las puertas de Jerusalén antes del día de reposo, dije que se cerrasen las puertas, y ordené que no las abriesen hasta después del día de reposo; y puse a las puertas algunos de mis criados, para que en día de reposo no introdujeran carga.\n20. Y se quedaron fuera de Jerusalén una y dos veces los negociantes y los que vendían toda especie de mercancía.\n21. Y les amonesté y les dije: ¿Por qué os quedáis vosotros delante del muro? Si lo hacéis otra vez, os echaré mano. Desde entonces no vinieron en día de reposo.\n22. Y dije a los levitas que se purificasen y viniesen a guardar las puertas, para santificar el día del reposo. También por esto acuérdate de mí, Dios mío, y perdóname según la grandeza de tu misericordia."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Luc. 4:16",
+              "Pasaje": "16. Vino a Nazaret, donde se había criado; y en el día de reposo entró en la sinagoga, conforme a su costumbre, y se levantó a leer."
+            },
+            {
+              "cita": "Hch. 20:7",
+              "Pasaje": "7. El primer día de la semana, reunidos los discípulos para partir el pan, Pablo les enseñaba, habiendo de salir al día siguiente; y alargó el discurso hasta la medianoche."
+            },
+            {
+              "cita": "Sal. 92 (el título)",
+              "Pasaje": "1. Cántico para el día de reposo. Bueno es alabarte, oh Jehová, Y cantar salmos a tu nombre, oh Altísimo;\n2. Anunciar por la mañana tu misericordia, Y tu fi-\n3. delidad cada noche, En el decacordio y en el salterio, En tono suave con el arpa.\n4. Por cuanto me has alegrado, oh Jehová, con tus obras; En las obras de tus manos me gozo.\n5. ¡Cuán grandes son tus obras, oh Jehová! Muy profundos son tus pensamientos.\n6. El hombre necio no sabe, Y el insensato no entiende esto.\n7. Cuando brotan los impíos como la hierba, Y florecen todos los que hacen iniquidad, Es para ser destruidos eternamente. Mas tú, Jehová, para siempre eres Altísimo.\n8. Porque he aquí, tus enemigos, oh Jehová, Porque he aquí, perecerán tus enemigos; Serán esparcidos todos los que hacen maldad.\n10. Pero tú aumentarás mis fuerzas como las del búfalo; Seré ungido con aceite fresco. Y mirarán mis ojos sobre mis enemigos;\n11. Oirán mis oídos de los que se levantaron contra mí, de los malignos. El justo florecerá como la palmera;\n12. Crecerá como cedro en el Líbano.\n13. Plantados en la casa de Jehová, En los atrios de nuestro Dios florecerán. Aun en la vejez fructificarán;\n14. Estarán\n15. vigorosos y verdes, Para anunciar que Jehová mi fortaleza es recto, Y que en él no hay injusticia. Jehová reina; se vistió de magnificencia;",
+              "observacionPasaje": "La indicación entre paréntesis del catecismo se conservó en cita; el texto de comparación debe verificarse por separado."
+            },
+            {
+              "cita": "Isa. 66:23",
+              "Pasaje": "23. Y de mes en mes, y de día de reposo en día de reposo, vendrán todos a adorar delante de mí, dijo Jehová."
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "Mat. 12:1-31 (especialmente vv. 2 y 12)",
+              "Pasaje": "1. En aquel tiempo iba Jesús por los sembrados en un día de reposo; y sus discípulos tuvieron hambre, y comenzaron a arrancar espigas y a comer.\n2. Viéndolo los fariseos, le dijeron: He aquí tus discípulos hacen lo que no es lícito hacer en el día de reposo. Pero él les dijo:\n3. ¿No habéis leído lo que hizo David, cuando él y los que con él estaban tuvieron hambre;\n4. cómo entró en la casa de Dios, y comió los panes de la proposición, que no les era lícito comer ni a él ni a los que con él estaban, sino solamente a los sacerdotes?\n5. ¿O no habéis leído en la ley, cómo en el día de reposo los sacerdotes en el templo profanan el día de reposo, y son sin culpa?\n6. Pues os digo que uno mayor que el templo está aquí.\n7. Y si supieseis qué significa: Misericordia quiero, y no sacrificio, no condenaríais a los\n8. inocentes; porque el Hijo del Hombre es Señor del día de reposo. Pasando de allí, vino a la sinagoga de ellos.\n9. Y he aquí, había allí uno que tenía seca una mano; y preguntaron a Jesús, para poder acusarle: ¿Es lícito sanar en el día de reposo?\n11. Él les dijo: ¿Qué hombre habrá de vosotros, que tenga una oveja, y si ésta cayere en un hoyo en día de reposo, no le eche mano, y la levante?\n12. Pues ¿cuánto más vale un hombre que una oveja? Por consiguiente, es lícito hacer el bien en los días de reposo. Entonces dijo a aquel hombre: Extiende tu mano.\n13. Y él la extendió, y le fue restaurada sana como la otra.\n14. Y salidos los fariseos, tuvieron consejo contra Jesús para destruirle.\n15. Sabiendo esto Jesús, se apartó de allí; y le siguió mucha gente,\n16. y sanaba a todos, y les encargaba rigurosamente que no le\n17. descubriesen; para que se cumpliese lo dicho por el profeta Isaías, cuando dijo:\n18. He aquí mi siervo, a quien he escogido; Mi Amado, en quien se agrada mi alma; Pondré mi Espíritu sobre él, Y a los gentiles anunciará juicio.\n19. No contenderá, ni voceará, Ni nadie oirá en las calles su voz.\n20. La caña cascada no quebrará, Y el pábilo que humea no apagará, Hasta que saque a victoria el juicio.\n21. Y en su nombre esperarán los gentiles.\n22. Entonces fue traído a él un endemoniado, ciego y mudo; y le sanó, de tal manera que el ciego y mudo veía y hablaba.\n23. Y toda la gente estaba atónita, y decía: ¿Será éste aquel Hijo de David? Mas los fariseos, al oírlo, decían:\n24. Éste no echa fuera los demonios sino por Beelzebú, príncipe de los demonios. Sabiendo Jesús los pensamientos de ellos, les dijo:\n25. Todo reino dividido contra sí mismo, es asolado, y toda ciudad o casa dividida contra sí misma, no permanecerá.\n26. Y si Satanás echa fuera a Satanás, contra sí mismo está dividido; ¿cómo, pues, permanecerá su reino?\n27. Y si yo echo fuera los demonios por Beelzebú, ¿por quién los echan vuestros hijos? Por tanto, ellos serán vuestros jueces.\n28. Pero si yo por el Espíritu de Dios echo fuera los demonios, ciertamente ha llegado a vosotros el reino de Dios.\n29. Porque ¿cómo puede alguno entrar en la casa del hombre fuerte, y saquear sus bienes, si primero no le ata? Y entonces podrá saquear su casa.\n30. El que no es conmigo, contra mí es; y el que conmigo no recoge, desparrama.\n31. Por tanto os digo: Todo pecado y blasfemia será perdonado a los hombres; mas la blasfemia contra el Espíritu no les será perdonada.",
+              "estadoPasaje": "Incompleto: faltan versículos 10",
+              "observacionPasaje": "La indicación entre paréntesis del catecismo se conservó en cita; el texto de comparación debe verificarse por separado."
+            }
+          ]
+        }
+      ],
+      "pagina": 131,
+      "numeroNotaBiblica": 455,
+      "completa": true
+    },
+    {
+      "numero": 61,
+      "pregunta": "¿Qué se prohíbe en el cuarto mandamiento?",
+      "respuesta": "El cuarto mandamiento prohíbe la omisión o cumplimiento negligente de los deberes requeridos, la profanación del día por la ociosidad, o por hacer lo que en sí es pecaminoso, o por innecesarios pensamientos, palabras u obras respecto a nuestros empleos o recreaciones mundanales.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Eze. 22:26",
+              "Pasaje": "26. Sus sacerdotes violaron mi ley, y contaminaron mis santuarios; entre lo santo y lo profano no hicieron diferencia, ni distinguieron entre inmundo y limpio; y de mis días de reposo apartaron sus ojos, y yo he sido profanado en medio de ellos."
+            },
+            {
+              "cita": "Am. 8:5",
+              "Pasaje": "5. ¿Cuándo pasará el mes, y venderemos el trigo; y la semana, y abriremos los graneros del pan, y achicaremos la medida, y subiremos el"
+            },
+            {
+              "cita": "Ml. 1:13",
+              "Pasaje": "13. ¡Oh, qué fastidio es esto! y me despreciáis, dice Jehová de los ejércitos; y trajisteis lo hurtado, o cojo, o enfermo, y presentasteis ofrenda. ¿Aceptaré yo eso de vuestra mano? dice Jehová."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Hch. 20:7,9",
+              "Pasaje": "7. El primer día de la semana, reunidos los discípulos para partir el pan, Pablo les enseñaba, habiendo de salir al día siguiente; y alargó el discurso hasta la medianoche.\n9. to donde estaban reunidos; y un joven llamado Eutico, que estaba sentado en la ventana, rendido de un sueño profundo, por cuanto Pablo disertaba largamente, vencido del sueño cayó del tercer piso abajo, y fue levantado muerto."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Eze. 23:38",
+              "Pasaje": "38. Aun esto más me hicieron: contaminaron mi santuario en aquel día, y profanaron mis días de reposo."
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "Jer. 17:24-26",
+              "Pasaje": "24. No obstante, si vosotros me obedeciereis, dice Jehová, no metiendo carga por las puertas de esta ciudad en el día de reposo, sino que santificareis el día de reposo, no haciendo en él ningún trabajo,\n25. entrarán por las puertas de esta ciudad, en carros y en caballos, los reyes y los príncipes que se sientan sobre el trono de David, ellos y sus príncipes, los varones de Judá y los moradores de Jerusalén; y esta ciudad será habitada para siempre.\n26. Y vendrán de las ciudades de Judá, de los alrededores de Jerusalén, de tierra de Benjamín, de la Sefela, de los montes y del Neguev, trayendo holocausto y sacrificio, y ofrenda e incienso, y trayendo sacrificio de alabanza a la casa de Jehová."
+            },
+            {
+              "cita": "Isa. 58:13",
+              "Pasaje": "13. Si retrajeres del día de reposo tu pie, de hacer tu voluntad en mi día santo, y lo llamares delicia, santo, glorioso de Jehová; y lo venerares, no andando en tus propios caminos, ni buscando tu voluntad, ni hablando"
+            }
+          ]
+        }
+      ],
+      "pagina": 132,
+      "numeroNotaBiblica": 456,
+      "completa": true
+    },
+    {
+      "numero": 62,
+      "pregunta": "¿Cuáles son las razones añadidas al cuarto mandamiento?",
+      "respuesta": "Las razones añadidas al cuarto mandamiento son: el habernos concedido Dios seis días de la semana para nuestras propias ocupaciones; el haberse reservado para sí mismo una propiedad especial sobre el séptimo; el haber bendecido el sabbath, y finalmente su propio ejemplo.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Ex. 20:9",
+              "Pasaje": "9. Seis días trabajarás, y harás toda tu"
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Ex. 20:11",
+              "Pasaje": "11. Porque en seis días hizo Jehová los cielos y la tierra, el mar, y todas las cosas que en ellos hay, y reposó en el séptimo día; por tanto, Jehová bendijo el día de reposo y lo santificó."
+            }
+          ]
+        }
+      ],
+      "pagina": 132,
+      "numeroNotaBiblica": 457,
+      "completa": true
+    },
+    {
+      "numero": 63,
+      "pregunta": "¿Cuál es el quinto mandamiento?",
+      "respuesta": "El quinto mandamiento es: «Honra a tu padre y a tu madre, para que tus días se alarguen en la tierra que Jehová tu Dios te da».",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Ex. 20:12",
+              "Pasaje": "12. Honra a tu padre y a tu madre, para que tus días se alarguen en la tierra que Jehová tu Dios te da."
+            }
+          ]
+        }
+      ],
+      "pagina": 132,
+      "numeroNotaBiblica": 458,
+      "completa": true
+    },
+    {
+      "numero": 64,
+      "pregunta": "¿Qué se exige en el quinto mandamiento?",
+      "respuesta": "El quinto mandamiento exige la preservación del honor y el cumplimiento de nuestras obligaciones para con toda persona en su respectivo puesto o relación como superior, inferior o igual.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Ef. 5:21",
+              "Pasaje": "21. Someteos unos a otros en el temor de Dios."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "1 Ped. 2:17",
+              "Pasaje": "17. Amad a los hermanos. Temed a Dios. Honrad al rey."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Rom. 12:10",
+              "Pasaje": "10. Amaos los unos a los otros con amor fraternal; en cuanto a honra, prefiriéndoos los unos a los otros."
+            }
+          ]
+        }
+      ],
+      "pagina": 132,
+      "numeroNotaBiblica": 459,
+      "completa": true
+    },
+    {
+      "numero": 65,
+      "pregunta": "¿Qué se prohíbe en el quinto mandamiento?",
+      "respuesta": "El quinto mandamiento prohíbe que descuidemos o rebajemos el honor o el servicio que corresponde a cada uno en el puesto o relación que ocupa.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Mat. 15:4-6",
+              "Pasaje": "4. Honra a tu padre y a tu madre; y: El que maldiga al padre o a la madre, muera irremisiblemente. Pero vosotros decís:\n5. Cualquiera que diga a su padre o a su madre: Es mi ofrenda a Dios todo aquello\n6. con que pudiera ayudarte, ya no ha de honrar a su padre o a su madre. Así habéis invalidado el mandamiento de Dios por vuestra tradición."
+            },
+            {
+              "cita": "Eze. 34:2-4",
+              "Pasaje": "3. Coméis la grosura, y os vestís de la lana; la engordada degolláis, mas no apacentáis a las ovejas.\n4. No fortalecisteis las débiles, ni curasteis la enferma; no vendasteis la perniquebrada, no volvisteis al redil la descarriada, ni buscasteis la perdida, sino que os habéis enseñoreado de ellas con dureza y con violencia.",
+              "estadoPasaje": "Incompleto: faltan versículos 2"
+            },
+            {
+              "cita": "Rom. 13:8",
+              "Pasaje": "8. No debáis a nadie nada, sino el amaros unos a otros; porque el que ama al prójimo, ha cumplido la ley. Porque:"
+            }
+          ]
+        }
+      ],
+      "pagina": 132,
+      "numeroNotaBiblica": 460,
+      "completa": true
+    },
+    {
+      "numero": 66,
+      "pregunta": "¿Cuál es la razón añadida al quinto mandamiento?",
+      "respuesta": "La razón añadida al quinto mandamiento es la promesa de larga vida y de prosperidad, (en cuanto sirva al bien humano y a la gloria de Dios), hecha a todos los que guarden este mandamiento.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Deu. 5:16",
+              "Pasaje": "16. Honra a tu padre y a tu madre, como Jehová tu Dios te ha mandado, para que sean prolongados tus días, y para que te vaya bien sobre la, tierra que Jehová tu Dios te da. No matarás."
+            },
+            {
+              "cita": "Ef. 6:2,3",
+              "Pasaje": "2. Honra a tu padre y a tu madre, que es el primer\n3. mandamiento con promesa; para que te vaya bien, y seas de larga vida sobre la tierra."
+            }
+          ]
+        }
+      ],
+      "pagina": 132,
+      "numeroNotaBiblica": 461,
+      "completa": true
+    },
+    {
+      "numero": 67,
+      "pregunta": "¿Cuál es el sexto mandamiento?",
+      "respuesta": "El sexto mandamiento es: «No matarás».",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Ex. 10:13",
+              "Pasaje": "13. Y extendió Moisés su vara sobre la tierra de Egipto, y Jehová trajo un viento oriental sobre el país todo aquel día y toda aquella noche; y al venir la mañana el viento oriental trajo la langosta."
+            }
+          ]
+        }
+      ],
+      "pagina": 133,
+      "numeroNotaBiblica": 462,
+      "completa": true,
+      "observaciones": "La referencia al pie de la fotografía parece decir Ex. 10:13; se conserva tal como se aprecia en el impreso, pendiente de verificación."
+    },
+    {
+      "numero": 68,
+      "pregunta": "¿Qué se exige en el sexto mandamiento?",
+      "respuesta": "El sexto mandamiento exige que hagamos todos los esfuerzos legítimos para preservar nuestra vida y la de otros.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Ef. 5:28,29",
+              "Pasaje": "28. Así también los maridos deben amar a sus mujeres como a sus mismos cuerpos. El que ama a su mujer, a sí mismo se ama.\n29. Porque nadie aborreció jamás a su propia carne, sino que la sustenta y la cuida, como también Cristo a la iglesia,"
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "1 R. 18:4",
+              "Pasaje": "4. Porque cuando Jezabel destruía a los profetas de Jehová, Abdías tomó a cien profetas y los escondió de cincuenta en cincuenta en cuevas, y los sustentó con pan y agua."
+            }
+          ]
+        }
+      ],
+      "pagina": 133,
+      "numeroNotaBiblica": 463,
+      "completa": true
+    },
+    {
+      "numero": 69,
+      "pregunta": "¿Qué se prohíbe en el sexto mandamiento?",
+      "respuesta": "El sexto mandamiento prohíbe quitar nuestra propia vida o quitar injustamente la de nuestro prójimo, así como también todo lo que tienda a este resultado.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Hch. 16:28",
+              "Pasaje": "28. No te hagas ningún mal, pues todos estamos aquí."
+            },
+            {
+              "cita": "Gén. 9:6",
+              "Pasaje": "6. El que derramare sangre de hombre, por el hombre su sangre será derramada; porque a imagen de Dios es hecho el hombre."
+            }
+          ]
+        }
+      ],
+      "pagina": 133,
+      "numeroNotaBiblica": 464,
+      "completa": true
+    },
+    {
+      "numero": 70,
+      "pregunta": "¿Cuál es el séptimo mandamiento?",
+      "respuesta": "El séptimo mandamiento es: «No cometerás adulterio».",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Ex. 20:14",
+              "Pasaje": "14. No cometerás adulterio."
+            }
+          ]
+        }
+      ],
+      "pagina": 133,
+      "numeroNotaBiblica": 465,
+      "completa": true
+    },
+    {
+      "numero": 71,
+      "pregunta": "¿Qué se exige en el séptimo mandamiento?",
+      "respuesta": "El séptimo mandamiento exige que preservemos nuestra propia castidad y la de nuestro prójimo, en corazón, palabra y comportamiento.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "1 Cor. 7:2,3,5,34,36",
+              "Pasaje": "2. al hombre no tocar mujer; pero a causa de las fornicaciones, cada uno tenga su propia mujer, y cada una tenga su propio marido.\n3. El marido cumpla con la mujer el deber conyugal, y asimismo la mujer con el marido.\n5. No os neguéis el uno al otro, a no ser por algún tiempo de mutuo consentimiento, para ocuparos sosegadamente en la oración; y volved a juntaros en uno, para que no os tiente Satanás a causa de vuestra incontinencia.\n34. Hay asimismo diferencia entre la casada y la doncella. La doncella tiene cuidado de las cosas del Señor, para ser santa así en cuerpo como en espíritu; pero la casada tiene cuidado de las cosas del mundo, de cómo agradar a su marido.\n36. Pero si alguno piensa que es impropio para su hija virgen que pase ya de edad, y es necesario que así sea, haga lo que quiera, no peca; que se case."
+            },
+            {
+              "cita": "Col. 4:6",
+              "Pasaje": "6. Sea vuestra palabra siempre con gracia, sazonada con sal, para que sepáis cómo debéis responder a cada uno."
+            },
+            {
+              "cita": "1 Ped. 3:2",
+              "Pasaje": "2. ganados sin palabra por la conducta de sus esposas, considerando vuestra conducta casta y respetuosa."
+            }
+          ]
+        }
+      ],
+      "pagina": 133,
+      "numeroNotaBiblica": 466,
+      "completa": true
+    },
+    {
+      "numero": 72,
+      "pregunta": "¿Qué se prohíbe en el séptimo mandamiento?",
+      "respuesta": "El séptimo mandamiento prohíbe todo pensamiento, palabra o acción incasta.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Mat. 15:19",
+              "Pasaje": "19. Porque del corazón salen los malos pensamientos, los homicidios, los adulterios, las fornicaciones, los hurtos, los falsos testimonios, las blasfemias."
+            },
+            {
+              "cita": "5:28",
+              "Pasaje": "28. Pero yo os digo que cualquiera que mira a una mujer para codiciarla, ya adulteró con ella en su corazón."
+            },
+            {
+              "cita": "Ef. 5:3,4",
+              "Pasaje": "3. Pero fornicación y toda inmundicia, o avaricia, ni aun se\n4. nombre entre vosotros, como conviene a santos; ni palabras deshonestas, ni necedades, ni truhanerías, que no convienen, sino antes bien acciones de gracias."
+            }
+          ]
+        }
+      ],
+      "pagina": 133,
+      "numeroNotaBiblica": 467,
+      "completa": true
+    },
+    {
+      "numero": 73,
+      "pregunta": "¿Cuál es el octavo mandamiento?",
+      "respuesta": "El octavo mandamiento es: «No hurtarás».",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Ex. 20:15",
+              "Pasaje": "15. No hurtarás."
+            }
+          ]
+        }
+      ],
+      "pagina": 133,
+      "numeroNotaBiblica": 468,
+      "completa": true
+    },
+    {
+      "numero": 74,
+      "pregunta": "¿Qué se exige en el octavo mandamiento?",
+      "respuesta": "El octavo mandamiento exige que procuremos y promovamos, por todo medio legítimo, la prosperidad y bienestar de nosotros mismos y de los demás.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Gén. 30:30",
+              "Pasaje": "30. Porque poco tenías antes de mi venida, y ha crecido en gran número, y Jehová te ha bendecido con mi llegada; y ahora, ¿cuándo trabajaré también por mi propia casa?"
+            },
+            {
+              "cita": "1 Tim. 5:8",
+              "Pasaje": "8. estas cosas, para que sean irreprensibles; porque si alguno no provee para los suyos, y mayormente para los de su casa, ha negado la fe, y es peor que un incrédulo."
+            },
+            {
+              "cita": "Lev. 25:35",
+              "Pasaje": "35. Y cuando tu hermano empobreciere y se acogiere a ti, tú lo ampararás; como forastero y extranjero vivirá contigo."
+            },
+            {
+              "cita": "Deu. 22:1-5",
+              "Pasaje": "1. Si vieres extraviado el buey de tu hermano, o su cordero, no le negarás tu ayuda; lo volverás a tu hermano.\n2. Y si tu hermano no fuere tu vecino, o no lo conocieres, lo recogerás en tu casa, y estará contigo hasta que tu hermano lo busque, y se lo devolverás.\n3. Así harás con su asno, así harás también con su vestido, y lo mismo harás con toda cosa de tu hermano que se le perdiere y tú la hallares; no podrás negarle tu ayuda.\n4. Si vieres el asno de tu hermano, o su buey, caído en el camino, no te apartarás de él; le ayudarás a levantarlo.\n5. No vestirá la mujer traje de hombre, ni el hombre vestirá ropa de mujer; porque abominación es a Jehová tu Dios cualquiera que esto hace."
+            },
+            {
+              "cita": "Ex. 25:4,5",
+              "Pasaje": "4. que tomaréis de ellos: oro, plata, cobre, azul, púrpura, car-\n5. mesí, lino fino, pelo de cabras, pieles de carneros teñidas de"
+            },
+            {
+              "cita": "Gén. 47:14,20",
+              "Pasaje": "14. Y recogió José todo el dinero que había en la tierra de Egipto y en la tierra de Canaán, por los alimentos que de él compraban; y metió José el dinero en casa de Faraón.\n20. Entonces compró José toda la tierra de Egipto para Faraón; pues los egipcios vendieron cada uno sus tierras, porque se agravó el hambre sobre ellos; y la tierra vino a ser de Faraón."
+            }
+          ]
+        }
+      ],
+      "pagina": 133,
+      "numeroNotaBiblica": 469,
+      "completa": true
+    },
+    {
+      "numero": 75,
+      "pregunta": "¿Qué se prohíbe en el octavo mandamiento?",
+      "respuesta": "El octavo mandamiento prohíbe todo lo que impide o tiende a impedir injustamente la prosperidad y bienestar nuestro o de nuestro prójimo.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Prov. 21:7",
+              "Pasaje": "7. La rapiña de los impíos los destruirá, Por cuanto no quisieron hacer juicio."
+            },
+            {
+              "cita": "23:20,21",
+              "Pasaje": "20. No estés con los bebedores de vino, Ni con los comedores de carne;\n21. Porque el bebedor y el comilón empobrecerán, Y el sueño hará vestir vestidos rotos."
+            },
+            {
+              "cita": "28:19",
+              "Pasaje": "19. El que labra su tierra se saciará de pan; Mas el que sigue a los ociosos se llenará de pobreza."
+            },
+            {
+              "cita": "Ef. 4:28",
+              "Pasaje": null,
+              "estadoPasaje": "No se pudo extraer el pasaje del PDF"
+            }
+          ]
+        }
+      ],
+      "pagina": 133,
+      "numeroNotaBiblica": 470,
+      "completa": true
+    },
+    {
+      "numero": 76,
+      "pregunta": "¿Cuál es el noveno mandamiento?",
+      "respuesta": "El noveno mandamiento es: «No hablarás contra tu prójimo falso testimonio».",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Ex. 20:16",
+              "Pasaje": "16. No hablarás contra tu prójimo falso testimonio."
+            }
+          ]
+        }
+      ],
+      "pagina": 134,
+      "numeroNotaBiblica": 471,
+      "completa": true
+    },
+    {
+      "numero": 77,
+      "pregunta": "¿Qué se exige en el noveno mandamiento?",
+      "respuesta": "El noveno mandamiento exige el mantenimiento y la promoción de la verdad entre hombre y hombre, y del buen nombre de nosotros mismos así como el de nuestro prójimo, especialmente al dar testimonio.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Zab. 8:16",
+              "Pasaje": null,
+              "estadoPasaje": "Referencia no identificada en el PDF: requiere revisión"
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "3 Jn. 12",
+              "Pasaje": null,
+              "estadoPasaje": "Numeración de versículos inválida o no encontrada"
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Prov. 14:5,25",
+              "Pasaje": "5. El testigo verdadero no mentirá; Mas el testigo falso hablará mentiras.\n25. Mas el engañoso hablará mentiras. En el temor de Jehová está la fuerte confianza;"
+            }
+          ]
+        }
+      ],
+      "pagina": 134,
+      "numeroNotaBiblica": 472,
+      "completa": true,
+      "observaciones": "La abreviatura de la primera cita se aprecia como «Zab.» en la fotografía; requiere cotejo."
+    },
+    {
+      "numero": 78,
+      "pregunta": "¿Qué se prohíbe en el noveno mandamiento?",
+      "respuesta": "El noveno mandamiento prohíbe todo lo que sea perjudicial para la verdad, o que dañe nuestro buen nombre o el de nuestro prójimo.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "1 S. 17:28",
+              "Pasaje": "28. Y oyéndole hablar Eliab su hermano mayor con aquellos hombres, se encendió en ira contra David y dijo: ¿Para qué has descendido acá? ¿y a quién has dejado aquellas pocas ovejas en el desierto? Yo conozco tu soberbia y la malicia de tu corazón, que para ver la batalla has venido. David respondió: ¿Qué he hecho yo ahora?"
+            },
+            {
+              "cita": "Lev. 19:16",
+              "Pasaje": "16. No andarás chismeando entre tu pueblo. No atentarás contra la vida de tu prójimo. Yo Jehová."
+            },
+            {
+              "cita": "Sal. 15:3",
+              "Pasaje": "3. El que no calumnia con su lengua, Ni hace mal a su prójimo, Ni admite reproche alguno contra su vecino."
+            }
+          ]
+        }
+      ],
+      "pagina": 134,
+      "numeroNotaBiblica": 473,
+      "completa": true
+    },
+    {
+      "numero": 79,
+      "pregunta": "¿Cuál es el décimo mandamiento?",
+      "respuesta": "El décimo mandamiento es: «No codiciarás la casa de tu prójimo, no codiciarás la mujer de tu prójimo, ni su siervo, ni su criada, ni su buey, ni su asno, ni cosa alguna de tu prójimo».",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Ex. 20:17",
+              "Pasaje": "17. No codiciarás la casa de tu prójimo, no codiciarás la mujer de tu prójimo, ni su siervo, ni su criada, ni su buey, ni su asno, ni cosa alguna de tu prójimo."
+            }
+          ]
+        }
+      ],
+      "pagina": 134,
+      "numeroNotaBiblica": 474,
+      "completa": true
+    },
+    {
+      "numero": 80,
+      "pregunta": "¿Qué se exige en el décimo mandamiento?",
+      "respuesta": "El décimo mandamiento exige que nos contentemos con nuestra propia condición y que tengamos siempre una justa y caritativa disposición de ánimo respecto a nuestro prójimo y a todo lo que es suyo.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Heb. 13:5",
+              "Pasaje": "5. Sean vuestras costumbres sin avaricia, contentos con lo que tenéis ahora; porque él dijo: No"
+            },
+            {
+              "cita": "1 Tim. 6:6",
+              "Pasaje": "6. Pero gran ganancia es la piedad acompañada de"
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Job. 31:29",
+              "Pasaje": "29. Si me alegré en el quebrantamiento del que me aborrecía, Y me re-"
+            },
+            {
+              "cita": "Rom. 12:15",
+              "Pasaje": "15. Gozaos con los que se gozan; llorad con los que lloran."
+            },
+            {
+              "cita": "1 Tim. 1:5",
+              "Pasaje": "5. Pues el propósito de este mandamiento es el amor nacido de corazón"
+            },
+            {
+              "cita": "1 Cor. 13:4-7",
+              "Pasaje": "4. El amor es sufrido, es benigno; el amor no tiene envidia, el amor\n5. no es jactancioso, no se envanece; no hace nada indebido, no\n6. busca lo suyo, no se irrita, no guarda rencor; no se goza de la injusticia, mas se goza de la verdad.\n7. Todo lo sufre, todo lo cree, todo lo espera, todo lo soporta."
+            }
+          ]
+        }
+      ],
+      "pagina": 134,
+      "numeroNotaBiblica": 475,
+      "completa": true
+    },
+    {
+      "numero": 81,
+      "pregunta": "¿Qué se prohíbe en el décimo mandamiento?",
+      "respuesta": "El décimo mandamiento prohíbe todo descontento de nuestra propia condición; envidia o pesar por el bien de nuestro prójimo; y todo deseo o afección desordenada hacia lo que es suyo.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "1 R. 21:4",
+              "Pasaje": "4. Y vino Acab a su casa triste y enojado, por la palabra que Nabot de Jezreel le había respondido, diciendo: No te daré la heredad de mis padres. Y se acostó en su cama, y volvió su rostro, y no comió. Vino a él su mujer Jezabel, y le dijo:"
+            },
+            {
+              "cita": "Est. 5:13",
+              "Pasaje": "13. Pero todo esto de nada me sirve cada vez que veo al judío Mardoqueo sentado a la puerta del rey."
+            },
+            {
+              "cita": "1 Cor. 10:10",
+              "Pasaje": "10. Ni murmuréis, como algunos de ellos murmuraron, y perecieron por el destructor."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Gál. 5:26",
+              "Pasaje": "26. No nos hagamos vanagloriosos, irritándonos unos a otros, envidiándonos unos a otros."
+            },
+            {
+              "cita": "Stg. 3:14,16",
+              "Pasaje": "14. Pero si tenéis celos amargos y contención en vuestro corazón, no os\n16. Porque donde hay celos y contención, allí hay perturbación y toda obra perversa."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Rom. 7:7,8",
+              "Pasaje": "7. En ninguna manera. Pero yo no conocí el pecado sino por la ley; porque tampoco conociera la codicia, si la ley no dijera: No codiciarás.\n8. Mas el pecado, tomando ocasión por el mandamiento, produjo en mí toda codicia; porque sin la ley el pecado está muerto."
+            },
+            {
+              "cita": "13:9",
+              "Pasaje": "9. No adulterarás, no matarás, no hurtarás, no dirás falso testimonio, no codiciarás, y cualquier otro mandamiento, en esta sentencia se resume: Amarás a tu prójimo como a ti mismo."
+            },
+            {
+              "cita": "Deu. 5:21",
+              "Pasaje": "21. No codiciarás la mujer de tu prójimo, ni desearás la casa de tu prójimo, ni su tierra, ni su siervo, ni su sierva, ni su buey, ni su asno, ni cosa alguna de tu prójimo."
+            }
+          ]
+        }
+      ],
+      "pagina": 134,
+      "numeroNotaBiblica": 476,
+      "completa": true
+    },
+    {
+      "numero": 82,
+      "pregunta": "¿Puede algún hombre guardar perfectamente los mandamientos de Dios?",
+      "respuesta": "Ningún mero hombre, desde la caída, es capaz, en esta vida, de guardar perfectamente los mandamientos de Dios, sino que diariamente los quebranta en pensamiento, en palabra y en hecho.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Ecl. 7:20",
+              "Pasaje": "20. Ciertamente no hay hombre justo en la tierra, que haga el bien y nunca peque."
+            },
+            {
+              "cita": "1 Jn. 1:8,10",
+              "Pasaje": "8. Si decimos que no tenemos pecado, nos engañamos a nosotros mismos, y la verdad no está en nosotros.\n10. Si decimos que no hemos pecado, le hacemos a él mentiroso, y su palabra no está en nosotros."
+            },
+            {
+              "cita": "Gál. 5:17",
+              "Pasaje": "17. Porque el deseo de la carne es contra el Espíritu, y el del Espíritu es contra la carne; y éstos se oponen entre sí, para que no hagáis lo que quisiereis."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Gén. 6:5",
+              "Pasaje": "5. Y vio Jehová que la maldad de los hombres era mucha en la tierra, y que todo designio de los pensamientos del corazón de ellos era de continuo solamente el mal."
+            },
+            {
+              "cita": "8:21",
+              "Pasaje": "21. Y percibió Jehová olor grato; y dijo Jehová en su corazón: No volveré más a maldecir la tierra por causa del hombre; porque el intento del corazón del hombre es malo desde su juventud; ni volveré más a destruir todo ser viviente, como he hecho."
+            },
+            {
+              "cita": "Rom. 3:9-21",
+              "Pasaje": "9. ¿Qué, pues? Somos nosotros mejores que ellos? En ninguna manera; pues ya hemos acusado a judíos y a gentiles, que todos están bajo, pecado. Como está escrito: No hay justo, ni aun uno;\n10. No hay quien entienda. No hay quien busque a Dios.\n12. Todos se desviaron, a una se hicieron inútiles; No hay quien haga lo bueno, no hay ni siquiera uno. Sepulcro abierto es su garganta;\n13. Con su lengua engañan. Veneno de áspides hay debajo de sus labios;, Su boca está llena de maldición y de amargura.\n14. Sus pies se apresuran para derramar sangre;\n16. Quebranto y desventura hay, en sus caminos; Y no conocieron camino de paz.\n17. No hay temor de Dios delante de sus ojos.\n19. Pero sabemos que todo lo que la ley dice, lo dice a los que están bajo la ley, para que toda\n20. boca se cierre y todo el mundo quede bajo el juicio de Dios; ya que por las obras de la ley ningún ser humano será justificado delante de él; porque por medio de la ley es el conocimiento del pecado.\n21. Pero ahora, aparte de la ley, se ha manifestado",
+              "estadoPasaje": "Incompleto: faltan versículos 11, 15, 18"
+            },
+            {
+              "cita": "Stg. 3:2-13",
+              "Pasaje": "2. Porque todos ofendemos muchas veces. Si alguno no ofende en palabra, éste es varón perfecto, capaz también de refrenar todo el cuerpo.\n3. He aquí nosotros ponemos freno en la boca de los caballos para que nos obedezcan, y dirigimos así todo su cuerpo.\n4. Mirad también las naves; aunque tan grandes, y llevadas de impetuosos vientos, son gobernadas con un muy pequeño timón por donde el que las gobierna quiere.\n5. Así también la lengua es un miembro pequeño, pero se jacta de grandes cosas. He aquí, ¡cuán grande bosque enciende un pequeño fuego!\n6. Y la lengua es un fuego, un mundo de maldad. La lengua está puesta entre nuestros miembros, y contamina todo el cuerpo, e inflama la rueda de la creación, y ella misma es inflamada por el infierno.\n7. Porque toda naturaleza de bestias, y de aves, y de serpientes, y de seres del mar, se doma y ha sido domada por\n8. la naturaleza humana; pero ningún hombre puede domar la lengua, que es un mal que no puede ser refrenado, llena de veneno mortal.\n9. Con ella bendecimos al Dios y Padre, y con ella maldecimos a los hombres, que están hechos a la semejanza de Dios.\n10. De una misma boca proceden bendición y maldición. Hermanos míos, esto no debe ser así.\n11. ¿Acaso alguna fuente echa por una misma abertura agua dulce y amarga?\n12. Hermanos míos, ¿puede acaso la higuera producir aceitunas, o la vid higos? Así también ninguna fuente puede dar agua salada y dulce. ¿Quién es sabio y entendido entre vosotros?\n13. Muestre por la buena conducta sus obras en sabia mansedumbre."
+            }
+          ]
+        }
+      ],
+      "pagina": 134,
+      "numeroNotaBiblica": 477,
+      "completa": true
+    },
+    {
+      "numero": 83,
+      "pregunta": "¿Son igualmente atroces todas las transgresiones de la ley?",
+      "respuesta": "Algunas transgresiones en sí, y por razón de circunstancias agravantes son más atroces que otras a la vista de Dios.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Eze. 8:6,13,15",
+              "Pasaje": "6. Me dijo entonces: Hijo de hombre, ¿no ves lo que éstos hacen, las grandes abominaciones que la casa de Israel hace aquí para alejarme de mi santuario? Pero vuélvete aún, y verás abominaciones mayores.\n13. Me dijo después: Vuélvete aún, verás abominaciones mayores que hacen éstos.\n15. ¿No ves, hijo de hombre? Vuélvete aún, verás abominaciones mayores que estas."
+            },
+            {
+              "cita": "1 Jn. 5:16",
+              "Pasaje": "16. Si alguno viere a su hermano cometer pecado que no sea de muerte, pedirá, y Dios le dará vida; esto es para los que cometen pecado que no sea de muerte. Hay pecado de muerte, por el cual yo no digo que se pida."
+            },
+            {
+              "cita": "Sal. 68:17,32,56",
+              "Pasaje": "17. Los carros de Dios se cuentan por veintenas de millares de millares; El Señor viene del Sinaí a su santuario.\n32. Reinos de la tierra, cantad a Dios, Cantad al Señor;",
+              "estadoPasaje": "Incompleto: faltan versículos 56"
+            }
+          ]
+        }
+      ],
+      "pagina": 135,
+      "numeroNotaBiblica": 478,
+      "completa": true,
+      "observaciones": "La última referencia de la nota 478 se transcribió literalmente según se distingue; conviene verificarla."
+    },
+    {
+      "numero": 84,
+      "pregunta": "¿Qué es lo que todo pecado merece?",
+      "respuesta": "Todo pecado merece la ira y la maldición de Dios, tanto en esta vida como en la venidera.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Ef. 5:6",
+              "Pasaje": "6. Nadie os engañe con palabras vanas, porque por estas cosas viene la ira de Dios sobre los hijos de desobediencia."
+            },
+            {
+              "cita": "Gál. 3:10",
+              "Pasaje": "10. Porque todos los que dependen de las obras de la ley están bajo maldición, pues escrito está: Maldito todo aquel que no permaneciere en todas las cosas escritas en el libro de la ley, para hacerlas."
+            },
+            {
+              "cita": "Lam. 3:39",
+              "Pasaje": "39. Laméntese el hombre en su pecado."
+            },
+            {
+              "cita": "Mat. 25:41",
+              "Pasaje": "41. Entonces dirá también a los de la izquierda: Apartaos de mí, malditos, al fuego eterno preparado para el diablo y sus ángeles."
+            }
+          ]
+        }
+      ],
+      "pagina": 135,
+      "numeroNotaBiblica": 479,
+      "completa": true
+    },
+    {
+      "numero": 85,
+      "pregunta": "¿Qué nos exige Dios para que escapemos de la ira y la maldición que hemos merecido por el pecado?",
+      "respuesta": "Para que escapemos de la ira y la maldición de Dios que hemos merecido por razón del pecado, Dios exige de nosotros la fe en Jesucristo, el arrepentimiento para vida y el empleo diligente de todos los medios externos, por los cuales Cristo nos comunica los beneficios de redención.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Hch. 20:21",
+              "Pasaje": "21. blicamente y por las casas, testificando a judíos y a gentiles acerca del arrepentimiento para con Dios, y de la fe en nuestro Señor Jesucristo."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Prov. 2:1-5",
+              "Pasaje": "1. Hijo mío, si recibieres mis palabras, Y mis mandamientos\n2. guardares dentro de ti, Haciendo estar atento tu oído a la sabiduría;\n3. Si inclinares tu corazón a la prudencia, Si clamares a la inteligencia, Y a la prudencia dieres tu voz;\n4. Si como a la\n5. plata la buscares, Y la escudriñares como a tesoros, Entonces entenderás el temor de Jehová, Y hallarás el conocimiento de Dios."
+            },
+            {
+              "cita": "8:33-36",
+              "Pasaje": "33. Atended el consejo, y sed sabios, Y no lo menospreciéis.\n34. Bienaventurado el hombre que me escucha, Velando a mis puertas cada día, Aguardando a los postes de mis puertas.\n35. Porque el que me halle, hallará la vida, Y alcanzará el favor de Jehová.\n36. Mas el que peca contra mí, defrauda su alma; Todos los que me aborrecen aman la muerte., La sabiduría edificó su casa, Labró sus siete columnas."
+            },
+            {
+              "cita": "Isa. 55:3",
+              "Pasaje": "3. Inclinad vuestro oído, y venid a mí; oíd, y vivirá vuestra alma; y haré con vosotros pacto eterno, las misericordias firmes a David."
+            }
+          ]
+        }
+      ],
+      "pagina": 135,
+      "numeroNotaBiblica": 480,
+      "completa": true
+    },
+    {
+      "numero": 86,
+      "pregunta": "¿Qué es la fe en Jesucristo?",
+      "respuesta": "La fe en Jesucristo es una gracia salvadora, por la cual recibimos y reposamos solamente en Él para salvación, tal como nos es ofrecido en el evangelio.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Heb. 10:39",
+              "Pasaje": "39. Pero nosotros no somos de los que retroceden para perdición, sino de los que tienen fe para preservación del alma."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Jn. 1:13",
+              "Pasaje": "13. les dio potestad de ser hechos hijos de Dios; los cuales no son engendrados de sangre, ni de voluntad de carne, ni de voluntad de varón, sino de Dios."
+            },
+            {
+              "cita": "Isa. 26:3,4",
+              "Pasaje": "3. Tú guardarás en completa paz a aquel cuyo pensamiento en ti persevera; porque en ti ha confiado.\n4. Confiad en Jehová perpetuamente, porque en Jehová el Señor está la fortaleza de los siglos."
+            },
+            {
+              "cita": "Fil. 3:9",
+              "Pasaje": "9. para ganar a Cristo, y ser hallado en él, no teniendo mi propia justicia, que es por la ley, sino la que es por la fe de Cristo,"
+            },
+            {
+              "cita": "Gál. 2:6",
+              "Pasaje": "6. Pero de los que tenían reputación de ser algo (lo que hayan sido en otro tiempo nada me importa; Dios no hace acepción de personas), a mí, pues, los de reputación nada nuevo me comunicaron."
+            }
+          ]
+        }
+      ],
+      "pagina": 135,
+      "numeroNotaBiblica": 481,
+      "completa": true
+    },
+    {
+      "numero": 87,
+      "pregunta": "¿Qué es el arrepentimiento para vida?",
+      "respuesta": "El arrepentimiento para vida es una gracia salvadora, por la cual el pecador teniendo un verdadero sentimiento de sus pecados, y reconociendo la misericordia de Dios en Cristo, con dolor y odio por sus pecados se convierte de ellos a Dios, con plena determinación de alcanzar una nueva obediencia.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Hch. 11:18",
+              "Pasaje": "18. Entonces, oídas estas cosas, callaron, y glorificaron a Dios, diciendo: ¡De manera que también a los gentiles ha dado Dios arrepentimiento para vida!"
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Hch. 2:37,38",
+              "Pasaje": "37. Al oír esto, se compungieron de corazón, y dijeron a Pedro y a los otros apóstoles: Varones hermanos, ¿qué haremos?\n38. Pedro les dijo: Arrepentíos, y bautícese cada uno de vosotros en el nombre de Jesucristo para perdón de los pecados; y recibiréis el don del Espíritu Santo."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Jl. 2:12",
+              "Pasaje": "12. Por eso pues, ahora, dice Jehová, convertíos a mí con todo vuestro corazón, con ayuno y lloro y lamento."
+            },
+            {
+              "cita": "Jer. 3:22",
+              "Pasaje": "22. Convertíos, hijos rebeldes, y sanaré vuestras rebeliones. He aquí nosotros venimos a ti, porque tú eres Jehová nuestro Dios."
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "Jer. 31:18,19",
+              "Pasaje": "18. Escuchando, he oído a Efraín que se lamentaba: Me azotaste, y fui castigado como novillo indómito; conviérteme, y seré convertido, porque tú eres Jehová mi Dios.\n19. Porque después que me aparté tuve arrepentimiento, y después que reconocí mi falta, herí mi muslo; me avergoncé y me confundí, porque llevé la afrenta de mi juventud. ¿No es Efraín hijo precioso para mí?"
+            },
+            {
+              "cita": "Eze. 36:31",
+              "Pasaje": "31. Y os acordaréis de vuestros malos caminos, y de vuestras obras que no fueron buenas; y os avergonzaréis de vosotros mismos por vuestras iniquidades y por vuestras abominaciones."
+            }
+          ]
+        },
+        {
+          "inciso": "e",
+          "citas": [
+            {
+              "cita": "2 Cor. 7:11",
+              "Pasaje": "11. Porque he aquí, esto mismo de que hayáis sido contristados según Dios, ¡qué solicitud produjo en vosotros, qué defensa, qué indignación, qué temor, qué ardiente afecto, qué celo, y qué vindicación! En todo os habéis mostrado limpios en el asunto."
+            },
+            {
+              "cita": "Isa. 1:16,17",
+              "Pasaje": "16. Lavaos y limpiaos; quitad la iniquidad de vuestras obras de delante de mis ojos; dejad\n17. de hacer lo malo; aprended a hacer el bien; buscad el juicio, restituid al agraviado, haced justicia al huérfano, amparad a la viuda."
+            }
+          ]
+        }
+      ],
+      "pagina": 135,
+      "numeroNotaBiblica": 482,
+      "completa": true
+    },
+    {
+      "numero": 88,
+      "pregunta": "¿Cuáles son los medios externos por los cuales Cristo nos comunica los beneficios de la redención?",
+      "respuesta": "Los medios externos y ordinarios por los cuales Cristo nos comunica los beneficios de la redención, son sus ordenanzas, especialmente la Palabra, los sacramentos y la oración; todos los cuales son hechos eficaces para la salvación de los elegidos.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Mat. 28:19,20",
+              "Pasaje": "19. Por tanto, id, y haced discípulos a todas las naciones, bautizándolos en el nombre del Padre, y del Hijo, y del Espí-\n20. ritu Santo; enseñándoles que guarden todas las cosas que os he mandado; y he aquí yo estoy con vosotros todos los días, hasta el fin del mundo. Amén."
+            },
+            {
+              "cita": "Hch. 2:42,46,47",
+              "Pasaje": "42. Y perseveraban en la doctrina de los apóstoles, en la comunión unos con otros, en el partimiento del pan y en las oraciones.\n46. Y perseverando unánimes cada día en el templo, y partiendo el pan en las casas, comían juntos con\n47. alegría y sencillez de corazón, alabando a Dios, y teniendo favor con todo el pueblo. Y el Señor añadía cada día a la iglesia los que habían de ser salvos."
+            }
+          ]
+        }
+      ],
+      "pagina": 135,
+      "numeroNotaBiblica": 483,
+      "completa": true
+    },
+    {
+      "numero": 89,
+      "pregunta": "¿Cómo viene la palabra a ser eficaz para la salvación?",
+      "respuesta": "El Espíritu de Dios hace que la lectura, y aún más especialmente, la predicación de la Palabra, sean medios eficaces para convencer y convertir a los pecadores, y para edificarles en santidad y consuelo por la fe, para salvación.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Neh. 8:8",
+              "Pasaje": "8. Y leían en el libro de la ley de Dios claramente, y ponían el sentido, de modo que entendiesen la lectura."
+            },
+            {
+              "cita": "1 Cor. 14:24,25",
+              "Pasaje": "24. Pero si todos profetizan, y entra algún incrédulo o indocto, por\n25. todos es convencido, por todos es juzgado; lo oculto de su corazón se hace manifiesto; y así, postrándose sobre el rostro, adorará a Dios, declarando que verdaderamente Dios está entre vosotros. ¿Qué hay, pues, hermanos?"
+            },
+            {
+              "cita": "Hch. 26:18",
+              "Pasaje": "18. quienes ahora te envío, para que abras sus ojos, para que se conviertan de las tinieblas a la luz, y de la potestad de Satanás a Dios; para que reciban, por la fe que es en mí, perdón de pecados y herencia entre los santificados."
+            },
+            {
+              "cita": "Sal. 19:8",
+              "Pasaje": "8. Los mandamientos de Jehová son rectos, que alegran el corazón; El precepto de Jehová es puro, que alumbra los ojos."
+            },
+            {
+              "cita": "Hch. 20:32",
+              "Pasaje": "32. Y ahora, hermanos, os encomiendo a Dios, y a la palabra de su gracia, que tiene poder para sobreedificaros y daros herencia con todos los santificados."
+            },
+            {
+              "cita": "Rom. 15:4",
+              "Pasaje": "4. Porque las cosas que se escribieron antes, para nuestra enseñanza se escribieron, a fin de que por la paciencia y la consolación de las Escrituras, tengamos esperanza."
+            },
+            {
+              "cita": "2 Tim. 3:15-17",
+              "Pasaje": "15. y que desde la niñez has sabido las Sagradas Escrituras, las cuales te pueden hacer sabio para la salvación por la fe que es en Cristo Jesús.\n16. Toda la Escritura es inspirada por Dios, y útil para enseñar, para redargüir, para corregir, para ins-\n17. truir en justicia, a fin de que el hombre de Dios sea perfecto, enteramente preparado para toda buena obra."
+            },
+            {
+              "cita": "Rom. 10:13-17",
+              "Pasaje": "13. invocan; porque todo aquel que invocare el nombre del Señor, será salvo.\n14. ¿Cómo, pues, invocarán a aquel en el cual no han creído? ¿Y cómo creerán en aquel de quien no han oído? ¿Y cómo oirán sin haber quien les predique?\n15. ¿Y cómo predicarán si no fueren enviados? Como está escrito: ¡Cuán hermosos son los pies de los que anuncian la paz, de los que anuncian buenas nuevas!\n16. Mas no todos obedecieron al evangelio; pues Isaías dice: Señor, ¿quién ha creído a nuestro anuncio?\n17. Así que la fe es por el oír, y el oír, por la palabra de Dios. Pero digo:"
+            }
+          ]
+        }
+      ],
+      "pagina": 135,
+      "numeroNotaBiblica": 484,
+      "completa": true
+    },
+    {
+      "numero": 90,
+      "pregunta": "¿Cómo ha de ser leída y escuchada la Palabra para que se haga eficaz para la salvación?",
+      "respuesta": "A fin de que la Palabra se haga eficaz para nuestra salvación, hemos de prestarle atención con diligencia, preparación y oración; recibirla con fe y amor, atesorarla en el corazón y practicarla en la vida.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Prov. 8:34",
+              "Pasaje": "34. Bienaventurado el hombre que me escucha, Velando a mis puertas cada día, Aguardando a los postes de mis puertas."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "1 Ped. 2:1,2",
+              "Pasaje": "1. Desechando, pues, toda malicia, todo engaño, hipocresía,\n2. envidias, y todas las detracciones, desead, como niños recién nacidos, la leche espiritual no adulterada, para que por ella"
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Sal. 119:18",
+              "Pasaje": "18. Abre mis ojos, y miraré Las maravillas de tu ley. Forastero soy yo en la tierra;"
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "Heb. 4:2",
+              "Pasaje": "2. Porque también a nosotros se nos ha anunciado la buena nueva como a ellos; pero no les aprovechó el oír la palabra, por no ir acompañada de fe en los que la oyeron."
+            },
+            {
+              "cita": "2 Tes. 2:10",
+              "Pasaje": "10. y con todo engaño de iniquidad para los que se pierden, por cuanto no recibieron el amor de la verdad para ser salvos."
+            }
+          ]
+        },
+        {
+          "inciso": "e",
+          "citas": [
+            {
+              "cita": "Sal. 119:11",
+              "Pasaje": "11. En mi corazón he guardado tus dichos, Para no pecar contra ti. Bendito tú, oh Jehová;"
+            }
+          ]
+        },
+        {
+          "inciso": "f",
+          "citas": [
+            {
+              "cita": "Luc. 8:15",
+              "Pasaje": "15. Mas la que cayó en buena tierra, éstos son los que con corazón bueno y recto retienen la palabra oída, y dan fruto con perseverancia."
+            },
+            {
+              "cita": "Stg. 1:25",
+              "Pasaje": "25. Mas el que mira atentamente en la perfecta ley, la de la libertad, y persevera en ella, no siendo oidor olvidadizo, sino hacedor de la obra, éste será bienaventurado en lo que hace."
+            }
+          ]
+        }
+      ],
+      "pagina": 136,
+      "numeroNotaBiblica": 485,
+      "completa": true
+    },
+    {
+      "numero": 91,
+      "pregunta": "¿Cómo se hacen los sacramentos medios eficaces de salvación?",
+      "respuesta": "Los sacramentos vienen a ser medios eficaces de salvación, no porque haya alguna virtud en ellos, o en aquel que los administra; sino solamente por la bendición de Cristo, y la operación de su Espíritu en aquellos que los reciben con fe.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "1 Ped. 3:21",
+              "Pasaje": "21. El bautismo que corresponde a esto ahora nos salva (no quitando las inmundicias de la carne, sino como la aspiración de una buena conciencia hacia Dios) por la re-"
+            },
+            {
+              "cita": "Mat. 3:11",
+              "Pasaje": "11. Yo a la verdad os bautizo en agua para arrepentimiento; pero el que viene tras mí, cuyo calzado yo no soy digno de llevar, es más poderoso que yo; él os bautizará en Espíritu Santo y fuego."
+            },
+            {
+              "cita": "1 Cor. 3:6,7",
+              "Pasaje": "6. Yo planté, Apolos regó; pero el crecimiento lo ha dado Dios.\n7. Así que ni el que planta es algo, ni el que riega, sino Dios, que da el crecimiento."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "1 Cor. 12:13",
+              "Pasaje": "13. Porque por un solo Espíritu fuimos todos bautizados en un cuerpo, sean judíos o griegos, sean esclavos o libres; y a todos se nos dio a beber de un mismo Espíritu., Además, el cuerpo no es un solo miembro, sino muchos."
+            }
+          ]
+        }
+      ],
+      "pagina": 136,
+      "numeroNotaBiblica": 486,
+      "completa": true
+    },
+    {
+      "numero": 92,
+      "pregunta": "¿Qué es un sacramento?",
+      "respuesta": "Un sacramento es una ordenanza sagrada instituida por Cristo; la cual, por medio de signos sensibles, Cristo y los beneficios del Nuevo Pacto, nos son representados, sellados y aplicados a los creyentes.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Gén. 17:7,10",
+              "Pasaje": "7. Y estableceré mi pacto entre mí y ti, y tu descendencia después de ti en sus generaciones, por pacto perpetuo, para ser tu Dios, y el de tu descendencia después de ti.\n10. Éste es mi pacto, que guardaréis entre mí y vosotros y tu descendencia después de ti: Será circuncidado todo varón de entre vosotros."
+            },
+            {
+              "cita": "Ex. 12",
+              "Pasaje": "1. Habló Jehová a Moisés y a Aarón en la tierra de Egipto, diciendo:\n2. Este mes os será principio de los meses; para vosotros será éste el primero en los meses del año.\n3. Hablad a toda la congregación de Israel, diciendo: En el diez de este mes tómese cada uno un cordero según las familias de los padres, un cordero por familia.\n4. Mas si la familia fuere tan pequeña que no baste para comer el cordero, entonces él y su vecino inmediato a su casa tomarán uno según el número de las personas; conforme al comer de cada hombre, haréis la cuenta sobre el cordero.\n5. El animal será sin defecto, macho de un año; lo tomaréis de las ovejas o de las cabras.\n6. Y lo guardaréis hasta el día catorce de este mes, y lo inmolará toda la congregación del pueblo de Israel entre las dos tardes.\n7. Y tomarán de la sangre, y la pondrán en los dos postes y en el dintel de las casas en que lo han de comer.\n8. Y aquella noche comerán la carne asada al fuego, y panes sin levadura; con hierbas amargas lo comerán.\n9. Ninguna cosa comeréis de él cruda, ni cocida en agua, sino asada al fuego; su cabeza con sus pies y sus entrañas.\n10. Ninguna cosa dejaréis de él hasta la mañana; y lo que quedare hasta la mañana, lo quemaréis en el fuego.\n11. Y lo comeréis así: ceñidos vuestros lomos, vuestro calzado en vuestros pies, y vuestro bordón en vuestra mano; y lo comeréis apresuradamente; es la Pascua de Jehová.\n12. Pues yo pasaré aquella noche por la tierra de Egipto, y heriré a todo primogénito en la tierra de Egipto, así de los hombres como de las bestias; y ejecutaré mis juicios en todos los dioses de Egipto. Yo Jehová.\n13. Y la sangre os será por señal en las casas donde vosotros estéis; y veré la sangre y pasaré de vosotros, y no habrá en vosotros plaga de mortandad cuando hiera la tierra de Egipto.\n14. Y este día os será en memoria, y lo celebraréis como fiesta solemne para Jehová durante vuestras generaciones; por estatuto perpetuo lo celebraréis.\n15. Siete días comeréis panes sin levadura; y así el primer día haréis que no haya levadura en vuestras casas; porque cualquiera que comiere leudado desde el primer día hasta el séptimo, será cortado de Israel.\n16. El primer día habrá santa convocación, y asimismo en el séptimo día tendréis una santa convocación; ninguna obra se hará en ellos, excepto solamente que preparéis lo que cada cual haya de comer.\n17. Y guardaréis la fiesta de los panes sin levadura, porque en este mismo día saqué vuestras huestes de la tierra de Egipto; por tanto, guardaréis este mandamiento en vuestras generaciones por costumbre perpetua.\n18. En el mes primero comeréis los panes sin levadura, desde el día catorce del mes por la tarde hasta el veintiuno del mes por la tarde.\n19. Por siete días no se hallará levadura en vuestras casas; porque cualquiera que comiere leudado, así extranjero como natural del país, será cortado de la congregación de Israel.\n20. Ninguna cosa leudada comeréis; en todas vuestras habitaciones comeréis panes sin levadura.\n21. Y Moisés convocó a todos los ancianos de Israel, y les dijo: Sacad y tomaos corderos por vuestras familias, y sacrificad la pascua.\n22. Y tomad un manojo de hisopo, y mojadlo en la sangre que estará en un lebrillo, y untad el dintel y los dos postes con la sangre que estará en el lebrillo; y ninguno de vosotros salga de las puertas de su casa hasta la mañana.\n23. Porque Jehová pasará hiriendo a los egipcios; y cuando vea la sangre en el dintel y en los dos postes, pasará Jehová aquella puerta, y no dejará entrar al heridor en vuestras casas para herir.\n24. Guardaréis esto por estatuto para vosotros y para vuestros hijos para siempre.\n25. Y cuando entréis en la tierra que Jehová os dará, como prometió, guardaréis este rito. Y cuando os dijeren vuestros hijos:\n26. ¿Qué es este rito vuestro?, vosotros responderéis:\n27. Es la víctima de la pascua de Jehová, el cual pasó por encima de las casas de los hijos de Israel en Egipto, cuando hirió a los egipcios, y libró nuestras casas. Entonces el pueblo se inclinó y adoró.\n28. Y los hijos de Israel fueron e hicieron puntualmente así, como Jehová había mandado a Moisés y a Aarón.\n29. Y aconteció que a la medianoche Jehová hirió a todo primogénito en la tierra de Egipto, desde el primogénito de Faraón que se sentaba sobre su trono hasta el primogénito del cautivo que estaba en la cárcel, y todo primogénito de los animales.\n30. Y se levantó aquella noche Faraón, él y todos sus siervos, y todos los egipcios; y hubo un gran clamor en Egipto, porque no había casa donde no hubiese un muerto.\n31. E hizo llamar a Moisés y a Aarón de noche, y les dijo: Salid de en medio de mi pueblo vosotros y los hijos de Israel, e id, servid a Jehová, como habéis dicho.\n32. Tomad también vuestras ovejas y vuestras vacas, como habéis dicho, e idos; y bendecidme también a mí.\n33. Y los egipcios apremiaban al pueblo, dándose prisa a echarlos de la tierra; porque decían: Todos somos muertos.\n34. Y llevó el pueblo su masa antes que se leudase, sus masas envueltas en sus sábanas sobre sus hombros.\n35. E hicieron los hijos de Israel conforme al mandamiento de Moisés, pidiendo de los egipcios alhajas de plata, y de oro, y vestidos.\n36. Y Jehová dio gracia al pueblo delante de los egipcios, y les dieron cuanto pedían; así despojaron a los egipcios.\n37. Partieron los hijos de Israel de Ramesés a Sucot, como seiscientos mil hombres de a pie, sin contar los niños.\n38. También subió con ellos grande multitud de toda clase de gentes, y ovejas, y muchísimo ganado.\n39. Y cocieron tortas sin levadura de la masa que habían sacado de Egipto, pues no había leudado, porque al echarlos fuera los egipcios, no habían tenido tiempo ni para prepararse comida.\n40. El tiempo que los hijos de Israel habitaron en Egipto fue cuatrocientos treinta años.\n41. Y pasados los cuatrocientos treinta años, en el mismo día todas las huestes de Jehová salieron de la tierra de Egipto.\n42. Es noche de guardar para Jehová, por haberlos sacado en ella de la tierra de Egipto. Esta noche deben guardarla para Jehová todos los hijos de Israel en sus generaciones.\n43. Y Jehová dijo a Moisés y a Aarón: Ésta es la ordenanza de la pascua; ningún extraño comerá de ella.\n44. Mas todo siervo humano comprado por dinero comerá de ella, después que lo hubieres circuncidado.\n45. El extranjero y el jornalero no comerán de ella.\n46. Se comerá en una casa, y no llevarás de aquella carne fuera de ella, ni quebraréis hueso, suyo. Toda la congregación de Israel lo hará.\n47. Mas si algún extranjero morare contigo, y quisiere celebrar la pascua para Jehová, séale circuncidado todo varón, y entonces la celebrará, y será como uno de vuestra nación; pero ningún incircunciso comerá de ella.\n49. La misma ley será para el natural, y para el extranjero que habitare entre vosotros.\n50. Así lo hicieron todos los hijos de Israel; como mandó Jehová a Moisés y a Aarón, así lo hicieron.\n51. Y en aquel mismo día sacó Jehová a los hijos de Israel de la tierra de Egipto por sus ejércitos., Jehová habló a Moisés, diciendo:"
+            },
+            {
+              "cita": "1 Cor. 11:23,26",
+              "Pasaje": "23. Que\n26. Así, pues, todas las veces que comiereis este pan, y bebiereis esta copa, la muerte del Señor anunciáis hasta que él venga.",
+              "estadoPasaje": "Revisar separación de versículos en el PDF"
+            }
+          ]
+        }
+      ],
+      "pagina": 136,
+      "numeroNotaBiblica": 487,
+      "completa": true
+    },
+    {
+      "numero": 93,
+      "pregunta": "¿Cuáles son los sacramentos del Nuevo Testamento?",
+      "respuesta": "Los sacramentos del Nuevo Testamento son: El Bautismo y la Cena del Señor.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Mat. 28:19",
+              "Pasaje": "19. Por tanto, id, y haced discípulos a todas las naciones, bautizándolos en el nombre del Padre, y del Hijo, y del Espí-"
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Mat. 26:26-28",
+              "Pasaje": "26. Y mientras comían, tomó Jesús el pan, y bendijo, y lo partió, y dio a sus discípulos, y dijo: Tomad, comed; esto es mi cuerpo.\n27. Y tomando la copa, y habiendo dado gracias, les dio, diciendo:\n28. Bebed de ella todos; porque esto es mi sangre del nuevo pacto, que por muchos es derramada para remisión de los pecados."
+            }
+          ]
+        }
+      ],
+      "pagina": 136,
+      "numeroNotaBiblica": 488,
+      "completa": true
+    },
+    {
+      "numero": 94,
+      "pregunta": "¿Qué es el Bautismo?",
+      "respuesta": "El Bautismo es un sacramento, en el cual, el lavamiento con agua, en nombre del Padre, del Hijo y del Espíritu Santo, significa y sella nuestra unión con Cristo, nuestra participación en los beneficios del Pacto de Gracia y nuestro compromiso de ser del Señor.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Mat. 28:19",
+              "Pasaje": "19. Por tanto, id, y haced discípulos a todas las naciones, bautizándolos en el nombre del Padre, y del Hijo, y del Espí-"
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Rom. 6:4",
+              "Pasaje": "4. Porque somos sepultados juntamente con él para muerte por el bautismo, a fin de que como Cristo resucitó de los muertos por la gloria del Padre, así también nosotros andemos en vida nueva."
+            },
+            {
+              "cita": "Gál. 3:27",
+              "Pasaje": "27. Dios por la fe en Cristo Jesús; porque todos los que habéis sido bautizados en Cristo, de Cristo estáis revestidos."
+            }
+          ]
+        }
+      ],
+      "pagina": 136,
+      "numeroNotaBiblica": 489,
+      "completa": true
+    },
+    {
+      "numero": 95,
+      "pregunta": "¿A quiénes ha de administrarse el Bautismo?",
+      "respuesta": "El Bautismo no debe administrarse a ninguno de los que están fuera de la iglesia visible, hasta que profesen su fe en Cristo y obediencia a Él; mas los bebés de aquellos que son miembros de la iglesia visible, han de ser bautizados.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Hch. 8:36,37",
+              "Pasaje": "36. Y yendo por el camino, llegaron a cierta agua, y dijo el eunuco: Aquí hay agua; ¿qué impide que yo sea bautizado? Felipe dijo:\n37. Si crees de todo corazón, bien puedes. Y respondiendo, dijo: Creo que Jesucristo es el Hijo de Dios."
+            },
+            {
+              "cita": "Hch. 2:38",
+              "Pasaje": "38. Pedro les dijo: Arrepentíos, y bautícese cada uno de vosotros en el nombre de Jesucristo para perdón de los pecados; y recibiréis el don del Espíritu Santo."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Hch. 2:38,39",
+              "Pasaje": "38. Pedro les dijo: Arrepentíos, y bautícese cada uno de vosotros en el nombre de Jesucristo para perdón de los pecados; y recibiréis el don del Espíritu Santo.\n39. Porque para vosotros es la promesa, y para vuestros hijos, y para todos los que están lejos; para cuantos el Señor nuestro Dios llamare."
+            },
+            {
+              "cita": "Gén. 17:10 (compare con Col. 2:11,12)",
+              "Pasaje": "10. Éste es mi pacto, que guardaréis entre mí y vosotros y tu descendencia después de ti: Será circuncidado todo varón de entre vosotros.",
+              "observacionPasaje": "La indicación entre paréntesis del catecismo se conservó en cita; el texto de comparación debe verificarse por separado."
+            },
+            {
+              "cita": "1 Cor. 7:14",
+              "Pasaje": "14. Porque el marido incrédulo es santificado en la mujer, y la mujer incrédula en el marido; pues de otra manera vuestros hijos serían inmundos, mientras que ahora son santos."
+            }
+          ]
+        }
+      ],
+      "pagina": 136,
+      "numeroNotaBiblica": 490,
+      "completa": true
+    },
+    {
+      "numero": 96,
+      "pregunta": "¿Qué es la Cena del Señor?",
+      "respuesta": "La Cena del Señor es un Sacramento por el cual, dando y recibiendo pan y vino conforme a lo ordenado por Cristo, se anuncia su muerte; y aquellos que dignamente lo reciben son hechos, no de una manera corporal y carnal, sino por la fe, partícipes de su cuerpo y de su sangre, con todos sus beneficios, para su nutrimento espiritual y su crecimiento en la gracia.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "1 Cor. 11:23-26",
+              "Pasaje": "23. Que\n24. el Señor Jesús, la noche que fue entregado, tomó pan; y habiendo dado gracias, lo partió, y dijo: Tomad, comed; esto es mi cuerpo que por vosotros es partido; haced esto en memoria de mí.\n25. Asimismo tomó también la copa, después de haber cenado, diciendo: Esta copa es el nuevo pacto en mi sangre; haced esto todas las veces que la bebiereis, en memoria de mí.\n26. Así, pues, todas las veces que comiereis este pan, y bebiereis esta copa, la muerte del Señor anunciáis hasta que él venga.",
+              "estadoPasaje": "Revisar separación de versículos en el PDF"
+            },
+            {
+              "cita": "1 Cor. 10:16",
+              "Pasaje": "16. La copa de bendición que bendecimos, ¿no es la comunión de la sangre de Cristo? El pan que partimos, ¿no es la comunión del cuerpo de Cristo?"
+            }
+          ]
+        }
+      ],
+      "pagina": 137,
+      "numeroNotaBiblica": 491,
+      "completa": true
+    },
+    {
+      "numero": 97,
+      "pregunta": "¿Qué se requiere para recibir dignamente la Cena del Señor?",
+      "respuesta": "Para que los participantes reciban dignamente la Cena del Señor, es necesario que hagan un examen del conocimiento que tienen para discernir el cuerpo del Señor; de su fe para alimentarse en Él; de su arrepentimiento, amor y nueva obediencia, para que no sea que, recibiendo indignamente el sacramento, coman y beban su propia condenación.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "1 Cor. 11:28,29",
+              "Pasaje": "28. Por tanto, pruébese cada uno a sí mismo, y coma así del pan, y beba de la copa.\n29. Porque el que come y bebe indignamente, sin discernir el cuerpo del Señor, juicio come y bebe para sí."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "2 Cor. 13:5",
+              "Pasaje": "5. Examinaos a vosotros mismos si estáis en la fe; probaos a vosotros mismos. ¿O no os conocéis a vosotros mismos, que Jesucristo está en vosotros, a menos que estéis reprobados?"
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "1 Cor. 11:31",
+              "Pasaje": "31. Si, pues, nos"
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "1 Cor. 10:16,17",
+              "Pasaje": "16. La copa de bendición que bendecimos, ¿no es la comunión de la sangre de Cristo? El pan que partimos, ¿no es la comunión del cuerpo de Cristo?\n17. Siendo uno solo el pan, nosotros, con ser muchos, somos un cuerpo; pues todos participamos de aquel mismo pan."
+            }
+          ]
+        },
+        {
+          "inciso": "e",
+          "citas": [
+            {
+              "cita": "1 Cor. 5:7,8",
+              "Pasaje": "7. Limpiaos, pues, de la vieja levadura, para que seáis nueva masa, sin levadura como sois; porque nuestra pascua, que es Cristo, ya fue sacrificada por nosotros.\n8. Así que celebremos la fiesta, no con la vieja levadura, ni con la levadura de malicia y de maldad, sino con panes sin levadura, de sinceridad y de verdad."
+            }
+          ]
+        },
+        {
+          "inciso": "f",
+          "citas": [
+            {
+              "cita": "1 Cor. 11:28,29",
+              "Pasaje": "28. Por tanto, pruébese cada uno a sí mismo, y coma así del pan, y beba de la copa.\n29. Porque el que come y bebe indignamente, sin discernir el cuerpo del Señor, juicio come y bebe para sí."
+            }
+          ]
+        }
+      ],
+      "pagina": 137,
+      "numeroNotaBiblica": 492,
+      "completa": true
+    },
+    {
+      "numero": 98,
+      "pregunta": "¿Qué es la oración?",
+      "respuesta": "La oración es un acto por el cual manifestamos a Dios, en nombre de Cristo, nuestros deseos de obtener aquello que sea conforme a su voluntad, confesando al mismo tiempo nuestros pecados y reconociendo con gratitud sus beneficios.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Sal. 60:8",
+              "Pasaje": "8. Moab, vasija para lavarme; Sobre Edom echaré mi calzado; Me regocijaré sobre Filistea. ¿Quién me llevará a la ciudad fortificada?"
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Jn. 16:23",
+              "Pasaje": "23. En aquel día no me preguntaréis nada. De cierto, de cierto os digo, que todo cuanto pidiereis al Padre en mi nombre, os lo dará."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "1 Jn. 5:14",
+              "Pasaje": "14. Y ésta es la confianza que tenemos en él, que si pedimos alguna cosa conforme a su voluntad, él nos oye."
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "Sal. 32:5,6",
+              "Pasaje": "5. Selah Mi pecado te declaré, y no encubrí mi iniquidad. Dije: Confesaré mis transgresiones a Jehová; Y tú perdonaste la maldad de mi pecado.\n6. Selah Por esto orará a ti todo santo en el tiempo en que puedas ser hallado; Ciertamente en la inundación de muchas aguas no llegarán éstas a él."
+            },
+            {
+              "cita": "Dn. 9:4",
+              "Pasaje": "4. Y oré a Jehová mi Dios e hice confesión diciendo: Ahora, Señor, Dios grande, digno de ser temido, que guardas el pacto y la misericordia con los que te aman y guardan tus mandamien-"
+            }
+          ]
+        },
+        {
+          "inciso": "e",
+          "citas": [
+            {
+              "cita": "Fil. 4:6",
+              "Pasaje": "6. Por nada estéis afanosos, sino sean conocidas vuestras peticiones delante de Dios en toda oración y ruego, con acción de gracias."
+            }
+          ]
+        }
+      ],
+      "pagina": 137,
+      "numeroNotaBiblica": 493,
+      "completa": true
+    },
+    {
+      "numero": 99,
+      "pregunta": "¿Qué regla nos ha dado Dios para dirigirnos en la oración?",
+      "respuesta": "Toda la Palabra de Dios es útil para dirigirnos en la oración; pero la regla especial es aquella oración que Cristo enseñó a sus discípulos y que es comúnmente llamada «El Padre Nuestro».",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "1 Jn. 5:14",
+              "Pasaje": "14. Y ésta es la confianza que tenemos en él, que si pedimos alguna cosa conforme a su voluntad, él nos oye."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Mat. 6:9-13 (compare con Luc. 11:2-4)",
+              "Pasaje": "9. Padre nuestro que estás en los cielos, santificado sea tu nombre.\n10. Venga tu reino. Hágase tu voluntad, como en el cielo, así también en, la tierra. El pan nuestro de cada día, dánoslo hoy.\n11. Y perdónanos nuestras deudas, como también nosotros perdonamos a nuestros deudores.\n13. Y no nos metas en tentación, mas líbranos del mal; porque tuyo es el reino, y el poder, y la gloria, por todos los siglos. Amén.",
+              "estadoPasaje": "Incompleto: faltan versículos 12",
+              "observacionPasaje": "La indicación entre paréntesis del catecismo se conservó en cita; el texto de comparación debe verificarse por separado."
+            }
+          ]
+        }
+      ],
+      "pagina": 137,
+      "numeroNotaBiblica": 494,
+      "completa": true
+    },
+    {
+      "numero": 100,
+      "pregunta": "¿Qué nos enseña el prefacio del Padre Nuestro?",
+      "respuesta": "El prefacio del Padre Nuestro, que dice: «Padre nuestro, que estás en los cielos», nos enseña a acercarnos con santa reverencia y toda confianza a Dios como hijos a su padre quien puede y quiere socorrernos; y también a orar con otros y por otros.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Mat. 6:9",
+              "Pasaje": "9. Padre nuestro que estás en los cielos, santificado sea tu nombre."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Rom. 8:15",
+              "Pasaje": "15. Pues no habéis recibido el espíritu de esclavitud para estar otra vez en temor, sino que habéis recibido el espíritu de adopción, por el cual clamamos: ¡Abba, Padre!"
+            },
+            {
+              "cita": "Luc. 6:13",
+              "Pasaje": "13. Y cuando era de día, llamó a sus discípulos, y esco-"
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Hch. 12:5",
+              "Pasaje": "5. Así que Pedro estaba custodiado en la cárcel; pero la iglesia hacía sin cesar oración a Dios por él."
+            },
+            {
+              "cita": "1 Tim. 2:1,2",
+              "Pasaje": "1. Exhorto ante todo, a que se hagan rogativas, oraciones, pe-\n2. ticiones y acciones de gracias, por todos los hombres; por los reyes y por todos los que están en eminencia, para que vivamos quieta y reposadamente en toda piedad y honestidad."
+            }
+          ]
+        }
+      ],
+      "pagina": 137,
+      "numeroNotaBiblica": 495,
+      "completa": true
+    },
+    {
+      "numero": 101,
+      "pregunta": "¿Qué rogamos en la primera petición?",
+      "respuesta": "En la primera petición, que dice: «Santificado sea tu nombre», rogamos que Dios nos ayude a nosotros y a los demás hombres a glorificarle en todo aquello por lo cual se da a conocer, y también que Él disponga todas las cosas para su propia gloria.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Mat. 6:9",
+              "Pasaje": "9. Padre nuestro que estás en los cielos, santificado sea tu nombre."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Sal. 67:2",
+              "Pasaje": "2. Selah Para que sea conocido en la tierra tu camino, En todas las naciones tu salvación. Te alaben los pueblos, oh Dios;"
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Sal. 83",
+              "Pasaje": "1. Salmo de Asaf. Oh Dios, no guardes silencio; No calles, oh Dios, ni te estés quieto.\n2. Porque he aquí que rugen tus enemigos, Y los que te aborrecen alzan cabeza.\n3. Contra tu pueblo han consultado astuta y secretamente, Y han entrado en consejo contra tus protegidos. Han dicho:\n4. Venid, y destruyámoslos para que no sean nación, Y no haya más memoria del nombre de Israel.\n5. Porque se confabulan de corazón a una, Contra ti han\n6. hecho alianza Las tiendas de los edomitas y de los ismaelitas, Moab y los agarenos;\n7. Gebal, Amón y Amalec, Los filisteos y los habitantes de Tiro.\n8. También el asirio se ha juntado con ellos; Sirven de brazo a los hijos de Lot.\n9. Selah Hazles como a Madián, Como a Sísara, como a Jabín en el arroyo de Cisón;\n10. Que perecieron en Endor, Fueron hechos como estiércol para la tierra. Pon a sus capitanes como a Oreb y a Zeeb;\n11. Como a Zeba y a Zalmuna a todos sus príncipes, Que han dicho:\n12. Heredemos para nosotros Las moradas de Dios.\n13. Dios mío, ponlos\n14. como torbellinos, Como hojarascas delante del viento, Como fuego que quema el monte, Como llama que abrasa el bosque.\n15. Persíguelos así con tu tempestad, Y atérralos con tu torbellino.\n16. Llena sus rostros de vergüenza, Y busquen tu nombre, oh Jehová. Sean afrentados y turbados para siempre;\n17. Sean deshonrados, y perezcan.\n18. Y conozcan que tu nombre es Jehová; Tú solo Altísimo sobre toda la tierra. Al músico principal; sobre Gitit."
+            }
+          ]
+        }
+      ],
+      "pagina": 137,
+      "numeroNotaBiblica": 496,
+      "completa": true
+    },
+    {
+      "numero": 102,
+      "pregunta": "¿Qué rogamos en la segunda petición?",
+      "respuesta": "En la segunda petición que dice: «Venga tu reino», rogamos la destrucción del reino de Satanás; el progreso del reino de gracia, que nosotros y los demás hombres seamos introducidos y conservados en este, y que venga pronto el reino de gloria.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Mat. 6:10",
+              "Pasaje": "10. Venga tu reino. Hágase tu voluntad, como en el cielo, así también en, la tierra. El pan nuestro de cada día, dánoslo hoy."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Sal. 68:1,18",
+              "Pasaje": "1. Cántico. Levántese Dios, sean esparcidos sus enemigos, Y huyan de su presencia los que le aborrecen.\n18. Subiste a lo alto, cautivaste la cautividad, Tomaste dones para los hombres, Y también para los rebeldes, para que habite entre ellos JAH Dios."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Apo. 12:10,11",
+              "Pasaje": "10. Entonces oí una gran voz en el cielo, que decía: Ahora ha venido la salvación, el poder, y el reino de nuestro Dios, y la autoridad de su Cristo; porque ha sido lanzado fuera el acusador de nuestros hermanos, el que los acusaba delante de nuestro Dios día y noche.\n11. Y ellos le han vencido por medio de la sangre del Cordero y de la palabra del testimonio de ellos, y menospreciaron sus vidas hasta la muerte."
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "2 Tes. 3:1",
+              "Pasaje": "1. Por lo demás, hermanos, orad por nosotros, para que la palabra del Señor corra y sea glorificada, así como lo fue entre"
+            },
+            {
+              "cita": "Rom. 10:1",
+              "Pasaje": "1. Hermanos, ciertamente el anhelo de mi corazón, y mi oración a Dios por Israel, es para salvación."
+            },
+            {
+              "cita": "Jn. 17:9,20",
+              "Pasaje": "9. Yo ruego por ellos; no ruego por el mundo,\n20. Mas no ruego solamente por éstos, sino también por los que han de creer en"
+            }
+          ]
+        },
+        {
+          "inciso": "e",
+          "citas": [
+            {
+              "cita": "Apo. 22:20",
+              "Pasaje": "20. El que da testimonio de estas cosas dice: Ciertamente vengo en breve. Amén; sí, ven, Señor Jesús."
+            }
+          ]
+        }
+      ],
+      "pagina": 138,
+      "numeroNotaBiblica": 497,
+      "completa": true
+    },
+    {
+      "numero": 103,
+      "pregunta": "¿Qué rogamos en la tercera petición?",
+      "respuesta": "En la tercera petición, que dice: «Sea hecha tu voluntad como en el cielo así también en la tierra», rogamos que Dios, por su gracia, nos dé facultad y buena disposición para conocer, obedecer y someternos en todo a Su santa voluntad, así como lo hacen los ángeles en el cielo.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Mat. 6:10",
+              "Pasaje": "10. Venga tu reino. Hágase tu voluntad, como en el cielo, así también en, la tierra. El pan nuestro de cada día, dánoslo hoy."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Sal. 67",
+              "Pasaje": "1. Cántico. Dios tenga misericordia de nosotros, y nos bendiga; Haga resplandecer su rostro sobre nosotros;\n2. Selah Para que sea conocido en la tierra tu camino, En todas las naciones tu salvación. Te alaben los pueblos, oh Dios;\n3. Todos los pueblos te alaben.\n4. Alégrense y gócense las naciones, Porque juzgarás los pueblos con equidad, Y pastorearás las naciones en la tierra. Selah Te alaben los pueblos, oh Dios;\n5. Todos los pueblos te alaben. La tierra dará su fruto;\n6. Nos bendecirá Dios, el Dios nuestro.\n7. Bendíganos Dios, Y témanlo todos los términos de la tierra. Al músico principal. Salmo de David."
+            },
+            {
+              "cita": "Sal. 119:36",
+              "Pasaje": "36. Inclina mi corazón a tus testimonios, Y no a la avaricia."
+            },
+            {
+              "cita": "Mat. 26:39",
+              "Pasaje": "39. Yendo un poco adelante, se postró sobre su rostro, orando y diciendo: Padre mío, si es posible, pase de mí esta copa; pero no sea como yo quiero, sino como tú."
+            },
+            {
+              "cita": "2 Sal. 15:25",
+              "Pasaje": null,
+              "estadoPasaje": "Referencia no identificada en el PDF: requiere revisión"
+            },
+            {
+              "cita": "Job. 1:21",
+              "Pasaje": "21. Desnudo salí del vientre de mi madre, y desnudo volveré allá. Jehová dio, y Jehová quitó; sea el nombre de Jehová bendito."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Sal. 103:20,21",
+              "Pasaje": "20. Bendecid a Jehová, vosotros sus ángeles, Poderosos en fortaleza, que ejecutáis su palabra, Obedeciendo a la voz de su precepto.\n21. Bendecid a Jehová, vosotros todos sus ejércitos, Ministros suyos, que hacéis su voluntad."
+            }
+          ]
+        }
+      ],
+      "pagina": 138,
+      "numeroNotaBiblica": 498,
+      "completa": true
+    },
+    {
+      "numero": 104,
+      "pregunta": "¿Qué rogamos en la cuarta petición?",
+      "respuesta": "En la cuarta petición que dice: «Danos hoy nuestro pan cotidiano», rogamos a Dios, el dador de todo lo bueno, que nos dé una porción suficiente de las cosas temporales, y que con ella nos conceda el gozo de su bendición.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Mat. 6:11",
+              "Pasaje": "11. Y perdónanos nuestras deudas, como también nosotros perdonamos a nuestros deudores."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Prov. 30:8,9",
+              "Pasaje": "8. Vanidad y palabra mentirosa aparta de mí; No me des pobreza ni riquezas; Manténme del pan necesario;\n9. No sea que me sacie, y te niegue, y diga: ¿Quién es Jehová? O que siendo pobre, hurte, Y blasfeme el nombre de mi Dios."
+            },
+            {
+              "cita": "Gén. 28:20",
+              "Pasaje": "20. Si fuere Dios conmigo, y me guardare en este viaje en que voy, y me diere pan para"
+            },
+            {
+              "cita": "1 Tim. 4:4,5",
+              "Pasaje": "4. Porque todo lo que Dios creó es bueno, y nada es de desecharse, si se toma con acción de\n5. gracias; porque por la palabra de Dios y por la oración es santificado."
+            }
+          ]
+        }
+      ],
+      "pagina": 138,
+      "numeroNotaBiblica": 499,
+      "completa": true
+    },
+    {
+      "numero": 105,
+      "pregunta": "¿Qué rogamos en la quinta petición?",
+      "respuesta": "En la quinta petición que dice: «Perdónanos nuestras deudas, como también nosotros perdonamos a nuestros deudores», rogamos que Dios, por amor a Cristo, perdone gratuitamente todos nuestros pecados; y somos estimulados a pedir esto, porque por su gracia, nos hallamos en disposición de perdonar sinceramente a otros.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Mat. 6:12",
+              "Pasaje": null,
+              "estadoPasaje": "No se pudo extraer el pasaje del PDF"
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Sal. 51:1,2,7,9",
+              "Pasaje": "1. Salmo de David, cuando después que se llegó a Betsabé, vino a él Natán el profeta. Ten piedad de mí, oh Dios, conforme a tu misericordia; Conforme a la multitud de tus piedades borra mis rebeliones.\n2. Lávame más y más de mi maldad, Y límpiame de mi pecado.\n7. Purifícame con hisopo, y seré limpio; Lávame, y seré más blanco que la nieve.\n9. Esconde tu rostro de mis pecados, Y borra todas mis maldades."
+            },
+            {
+              "cita": "Dn. 9:17-19",
+              "Pasaje": "17. Ahora pues, Dios nuestro, oye la oración de tu siervo, y sus ruegos; y haz que tu rostro resplandezca sobre tu santuario asolado, por amor del Señor.\n18. Inclina, oh Dios mío, tu oído, y oye; abre tus ojos, y mira nuestras desolaciones, y la ciudad sobre la cual es invocado tu nombre; porque no elevamos nuestros ruegos ante ti confiados en nuestras justicias, sino en tus muchas misericordias.\n19. Oye, Señor; oh Señor, perdona; presta oído, Señor, y hazlo; no tardes, por amor de ti mismo, Dios mío; porque tu nombre es invocado sobre tu ciudad y sobre tu pueblo."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Luc. 11:4",
+              "Pasaje": "4. Y perdónanos nuestros pecados, porque también nosotros perdonamos a todos los que nos deben. Y no nos metas en tentación, mas líbranos del mal."
+            }
+          ]
+        }
+      ],
+      "pagina": 138,
+      "numeroNotaBiblica": 500,
+      "completa": true
+    },
+    {
+      "numero": 106,
+      "pregunta": "¿Qué rogamos en la sexta petición?",
+      "respuesta": "En la sexta petición, que dice: «No nos metas en tentación mas líbranos del mal», rogamos que Dios nos guarde de ser tentados a pecar, o que nos sostenga y nos libre cuando seamos tentados.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Mat. 6:13",
+              "Pasaje": "13. Y no nos metas en tentación, mas líbranos del mal; porque tuyo es el reino, y el poder, y la gloria, por todos los siglos. Amén."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Mat. 26:41",
+              "Pasaje": "41. Velad y orad, para que no entréis en tentación; el espíritu a la verdad está dispuesto, pero la carne es débil. Otra vez fue, y oró por segunda vez, diciendo:"
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "2 Cor. 12:7,8",
+              "Pasaje": "7. Y para que la grandeza de las revelaciones no me exaltase desmedidamente, me fue dado un aguijón en mi carne, un mensajero de Satanás que me abofe-\n8. tee, para que no me enaltezca sobremanera; respecto a lo cual tres veces he rogado al Señor, que lo quite de mí."
+            }
+          ]
+        }
+      ],
+      "pagina": 138,
+      "numeroNotaBiblica": 501,
+      "completa": true
+    },
+    {
+      "numero": 107,
+      "pregunta": "¿Qué nos enseña el final del Padre Nuestro?",
+      "respuesta": "El final del Padre Nuestro, que dice: «Porque tuyo es el reino y el poder y la gloria por todos los siglos. Amén», nos enseña a derivar nuestro ánimo, en oración, solamente de Dios y también a alabarle en nuestras oraciones, atribuyéndole a Él solo el dominio y el poder y la gloria. Y en testimonio de nuestro deseo y seguridad de ser oídos, decimos: «Amén».",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Mat. 6:13",
+              "Pasaje": "13. Y no nos metas en tentación, mas líbranos del mal; porque tuyo es el reino, y el poder, y la gloria, por todos los siglos. Amén."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Dn. 9:4,7-9,16-19",
+              "Pasaje": "4. Y oré a Jehová mi Dios e hice confesión diciendo: Ahora, Señor, Dios grande, digno de ser temido, que guardas el pacto y la misericordia con los que te aman y guardan tus mandamien-\n7. Tuya es, Señor, la justicia, y nuestra la confusión de rostro, como en el día de hoy lleva todo hombre de Judá, los moradores de Jerusalén, y todo Israel, los de cerca y los de lejos, en todas las tierras adonde los has echado a causa de su rebelión con que se rebelaron contra ti.\n8. Oh Jehová, nuestra es la confusión de rostro, de nuestros reyes, de nuestros príncipes y de nuestros padres; porque contra ti pecamos.\n9. De Jehová nuestro Dios es el tener misericordia y\n16. Oh Señor, conforme a todos tus actos de justicia, apártese ahora tu ira y tu furor de sobre tu ciudad Jerusalén, tu santo monte; porque a causa de nuestros pecados, y por la maldad de nuestros padres, Jerusalén y tu pueblo son el oprobio de todos en derredor nuestro.\n17. Ahora pues, Dios nuestro, oye la oración de tu siervo, y sus ruegos; y haz que tu rostro resplandezca sobre tu santuario asolado, por amor del Señor.\n18. Inclina, oh Dios mío, tu oído, y oye; abre tus ojos, y mira nuestras desolaciones, y la ciudad sobre la cual es invocado tu nombre; porque no elevamos nuestros ruegos ante ti confiados en nuestras justicias, sino en tus muchas misericordias.\n19. Oye, Señor; oh Señor, perdona; presta oído, Señor, y hazlo; no tardes, por amor de ti mismo, Dios mío; porque tu nombre es invocado sobre tu ciudad y sobre tu pueblo."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "1 Cr. 29:10-13",
+              "Pasaje": "10. Asimismo se alegró mucho el rey David, y bendijo a Jehová delante de toda la congregación; y dijo David: Bendito seas tú, oh Jehová, Dios de Israel nuestro padre, desde el siglo y hasta el siglo.\n11. Tuya es, oh Jehová, la magnificencia y el poder, la gloria, la victoria y el honor; porque todas las cosas que están en los cielos y en la tierra son tuyas. Tuyo, oh Jehová, es el reino, y tú eres excelso sobre todos.\n12. Las riquezas y la gloria proceden de ti, y tú dominas sobre todo; en tu mano está la fuerza y el poder, y en tu mano el hacer grande y el dar poder a todos.\n13. Ahora pues, Dios nuestro, nosotros alabamos y loamos tu glorioso nombre."
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "1 Cor. 14:16",
+              "Pasaje": "16. Porque si bendices sólo con el espíritu, el que ocupa lugar de simple oyente, ¿cómo dirá el Amén a tu acción de gracias? pues no sabe lo que has dicho."
+            },
+            {
+              "cita": "Apo. 22:20,21",
+              "Pasaje": "20. El que da testimonio de estas cosas dice: Ciertamente vengo en breve. Amén; sí, ven, Señor Jesús.\n21. La gracia de nuestro Señor Jesucristo sea con todos vosotros. Amén."
+            }
+          ]
+        }
+      ],
+      "pagina": 138,
+      "numeroNotaBiblica": 502,
+      "completa": true
     }
+  ],
+  "versionBiblica": "Reina-Valera 1960 (PDF proporcionado por el usuario)",
+  "observacionesExtraccion": [
+    "Los pasajes se extrajeron del PDF facilitado; algunas separaciones de versículos, especialmente cuando varios comienzan en la misma línea, requieren cotejo editorial.",
+    "Las referencias con erratas o sin capítulo/libro identificable se preservan sin inventar contenido.",
+    "Las referencias comparativas entre paréntesis se conservaron en el campo cita y se identificaron para revisión."
   ]
 }

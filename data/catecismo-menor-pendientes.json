@@ -1,0 +1,92 @@
+[
+  {
+    "pregunta": 10,
+    "cita": "Ef. 4:24",
+    "motivo": "sin texto"
+  },
+  {
+    "pregunta": 29,
+    "cita": "Jn. 1:11,12",
+    "motivo": "faltan [12]"
+  },
+  {
+    "pregunta": 34,
+    "cita": "Jn. 1:12",
+    "motivo": "sin texto"
+  },
+  {
+    "pregunta": 42,
+    "cita": "Mat. 22:37-40",
+    "motivo": "faltan [37]"
+  },
+  {
+    "pregunta": 43,
+    "cita": "Ex. 20:2",
+    "motivo": "sin texto"
+  },
+  {
+    "pregunta": 47,
+    "cita": "Sal. 81:10,11",
+    "motivo": "faltan [10]"
+  },
+  {
+    "pregunta": 48,
+    "cita": "Sal. 46:20,21",
+    "motivo": "sin texto"
+  },
+  {
+    "pregunta": 49,
+    "cita": "Ex. 20:4-6",
+    "motivo": "faltan [4]"
+  },
+  {
+    "pregunta": 60,
+    "cita": "Mat. 12:1-31 (especialmente vv. 2 y 12)",
+    "motivo": "faltan [10]"
+  },
+  {
+    "pregunta": 65,
+    "cita": "Eze. 34:2-4",
+    "motivo": "faltan [2]"
+  },
+  {
+    "pregunta": 75,
+    "cita": "Ef. 4:28",
+    "motivo": "sin texto"
+  },
+  {
+    "pregunta": 77,
+    "cita": "Zab. 8:16",
+    "motivo": "referencia no identificada"
+  },
+  {
+    "pregunta": 77,
+    "cita": "3 Jn. 12",
+    "motivo": "numeracion inválida"
+  },
+  {
+    "pregunta": 82,
+    "cita": "Rom. 3:9-21",
+    "motivo": "faltan [11, 15, 18]"
+  },
+  {
+    "pregunta": 83,
+    "cita": "Sal. 68:17,32,56",
+    "motivo": "faltan [56]"
+  },
+  {
+    "pregunta": 99,
+    "cita": "Mat. 6:9-13 (compare con Luc. 11:2-4)",
+    "motivo": "faltan [12]"
+  },
+  {
+    "pregunta": 103,
+    "cita": "2 Sal. 15:25",
+    "motivo": "referencia no identificada"
+  },
+  {
+    "pregunta": 105,
+    "cita": "Mat. 6:12",
+    "motivo": "sin texto"
+  }
+]
