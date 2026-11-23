@@ -1,6 +1,6 @@
 // Permite usar la biblioteca sin conexión una vez visitada (GitHub Pages o cualquier servidor).
 // Estrategia: red primero y, si no hay conexión, la última copia guardada.
-const CACHE = 'catecismos-v7';
+const CACHE = 'catecismos-v7.1';
 const ARCHIVOS = [
   './', 'index.html', 'manifest.webmanifest',
   'assets/estilos.css', 'assets/app.js', 'assets/icono.svg', 'assets/icono-192.png', 'assets/icono-512.png',
@@ -12,7 +12,7 @@ self.addEventListener('install', (e) => {
 });
 self.addEventListener('activate', (e) => {
   e.waitUntil(caches.keys()
-    .then((claves) => Promise.all(claves.filter((k) => k !== CACHE).map((k) => caches.delete(k))))
+    .then((claves) => Promise.all(claves.filter((k) => k.startsWith('catecismos-') && k !== CACHE).map((k) => caches.delete(k))))
     .then(() => self.clients.claim()));
 });
 self.addEventListener('fetch', (e) => {
