@@ -1,10 +1,10 @@
 {
   "titulo": "Catecismo Mayor de Westminster",
   "totalPreguntas": 196,
-  "preguntasCompletas": 65,
+  "preguntasCompletas": 90,
   "versionBiblica": "Reina-Valera 1909",
   "observaciones": [
-    "Versión en revisión: incluye las preguntas 1 a 65 de 196.",
+    "Versión en revisión: incluye las preguntas 1 a 90 de 196.",
     "Traducción propia al español a partir del texto histórico en inglés (dominio público).",
     "Las letras de los incisos siguen la edición estándar de las pruebas bíblicas; la fuente en línea las presenta sin letras."
   ],
@@ -3677,6 +3677,1773 @@
             {
               "cita": "Jn. 17:24",
               "Pasaje": "24. Padre, aquellos que me has dado, quiero que donde yo estoy, ellos estén también conmigo; para que vean mi gloria que me has dado: por cuanto me has amado desde antes de la constitución del mundo."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 66,
+      "pregunta": "¿Qué es la unión que los elegidos tienen con Cristo?",
+      "respuesta": "La unión que los elegidos tienen con Cristo es la obra de la gracia de Dios por la cual son unidos a Cristo, como a su cabeza y esposo, espiritual y místicamente, pero real e inseparablemente; lo cual se realiza en su llamamiento eficaz.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Ef. 1:22",
+              "Pasaje": "22. Y sometió todas las cosas debajo de sus pies, y diólo por cabeza sobre todas las cosas á la iglesia,"
+            },
+            {
+              "cita": "Ef. 2:6-7",
+              "Pasaje": "6. Y juntamente nos resucitó, y asimismo nos hizo sentar en los cielos con Cristo Jesús,\n7. Para mostrar en los siglos venideros las abundantes riquezas de su gracia en [su] bondad para con nosotros en Cristo Jesús."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "1 Cor. 6:17",
+              "Pasaje": "17. Empero el que se junta con el Señor, un espíritu es."
+            },
+            {
+              "cita": "Jn. 10:28",
+              "Pasaje": "28. Y yo les doy vida eterna: y no perecerán para siempre, ni nadie las arrebatará de mi mano."
+            },
+            {
+              "cita": "Ef. 5:23,30",
+              "Pasaje": "23. Porque el marido es cabeza de la mujer, así como Cristo es cabeza de la iglesia; y él es el que da la salud al cuerpo.\n30. Porque somos miembros de su cuerpo, de su carne y de sus huesos."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "1 Ped. 5:10",
+              "Pasaje": "10. Mas el Dios de toda gracia, que nos ha llamado á su gloria eterna por Jesucristo, después que hubiereis un poco de tiempo padecido, él mismo os perfeccione, confirme, corrobore y establezca."
+            },
+            {
+              "cita": "1 Cor. 1:9",
+              "Pasaje": "9. Fiel es Dios, por el cual sois llamados á la participación de su Hijo Jesucristo nuestro Señor."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 67,
+      "pregunta": "¿Qué es el llamamiento eficaz?",
+      "respuesta": "El llamamiento eficaz es la obra del poder y de la gracia omnipotentes de Dios, por la cual (por su amor libre y especial hacia sus elegidos, y no por cosa alguna en ellos que a ello le mueva), en su tiempo aceptable, los invita y atrae a Jesucristo por su Palabra y su Espíritu, iluminando salvíficamente sus entendimientos, renovando y determinando poderosamente sus voluntades, de modo que ellos (aunque en sí mismos muertos en el pecado) son por ello hechos dispuestos y capaces de responder libremente a su llamamiento, y de aceptar y abrazar la gracia que en él se ofrece y se comunica.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Jn. 5:25",
+              "Pasaje": "25. De cierto, de cierto os digo: Vendrá hora, y ahora es, cuando los muertos oirán la voz del Hijo de Dios: y los que oyeren vivirán."
+            },
+            {
+              "cita": "Ef. 1:18-20",
+              "Pasaje": "18. Alumbrando los ojos de vuestro entendimiento, para que sepáis cuál sea la esperanza de su vocación, y cuáles las riquezas de la gloria de su herencia en los santos,\n19. Y cuál aquella supereminente grandeza de su poder para con nosotros los que creemos, por la operación de la potencia de su fortaleza,\n20. La cual obró en Cristo, resucitándole de los muertos, y colocándole á su diestra en los cielos,"
+            },
+            {
+              "cita": "2 Tim. 1:8-9",
+              "Pasaje": "8. Por tanto no te avergüences del testimonio de nuestro Señor, ni de mí, preso suyo; antes sé participante de los trabajos del evangelio según la virtud de Dios,\n9. Que nos salvó y llamó con vocación santa, no conforme á nuestras obras, mas según el intento suyo y gracia, la cual nos es dada en Cristo Jesús antes de los tiempos de los siglos,"
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Tit. 3:4-5",
+              "Pasaje": "4. Mas cuando se manifestó la bondad de Dios nuestro Salvador, y su amor para con los hombres,\n5. No por obras de justicia que nosotros habíamos hecho, mas por su misericordia nos salvó, por el lavacro de la regeneración, y de la renovación del Espíritu Santo;"
+            },
+            {
+              "cita": "Ef. 2:4-5,7-9",
+              "Pasaje": "4. Empero Dios, que es rico en misericordia, por su mucho amor con que nos amó,\n5. Aun estando nosotros muertos en pecados, nos dió vida juntamente con Cristo; por gracia sois salvos;\n7. Para mostrar en los siglos venideros las abundantes riquezas de su gracia en [su] bondad para con nosotros en Cristo Jesús.\n8. Porque por gracia sois salvos por la fe; y esto no de vosotros, [pues es] don de Dios:\n9. No por obras, para que nadie se gloríe."
+            },
+            {
+              "cita": "Rom. 9:11",
+              "Pasaje": "11. (Porque no siendo aún nacidos, ni habiendo hecho aún ni bien ni mal, para que el propósito de Dios conforme á la elección, no por las obras sino por el que llama, permaneciese;)"
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "2 Cor. 5:20",
+              "Pasaje": "20. Así que, somos embajadores en nombre de Cristo, como si Dios rogase por medio nuestro; [os] rogamos en nombre de Cristo: Reconciliaos con Dios."
+            },
+            {
+              "cita": "2 Cor. 6:1-2",
+              "Pasaje": "1. Y ASÍ [nosotros], [como] ayudadores juntamente [con él], [os] exhortamos también á que no recibáis en vano la gracia de Dios,\n2. (Porque dice: En tiempo aceptable te he oído, y en día de salud te he socorrido: he aquí ahora el tiempo aceptable; he aquí ahora el día de salud:)"
+            },
+            {
+              "cita": "Jn. 6:44",
+              "Pasaje": "44. Ninguno puede venir á mí, si el Padre que me envió no le trajere; y yo le resucitaré en el día postrero."
+            },
+            {
+              "cita": "2 Tes. 2:13-14",
+              "Pasaje": "13. Mas nosotros debemos dar siempre gracias á Dios por vosotros, hermanos amados del Señor, de que Dios os haya escogido desde el principio para salud, por la santificación del Espíritu y fe de la verdad:\n14. A lo cual os llamó por nuestro evangelio, para alcanzar la gloria de nuestro Señor Jesucristo."
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "Hech. 26:18",
+              "Pasaje": "18. Para que abras sus ojos, para que se conviertan de las tinieblas á la luz, y de la potestad de Satanás á Dios; para que reciban, por la fe que es en mí, remisión de pecados y suerte entre los santificados."
+            },
+            {
+              "cita": "1 Cor. 2:10,12",
+              "Pasaje": "10. Empero Dios nos [lo] reveló á nosotros por el Espíritu: porque el Espíritu todo lo escudriña, aun lo profundo de Dios.\n12. Y nosotros hemos recibido, no el espíritu del mundo, sino el Espíritu que es de Dios, para que conozcamos lo que Dios nos ha dado;"
+            }
+          ]
+        },
+        {
+          "inciso": "e",
+          "citas": [
+            {
+              "cita": "Ez. 11:19",
+              "Pasaje": "19. Y darles he un corazón, y espíritu nuevo daré en sus entrañas; y quitaré el corazón de piedra de su carne, y daréles corazón de carne;"
+            },
+            {
+              "cita": "Ez. 36:26-27",
+              "Pasaje": "26. Y os daré corazón nuevo, y pondré espíritu nuevo dentro de vosotros; y quitaré de vuestra carne el corazón de piedra, y os daré corazón de carne.\n27. Y pondré dentro de vosotros mi espíritu, y haré que andéis en mis mandamientos, y guardéis mis derechos, y los pongáis por obra."
+            },
+            {
+              "cita": "Jn. 6:45",
+              "Pasaje": "45. Escrito está en los profetas: Y serán todos enseñados de Dios. Así que, todo aquel que oyó del Padre, y aprendió, viene á mí."
+            }
+          ]
+        },
+        {
+          "inciso": "f",
+          "citas": [
+            {
+              "cita": "Ef. 2:5",
+              "Pasaje": "5. Aun estando nosotros muertos en pecados, nos dió vida juntamente con Cristo; por gracia sois salvos;"
+            },
+            {
+              "cita": "Fil. 2:13",
+              "Pasaje": "13. Porque Dios es el que en vosotros obra así el querer como el hacer, por su buena voluntad."
+            },
+            {
+              "cita": "Deut. 30:6",
+              "Pasaje": "6. Y circuncidará Jehová tu Dios tu corazón, y el corazón de tu simiente, para que ames á Jehová tu Dios con todo tu corazón y con toda tu alma, á fin de que tú vivas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 68,
+      "pregunta": "¿Son eficazmente llamados solamente los elegidos?",
+      "respuesta": "Todos los elegidos, y solamente ellos, son eficazmente llamados; aunque otros pueden ser, y a menudo son, llamados exteriormente por el ministerio de la Palabra, y tienen algunas operaciones comunes del Espíritu; los cuales, por su voluntario descuido y menosprecio de la gracia que se les ofrece, siendo justamente dejados en su incredulidad, nunca vienen verdaderamente a Jesucristo.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Hech. 13:48",
+              "Pasaje": "48. Y los Gentiles oyendo esto, fueron gozosos, y glorificaban la palabra del Señor: y creyeron todos los que estaban ordenados para vida eterna."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Mat. 22:14",
+              "Pasaje": "14. Porque muchos son llamados, y pocos escogidos."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Mat. 7:22",
+              "Pasaje": "22. Muchos me dirán en aquel día: Señor, Señor, ¿no profetizamos en tu nombre, y en tu nombre lanzamos demonios, y en tu nombre hicimos muchos milagros?"
+            },
+            {
+              "cita": "Heb. 6:4-6",
+              "Pasaje": "4. Porque es imposible que los que una vez fueron iluminados y gustaron el don celestial, y fueron hechos partícipes del Espíritu Santo,\n5. Y asimismo gustaron la buena palabra de Dios, y las virtudes del siglo venidero,\n6. Y recayeron, sean otra vez renovados para arrepentimiento, crucificando de nuevo para sí mismos al Hijo de Dios, y exponiéndole á vituperio."
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "Jn. 12:38-40",
+              "Pasaje": "38. Para que se cumpliese el dicho que dijo el profeta Isaías: ¿Señor, quién ha creído á nuestro dicho? ¿y el brazo del Señor, á quién es revelado?\n39. Por esto no podían creer, porque otra vez dijo Isaías:\n40. Cegó los ojos de ellos, y endureció su corazón; porque no vean con los ojos, y entiendan de corazón, y se conviertan, y yo los sane."
+            },
+            {
+              "cita": "Hech. 28:25-27",
+              "Pasaje": "25. Y como fueron entre sí discordes, se fueron, diciendo Pablo esta palabra: Bien ha hablado el Espíritu Santo por el profeta Isaías á nuestros padres,\n26. Diciendo: Ve á este pueblo, y di[les]: De oído oiréis, y no entenderéis; y viendo veréis, y no percibiréis:\n27. Porque el corazón de este pueblo se ha engrosado, y de los oídos oyeron pesadamente, y sus ojos taparon; porque no vean con los ojos, y oigan con los oídos, y entiendan de corazón, y se conviertan, y yo los sane."
+            },
+            {
+              "cita": "Jn. 6:64-65",
+              "Pasaje": "64. Mas hay algunos de vosotros que no creen. Porque Jesús desde el principio sabía quiénes eran los que no creían, y quién le había de entregar.\n65. Y dijo: Por eso os he dicho que ninguno puede venir á mí, si no le fuere dado del Padre."
+            },
+            {
+              "cita": "Sal. 81:11-12",
+              "Pasaje": "11. Mas mi pueblo no oyó mi voz, é Israel no me quiso á mí.\n12. Dejélos por tanto á la dureza de su corazón: caminaron en sus consejos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 69,
+      "pregunta": "¿Qué es la comunión en gracia que los miembros de la iglesia invisible tienen con Cristo?",
+      "respuesta": "La comunión en gracia que los miembros de la iglesia invisible tienen con Cristo es su participación en la virtud de su mediación, en su justificación, adopción, santificación y todo lo demás que en esta vida manifiesta su unión con él.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Rom. 8:30",
+              "Pasaje": "30. Y á los que predestinó, á éstos también llamó; y á los que llamó, á éstos también justificó; y á los que justificó, á éstos también glorificó."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Ef. 1:5",
+              "Pasaje": "5. Habiéndonos predestinado para ser adoptados hijos por Jesucristo á sí mismo, según el puro afecto de su voluntad,"
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "1 Cor. 1:30",
+              "Pasaje": "30. Mas de él sois vosotros en Cristo Jesús, el cual nos ha sido hecho por Dios sabiduría, y justificación, y santificación, y redención:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 70,
+      "pregunta": "¿Qué es la justificación?",
+      "respuesta": "La justificación es un acto de la libre gracia de Dios para con los pecadores, en el cual él perdona todos sus pecados, acepta sus personas y las tiene por justas delante de él; no por cosa alguna obrada en ellos ni hecha por ellos, sino solamente por la perfecta obediencia y plena satisfacción de Cristo, imputadas a ellos por Dios y recibidas solamente por la fe.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Rom. 3:22,24-25",
+              "Pasaje": "22. La justicia de Dios por la fe de Jesucristo, para todos los que creen en él; porque no hay diferencia;\n24. Siendo justificados gratuitamente por su gracia, por la redención que es en Cristo Jesús;\n25. Al cual Dios ha propuesto en propiciación por la fe en su sangre, para manifestación de su justicia, atento á haber pasado por alto, en su paciencia, los pecados pasados,"
+            },
+            {
+              "cita": "Rom. 4:5",
+              "Pasaje": "5. Mas al que no obra, pero cree en aquél que justifica al impío, la fe le es contada por justicia."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "2 Cor. 5:19,21",
+              "Pasaje": "19. Porque ciertamente Dios estaba en Cristo reconciliando el mundo á sí, no imputándole sus pecados, y puso en nosotros la palabra de la reconciliación.\n21. Al que no conoció pecado, hizo pecado por nosotros, para que nosotros fuésemos hechos justicia de Dios en él."
+            },
+            {
+              "cita": "Rom. 3:22,24-25,27-28",
+              "Pasaje": "22. La justicia de Dios por la fe de Jesucristo, para todos los que creen en él; porque no hay diferencia;\n24. Siendo justificados gratuitamente por su gracia, por la redención que es en Cristo Jesús;\n25. Al cual Dios ha propuesto en propiciación por la fe en su sangre, para manifestación de su justicia, atento á haber pasado por alto, en su paciencia, los pecados pasados,\n27. ¿Dónde pues está la jactancia? Es excluída. ¿Por cuál ley? ¿de las obras? No; mas por la ley de la fe.\n28. Así que, concluímos ser el hombre justificado por fe sin las obras de la ley."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Tit. 3:5,7",
+              "Pasaje": "5. No por obras de justicia que nosotros habíamos hecho, mas por su misericordia nos salvó, por el lavacro de la regeneración, y de la renovación del Espíritu Santo;\n7. Para que, justificados por su gracia, seamos hechos herederos según la esperanza de la vida eterna."
+            },
+            {
+              "cita": "Ef. 1:7",
+              "Pasaje": "7. En el cual tenemos redención por su sangre, la remisión de pecados por las riquezas de su gracia,"
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "Rom. 5:17-19",
+              "Pasaje": "17. Porque, si por un delito reinó la muerte por uno, mucho más reinarán en vida por un Jesucristo los que reciben la abundancia de la gracia, y del don de la justicia.\n18. Así que, de la manera que por un delito [vino la culpa] á todos los hombres para condenación, así por una justicia [vino la gracia] á todos los hombres para justificación de vida.\n19. Porque como por la desobediencia de un hombre los muchos fueron constituídos pecadores, así por la obediencia de uno los muchos serán constituídos justos."
+            },
+            {
+              "cita": "Rom. 4:6-8",
+              "Pasaje": "6. Como también David dice ser bienaventurado el hombre al cual Dios atribuye justicia sin obras,\n7. [Diciendo]: Bienaventurados aquellos cuyas iniquidades son perdonadas, y cuyos pecados son cubiertos.\n8. Bienaventurado el varón al cual el Señor no imputó pecado."
+            }
+          ]
+        },
+        {
+          "inciso": "e",
+          "citas": [
+            {
+              "cita": "Hech. 10:43",
+              "Pasaje": "43. A éste dan testimonio todos los profetas, de que todos los que en él creyeren, recibirán perdón de pecados por su nombre."
+            },
+            {
+              "cita": "Gál. 2:16",
+              "Pasaje": "16. Sabiendo que el hombre no es justificado por las obras de la ley, sino por la fe de Jesucristo, nosotros también hemos creído en Jesucristo, para que fuésemos justificados por la fe de Cristo, y no por las obras de la ley; por cuanto por las obras de la ley ninguna carne será justificada."
+            },
+            {
+              "cita": "Fil. 3:9",
+              "Pasaje": "9. Y ser hallado en él, no teniendo mi justicia, que es por la ley, sino la que es por la fe de Cristo, la justicia que es de Dios por la fe;"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 71,
+      "pregunta": "¿Cómo es la justificación un acto de la libre gracia de Dios?",
+      "respuesta": "Aunque Cristo, por su obediencia y muerte, hizo una satisfacción propia, real y plena a la justicia de Dios a favor de los que son justificados, sin embargo, por cuanto Dios acepta la satisfacción de un fiador, la cual podría haber exigido de ellos, y proveyó este fiador, su propio Hijo unigénito, imputándoles la justicia de él, y no requiriendo de ellos para su justificación sino la fe, la cual también es don suyo, su justificación es para ellos de libre gracia.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Rom. 5:8-10,19",
+              "Pasaje": "8. Mas Dios encarece su caridad para con nosotros, porque siendo aún pecadores, Cristo murió por nosotros.\n9. Luego mucho más ahora, justificados en su sangre, por él seremos salvos de la ira.\n10. Porque si siendo enemigos, fuimos reconciliados con Dios por la muerte de su Hijo, mucho más, estando reconciliados, seremos salvos por su vida.\n19. Porque como por la desobediencia de un hombre los muchos fueron constituídos pecadores, así por la obediencia de uno los muchos serán constituídos justos."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "1 Tim. 2:5-6",
+              "Pasaje": "5. Porque hay un Dios, asimismo un mediador entre Dios y los hombres, Jesucristo hombre;\n6. El cual se dió á sí mismo [en] precio del rescate por todos, [para] testimonio en sus tiempos:"
+            },
+            {
+              "cita": "Heb. 10:10",
+              "Pasaje": "10. En la cual voluntad somos santificados por la ofrenda del cuerpo de Jesucristo [hecha] una sola vez."
+            },
+            {
+              "cita": "Mat. 20:28",
+              "Pasaje": "28. Como el Hijo del hombre no vino para ser servido, sino para servir, y para dar su vida en rescate por muchos."
+            },
+            {
+              "cita": "Dan. 9:24,26",
+              "Pasaje": "24. Setenta semanas están determinadas sobre tu pueblo y sobre tu santa ciudad, para acabar la prevaricación, y concluir el pecado, y expiar la iniquidad; y para traer la justicia de los siglos, y sellar la visión y la profecía, y ungir al Santo de los santos.\n26. Y después de las sesenta y dos semanas se quitará la vida al Mesías, y no por sí: y el pueblo de un príncipe que ha de venir, destruirá á la ciudad y el santuario; con inundación será el fin de ella, y hasta el fin de la guerra será talada con asolamientos."
+            },
+            {
+              "cita": "Isa. 53:4-6,10-12",
+              "Pasaje": "4. Ciertamente llevó él nuestras enfermedades, y sufrió nuestros dolores; y nosotros le tuvimos por azotado, por herido de Dios y abatido.\n5. Mas él herido fué por nuestras rebeliones, molido por nuestros pecados: el castigo de nuestra paz sobre él; y por su llaga fuimos nosotros curados.\n6. Todos nosotros nos descarriamos como ovejas, cada cual se apartó por su camino: mas Jehová cargó en él el pecado de todos nosotros.\n10. Con todo eso Jehová quiso quebrantarlo, sujetándole á padecimiento. Cuando hubiere puesto su vida en expiación por el pecado, verá linaje, vivirá por largos días, y la voluntad de Jehová será en su mano prosperada.\n11. Del trabajo de su alma verá [y] será saciado; con su conocimiento justificará mi siervo justo á muchos, y él llevará las iniquidades de ellos.\n12. Por tanto yo le daré parte con los grandes, y con los fuertes repartirá despojos; por cuanto derramó su vida hasta la muerte, y fué contado con los perversos, habiendo él llevado el pecado de muchos, y orado por los transgresores."
+            },
+            {
+              "cita": "Heb. 7:22",
+              "Pasaje": "22. Tanto de mejor testamento es hecho fiador Jesús."
+            },
+            {
+              "cita": "Rom. 8:32",
+              "Pasaje": "32. El que aun á su propio Hijo no perdonó, antes le entregó por todos nosotros, ¿cómo no nos dará también con él todas las cosas?"
+            },
+            {
+              "cita": "1 Ped. 1:18-19",
+              "Pasaje": "18. Sabiendo que habéis sido rescatados de vuestra vana conversación, la cual recibisteis de vuestros padres, no con cosas corruptibles, [como] oro ó plata;\n19. Sino con la sangre preciosa de Cristo, como de un cordero sin mancha y sin contaminación:"
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "2 Cor. 5:21",
+              "Pasaje": "21. Al que no conoció pecado, hizo pecado por nosotros, para que nosotros fuésemos hechos justicia de Dios en él."
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "Rom. 3:24-25",
+              "Pasaje": "24. Siendo justificados gratuitamente por su gracia, por la redención que es en Cristo Jesús;\n25. Al cual Dios ha propuesto en propiciación por la fe en su sangre, para manifestación de su justicia, atento á haber pasado por alto, en su paciencia, los pecados pasados,"
+            }
+          ]
+        },
+        {
+          "inciso": "e",
+          "citas": [
+            {
+              "cita": "Ef. 2:8",
+              "Pasaje": "8. Porque por gracia sois salvos por la fe; y esto no de vosotros, [pues es] don de Dios:"
+            }
+          ]
+        },
+        {
+          "inciso": "f",
+          "citas": [
+            {
+              "cita": "Ef. 1:17",
+              "Pasaje": "17. Que el Dios del Señor nuestro Jesucristo, el Padre de gloria, os dé espíritu de sabiduría y de revelación para su conocimiento;"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 72,
+      "pregunta": "¿Qué es la fe que justifica?",
+      "respuesta": "La fe que justifica es una gracia salvadora, obrada en el corazón del pecador por el Espíritu y la Palabra de Dios, por la cual él, convencido de su pecado y miseria, y de la incapacidad de sí mismo y de todas las demás criaturas para rescatarlo de su condición perdida, no solamente asiente a la verdad de la promesa del evangelio, sino que recibe y descansa en Cristo y en su justicia, allí ofrecidos, para el perdón del pecado y para que su persona sea aceptada y tenida por justa delante de Dios para salvación.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Heb. 10:39",
+              "Pasaje": "39. Pero nosotros no somos tales que nos retiremos para perdición, sino fieles para ganancia del alma."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "2 Cor. 4:13",
+              "Pasaje": "13. Empero teniendo el mismo espíritu de fe, conforme á lo que está escrito: Creí, por lo cual también hablé: nosotros también creemos, por lo cual también hablamos;"
+            },
+            {
+              "cita": "Ef. 1:17-19",
+              "Pasaje": "17. Que el Dios del Señor nuestro Jesucristo, el Padre de gloria, os dé espíritu de sabiduría y de revelación para su conocimiento;\n18. Alumbrando los ojos de vuestro entendimiento, para que sepáis cuál sea la esperanza de su vocación, y cuáles las riquezas de la gloria de su herencia en los santos,\n19. Y cuál aquella supereminente grandeza de su poder para con nosotros los que creemos, por la operación de la potencia de su fortaleza,"
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Rom. 10:14-17",
+              "Pasaje": "14. ¿Cómo, pues invocarán á aquel en el cual no han creído? ¿y cómo creerán á aquel de quien no han oído? ¿y cómo oirán sin [haber] quien [les] predique?\n15. ¿Y cómo predicarán si no fueren enviados? Como está escrito: ¡Cuán hermosos son los pies de los que anuncian el evangelio de la paz, de los que anuncian el evangelio de los bienes!\n16. Mas no todos obedecen al evangelio; pues Isaías dice: Señor, ¿quién ha creído á nuestro anuncio?\n17. Luego la fe es por el oir; y el oir por la palabra de Dios."
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "Hech. 2:37",
+              "Pasaje": "37. Entonces oído [esto], fueron compungidos de corazón, y dijeron á Pedro y á los otros apóstoles: Varones hermanos, ¿qué haremos?"
+            },
+            {
+              "cita": "Hech. 16:30",
+              "Pasaje": "30. Y sacándolos fuera, les dice: Señores, ¿qué es menester que yo haga para ser salvo?"
+            },
+            {
+              "cita": "Jn. 16:8-9",
+              "Pasaje": "8. Y cuando él viniere redargüirá al mundo de pecado, y de justicia, y de juicio:\n9. De pecado ciertamente, por cuanto no creen en mí;"
+            },
+            {
+              "cita": "Rom. 6:6",
+              "Pasaje": "6. Sabiendo esto, que nuestro viejo hombre juntamente fué crucificado con [él], para que el cuerpo del pecado sea deshecho, á fin de que no sirvamos más al pecado."
+            },
+            {
+              "cita": "Ef. 2:1",
+              "Pasaje": "1. Y [DE ella recibisteis] vosotros, que estabais muertos en vuestros delitos y pecados,"
+            },
+            {
+              "cita": "Hech. 4:12",
+              "Pasaje": "12. Y en ningún otro hay salud; porque no hay otro nombre debajo del cielo, dado á los hombres, en que podamos ser salvos."
+            }
+          ]
+        },
+        {
+          "inciso": "e",
+          "citas": [
+            {
+              "cita": "Ef. 1:13",
+              "Pasaje": "13. En el cual [esperasteis] también vosotros en oyendo la palabra de verdad, el evangelio de vuestra salud: en el cual también desde que creísteis, fuisteis sellados con el Espíritu Santo de la promesa,"
+            }
+          ]
+        },
+        {
+          "inciso": "f",
+          "citas": [
+            {
+              "cita": "Jn. 1:12",
+              "Pasaje": "12. Mas á todos los que le recibieron, dióles potestad de ser hechos hijos de Dios, á los que creen en su nombre:"
+            },
+            {
+              "cita": "Hech. 16:31",
+              "Pasaje": "31. Y ellos dijeron: Cree en el Señor Jesucristo, y serás salvo tú, y tu casa."
+            },
+            {
+              "cita": "Hech. 10:43",
+              "Pasaje": "43. A éste dan testimonio todos los profetas, de que todos los que en él creyeren, recibirán perdón de pecados por su nombre."
+            }
+          ]
+        },
+        {
+          "inciso": "g",
+          "citas": [
+            {
+              "cita": "Fil. 3:9",
+              "Pasaje": "9. Y ser hallado en él, no teniendo mi justicia, que es por la ley, sino la que es por la fe de Cristo, la justicia que es de Dios por la fe;"
+            },
+            {
+              "cita": "Hech. 15:11",
+              "Pasaje": "11. Antes por la gracia del Señor Jesús creemos que seremos salvos, como también ellos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 73,
+      "pregunta": "¿Cómo justifica la fe al pecador delante de Dios?",
+      "respuesta": "La fe justifica al pecador delante de Dios no a causa de las otras gracias que siempre la acompañan, ni de las buenas obras que son sus frutos, ni como si la gracia de la fe, o algún acto de ella, le fuese imputado para su justificación; sino solamente en cuanto es un instrumento por el cual él recibe y se aplica a Cristo y su justicia.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Gál. 3:11",
+              "Pasaje": "11. Mas por cuanto por la ley ninguno se justifica para con Dios, queda manifiesto: Que el justo por la fe vivirá."
+            },
+            {
+              "cita": "Rom. 3:28",
+              "Pasaje": "28. Así que, concluímos ser el hombre justificado por fe sin las obras de la ley."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Rom. 4:5",
+              "Pasaje": "5. Mas al que no obra, pero cree en aquél que justifica al impío, la fe le es contada por justicia."
+            },
+            {
+              "cita": "Rom. 10:10",
+              "Pasaje": "10. Porque con el corazón se cree para justicia; mas con la boca se hace confesión para salud."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Jn. 1:12",
+              "Pasaje": "12. Mas á todos los que le recibieron, dióles potestad de ser hechos hijos de Dios, á los que creen en su nombre:"
+            },
+            {
+              "cita": "Fil. 3:9",
+              "Pasaje": "9. Y ser hallado en él, no teniendo mi justicia, que es por la ley, sino la que es por la fe de Cristo, la justicia que es de Dios por la fe;"
+            },
+            {
+              "cita": "Gál. 1:16",
+              "Pasaje": "16. Revelar á su Hijo en mí, para que le predicase entre los Gentiles, luego no conferí con carne y sangre;"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 74,
+      "pregunta": "¿Qué es la adopción?",
+      "respuesta": "La adopción es un acto de la libre gracia de Dios, en y por su Hijo unigénito Jesucristo, por el cual todos los que son justificados son recibidos en el número de sus hijos, llevan su nombre sobre sí, reciben el Espíritu de su Hijo, están bajo su cuidado y sus disposiciones paternales, son admitidos a todas las libertades y privilegios de los hijos de Dios, hechos herederos de todas las promesas y coherederos con Cristo en la gloria.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "1 Jn. 3:1",
+              "Pasaje": "1. MIRAD cuál amor nos ha dado el Padre, que seamos llamados hijos de Dios: por esto el mundo no nos conoce, porque no le conoce á él."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Ef. 1:5",
+              "Pasaje": "5. Habiéndonos predestinado para ser adoptados hijos por Jesucristo á sí mismo, según el puro afecto de su voluntad,"
+            },
+            {
+              "cita": "Gál. 4:4-5",
+              "Pasaje": "4. Mas venido el cumplimiento del tiempo, Dios envió su Hijo, hecho de mujer, hecho súbdito á la ley,\n5. Para que redimiese á los que estaban debajo de la ley, á fin de que recibiésemos la adopción de hijos."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Jn. 1:12",
+              "Pasaje": "12. Mas á todos los que le recibieron, dióles potestad de ser hechos hijos de Dios, á los que creen en su nombre:"
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "2 Cor. 6:18",
+              "Pasaje": "18. Y seré á vosotros Padre, y vosotros me seréis á mí hijos é hijas, dice el Señor Todopoderoso."
+            },
+            {
+              "cita": "Apoc. 3:12",
+              "Pasaje": "12. Al que venciere, yo lo haré columna en el templo de mi Dios, y nunca más saldrá fuera; y escribiré sobre él el nombre de mi Dios, y el nombre de la ciudad de mi Dios, la nueva Jerusalem, la cual desciende del cielo de con mi Dios, y mi nombre nuevo."
+            }
+          ]
+        },
+        {
+          "inciso": "e",
+          "citas": [
+            {
+              "cita": "Gál. 4:6",
+              "Pasaje": "6. Y por cuanto sois hijos, Dios envió el Espíritu de su Hijo en vuestros corazones, el cual clama: Abba, Padre."
+            }
+          ]
+        },
+        {
+          "inciso": "f",
+          "citas": [
+            {
+              "cita": "Sal. 103:13",
+              "Pasaje": "13. Como el padre se compadece de los hijos, se compadece Jehová de los que le temen."
+            },
+            {
+              "cita": "Prov. 14:26",
+              "Pasaje": "26. En el temor de Jehová está la fuerte confianza; y esperanza tendrán sus hijos."
+            },
+            {
+              "cita": "Mat. 6:32",
+              "Pasaje": "32. Porque los Gentiles buscan todas estas cosas: que vuestro Padre celestial sabe que de todas estas cosas habéis menester."
+            }
+          ]
+        },
+        {
+          "inciso": "g",
+          "citas": [
+            {
+              "cita": "Heb. 6:12",
+              "Pasaje": "12. Que no os hagáis perezosos, mas imitadores de aquellos que por la fe y la paciencia heredan las promesas."
+            },
+            {
+              "cita": "Rom. 8:17",
+              "Pasaje": "17. Y si hijos, también herederos; herederos de Dios, y coherederos de Cristo; si empero padecemos juntamente [con él], para que juntamente [con él] seamos glorificados."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 75,
+      "pregunta": "¿Qué es la santificación?",
+      "respuesta": "La santificación es una obra de la gracia de Dios, por la cual aquellos a quienes Dios, antes de la fundación del mundo, escogió para que fuesen santos, son a su tiempo, por la poderosa operación de su Espíritu que les aplica la muerte y la resurrección de Cristo, renovados en todo su ser conforme a la imagen de Dios; teniendo puestas en sus corazones las semillas del arrepentimiento para vida y de todas las demás gracias salvadoras, y siendo esas gracias de tal manera avivadas, aumentadas y fortalecidas, que mueren cada vez más al pecado y se levantan a novedad de vida.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Ef. 1:4",
+              "Pasaje": "4. Según nos escogió en él antes de la fundación del mundo, para que fuésemos santos y sin mancha delante de él en amor;"
+            },
+            {
+              "cita": "1 Cor. 6:11",
+              "Pasaje": "11. Y esto erais algunos: mas [ya] sois lavados, mas [ya] sois santificados, mas [ya] sois justificados en el nombre del Señor Jesús, y por el Espíritu de nuestro Dios."
+            },
+            {
+              "cita": "2 Tes. 2:13",
+              "Pasaje": "13. Mas nosotros debemos dar siempre gracias á Dios por vosotros, hermanos amados del Señor, de que Dios os haya escogido desde el principio para salud, por la santificación del Espíritu y fe de la verdad:"
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Rom. 6:4-6",
+              "Pasaje": "4. Porque somos sepultados juntamente con él á muerte por el bautismo; para que como Cristo resucitó de los muertos por la gloria del Padre, así también nosotros andemos en novedad de vida.\n5. Porque si fuimos plantados juntamente en [él] á la semejanza de su muerte, así también [lo seremos á la] de su resurrección:\n6. Sabiendo esto, que nuestro viejo hombre juntamente fué crucificado con [él], para que el cuerpo del pecado sea deshecho, á fin de que no sirvamos más al pecado."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Ef. 4:23-24",
+              "Pasaje": "23. Y á renovaros en el espíritu de vuestra mente,\n24. Y vestir el nuevo hombre que es criado conforme á Dios en justicia y en santidad de verdad."
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "Hech. 11:18",
+              "Pasaje": "18. Entonces, oídas estas cosas, callaron, y glorificaron á Dios, diciendo: De manera que también á los Gentiles ha dado Dios arrepentimiento para vida."
+            },
+            {
+              "cita": "1 Jn. 3:9",
+              "Pasaje": "9. Cualquiera que es nacido de Dios, no hace pecado, porque su simiente está en él; y no puede pecar, porque es nacido de Dios."
+            }
+          ]
+        },
+        {
+          "inciso": "e",
+          "citas": [
+            {
+              "cita": "Jud. 1:20",
+              "Pasaje": "20. Mas vosotros, oh amados, edificándoos sobre vuestra santísima fe, orando por el Espíritu Santo,"
+            },
+            {
+              "cita": "Heb. 6:11-12",
+              "Pasaje": "11. Mas deseamos que cada uno de vosotros muestre la misma solicitud hasta el cabo, para cumplimiento de la esperanza:\n12. Que no os hagáis perezosos, mas imitadores de aquellos que por la fe y la paciencia heredan las promesas."
+            },
+            {
+              "cita": "Ef. 3:16-19",
+              "Pasaje": "16. Que os dé, conforme á las riquezas de su gloria, el ser corroborados con potencia en el hombre interior por su Espíritu.\n17. Que habite Cristo por la fe en vuestros corazones; para que, arraigados y fundados en amor,\n18. Podáis bien comprender con todos los santos cuál sea la anchura y la longura y la profundidad y la altura,\n19. Y conocer el amor de Cristo, que excede á todo conocimiento, para que seáis llenos de toda la plenitud de Dios."
+            },
+            {
+              "cita": "Col. 1:10-11",
+              "Pasaje": "10. Para que andéis como es digno del Señor, agradándo[le] en todo, fructificando en toda buena obra, y creciendo en el conocimiento de Dios:\n11. Corroborados de toda fortaleza, conforme á la potencia de su gloria, para toda tolerancia y largura de ánimo con gozo;"
+            }
+          ]
+        },
+        {
+          "inciso": "f",
+          "citas": [
+            {
+              "cita": "Rom. 6:4,6,14",
+              "Pasaje": "4. Porque somos sepultados juntamente con él á muerte por el bautismo; para que como Cristo resucitó de los muertos por la gloria del Padre, así también nosotros andemos en novedad de vida.\n6. Sabiendo esto, que nuestro viejo hombre juntamente fué crucificado con [él], para que el cuerpo del pecado sea deshecho, á fin de que no sirvamos más al pecado.\n14. Porque el pecado no se enseñoreará de vosotros; pues no estáis bajo la ley, sino bajo la gracia."
+            },
+            {
+              "cita": "Gál. 5:24",
+              "Pasaje": "24. Porque los que son de Cristo, han crucificado la carne con los afectos y concupiscencias."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 76,
+      "pregunta": "¿Qué es el arrepentimiento para vida?",
+      "respuesta": "El arrepentimiento para vida es una gracia salvadora, obrada en el corazón del pecador por el Espíritu y la Palabra de Dios, por la cual, a partir de la vista y el sentimiento no solo del peligro, sino también de la inmundicia y lo aborrecible de sus pecados, y de la comprensión de la misericordia de Dios en Cristo para con los arrepentidos, se duele de sus pecados y los aborrece de tal manera que se vuelve de todos ellos a Dios, proponiéndose y esforzándose constantemente por andar con él en todos los caminos de una nueva obediencia.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "2 Tim. 2:25",
+              "Pasaje": "25. Que con mansedumbre corrija á los que se oponen: si quizá Dios les dé que se arrepientan para conocer la verdad,"
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Zac. 12:10",
+              "Pasaje": "10. Y derramaré sobre la casa de David, y sobre los moradores de Jerusalem, espíritu de gracia y de oración; y mirarán á mí, á quien traspasaron, y harán llanto sobre él, como llanto sobre unigénito, afligiéndose sobre él como quien se aflige sobre primogénito."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Hech. 11:18,20-21",
+              "Pasaje": "18. Entonces, oídas estas cosas, callaron, y glorificaron á Dios, diciendo: De manera que también á los Gentiles ha dado Dios arrepentimiento para vida.\n20. Y de ellos había unos varones Ciprios y Cirenenses, los cuales como entraron en Antioquía, hablaron á los Griegos, anunciando el evangelio del Señor Jesús.\n21. Y la mano del Señor era con ellos: y creyendo, gran número se convirtió al Señor."
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "Ez. 18:28,30,32",
+              "Pasaje": "28. Porque miró, y apartóse de todas sus prevaricaciones que hizo, de cierto vivirá, no morirá.\n30. Por tanto, yo os juzgaré á cada uno según sus caminos, oh casa de Israel, dice el Señor Jehová. Convertíos, y volveos de todas vuestras iniquidades; y no os será la iniquidad causa de ruina.\n32. Que no quiero la muerte del que muere, dice el Señor Jehová; convertíos pues, y viviréis."
+            },
+            {
+              "cita": "Luc. 15:17-18",
+              "Pasaje": "17. Y volviendo en sí, dijo: ¡Cuántos jornaleros en casa de mi padre tienen abundancia de pan, y yo aquí perezco de hambre!\n18. Me levantaré, é iré á mi padre, y le diré: Padre, he pecado contra el cielo, y contra ti;"
+            },
+            {
+              "cita": "Os. 2:6-7",
+              "Pasaje": "6. Por tanto, he aquí yo cerco tu camino con espinas, y la cercaré con seto, y no hallará sus caminos.\n7. Y seguirá sus amantes, y no los alcanzará; buscarálos, y no los hallará. Entonces dirá: Iré, y volveréme á mi primer marido; porque mejor me iba entonces que ahora."
+            }
+          ]
+        },
+        {
+          "inciso": "e",
+          "citas": [
+            {
+              "cita": "Ez. 36:31",
+              "Pasaje": "31. Y os acordaréis de vuestros malos caminos, y de vuestras obras que no fueron buenas; y os avergonzaréis de vosotros mismos por vuestras iniquidades, y por vuestras abominaciones."
+            },
+            {
+              "cita": "Isa. 30:22",
+              "Pasaje": "22. Entonces profanarás la cobertura de tus esculturas de plata, y la vestidura de tu vaciadizo de oro: las apartarás como [trapo] de menstruo: ¡Sal fuera! les dirás."
+            }
+          ]
+        },
+        {
+          "inciso": "f",
+          "citas": [
+            {
+              "cita": "Joel 2:12-13",
+              "Pasaje": "12. Por eso pues ahora, dice Jehová, convertíos á mí con todo vuestro corazón, con ayuno y lloro y llanto.\n13. Y lacerad vuestro corazón, y no vuestros vestidos; y convertíos á Jehová vuestro Dios; porque misericordioso es y clemente, tardo para la ira, y grande en misericordia, y que se arrepiente del castigo."
+            }
+          ]
+        },
+        {
+          "inciso": "g",
+          "citas": [
+            {
+              "cita": "Jer. 31:18-19",
+              "Pasaje": "18. Escuchando, he oído á Ephraim que se lamentaba: Azotásteme, y fuí castigado como novillo indómito: conviérteme y seré convertido; porque tú eres Jehová mi Dios.\n19. Porque después que me convertí, tuve arrepentimiento, y después que me conocí, herí el muslo: avergoncéme, y confundíme, porque llevé la afrenta de mis mocedades."
+            }
+          ]
+        },
+        {
+          "inciso": "h",
+          "citas": [
+            {
+              "cita": "2 Cor. 7:11",
+              "Pasaje": "11. Porque he aquí, esto mismo que según Dios fuisteis contristados, cuánta solicitud ha obrado en vosotros, y aun defensa, y aun enojo, y aun temor, y aun gran deseo, y aun celo, y aun vindicación. En todo os habéis mostrado limpios en el negocio."
+            }
+          ]
+        },
+        {
+          "inciso": "i",
+          "citas": [
+            {
+              "cita": "Hech. 26:18",
+              "Pasaje": "18. Para que abras sus ojos, para que se conviertan de las tinieblas á la luz, y de la potestad de Satanás á Dios; para que reciban, por la fe que es en mí, remisión de pecados y suerte entre los santificados."
+            },
+            {
+              "cita": "Ez. 14:6",
+              "Pasaje": "6. Por tanto di á la casa de Israel: Así dice el Señor Jehová: Convertíos, y volveos de vuestros ídolos, y apartad vuestro rostro de todas vuestras abominaciones."
+            },
+            {
+              "cita": "1 Rey. 8:47-48",
+              "Pasaje": "47. Y ellos volvieren en sí en la tierra donde fueren cautivos; si se convirtieren, y oraren á ti en la tierra de los que los cautivaron, y dijeren: Pecamos, hemos hecho lo malo, hemos cometido impiedad;\n48. Y si se convirtieren á ti de todo su corazón y de toda su alma, en la tierra de sus enemigos que los hubieren llevado cautivos, y oraren á ti hacia su tierra, que tú diste á sus padres, [hacia] la ciudad que tú elegiste y la casa que yo he edificado á tu nombre;"
+            }
+          ]
+        },
+        {
+          "inciso": "k",
+          "citas": [
+            {
+              "cita": "Sal. 119:6,59,128",
+              "Pasaje": "6. Entonces no sería yo avergonzado, cuando atendiese á todos tus mandamientos.\n59. Consideré mis caminos, y torné mis pies á tus testimonios.\n128. Por eso todos los mandamientos de todas las cosas estimé rectos: aborrecí todo camino de mentira."
+            },
+            {
+              "cita": "Luc. 1:6",
+              "Pasaje": "6. Y eran ambos justos delante de Dios, andando sin reprensión en todos los mandamientos y estatutos del Señor."
+            },
+            {
+              "cita": "2 Rey. 23:25",
+              "Pasaje": "25. No hubo tal rey antes de él que se convirtiese á Jehová de todo su corazón, y de toda su alma, y de todas su fuerzas, conforme á toda la ley de Moisés; ni después de él nació otro tal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 77,
+      "pregunta": "¿En qué difieren la justificación y la santificación?",
+      "respuesta": "Aunque la santificación está inseparablemente unida a la justificación, difieren en que, en la justificación, Dios imputa la justicia de Cristo; en la santificación, su Espíritu infunde la gracia y capacita para ejercerla; en la primera, el pecado es perdonado; en la otra, es sometido; la una libra igualmente a todos los creyentes de la ira vengadora de Dios, y esto perfectamente en esta vida, de modo que nunca caen en condenación; la otra no es igual en todos, ni en esta vida es perfecta en ninguno, sino que va creciendo hacia la perfección.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "1 Cor. 6:11",
+              "Pasaje": "11. Y esto erais algunos: mas [ya] sois lavados, mas [ya] sois santificados, mas [ya] sois justificados en el nombre del Señor Jesús, y por el Espíritu de nuestro Dios."
+            },
+            {
+              "cita": "1 Cor. 1:30",
+              "Pasaje": "30. Mas de él sois vosotros en Cristo Jesús, el cual nos ha sido hecho por Dios sabiduría, y justificación, y santificación, y redención:"
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Rom. 4:6,8",
+              "Pasaje": "6. Como también David dice ser bienaventurado el hombre al cual Dios atribuye justicia sin obras,\n8. Bienaventurado el varón al cual el Señor no imputó pecado."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Ez. 36:27",
+              "Pasaje": "27. Y pondré dentro de vosotros mi espíritu, y haré que andéis en mis mandamientos, y guardéis mis derechos, y los pongáis por obra."
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "Rom. 3:24-25",
+              "Pasaje": "24. Siendo justificados gratuitamente por su gracia, por la redención que es en Cristo Jesús;\n25. Al cual Dios ha propuesto en propiciación por la fe en su sangre, para manifestación de su justicia, atento á haber pasado por alto, en su paciencia, los pecados pasados,"
+            }
+          ]
+        },
+        {
+          "inciso": "e",
+          "citas": [
+            {
+              "cita": "Rom. 6:6,14",
+              "Pasaje": "6. Sabiendo esto, que nuestro viejo hombre juntamente fué crucificado con [él], para que el cuerpo del pecado sea deshecho, á fin de que no sirvamos más al pecado.\n14. Porque el pecado no se enseñoreará de vosotros; pues no estáis bajo la ley, sino bajo la gracia."
+            }
+          ]
+        },
+        {
+          "inciso": "f",
+          "citas": [
+            {
+              "cita": "Rom. 8:33-34",
+              "Pasaje": "33. ¿Quién acusará á los escogidos de Dios? Dios es el que justifica.\n34. ¿Quién es el que condenará? Cristo es el que murió; más aún, el que también resucitó, quien además está á la diestra de Dios, el que también intercede por nosotros."
+            }
+          ]
+        },
+        {
+          "inciso": "g",
+          "citas": [
+            {
+              "cita": "1 Jn. 2:12-14",
+              "Pasaje": "12. Os escribo á vosotros, hijitos, porque vuestros pecados os son perdonados por su nombre.\n13. Os escribo á vosotros, padres, porque habéis conocido á aquel que es desde el principio. Os escribo á vosotros, mancebos, porque habéis vencido al maligno. Os escribo á vosotros, hijitos, porque habéis conocido al Padre.\n14. Os he escrito á vosotros, padres, porque habéis conocido al que es desde el principio. Os he escrito á vosotros, mancebos, porque sois fuertes, y la palabra de Dios mora en vosotros, y habéis vencido al maligno."
+            },
+            {
+              "cita": "Heb. 5:12-14",
+              "Pasaje": "12. Porque debiendo ser ya maestros á causa del tiempo, tenéis necesidad de volver á ser enseñados cuáles sean los primeros rudimentos de las palabras de Dios; y habéis llegado á ser tales que tengáis necesidad de leche, y no de manjar sólido.\n13. Que cualquiera que participa de la leche, es inhábil para la palabra de la justicia, porque es niño;\n14. Mas la vianda firme es para los perfectos, para los que por la costumbre tienen los sentidos ejercitados en el discernimiento del bien y del mal."
+            }
+          ]
+        },
+        {
+          "inciso": "h",
+          "citas": [
+            {
+              "cita": "1 Jn. 1:8,10",
+              "Pasaje": "8. Si dijéremos que no tenemos pecado, nos engañamos á nosotros mismos, y no hay verdad en nosotros.\n10. Si dijéremos que no hemos pecado, lo hacemos á él mentiroso, y su palabra no está en nosotros."
+            }
+          ]
+        },
+        {
+          "inciso": "i",
+          "citas": [
+            {
+              "cita": "2 Cor. 7:1",
+              "Pasaje": "1. ASÍ que, amados, pues tenemos tales promesas, limpiémonos de toda inmundicia de carne y de espíritu, perfeccionando la santificación en temor de Dios."
+            },
+            {
+              "cita": "Fil. 3:12-14",
+              "Pasaje": "12. No que ya haya alcanzado, ni que ya sea perfecto; sino que prosigo, por ver si alcanzo [aquello] para lo cual fuí también alcanzado de Cristo Jesús.\n13. Hermanos, yo mismo no hago cuenta de haber[lo] ya alcanzado; pero una cosa [hago]: olvidando ciertamente lo que queda atrás, y extendiéndome á lo que está delante,\n14. Prosigo al blanco, al premio de la soberana vocación de Dios en Cristo Jesús."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 78,
+      "pregunta": "¿De dónde procede la imperfección de la santificación en los creyentes?",
+      "respuesta": "La imperfección de la santificación en los creyentes procede de los restos del pecado que permanecen en cada parte de ellos, y de los perpetuos deseos de la carne contra el espíritu; por lo cual a menudo son vencidos por las tentaciones y caen en muchos pecados, son estorbados en todos sus servicios espirituales, y sus mejores obras son imperfectas y manchadas delante de Dios.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Rom. 7:18,23",
+              "Pasaje": "18. Y yo sé que en mí (es á saber, en mi carne) no mora el bien: porque tengo el querer, mas efectuar el bien no lo alcanzo.\n23. Mas veo otra ley en mis miembros, que se rebela contra la ley de mi espíritu, y que me lleva cautivo á la ley del pecado que está en mis miembros."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Mar. 14:66",
+              "Pasaje": "66. Y estando Pedro abajo en el atrio, vino una de las criadas del sumo sacerdote;"
+            },
+            {
+              "cita": "Gál. 2:11-12",
+              "Pasaje": "11. Empero viniendo Pedro á Antioquía, le resistí en la cara, porque era de condenar.\n12. Porque antes que viniesen unos [de parte] de Jacobo, comía con los Gentiles; mas después que vinieron, se retraía y apartaba, teniendo miedo de los que eran de la circuncisión."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Heb. 12:1",
+              "Pasaje": "1. POR tanto nosotros también, teniendo en derredor nuestro una tan grande nube de testigos, dejando todo el peso del pecado que nos rodea, corramos con paciencia la carrera que nos es propuesta,"
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "Isa. 64:6",
+              "Pasaje": "6. Si bien todos nosotros somos como suciedad, y todas nuestras justicias como trapo de inmundicia; y caímos todos nosotros como la hoja, y nuestras maldades nos llevaron como viento."
+            },
+            {
+              "cita": "Éx. 28:38",
+              "Pasaje": "38. Y estará sobre la frente de Aarón: y llevará Aarón el pecado de las cosas santas, que los hijos de Israel hubieren consagrado en todas sus santas ofrendas; y sobre su frente estará continuamente para que hayan gracia delante de Jehová."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 79,
+      "pregunta": "¿No pueden los verdaderos creyentes, a causa de sus imperfecciones y de las muchas tentaciones y pecados que los sorprenden, caer del estado de gracia?",
+      "respuesta": "Los verdaderos creyentes, a causa del amor inmutable de Dios y de su decreto y pacto de darles la perseverancia, de su unión inseparable con Cristo, de la continua intercesión de él por ellos, y del Espíritu y la simiente de Dios que permanecen en ellos, no pueden caer total ni finalmente del estado de gracia, sino que son guardados por el poder de Dios, mediante la fe, para salvación.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Jer. 31:3",
+              "Pasaje": "3. Jehová se manifestó á mí ya mucho tiempo há, [diciendo]: Con amor eterno te he amado; por tanto te soporté con misericordia."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "2 Tim. 2:19",
+              "Pasaje": "19. Pero el fundamento de Dios está firme, teniendo este sello: Conoce el Señor á los que son suyos; y: Apártese de iniquidad todo aquel que invoca el nombre de Cristo."
+            },
+            {
+              "cita": "2 Sam. 23:5",
+              "Pasaje": "5. No así mi casa para con Dios: sin embargo él ha hecho conmigo pacto perpetuo, ordenado en todas las cosas, y será guardado; bien que toda [esta] mi salud, y todo [mi] deseo no [lo] haga él florecer todavía."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "1 Cor. 1:8-9",
+              "Pasaje": "8. El cual también os confirmará hasta el fin, [para que seáis] sin falta en el día de nuestro Señor Jesucristo.\n9. Fiel es Dios, por el cual sois llamados á la participación de su Hijo Jesucristo nuestro Señor."
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "Heb. 7:25",
+              "Pasaje": "25. Por lo cual puede también salvar eternamente á los que por él se allegan á Dios, viviendo siempre para interceder por ellos."
+            },
+            {
+              "cita": "Luc. 22:32",
+              "Pasaje": "32. Mas yo he rogado por ti que tu fe no falte: y tú, una vez vuelto, confirma á tus hermanos."
+            }
+          ]
+        },
+        {
+          "inciso": "e",
+          "citas": [
+            {
+              "cita": "1 Jn. 3:9",
+              "Pasaje": "9. Cualquiera que es nacido de Dios, no hace pecado, porque su simiente está en él; y no puede pecar, porque es nacido de Dios."
+            },
+            {
+              "cita": "1 Jn. 2:27",
+              "Pasaje": "27. Pero la unción que vosotros habéis recibido de él, mora en vosotros, y no tenéis necesidad que ninguno os enseñe; mas como la unción misma os enseña de todas cosas, y es verdadera, y no es mentira, así como os ha enseñado, perseveraréis en él."
+            }
+          ]
+        },
+        {
+          "inciso": "f",
+          "citas": [
+            {
+              "cita": "Jer. 32:40",
+              "Pasaje": "40. Y haré con ellos pacto eterno, que no tornaré atrás de hacerles bien, y pondré mi temor en el corazón de ellos, para que no se aparten de mí."
+            },
+            {
+              "cita": "Jn. 10:28",
+              "Pasaje": "28. Y yo les doy vida eterna: y no perecerán para siempre, ni nadie las arrebatará de mi mano."
+            }
+          ]
+        },
+        {
+          "inciso": "g",
+          "citas": [
+            {
+              "cita": "1 Ped. 1:5",
+              "Pasaje": "5. Para nosotros que somos guardados en la virtud de Dios por fe, para alcanzar la salud que está aparejada para ser manifestada en el postrimero tiempo."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 80,
+      "pregunta": "¿Pueden los verdaderos creyentes estar infaliblemente seguros de que están en el estado de gracia y de que perseverarán en él hasta la salvación?",
+      "respuesta": "Los que verdaderamente creen en Cristo y se esfuerzan por andar con toda buena conciencia delante de él pueden, sin revelación extraordinaria, por la fe fundada en la verdad de las promesas de Dios, y por el Espíritu que los capacita para discernir en sí mismos aquellas gracias a las cuales se hacen las promesas de vida, y que da testimonio a sus espíritus de que son hijos de Dios, estar infaliblemente seguros de que están en el estado de gracia y de que perseverarán en él hasta la salvación.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "1 Jn. 2:3",
+              "Pasaje": "3. Y en esto sabemos que nosotros le hemos conocido, si guardamos sus mandamientos."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "1 Cor. 2:12",
+              "Pasaje": "12. Y nosotros hemos recibido, no el espíritu del mundo, sino el Espíritu que es de Dios, para que conozcamos lo que Dios nos ha dado;"
+            },
+            {
+              "cita": "1 Jn. 3:14,18-19,21,24",
+              "Pasaje": "14. Nosotros sabemos que hemos pasado de muerte á vida, en que amamos á los hermanos. El que no ama á su hermano, está en muerte.\n18. Hijitos míos, no amemos de palabra ni de lengua, sino de obra y en verdad.\n19. Y en esto conocemos que somos de la verdad, y tenemos nuestros corazones certificados delante de él.\n21. Carísimos, si nuestro corazón no nos reprende, confianza tenemos en Dios;\n24. Y el que guarda sus mandamientos, está en él, y él en él. Y en esto sabemos que él permanece en nosotros, por el Espíritu que nos ha dado."
+            },
+            {
+              "cita": "1 Jn. 4:13,16",
+              "Pasaje": "13. En esto conocemos que estamos en él, y él en nosotros, en que nos ha dado de su Espíritu.\n16. Y nosotros hemos conocido y creído el amor que Dios tiene para con nosotros. Dios es amor; y el que vive en amor, vive en Dios, y Dios en él."
+            },
+            {
+              "cita": "Heb. 6:11-12",
+              "Pasaje": "11. Mas deseamos que cada uno de vosotros muestre la misma solicitud hasta el cabo, para cumplimiento de la esperanza:\n12. Que no os hagáis perezosos, mas imitadores de aquellos que por la fe y la paciencia heredan las promesas."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Rom. 8:16",
+              "Pasaje": "16. Porque el mismo Espíritu da testimonio á nuestro espíritu que somos hijos de Dios."
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "1 Jn. 5:13",
+              "Pasaje": "13. Estas cosas he escrito á vosotros que creéis en el nombre del Hijo de Dios, para que sepáis que tenéis vida eterna, y para que creáis en el nombre del Hijo de Dios."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 81,
+      "pregunta": "¿Están todos los verdaderos creyentes seguros en todo tiempo de que se hallan al presente en el estado de gracia y de que serán salvos?",
+      "respuesta": "No siendo la seguridad de la gracia y de la salvación de la esencia de la fe, los verdaderos creyentes pueden esperar mucho tiempo antes de obtenerla; y, después de haberla gozado, pueden tenerla debilitada e interrumpida por múltiples desórdenes, pecados, tentaciones y desamparos; sin embargo, nunca son dejados sin tal presencia y sostén del Espíritu de Dios que los guarde de hundirse en una completa desesperación.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Ef. 1:13",
+              "Pasaje": "13. En el cual [esperasteis] también vosotros en oyendo la palabra de verdad, el evangelio de vuestra salud: en el cual también desde que creísteis, fuisteis sellados con el Espíritu Santo de la promesa,"
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Isa. 50:10",
+              "Pasaje": "10. ¿Quién hay entre vosotros que teme á Jehová, y oye la voz de su siervo? el que anda en tinieblas y carece de luz, confíe en el nombre de Jehová, y apóyese en su Dios."
+            },
+            {
+              "cita": "Sal. 88:1-3,6-7,9-10,13-15",
+              "Pasaje": "1. Canción: Salmo para los hijos de Coré: al Músico principal: para cantar sobre Mahalath: Masquil de Hemán Ezrahita. OH Jehová, Dios de mi salud, día y noche clamo delante de ti.\n2. Entre mi oración en tu presencia: inclina tu oído á mi clamor.\n3. Porque mi alma está harta de males, y mi vida cercana al sepulcro.\n6. Hasme puesto en el hoyo profundo, en tinieblas, en honduras.\n7. Sobre mí se ha acostado tu ira, y me has afligido con todas tus ondas. (Selah.)\n9. Mis ojos enfermaron á causa de mi aflicción: hete llamado, oh Jehová, cada día; he extendido á ti mis manos.\n10. ¿Harás tú milagro á los muertos? ¿levantaránse los muertos para alabarte? (Selah.)\n13. Mas yo á ti he clamado, oh Jehová; y de mañana mi oración te previno.\n14. ¿Por qué, oh Jehová, desechas mi alma? ¿por qué escondes de mí tu rostro?\n15. Yo soy afligido y menesteroso: desde la mocedad he llevado tus terrores, he estado medroso."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Sal. 77:1-12",
+              "Pasaje": "1. Al Músico principal: para Jeduthún: Salmo de Asaph. CON mi voz clamé á Dios, á Dios clamé, y él me escuchará.\n2. Al Señor busqué en el día de mi angustia: mi mal corría de noche, y no cesaba: mi alma rehusaba consuelo.\n3. Acordábame de Dios, y gritaba: quejábame, y desmayaba mi espíritu. (Selah.)\n4. Tenías los párpados de mis ojos: estaba yo quebrantado, y no hablaba.\n5. Consideraba los días desde el principio, los años de los siglos.\n6. Acordábame de mis canciones de noche; meditaba con mi corazón, y mi espíritu inquiría.\n7. ¿Desechará el Señor para siempre, y no volverá más á amar?\n8. ¿Hase acabado para siempre su misericordia? ¿hase acabado la palabra suya para generación y generación?\n9. ¿Ha olvidado Dios el tener misericordia? ¿ha encerrado con ira sus piedades? (Selah.)\n10. Y dije: Enfermedad mía es esta; [traeré pues á la memoria] los años de la diestra del Altísimo.\n11. Acordaréme de las obras de JAH: sí, haré yo memoria de tus maravillas antiguas.\n12. Y meditaré en todas tus obras, y hablaré de tus hechos."
+            },
+            {
+              "cita": "Cant. 5:2-3,6",
+              "Pasaje": "2. Yo dormía, pero mi corazón velaba: la voz de mi amado que llamaba: Abreme, hermana mía, amiga mía, paloma mía, perfecta mía; porque mi cabeza está llena de rocío, mis cabellos de las gotas de la noche.\n3. Heme desnudado mi ropa; ¿cómo la tengo de vestir? He lavado mis pies; ¿cómo los tengo de ensuciar?\n6. Abrí yo á mi amado; mas mi amado se había ido, había ya pasado: y tras su hablar salió mi alma: busquélo, y no lo hallé; llamélo, y no me respondió."
+            },
+            {
+              "cita": "Sal. 51:8,12",
+              "Pasaje": "8. Hazme oir gozo y alegría; y se recrearán los huesos que has abatido.\n12. Vuélveme el gozo de tu salud; y el espíritu libre me sustente."
+            },
+            {
+              "cita": "Sal. 31:22",
+              "Pasaje": "22. Y decía yo en mi premura: Cortado soy de delante de tus ojos: tú empero oíste la voz de mis ruegos, cuando á ti clamaba."
+            },
+            {
+              "cita": "Sal. 22:1",
+              "Pasaje": "1. Al Músico principal, sobre Ajeleth-sahar: Salmo de David. DIOS mío, Dios mío, ¿por qué me has dejado? ¿[por qué] estás lejos de mi salud, y de las palabras de mi clamor?"
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "1 Jn. 3:9",
+              "Pasaje": "9. Cualquiera que es nacido de Dios, no hace pecado, porque su simiente está en él; y no puede pecar, porque es nacido de Dios."
+            },
+            {
+              "cita": "Sal. 73:15,23",
+              "Pasaje": "15. Si dijera yo, Discurriré de esa suerte; he aquí habría negado la nación de tus hijos:\n23. Con todo, yo siempre estuve contigo: trabaste de mi mano derecha."
+            },
+            {
+              "cita": "Isa. 54:7-10",
+              "Pasaje": "7. Por un pequeño momento te dejé; mas te recogeré con grandes misericordias.\n8. Con un poco de ira escondí mi rostro de ti por un momento; mas con misericordia eterna tendré compasión de ti, dijo tu Redentor Jehová.\n9. Porque esto me será [como] las aguas de Noé; que juré que nunca más las aguas de Noé pasarían sobre la tierra; así he jurado que no me enojaré contra ti, ni te reñiré.\n10. Porque los montes se moverán, y los collados temblarán; mas no se apartará de ti mi misericordia, ni el pacto de mi paz vacilará, dijo Jehová, el que tiene misericordia de ti."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 82,
+      "pregunta": "¿Qué es la comunión en gloria que los miembros de la iglesia invisible tienen con Cristo?",
+      "respuesta": "La comunión en gloria que los miembros de la iglesia invisible tienen con Cristo es en esta vida, inmediatamente después de la muerte, y finalmente perfeccionada en la resurrección y el día del juicio.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "2 Cor. 3:18",
+              "Pasaje": "18. Por tanto, nosotros todos, mirando á cara descubierta como en un espejo la gloria del Señor, somos transformados de gloria en gloria en la misma semejanza, como por el Espíritu del Señor."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Luc. 23:43",
+              "Pasaje": "43. Entonces Jesús le dijo: De cierto te digo, que hoy estarás conmigo en el paraíso."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "1 Tes. 4:17",
+              "Pasaje": "17. Luego nosotros, los que vivimos, los que quedamos, juntamente con ellos seremos arrebatados en las nubes á recibir al Señor en el aire, y así estaremos siempre con el Señor."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 83,
+      "pregunta": "¿Qué es la comunión en gloria con Cristo que los miembros de la iglesia invisible gozan en esta vida?",
+      "respuesta": "A los miembros de la iglesia invisible se les comunican en esta vida las primicias de la gloria con Cristo, por cuanto son miembros de él, su cabeza, y así en él tienen parte en aquella gloria que él posee plenamente; y, como arras de ella, gozan del sentimiento del amor de Dios, paz de conciencia, gozo en el Espíritu Santo y esperanza de gloria; así como, por el contrario, el sentimiento de la ira vengadora de Dios, el horror de conciencia y una horrenda expectación del juicio son para los impíos el comienzo de los tormentos que padecerán después de la muerte.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Ef. 2:5-6",
+              "Pasaje": "5. Aun estando nosotros muertos en pecados, nos dió vida juntamente con Cristo; por gracia sois salvos;\n6. Y juntamente nos resucitó, y asimismo nos hizo sentar en los cielos con Cristo Jesús,"
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Rom. 5:5",
+              "Pasaje": "5. Y la esperanza no avergüenza; porque el amor de Dios está derramado en nuestros corazones por el Espíritu Santo que nos es dado."
+            },
+            {
+              "cita": "2 Cor. 1:22",
+              "Pasaje": "22. El cual también nos ha sellado, y dado la prenda del Espíritu en nuestros corazones."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Rom. 5:1-2",
+              "Pasaje": "1. JUSTIFICADOS pues por la fe, tenemos paz para con Dios por medio de nuestro Señor Jesucristo:\n2. Por el cual también tenemos entrada por la fe á esta gracia en la cual estamos [firmes], y nos gloriamos en la esperanza de la gloria de Dios."
+            },
+            {
+              "cita": "Rom. 14:17",
+              "Pasaje": "17. Que el reino de Dios no es comida ni bebida, sino justicia y paz y gozo por el Espíritu Santo."
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "Gén. 4:13",
+              "Pasaje": "13. Y dijo Caín á Jehová: Grande es mi iniquidad para ser perdonada."
+            },
+            {
+              "cita": "Mat. 27:4",
+              "Pasaje": "4. Diciendo: Yo he pecado entregando la sangre inocente. Mas ellos dijeron: ¿Qué [se nos da] á nosotros? Viéras[lo] tú."
+            },
+            {
+              "cita": "Heb. 10:27",
+              "Pasaje": "27. Sino una horrenda esperanza de juicio, y hervor de fuego que ha de devorar á los adversarios."
+            },
+            {
+              "cita": "Rom. 2:9",
+              "Pasaje": "9. Tribulación y angustia sobre toda persona humana que obra lo malo, el Judío primeramente, y también el Griego:"
+            },
+            {
+              "cita": "Mar. 9:44",
+              "Pasaje": "44. Donde su gusano no muere, y el fuego nunca se apaga."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 84,
+      "pregunta": "¿Morirán todos los hombres?",
+      "respuesta": "Habiendo sido amenazada la muerte como paga del pecado, está establecido para todos los hombres que mueran una vez, por cuanto todos han pecado.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Rom. 6:23",
+              "Pasaje": "23. Porque la paga del pecado es muerte: mas la dádiva de Dios es vida eterna en Cristo Jesús Señor nuestro."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Heb. 9:27",
+              "Pasaje": "27. Y de la manera que está establecido á los hombres que mueran una vez, y después el juicio;"
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Rom. 5:12",
+              "Pasaje": "12. De consiguiente, [vino la reconciliación por uno], así como el pecado entró en el mundo por un hombre, y por el pecado la muerte, y la muerte así pasó á todos los hombres, pues que todos pecaron."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 85,
+      "pregunta": "Siendo la muerte la paga del pecado, ¿por qué no son librados de la muerte los justos, puesto que todos sus pecados les son perdonados en Cristo?",
+      "respuesta": "Los justos serán librados de la muerte misma en el día postrero, y aun en la muerte son librados de su aguijón y maldición; de modo que, aunque mueren, esto procede del amor de Dios, para librarlos perfectamente del pecado y la miseria, y para hacerlos capaces de una comunión más plena con Cristo en la gloria, en la cual entran entonces.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "1 Cor. 15:26,55-57",
+              "Pasaje": "26. Y el postrer enemigo que será deshecho, será la muerte.\n55. ¿Dónde está, oh muerte, tu aguijón? ¿dónde, oh sepulcro, tu victoria?\n56. Ya que el aguijón de la muerte es el pecado, y la potencia del pecado, la ley.\n57. Mas á Dios gracias, que nos da la victoria por el Señor nuestro Jesucristo."
+            },
+            {
+              "cita": "Heb. 2:15",
+              "Pasaje": "15. Y librar á los que por el temor de la muerte estaban por toda la vida sujetos á servidumbre."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Isa. 57:1-2",
+              "Pasaje": "1. PERECE el justo, y no hay quien pare mientes; y los píos son recogidos, y no hay quien entienda que delante de la aflicción es recogido el justo.\n2. Entrará en la paz; descansarán en sus lechos [todos] los que andan delante de [Dios]."
+            },
+            {
+              "cita": "2 Rey. 22:20",
+              "Pasaje": "20. Por tanto, he aquí yo te recogeré con tus padres, y tú serás recogido á tu sepulcro en paz, y no verán tus ojos todo el mal que yo traigo sobre este lugar. Y ellos dieron al rey la respuesta."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Apoc. 14:13",
+              "Pasaje": "13. Y oí una voz del cielo que me decía: Escribe: Bienaventurados los muertos que de aquí adelante mueren en el Señor. Sí, dice el Espíritu, que descansarán de sus trabajos; porque sus obras con ellos siguen."
+            },
+            {
+              "cita": "Ef. 5:27",
+              "Pasaje": "27. Para presentársela gloriosa para sí, una iglesia que no tuviese mancha ni arruga, ni cosa semejante; sino que fuese santa y sin mancha."
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "Luc. 23:43",
+              "Pasaje": "43. Entonces Jesús le dijo: De cierto te digo, que hoy estarás conmigo en el paraíso."
+            },
+            {
+              "cita": "Fil. 1:23",
+              "Pasaje": "23. Porque de ambas cosas estoy puesto en estrecho, teniendo deseo de ser desatado, y estar con Cristo, lo cual es mucho mejor:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 86,
+      "pregunta": "¿Qué es la comunión en gloria con Cristo que los miembros de la iglesia invisible gozan inmediatamente después de la muerte?",
+      "respuesta": "La comunión en gloria con Cristo que los miembros de la iglesia invisible gozan inmediatamente después de la muerte consiste en que sus almas son entonces hechas perfectas en santidad y recibidas en los cielos más altos, donde contemplan el rostro de Dios en luz y gloria, esperando la plena redención de sus cuerpos, los cuales, aun en la muerte, continúan unidos a Cristo y descansan en sus sepulcros como en sus lechos, hasta que en el día postrero sean de nuevo unidos a sus almas. Mientras que las almas de los impíos son arrojadas a su muerte al infierno, donde permanecen en tormentos y en densas tinieblas, y sus cuerpos son guardados en sus sepulcros, como en sus prisiones, hasta la resurrección y el juicio del gran día.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Heb. 12:23",
+              "Pasaje": "23. Y á la congregación de los primogénitos que están alistados en los cielos, y á Dios el Juez de todos, y á los espíritus de los justos hechos perfectos,"
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "2 Cor. 5:1,6,8",
+              "Pasaje": "1. PORQUE sabemos, que si la casa terrestre de nuestra habitación se deshiciere, tenemos de Dios un edificio, una casa no hecha de manos, eterna en los cielos.\n6. Así que [vivimos] confiados siempre, y sabiendo, que entre tanto que estamos en el cuerpo, peregrinamos [ausentes] del Señor;\n8. Mas confiamos, y más quisiéramos partir del cuerpo, y estar presentes al Señor."
+            },
+            {
+              "cita": "Fil. 1:23",
+              "Pasaje": "23. Porque de ambas cosas estoy puesto en estrecho, teniendo deseo de ser desatado, y estar con Cristo, lo cual es mucho mejor:"
+            },
+            {
+              "cita": "Hech. 3:21",
+              "Pasaje": "21. Al cual de cierto es menester que el cielo tenga hasta los tiempos de la restauración de todas las cosas, que habló Dios por boca de sus santos profetas que han sido desde el siglo."
+            },
+            {
+              "cita": "Ef. 4:10",
+              "Pasaje": "10. El que descendió, él mismo es el que también subió sobre todos los cielos para cumplir todas las cosas.)"
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "1 Jn. 3:2",
+              "Pasaje": "2. Muy amados, ahora somos hijos de Dios, y aun no se ha manifestado lo que hemos de ser; pero sabemos que cuando él apareciere, seremos semejantes á él, porque le veremos como él es."
+            },
+            {
+              "cita": "1 Cor. 13:12",
+              "Pasaje": "12. Ahora vemos por espejo, en obscuridad; mas entonces [veremos] cara á cara: ahora conozco en parte; mas entonces conoceré como soy conocido."
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "Rom. 8:23",
+              "Pasaje": "23. Y no sólo ellas, mas también nosotros mismos, que tenemos las primicias del Espíritu, nosotros también gemimos dentro de nosotros mismos, esperando la adopción, [es á saber], la redención de nuestro cuerpo."
+            },
+            {
+              "cita": "Sal. 16:9",
+              "Pasaje": "9. Alegróse por tanto mi corazón, y se gozó mi gloria: también mi carne reposará segura."
+            }
+          ]
+        },
+        {
+          "inciso": "e",
+          "citas": [
+            {
+              "cita": "1 Tes. 4:14",
+              "Pasaje": "14. Porque si creemos que Jesús murió y resucitó, así también traerá Dios con él á los que durmieron en Jesús."
+            }
+          ]
+        },
+        {
+          "inciso": "f",
+          "citas": [
+            {
+              "cita": "Isa. 57:2",
+              "Pasaje": "2. Entrará en la paz; descansarán en sus lechos [todos] los que andan delante de [Dios]."
+            }
+          ]
+        },
+        {
+          "inciso": "g",
+          "citas": [
+            {
+              "cita": "Job 19:26-27",
+              "Pasaje": "26. Y después de deshecha esta mi piel, aun he de ver en mi carne á Dios;\n27. Al cual yo tengo de ver por mí, y mis ojos lo verán, y no otro, [aunque] mis riñones se consuman dentro de mí."
+            }
+          ]
+        },
+        {
+          "inciso": "h",
+          "citas": [
+            {
+              "cita": "Luc. 16:23-24",
+              "Pasaje": "23. Y en el infierno alzó sus ojos, estando en los tormentos, y vió á Abraham de lejos, y á Lázaro en su seno.\n24. Entonces él, dando voces, dijo: Padre Abraham, ten misericordia de mí, y envía á Lázaro que moje la punta de su dedo en agua, y refresque mi lengua; porque soy atormentado en esta llama."
+            },
+            {
+              "cita": "Hech. 1:25",
+              "Pasaje": "25. Para que tome el oficio de este ministerio y apostolado, del cual cayó Judas por transgresión, para irse á su lugar."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 87,
+      "pregunta": "¿Qué hemos de creer acerca de la resurrección?",
+      "respuesta": "Hemos de creer que en el día postrero habrá una resurrección general de los muertos, tanto de los justos como de los injustos; cuando los que entonces se hallen vivos serán transformados en un momento; y los mismos cuerpos de los muertos que fueron puestos en el sepulcro, siendo entonces unidos de nuevo a sus almas para siempre, serán levantados por el poder de Cristo. Los cuerpos de los justos, por el Espíritu de Cristo y en virtud de la resurrección de él como su cabeza, serán levantados en poder, espirituales, incorruptibles, y hechos semejantes a su cuerpo glorioso; y los cuerpos de los impíos serán levantados en deshonra por él, como juez ofendido.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Hech. 24:15",
+              "Pasaje": "15. Teniendo esperanza en Dios que ha de haber resurrección de los muertos, así de justos como de injustos, la cual también ellos esperan."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "1 Cor. 15:51-53",
+              "Pasaje": "51. He aquí, os digo un misterio: Todos ciertamente no dormiremos, mas todos seremos transformados,\n52. En un momento, en un abrir de ojo, á la final trompeta; porque será tocada la trompeta, y los muertos serán levantados sin corrupción, y nosotros seremos transformados.\n53. Porque es menester que esto corruptible sea vestido de incorrupción, y esto mortal sea vestido de inmortalidad."
+            },
+            {
+              "cita": "1 Tes. 4:15-17",
+              "Pasaje": "15. Por lo cual, os decimos esto en palabra del Señor: que nosotros que vivimos, que habremos quedado hasta la venida del Señor, no seremos delanteros á los que durmieron.\n16. Porque el mismo Señor con aclamación, con voz de arcángel, y con trompeta de Dios, descenderá del cielo; y los muertos en Cristo resucitarán primero:\n17. Luego nosotros, los que vivimos, los que quedamos, juntamente con ellos seremos arrebatados en las nubes á recibir al Señor en el aire, y así estaremos siempre con el Señor."
+            },
+            {
+              "cita": "Jn. 5:28-29",
+              "Pasaje": "28. No os maravilléis de esto; porque vendrá hora, cuando todos los que están en los sepulcros oirán su voz;\n29. Y los que hicieron bien, saldrán á resurrección de vida; mas los que hicieron mal, á resurrección de condenación."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "1 Cor. 15:21-23,42-44",
+              "Pasaje": "21. Porque por cuanto la muerte [entró] por un hombre, también por un hombre la resurrección de los muertos.\n22. Porque así como en Adam todos mueren, así también en Cristo todos serán vivificados.\n23. Mas cada uno en su orden: Cristo las primicias; luego los que son de Cristo, en su venida.\n42. Así también es la resurrección de los muertos. Se siembra en corrupción, se levantará en incorrupción;\n43. Se siembra en vergüenza, se levantará con gloria; se siembra en flaqueza, se levantará con potencia;\n44. Se siembra cuerpo animal, resucitará espiritual cuerpo. Hay cuerpo animal, y hay cuerpo espiritual."
+            },
+            {
+              "cita": "Fil. 3:21",
+              "Pasaje": "21. El cual transformará el cuerpo de nuestra bajeza, para ser semejante al cuerpo de su gloria, por la operación con la cual puede también sujetar á sí todas las cosas."
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "Jn. 5:27-29",
+              "Pasaje": "27. Y también le dió poder de hacer juicio, en cuanto es el Hijo del hombre.\n28. No os maravilléis de esto; porque vendrá hora, cuando todos los que están en los sepulcros oirán su voz;\n29. Y los que hicieron bien, saldrán á resurrección de vida; mas los que hicieron mal, á resurrección de condenación."
+            },
+            {
+              "cita": "Mat. 25:33",
+              "Pasaje": "33. Y pondrá las ovejas á su derecha, y los cabritos á la izquierda."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 88,
+      "pregunta": "¿Qué seguirá inmediatamente después de la resurrección?",
+      "respuesta": "Inmediatamente después de la resurrección seguirá el juicio general y final de los ángeles y de los hombres, cuyo día y hora nadie sabe, para que todos velen y oren, y estén siempre preparados para la venida del Señor.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "2 Ped. 2:4,6-7,14-15",
+              "Pasaje": "4. Porque si Dios no perdonó á los ángeles que habían pecado, sino que habiéndolos despeñado en el infierno con cadenas de oscuridad, los entregó para ser reservados al juicio;\n6. Y [si] condenó por destrucción las ciudades de Sodoma y de Gomorra, tornándolas en ceniza, y poniéndolas por ejemplo á los que habían de vivir sin temor y reverencia de Dios;\n7. Y libró al justo Lot, acosado por la nefanda conducta de los malvados;\n14. Teniendo los ojos llenos de adulterio, y no saben cesar de pecar; cebando las almas inconstantes; teniendo el corazón ejercitado en codicias, siendo hijos de maldición;\n15. Que han dejado el camino derecho, y se han extraviado, siguiendo el camino de Balaam, [hijo] de Bosor, el cual amó el premio de la maldad."
+            },
+            {
+              "cita": "Mat. 25:46",
+              "Pasaje": "46. E irán éstos al tormento eterno, y los justos á la vida eterna."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Mat. 24:36,42,44",
+              "Pasaje": "36. Empero del día y hora nadie sabe, ni aun los ángeles de los cielos, sino mi Padre solo.\n42. Velad pues, porque no sabéis á qué hora ha de venir vuestro Señor.\n44. Por tanto, también vosotros estad apercibidos; porque el Hijo del hombre ha de venir á la hora que no pensáis."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 89,
+      "pregunta": "¿Qué se hará con los impíos en el día del juicio?",
+      "respuesta": "En el día del juicio, los impíos serán puestos a la izquierda de Cristo y, con evidencia clara y plena convicción de sus propias conciencias, se pronunciará contra ellos la terrible pero justa sentencia de condenación; y entonces serán echados de la presencia favorable de Dios y de la gloriosa comunión con Cristo, con sus santos y con todos sus santos ángeles, al infierno, para ser castigados con tormentos indecibles, tanto del cuerpo como del alma, con el diablo y sus ángeles para siempre.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Mat. 25:33",
+              "Pasaje": "33. Y pondrá las ovejas á su derecha, y los cabritos á la izquierda."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Rom. 2:15-16",
+              "Pasaje": "15. Mostrando la obra de la ley escrita en sus corazones, dando testimonio juntamente sus conciencias, y acusándose y también excusándose sus pensamientos unos con otros;\n16. En el día que juzgará el Señor lo encubierto de los hombres, conforme á mi evangelio, por Jesucristo."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Mat. 25:41-43",
+              "Pasaje": "41. Entonces dirá también á los que [estarán] á la izquierda: Apartaos de mí, malditos, al fuego eterno preparado para el diablo y para sus ángeles:\n42. Porque tuve hambre, y no me disteis de comer; tuve sed, y no me disteis de beber;\n43. Fuí huésped, y no me recogisteis; desnudo, y no me cubristeis; enfermo, y en la cárcel, y no me visitasteis."
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "Luc. 16:26",
+              "Pasaje": "26. Y además de todo esto, una grande sima está constituída entre nosotros y vosotros, que los que quisieren pasar de aquí á vosotros, no pueden, ni de allá pasar acá."
+            },
+            {
+              "cita": "2 Tes. 1:8-9",
+              "Pasaje": "8. En llama de fuego, para dar el pago á los que no conocieron á Dios, ni obedecen al evangelio de nuestro Señor Jesucristo;\n9. Los cuales serán castigados de eterna perdición por la presencia del Señor, y por la gloria de su potencia,"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 90,
+      "pregunta": "¿Qué se hará con los justos en el día del juicio?",
+      "respuesta": "En el día del juicio, los justos, siendo arrebatados a Cristo en las nubes, serán puestos a su diestra, y allí, públicamente reconocidos y absueltos, se unirán a él en el juicio de los ángeles y hombres réprobos, y serán recibidos en el cielo, donde serán plena y eternamente librados de todo pecado y miseria; llenos de gozos inconcebibles, hechos perfectamente santos y felices en cuerpo y alma, en la compañía de innumerables santos y santos ángeles, pero especialmente en la visión y el gozo inmediatos de Dios Padre, de nuestro Señor Jesucristo y del Espíritu Santo por toda la eternidad. Y esta es la perfecta y plena comunión que los miembros de la iglesia invisible gozarán con Cristo en gloria, en la resurrección y el día del juicio.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "1 Tes. 4:17",
+              "Pasaje": "17. Luego nosotros, los que vivimos, los que quedamos, juntamente con ellos seremos arrebatados en las nubes á recibir al Señor en el aire, y así estaremos siempre con el Señor."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Mat. 25:33",
+              "Pasaje": "33. Y pondrá las ovejas á su derecha, y los cabritos á la izquierda."
+            },
+            {
+              "cita": "Mat. 10:32",
+              "Pasaje": "32. Cualquiera pues, que me confesare delante de los hombres, le confesaré yo también delante de mi Padre que está en los cielos."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "1 Cor. 6:2-3",
+              "Pasaje": "2. ¿O no sabéis que los santos han de juzgar al mundo? Y si el mundo ha de ser juzgado por vosotros, ¿sois indignos de juzgar cosas muy pequeñas?\n3. ¿O no sabéis que hemos de juzgar á los ángeles? ¿cuánto más las cosas de este siglo?"
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "Mat. 25:34,46",
+              "Pasaje": "34. Entonces el Rey dirá á los que [estarán] á su derecha: Venid, benditos de mi Padre, heredad el reino preparado para vosotros desde la fundación del mundo:\n46. E irán éstos al tormento eterno, y los justos á la vida eterna."
+            }
+          ]
+        },
+        {
+          "inciso": "e",
+          "citas": [
+            {
+              "cita": "Ef. 5:27",
+              "Pasaje": "27. Para presentársela gloriosa para sí, una iglesia que no tuviese mancha ni arruga, ni cosa semejante; sino que fuese santa y sin mancha."
+            },
+            {
+              "cita": "Apoc. 14:13",
+              "Pasaje": "13. Y oí una voz del cielo que me decía: Escribe: Bienaventurados los muertos que de aquí adelante mueren en el Señor. Sí, dice el Espíritu, que descansarán de sus trabajos; porque sus obras con ellos siguen."
+            }
+          ]
+        },
+        {
+          "inciso": "f",
+          "citas": [
+            {
+              "cita": "Sal. 16:11",
+              "Pasaje": "11. Me mostrarás la senda de la vida: hartura de alegrías hay con tu rostro; deleites en tu diestra para siempre."
+            }
+          ]
+        },
+        {
+          "inciso": "g",
+          "citas": [
+            {
+              "cita": "Heb. 12:22-23",
+              "Pasaje": "22. Mas os habéis llegado al monte de Sión, y á la ciudad del Dios vivo, Jerusalem la celestial, y á la compañía de muchos millares de ángeles,\n23. Y á la congregación de los primogénitos que están alistados en los cielos, y á Dios el Juez de todos, y á los espíritus de los justos hechos perfectos,"
+            }
+          ]
+        },
+        {
+          "inciso": "h",
+          "citas": [
+            {
+              "cita": "1 Jn. 3:2",
+              "Pasaje": "2. Muy amados, ahora somos hijos de Dios, y aun no se ha manifestado lo que hemos de ser; pero sabemos que cuando él apareciere, seremos semejantes á él, porque le veremos como él es."
+            },
+            {
+              "cita": "1 Cor. 13:12",
+              "Pasaje": "12. Ahora vemos por espejo, en obscuridad; mas entonces [veremos] cara á cara: ahora conozco en parte; mas entonces conoceré como soy conocido."
+            },
+            {
+              "cita": "1 Tes. 4:17-18",
+              "Pasaje": "17. Luego nosotros, los que vivimos, los que quedamos, juntamente con ellos seremos arrebatados en las nubes á recibir al Señor en el aire, y así estaremos siempre con el Señor.\n18. Por tanto, consolaos los unos á los otros en estas palabras."
             }
           ]
         }

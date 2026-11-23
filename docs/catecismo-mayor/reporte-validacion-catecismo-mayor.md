@@ -4,12 +4,12 @@ Generado por `npm run mayor` (scripts/catecismo-mayor.mjs).
 
 | Concepto | Resultado |
 | --- | --- |
-| Preguntas incluidas | 65 de 196 (1–65) |
+| Preguntas incluidas | 90 de 196 (1–90) |
 | Numeración consecutiva y sin duplicados | Sí |
 | Preguntas o respuestas vacías | 0 |
-| Incisos | 267 |
-| Referencias bíblicas | 468 |
-| Versículos con texto (RV1909) | 876 |
+| Incisos | 395 |
+| Referencias bíblicas | 706 |
+| Versículos con texto (RV1909) | 1271 |
 | Pasajes vacíos o no encontrados | 0 |
 | Versión bíblica | Reina-Valera 1909 (eBible.org, spaRV1909) |
 
