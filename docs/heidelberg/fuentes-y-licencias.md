@@ -18,4 +18,4 @@
 
 - Transcripciones de trabajo, para poder revisarlas: notas al margen de 1563 en `fuentes/heidelberg/margen-1563.txt`, citas del libro en `fuentes/heidelberg/libro-la-fe-que-confesamos.txt`, edición alemana en `fuentes/heidelberg/referencias-de.json` y ajustes del editor en `fuentes/heidelberg/ajustes.json`.
 - La pregunta 80 no está en la primera edición de 1563; se añadió en la segunda y la tercera del mismo año. Los pasajes entre corchetes son de la tercera edición.
-- La edición de 1563 cita una vez el Eclesiástico (P105, «Syr. 3»), que no forma parte de la Reina-Valera 1909: se deja constancia en el reporte y no se muestra.
+- La edición de 1563 cita una vez el Eclesiástico (P105, «Syr. 3»), que no forma parte de la Reina-Valera 1909. Se muestra como «Dato curioso» (`fuentes/heidelberg/datos-curiosos.json`) con Eclesiástico 3:27 de la Biblia del Oso de Casiodoro de Reina (Basilea, 1569; dominio público, https://archive.org/details/biblia_reina_1569), leído del facsímil digital con ortografía modernizada.

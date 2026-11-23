@@ -25,7 +25,11 @@ const TITULO_SALMO = Object.fromEntries([
     67, 68, 69, 70, 75, 76, 77, 80, 81, 83, 84, 85, 88, 89, 92, 102, 108, 140, 142].map((n) => [n, 1]),
   ...[51, 52, 54, 60].map((n) => [n, 2])
 ]);
+// Capítulos que la edición alemana numera distinto (fuera de los Salmos): versículo RV1909 = alemán + desplazamiento.
+const DESPLAZADO_DE = { 'Isaiah 64': 1 };
 export function salmoRV(ref) {
+  const o = DESPLAZADO_DE[`${ref.libro} ${ref.cap}`];
+  if (o && ref.versos) return { ...ref, versos: new Set([...ref.versos].map((v) => v + o)) };
   const d = ref.libro === 'Psalm' && ref.versos && TITULO_SALMO[ref.cap];
   return d ? { ...ref, versos: new Set([...ref.versos].map((v) => Math.max(1, v - d))) } : ref;
 }
@@ -52,7 +56,7 @@ export function analizar(texto, aleman = false) {
     if (m && libro(m[1])) { actual = libro(m[1]); resto = m[2]; }
     if (!actual) throw new Error(`referencia sin libro «${parte}» en «${texto}»`);
     resto = resto.replace(/\s+/g, '');
-    if (aleman) resto = resto.replace(/^(\d+),/, '$1:').replace(/\./g, ',');
+    if (aleman) resto = UN_CAPITULO.has(actual) ? resto.replace(/\./g, ',') : resto.replace(/^(\d+),/, '$1:').replace(/\./g, ',');
     if (!resto) { out.push({ libro: actual, cap: UN_CAPITULO.has(actual) ? 1 : null, versos: null }); continue; }
     const capRango = /^(\d+)-(\d+)$/.exec(resto);
     if (capRango && !UN_CAPITULO.has(actual)) { for (let c = +capRango[1]; c <= +capRango[2]; c++) out.push({ libro: actual, cap: c, versos: null }); continue; }
@@ -116,8 +120,20 @@ export function compactar(set) {
 const posicion = (i, total) => (i + 0.5) / Math.max(total, 1);
 // Método aprobado: incisos y capítulos de 1563; versículos exactos del libro (L), de la edición alemana (DE)
 // y de reformededucation.org (RE); se añaden las citas de L, cada una en su inciso.
+// Une las referencias repetidas de un mismo capítulo dentro de un inciso («2 Ioan. 6 & 5» → 2 Juan 1:5, 6).
+function unir(refs) {
+  const out = [];
+  for (const r of refs) {
+    const igual = out.find((x) => clave(x) === clave(r));
+    if (!igual) out.push({ ...r, versos: r.versos && new Set(r.versos) });
+    else if (igual.versos && r.versos) r.versos.forEach((v) => igual.versos.add(v));
+    else igual.versos = null;
+  }
+  return out;
+}
 export function combinar({ m = [], l = [], de = [], re = [], ajustes = {}, numero }) {
   const avisos = [], usados = new Set();
+  m = m.map((i) => ({ ...i, refs: unir(i.refs) }));
   // Cada referencia de las ediciones cotejadas lleva su posición relativa (inciso o línea) en la respuesta.
   const conPos = (grupos) => grupos.flatMap((g, i) => g.map((r) => ({ ...r, pos: posicion(i, grupos.length) })));
   const fuentesDe = [['L', conPos(l.map((i) => i.refs))], ['DE', conPos(de.map((g) => g.map(salmoRV)))], ['RE', re.map((r, i) => ({ ...r, pos: posicion(i, re.length) }))]];
@@ -141,6 +157,7 @@ export function combinar({ m = [], l = [], de = [], re = [], ajustes = {}, numer
     };
     reunir(occ.length > 1);
     if (occ.length > 1 && !vs.size && !completo) reunir(false);
+    if (r.versos) r.versos.forEach((v) => vs.add(v));
     usados.add(k);
     if (occ.length > 1) avisos.push(`${k} aparece en ${occ.length} incisos de 1563: los versículos se repartieron según su lugar en cada edición; revisar.`);
     const ajuste = ajustes[`${numero}|${k}`];
@@ -148,7 +165,7 @@ export function combinar({ m = [], l = [], de = [], re = [], ajustes = {}, numer
     if (!vs.size && ajuste?.versos) versos(ajuste.versos).forEach((v) => vs.add(v));
     if (ajuste?.nota) { notas.length = 0; notas.push(ajuste.nota); }
     else if (!vs.size && !completo) { notas.push('La edición de 1563 indica solo el capítulo y ninguna de las ediciones cotejadas precisa los versículos: se muestra el capítulo completo.'); avisos.push(`${k}: capítulo completo.`); }
-    return { ref: texto({ libro: r.libro, cap: r.cap, versos: vs.size ? vs : null }), fuentes: f.filter(Boolean).join(', '), ...(notas.length ? { nota: notas.join(' ') } : {}) };
+    return { ref: texto({ libro: r.libro, cap: r.cap, versos: vs.size ? vs : null }), fuentes: f.filter(Boolean).join(', '), ...(notas.length ? { nota: notas.join(' ') } : {}), ...(ajuste?.cita ? { cita: ajuste.cita } : {}) };
   }) }));
   // Citas del libro fuera de los capítulos de 1563: van al inciso con más capítulos en común, o a uno nuevo.
   const enM = new Set(m.flatMap((i) => i.refs.map(clave)));

@@ -123,6 +123,17 @@ function tarjeta(q) {
     aviso.append(icono(ICONO_NOTA), el('span', '', `Nota del archivo: ${nota}`));
     art.append(aviso);
   }
+  if (q.datoCurioso) {
+    const d = q.datoCurioso;
+    const caja = el('aside', 'dato-curioso');
+    caja.append(el('h4', 'dato-curioso-titulo', d.titulo || 'Dato curioso'), el('p', '', d.texto || ''));
+    if (d.pasaje) {
+      const cita = el('blockquote', 'dato-curioso-pasaje');
+      cita.append(el('p', '', d.pasaje), el('cite', '', [d.cita, d.version].filter(Boolean).join(' · ')));
+      caja.append(cita);
+    }
+    art.append(caja);
+  }
 
 
   const acciones = el('div', 'acciones');

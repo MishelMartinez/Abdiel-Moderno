@@ -273,6 +273,9 @@ test('Catecismo de Heidelberg: se elige y muestra sus pasajes RV1909, también s
     await expect(page.locator('#versionPasaje')).toHaveText('Versión: Reina-Valera 1909');
     await page.keyboard.press('Escape');
   }
+  await page.locator('#buscar').fill('105');
+  await expect(page.locator('#pregunta-105 .dato-curioso')).toContainText('Dato curioso');
+  await expect(page.locator('#pregunta-105 .dato-curioso-pasaje')).toContainText(hc.preguntas[104].datoCurioso.pasaje);
 });
 
 test('un catecismo o confesión nuevo en catalogo.json aparece y se recuerda', async ({ page }) => {

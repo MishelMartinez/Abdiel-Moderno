@@ -9,8 +9,8 @@ Generado por `npm run heidelberg` (scripts/heidelberg.mjs).
 | Preguntas o respuestas vacías | 0 |
 | Texto alemán de 1563 disponible para cada pregunta incluida | Sí |
 | Incisos | 373 |
-| Referencias bíblicas | 1022 |
-| Versículos con texto (RV1909) | 2343 |
+| Referencias bíblicas | 1021 |
+| Versículos con texto (RV1909) | 2345 |
 | Pasajes vacíos o no encontrados | 0 |
 | Versión bíblica | Reina-Valera 1909 (eBible.org, spaRV1909) |
 
@@ -47,14 +47,13 @@ Generado por `npm run heidelberg` (scripts/heidelberg.mjs).
 - Pregunta 76, Jn. 6:35,40,47,48,50-56: El libro dice «1 Jn. 6:35,40,47»; 1 Juan tiene 5 capítulos: es Juan 6.
 - Pregunta 78, 1 Ped. 3:21: En el margen de 1563 parece leerse «1 Pet. 4»; se toma 1 Ped. 3:21, como el libro.
 - Pregunta 85, 2 Tes. 3:14,15: El margen de 1563 dice «1 Thess. 3»; se toma 2 Tes. 3, como reformededucation.org.
-- Pregunta 85, 2 Jn. 1:1: La edición de 1563 indica solo el capítulo y ninguna de las ediciones cotejadas precisa los versículos: se muestra el capítulo completo.
 - Pregunta 86, 1 Ped. 1: La edición de 1563 indica solo el capítulo y ninguna de las ediciones cotejadas precisa los versículos: se muestra el capítulo completo.
 - Pregunta 92: ninguna de las fuentes trae citas bíblicas para esta pregunta.
 - Pregunta 94, 1 Ped. 3: La edición de 1563 indica solo el capítulo y ninguna de las ediciones cotejadas precisa los versículos: se muestra el capítulo completo.
 - Pregunta 98, 2 Tim. 3:16,17: El margen de 1563 dice «2 Tit. 3», errata de imprenta: es 2 Tim. 3.
-- Pregunta 101, 1 Sam. 24:21: Se muestra el juramento que David hace a Saúl. En inglés «1 Samuel 24:21»; en la Reina-Valera 1909 este capítulo se numera 1 versículo(s) más adelante.
+- Pregunta 101, 1 Sam. 24:21: Se muestra el juramento que David hace a Saúl (1 Sam. 24:22 en la Reina-Valera 1909). En inglés «1 Samuel 24:21»; en la Reina-Valera 1909 este capítulo se numera 1 versículo(s) más adelante.
 - Pregunta 103, Hech. 2:42-47: En el margen de 1563 parece leerse «Act. 3»; se toma Hech. 2, como la edición alemana.
-- Pregunta 105: la edición de 1563 cita «Syr. 3» (Eclesiástico), libro deuterocanónico que no forma parte de la Reina-Valera 1909; no se incluye.
+- Pregunta 105: la edición de 1563 cita «Syr. 3» (Eclesiástico), libro deuterocanónico que no forma parte de la Reina-Valera 1909; se muestra como «Dato curioso» con el texto de la Biblia de Casiodoro de Reina (1569).
 - Pregunta 106, Sant. 2: La edición de 1563 indica solo el capítulo y ninguna de las ediciones cotejadas precisa los versículos: se muestra el capítulo completo.
 - Pregunta 108, Lev. 18:27-30: En el margen de 1563 parece leerse «Deut. 18»; se toma Lev. 18, como la edición alemana.
 - Pregunta 116, Mat. 7:7,8: En el margen de 1563 parece leerse «Matt. 2»; se toma Mat. 7.
@@ -162,7 +161,6 @@ Citas de reformededucation.org (preguntas 1–129) y de la edición alemana con 
 - Pregunta 79: Romans 6:5-11
 - Pregunta 83: John 20:21-23
 - Pregunta 84: John 3:31-36
-- Pregunta 85: 2 John 10:11
 - Pregunta 85: 1 Corinthians 11
 - Pregunta 85: 1 Corinthians 12
 - Pregunta 85: 1 Corinthians 13
@@ -246,7 +244,6 @@ Citas de reformededucation.org (preguntas 1–129) y de la edición alemana con 
 - Pregunta 107: Luke 6:36
 - Pregunta 107: Colossians 3:12
 - Pregunta 107: 1 Peter 3:8
-- Pregunta 108: Jude 22:23
 - Pregunta 108: Ephesians 5:3-5
 - Pregunta 110: Proverbs 16:11
 - Pregunta 110: Psalm 15:5
@@ -342,13 +339,11 @@ Citas de reformededucation.org (preguntas 1–129) y de la edición alemana con 
 - Pregunta 78: 1 Corinthians 10 aparece en 2 incisos de 1563: los versículos se repartieron según su lugar en cada edición; revisar.
 - Pregunta 80: Hebrews 9 aparece en 2 incisos de 1563: los versículos se repartieron según su lugar en cada edición; revisar.
 - Pregunta 80: Hebrews 10 aparece en 2 incisos de 1563: los versículos se repartieron según su lugar en cada edición; revisar.
-- Pregunta 85: 2 John 1: capítulo completo.
 - Pregunta 86: 1 Peter 2 aparece en 2 incisos de 1563: los versículos se repartieron según su lugar en cada edición; revisar.
 - Pregunta 86: 1 Peter 1: capítulo completo.
 - Pregunta 94: Matthew 4 aparece en 2 incisos de 1563: los versículos se repartieron según su lugar en cada edición; revisar.
 - Pregunta 94: 1 Peter 3: capítulo completo.
 - Pregunta 94: Acts 5 aparece en 2 incisos de 1563: los versículos se repartieron según su lugar en cada edición; revisar.
-- Pregunta 95: 2 John 1 aparece en 2 incisos de 1563: los versículos se repartieron según su lugar en cada edición; revisar.
 - Pregunta 103: 1 Corinthians 14 aparece en 2 incisos de 1563: los versículos se repartieron según su lugar en cada edición; revisar.
 - Pregunta 104: Ephesians 6 aparece en 2 incisos de 1563: los versículos se repartieron según su lugar en cada edición; revisar.
 - Pregunta 104: Colossians 3 aparece en 2 incisos de 1563: los versículos se repartieron según su lugar en cada edición; revisar.
@@ -982,7 +977,7 @@ Faltan las fotos del libro «La fe que confesamos» para las preguntas 23–129 
 | 61 | b | Rom. 10:10 | L, RE |
 | 62 | a | Gál. 3:10 | 1563, L, DE, RE |
 | 62 | a | Deut. 27:26 | 1563, L, DE, RE |
-| 62 | b | Isa. 64:5,6 | 1563, L, DE, RE |
+| 62 | b | Isa. 64:6 | 1563, L, DE, RE |
 | 63 | a | Luc. 17:10 | 1563, L, DE, RE |
 | 64 | a | Mat. 7:18 | 1563, L, DE, RE |
 | 64 | a | Jn. 15:5 | L, RE |
@@ -1117,7 +1112,7 @@ Faltan las fotos del libro «La fe que confesamos» para las preguntas 23–129 
 | 85 | a | Mat. 18:15-20 | 1563, DE, RE |
 | 85 | a | 1 Cor. 5:3-5,11 | 1563, DE, RE |
 | 85 | a | 2 Tes. 3:14,15 | 1563, DE, RE |
-| 85 | a | 2 Jn. 1:1 | 1563 |
+| 85 | a | 2 Jn. 1:10,11 | 1563, DE |
 | 86 | a | Rom. 6:13 | 1563, DE, RE |
 | 86 | a | Rom. 12:1,2 | 1563, DE, RE |
 | 86 | a | 1 Ped. 2:5-12 | 1563, DE, RE |
@@ -1180,8 +1175,7 @@ Faltan las fotos del libro «La fe que confesamos» para las preguntas 23–129 
 | 95 | a | Gál. 4:8,9 | 1563, DE, RE |
 | 95 | a | Ef. 2:12 | 1563, DE |
 | 95 | a | 1 Jn. 2:23 | 1563, DE |
-| 95 | a | 2 Jn. 1:9 | 1563, DE |
-| 95 | a | 2 Jn. 1:9 | 1563, DE |
+| 95 | a | 2 Jn. 1:5,6,9 | 1563, DE |
 | 96 | a | Deut. 4:15-19 | 1563, DE, RE |
 | 96 | a | Isa. 40:18-25 | 1563, DE, RE |
 | 96 | a | Rom. 1:23,24 | 1563, DE, RE |
@@ -1214,7 +1208,7 @@ Faltan las fotos del libro «La fe que confesamos» para las preguntas 23–129 
 | 101 | b | Gén. 21:24 | 1563, DE, RE |
 | 101 | b | Gén. 31:53,54 | 1563, DE, RE |
 | 101 | b | Isa. 9:15 | 1563, DE |
-| 101 | b | 1 Sam. 24:21 | 1563, DE, RE |
+| 101 | b | 1 Sam. 24:22 | 1563, DE, RE |
 | 101 | b | 2 Sam. 3:35 | 1563, DE |
 | 101 | b | 1 Rey. 1:29,30 | 1563, DE, RE |
 | 101 | b | Rom. 1:9 | 1563, DE, RE |
@@ -1273,7 +1267,7 @@ Faltan las fotos del libro «La fe que confesamos» para las preguntas 23–129 
 | 107 | g | Mat. 5:44,45 | 1563, DE, RE |
 | 107 | g | Rom. 12:20,21 | 1563, DE, RE |
 | 108 | a | Lev. 18:27-30 | 1563, DE, RE |
-| 108 | b | Jud. 1:22,23 | 1563, RE |
+| 108 | b | Jud. 1:1,22,23 | 1563, DE, RE |
 | 108 | c | 1 Tes. 4:3-8 | 1563, DE, RE |
 | 108 | d | Heb. 13:4 | 1563, DE, RE |
 | 108 | d | 1 Cor. 7:1-9 | 1563, DE, RE |

@@ -50,6 +50,7 @@ const margen = await leerIncisos('fuentes/heidelberg/margen-1563.txt');
 const libro = await leerIncisos('fuentes/heidelberg/libro-la-fe-que-confesamos.txt');
 const aleman2 = JSON.parse(await leer('fuentes/heidelberg/referencias-de.json')).preguntas;
 const ajustes = JSON.parse(await leer('fuentes/heidelberg/ajustes.json'));
+const datosCuriosos = JSON.parse(await leer('fuentes/heidelberg/datos-curiosos.json'));
 if (fuente.length !== TOTAL) throw new Error(`La fuente de referencias tiene ${fuente.length} preguntas y se esperaban ${TOTAL}`);
 const erroresRV = [], incidencias = [], origen = [], omitidasRE = [], revisar = [], sinLibro = [];
 let totalCitas = 0, totalVersiculos = 0, totalIncisos = 0;
@@ -82,11 +83,12 @@ for (const o of fuente) {
     const c = combinar({ m: structuredClone(margen[o.numero] || []), l: libro[o.numero] || [], de: (aleman2[o.numero] || []).map((x) => analizar(x, true)), re, ajustes, numero: o.numero });
     for (const inc of c.incisos) inc.citas = inc.citas.filter((x) => {
       if (!x.ref.startsWith('Sirach')) return true;
-      incidencias.push(`Pregunta ${o.numero}: la edición de 1563 cita «Syr. 3» (Eclesiástico), libro deuterocanónico que no forma parte de la Reina-Valera 1909; no se incluye.`);
+      incidencias.push(`Pregunta ${o.numero}: la edición de 1563 cita «Syr. 3» (Eclesiástico), libro deuterocanónico que no forma parte de la Reina-Valera 1909; se muestra como «Dato curioso» con el texto de la Biblia de Casiodoro de Reina (1569).`);
       return false;
     });
     grupos = c.incisos.filter((inc) => inc.citas.length).map((inc, g) => ({ inciso: LETRAS[g % LETRAS.length], citas: inc.citas.map((x) => {
       const cita = resolver(x.ref, x.nota || null);
+      if (x.cita) cita.cita = x.cita;
       origen.push(`| ${o.numero} | ${LETRAS[g % LETRAS.length]} | ${cita.cita} | ${x.fuentes} |`);
       return cita;
     }) }));
@@ -104,7 +106,7 @@ for (const o of fuente) {
   }
   totalIncisos += grupos.length;
   if (!grupos.length) incidencias.push(`Pregunta ${o.numero}: ninguna de las fuentes trae citas bíblicas para esta pregunta.`);
-  preguntas.push({ numero: o.numero, pregunta: t.pregunta, respuesta: t.respuesta, referenciasBiblicas: grupos });
+  preguntas.push({ numero: o.numero, pregunta: t.pregunta, respuesta: t.respuesta, referenciasBiblicas: grupos, ...(datosCuriosos[o.numero] ? { datoCurioso: datosCuriosos[o.numero] } : {}) });
 }
 if (erroresRV.length) { console.error(erroresRV.join('\n')); process.exit(1); }
 preguntas.forEach((q, i) => { if (q.numero !== i + 1) throw new Error(`Numeración no consecutiva en la posición ${i + 1}: ${q.numero}`); });
