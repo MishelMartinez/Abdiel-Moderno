@@ -29,6 +29,7 @@ Generado por `npm run mayor` (scripts/catecismo-mayor.mjs).
 - Pregunta 112, Mat. 6:9: La fuente indica «Matthew 11:9»; las ediciones estándar citan Mateo 6:9 («santificado sea tu nombre»).
 - Pregunta 121, Sal. 92:1,13-14: La fuente cita el título del Salmo 92 («Salmo o cántico para el día del sábado») comparado con los versículos 13-14; en la Reina-Valera 1909 el título forma parte del versículo 1.
 - Pregunta 128, Éx. 21:15: La fuente indica «Exodus 24:15»; las ediciones estándar citan Éxodo 21:15 («el que hiriere á su padre ó á su madre»).
+- Pregunta 135, 1 Sam. 24:12: En inglés «1 Samuel 24:12»; en la Reina-Valera 1909 este capítulo se numera 1 versículo(s) más adelante.
 - Pregunta 135, Ef. 4:2,32: La fuente indica «Ephesians 5:2, 32»; las ediciones estándar citan Efesios 4:2, 32, sobre soportarse con paciencia y perdonarse unos a otros.
 - Pregunta 136, Éx. 21:18-36: La fuente añade: «que contiene las leyes acerca de los que hieren, del daño por accidente, del buey acorneador y del que es ocasión de daño».
 - Pregunta 138, 1 Ped. 3:2: La fuente indica «1 Peter 2:3»; las ediciones estándar citan 1 Pedro 3:2 («vuestra casta conversación»).
