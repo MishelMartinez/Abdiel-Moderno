@@ -1,0 +1,170 @@
+<!doctype html>
+<html lang="es" data-tema="claro">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Biblioteca de Catecismos</title>
+<meta name="description" content="Consulta el Catecismo Menor de Westminster pregunta por pregunta, con respuestas y referencias bíblicas. Letra grande, lectura en voz alta y uso en celular.">
+<meta name="theme-color" content="#0b4f8a">
+<link rel="icon" href="assets/icono.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="assets/icono-192.png">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="stylesheet" href="assets/estilos.css">
+</head>
+<body>
+<a class="saltar" href="#contenido">Saltar al contenido</a>
+
+<header class="barra" id="inicio">
+  <div class="envoltura barra-interior">
+    <a class="marca" href="#top" aria-label="Biblioteca de Catecismos, ir al inicio">
+      <img src="assets/icono.svg" alt="" width="44" height="44">
+      <span><strong>Biblioteca de Catecismos</strong><small>Consulta y formación bíblica</small></span>
+    </a>
+    <button type="button" class="boton boton-suave" id="abrirAjustes" aria-label="Ajustes de lectura" aria-haspopup="dialog" aria-controls="ajustes">
+      <svg aria-hidden="true" viewBox="0 0 24 24"><path d="M4 7h10M18 7h2M4 17h4M12 17h8"/><circle cx="16" cy="7" r="2.2"/><circle cx="10" cy="17" r="2.2"/></svg>
+      <span>Ajustes de lectura</span>
+    </button>
+  </div>
+</header>
+
+<section class="portada">
+  <div class="envoltura portada-interior">
+    <div>
+      <p class="antetitulo">Biblioteca de estudio · Catecismos</p>
+      <h1>Aprende la fe, pregunta por pregunta.</h1>
+      <p class="entrada">Consulta las enseñanzas del catecismo, lee sus respuestas y explora las referencias bíblicas a tu propio ritmo. Puedes agrandar la letra o escuchar cada pregunta en voz alta.</p>
+    </div>
+    <div class="portada-dato" aria-live="polite">
+      <span class="portada-icono" aria-hidden="true"><svg class="ico" aria-hidden="true" viewBox="0 0 24 24"><path d="M3 5.5C6 4.5 9 5 12 7v13c-3-2-6-2.5-9-1.5Z"/><path d="M21 5.5C18 4.5 15 5 12 7v13c3-2 6-2.5 9-1.5Z"/></svg></span>
+      <span><strong id="totalPortada">33 preguntas</strong><small>Disponibles para consultar</small></span>
+    </div>
+  </div>
+</section>
+
+<main class="envoltura" id="contenido" tabindex="-1">
+  <section class="panel panel-biblioteca" aria-labelledby="tituloBiblioteca">
+    <div class="biblioteca-encabezado">
+      <div>
+        <h2 id="tituloBiblioteca">Tu biblioteca</h2>
+        <p>Elige el catecismo que deseas estudiar.</p>
+      </div>
+      <label class="selector">
+        <span>Catecismo</span>
+        <select id="selectorCatecismo"><option value="catecismo-menor">Catecismo Menor de Westminster</option></select>
+      </label>
+    </div>
+    <div class="catalogo" id="catalogo"></div>
+    <p class="aviso aviso-error" id="errorCarga" role="alert" hidden></p>
+  </section>
+
+  <section class="estudio" aria-labelledby="tituloEstudio">
+    <div class="estudio-encabezado">
+      <div>
+        <h2 id="tituloEstudio">Catecismo Menor de Westminster</h2>
+        <p id="subtituloEstudio">Preguntas, respuestas y referencias bíblicas</p>
+      </div>
+      <span class="etiqueta" id="totalPreguntas">33 preguntas</span>
+    </div>
+
+    <details class="panel notas-documento" id="notasDocumento" hidden>
+      <summary><span><svg class="ico" aria-hidden="true" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 11v5M12 8h.01"/></svg> Acerca de este documento</span><span class="flecha" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="m6 9 6 6 6-6"/></svg></span></summary>
+      <div class="notas-cuerpo" id="notasCuerpo"></div>
+    </details>
+
+    <div class="panel herramientas">
+      <label class="buscador" for="buscar">
+        <span class="visualmente-oculto">Buscar preguntas</span>
+        <svg aria-hidden="true" viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="m16 16 5 5"/></svg>
+        <input id="buscar" type="search" inputmode="search" autocomplete="off" placeholder="Número o palabra…">
+      </label>
+      <button type="button" class="boton boton-suave" id="limpiar" hidden>Limpiar búsqueda</button>
+      <button type="button" class="boton boton-suave" id="abrirIndice" aria-expanded="false" aria-controls="indice">
+        <svg aria-hidden="true" viewBox="0 0 24 24"><rect x="3" y="3" width="7" height="7" rx="1.5"/><rect x="14" y="3" width="7" height="7" rx="1.5"/><rect x="3" y="14" width="7" height="7" rx="1.5"/><rect x="14" y="14" width="7" height="7" rx="1.5"/></svg>
+        <span>Ir a una pregunta</span>
+      </button>
+    </div>
+    <nav class="panel indice" id="indice" aria-label="Índice de preguntas" hidden>
+      <p>Toca el número de la pregunta que quieres leer.</p>
+      <div class="indice-numeros" id="indiceNumeros"></div>
+    </nav>
+
+    <p class="resultado" id="resultado" role="status">Mostrando 33 preguntas</p>
+    <div class="lista" id="preguntas"></div>
+    <p class="vacio panel" id="vacio" hidden>No encontramos preguntas que coincidan con la búsqueda. Prueba con otra palabra o con el número de la pregunta.</p>
+    <nav class="paginacion" id="paginacion" aria-label="Páginas de preguntas"></nav>
+  </section>
+</main>
+
+<footer class="pie">
+  <div class="envoltura pie-interior">
+    <strong>Biblioteca de Catecismos</strong>
+    <span>El contenido respeta el texto y las referencias del archivo proporcionado.</span>
+  </div>
+</footer>
+
+<button type="button" class="boton-arriba" id="arriba" aria-label="Volver arriba" hidden>
+  <svg aria-hidden="true" viewBox="0 0 24 24"><path d="m6 14 6-6 6 6"/></svg>
+</button>
+
+<dialog class="ventana" id="ajustes" aria-labelledby="tituloAjustes">
+  <div class="ventana-interior">
+    <div class="ventana-encabezado">
+      <h2 id="tituloAjustes">Ajustes de lectura</h2>
+      <button type="button" class="cerrar" data-cerrar aria-label="Cerrar ajustes">×</button>
+    </div>
+    <fieldset class="opciones">
+      <legend>Tamaño de letra</legend>
+      <div class="control-letra">
+        <button type="button" class="boton boton-suave" id="letraMenos" aria-label="Reducir letra">A−</button>
+        <output id="letraValor" aria-live="polite">Normal</output>
+        <button type="button" class="boton boton-suave" id="letraMas" aria-label="Ampliar letra">A+</button>
+      </div>
+    </fieldset>
+    <fieldset class="opciones">
+      <legend>Colores</legend>
+      <div class="temas" role="radiogroup">
+        <label><input type="radio" name="tema" value="claro" checked><span><i class="muestra muestra-claro" aria-hidden="true"></i>Claro</span></label>
+        <label><input type="radio" name="tema" value="sepia"><span><i class="muestra muestra-sepia" aria-hidden="true"></i>Papel</span></label>
+        <label><input type="radio" name="tema" value="oscuro"><span><i class="muestra muestra-oscuro" aria-hidden="true"></i>Oscuro</span></label>
+        <label><input type="radio" name="tema" value="contraste"><span><i class="muestra muestra-contraste" aria-hidden="true"></i>Alto contraste</span></label>
+      </div>
+    </fieldset>
+    <fieldset class="opciones" id="opcionVoz">
+      <legend>Lectura en voz alta</legend>
+      <label class="rango">Velocidad
+        <input type="range" id="velocidadVoz" min="0.6" max="1.2" step="0.1" value="0.9">
+        <output id="velocidadValor">0.9×</output>
+      </label>
+    </fieldset>
+    <p class="nota-pequena">Tus ajustes se guardan en este dispositivo.</p>
+    <button type="button" class="boton boton-principal ancho" data-cerrar>Listo</button>
+  </div>
+</dialog>
+
+<dialog class="ventana" id="ventanaPasaje" aria-labelledby="tituloPasaje" aria-describedby="textoPasaje">
+  <div class="ventana-interior">
+    <div class="ventana-encabezado">
+      <div>
+        <p class="antetitulo">Lectura bíblica</p>
+        <h2 id="tituloPasaje"></h2>
+      </div>
+      <button type="button" class="cerrar" data-cerrar aria-label="Cerrar pasaje" title="Cerrar">×</button>
+    </div>
+    <p class="pasaje" id="textoPasaje"></p>
+    <div id="comparativo" hidden>
+      <h3 class="subtitulo-pasaje">Compare con <span id="tituloComparativo"></span></h3>
+      <p class="pasaje pasaje-comparativo" id="textoComparativo"></p>
+    </div>
+    <p class="nota-pequena">Versión: Reina-Valera 1960 · Texto proporcionado en el JSON</p>
+    <div class="ventana-acciones">
+      <button type="button" class="boton boton-suave" id="escucharPasaje" data-voz><svg aria-hidden="true" viewBox="0 0 24 24"><path d="M4 9v6h4l5 4V5L8 9H4Z"/><path d="M16.5 8.5a5 5 0 0 1 0 7M19 6a8.5 8.5 0 0 1 0 12"/></svg><span>Escuchar</span></button>
+      <button type="button" class="boton boton-principal" data-cerrar>Cerrar</button>
+    </div>
+    <p class="nota-pequena">Pulsa fuera de la ventana o presiona Esc para cerrar.</p>
+  </div>
+</dialog>
+
+<script src="data/catecismo-menor.js"></script>
+<script src="assets/app.js"></script>
+</body>
+</html>

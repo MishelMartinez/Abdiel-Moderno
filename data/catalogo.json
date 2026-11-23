@@ -1,0 +1,11 @@
+{
+  "catecismos": [
+    {
+      "id": "catecismo-menor",
+      "titulo": "Catecismo Menor de Westminster",
+      "subtitulo": "Preguntas y respuestas para el estudio de la fe",
+      "archivo": "data/catecismo-menor.json",
+      "activo": true
+    }
+  ]
+}
