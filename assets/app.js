@@ -295,6 +295,13 @@ function renderNotas() {
   const cuerpo = $('notasCuerpo');
   cuerpo.replaceChildren();
   if (!doc) { renderPendientes(cuerpo); det.hidden = !cuerpo.childElementCount; return; }
+  for (const s of Array.isArray(doc.presentacion) ? doc.presentacion : []) {
+    const sec = el('section', 'presentacion');
+    if (s.titulo) sec.append(el('h3', '', s.titulo));
+    for (const p of [s.parrafos].flat().filter(Boolean)) sec.append(el('p', '', p));
+    if (s.firma) sec.append(el('p', 'presentacion-firma', s.firma));
+    cuerpo.append(sec);
+  }
   const datos = el('dl', 'notas-datos');
   const agregar = (dt, dd) => { if (dd == null || dd === '') return; datos.append(el('dt', '', dt), el('dd', '', dd)); };
   agregar('Título', doc.titulo);

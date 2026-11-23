@@ -44,7 +44,7 @@ Los ajustes de lectura se guardan en el dispositivo.
 
 ## Cómo agregar catecismos y confesiones
 
-1. Coloca el JSON en `data/` (por ejemplo `data/heidelberg.json`). Puede ser un arreglo de preguntas o un objeto `{ "titulo", "preguntas": [...] }`. Cada pregunta lleva `numero`, `pregunta`, `respuesta` y `referenciasBiblicas: [{ "inciso", "citas": [{ "cita", "Pasaje" }] }]`. Son opcionales: `pagina`/`paginas`, `numeroNotaBiblica`, `completa`, `observacion(es)`, y en cada cita `estadoPasaje`, `observacionPasaje`, `referenciaComparativa` y `pasajeComparativo`. En el documento: `paginas`, `totalPreguntas`, `preguntasCompletas`, `versionBiblica`, `observaciones` y `observacionesExtraccion`.
+1. Coloca el JSON en `data/` (por ejemplo `data/heidelberg.json`). Puede ser un arreglo de preguntas o un objeto `{ "titulo", "preguntas": [...] }`. Cada pregunta lleva `numero`, `pregunta`, `respuesta` y `referenciasBiblicas: [{ "inciso", "citas": [{ "cita", "Pasaje" }] }]`. Son opcionales: `pagina`/`paginas`, `numeroNotaBiblica`, `completa`, `observacion(es)`, y en cada cita `estadoPasaje`, `observacionPasaje`, `referenciaComparativa` y `pasajeComparativo`. En el documento: `presentacion` (textos introductorios, `[{ "titulo", "parrafos": [...], "firma" }]`, todos opcionales salvo `parrafos`), `paginas`, `totalPreguntas`, `preguntasCompletas`, `versionBiblica`, `observaciones` y `observacionesExtraccion`.
 2. Agrega un registro a `catecismos` en `data/catalogo.json`:
    ```json
    { "id": "heidelberg", "titulo": "Catecismo de Heidelberg", "subtitulo": "…", "tipo": "Catecismo",

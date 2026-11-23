@@ -22,6 +22,10 @@ for (const c of catalogo.catecismos) {
   const datos = await leer(c.archivo);
   assert.deepEqual(embebida.documentos[c.id], datos, `${c.archivo} no coincide con la copia embebida. ${resincroniza}`);
   const preguntas = Array.isArray(datos) ? datos : datos.preguntas;
+  if (datos.presentacion !== undefined) {
+    assert.ok(Array.isArray(datos.presentacion), `${c.archivo}: presentacion debe ser un arreglo`);
+    for (const s of datos.presentacion) assert.ok([s.parrafos].flat().some((p) => p?.trim()), `${c.archivo}: sección de presentación sin párrafos`);
+  }
   assert.ok(Array.isArray(preguntas) && preguntas.length, `${c.archivo}: sin preguntas`);
   if (datos.totalPreguntas != null) assert.equal(preguntas.length, datos.totalPreguntas, `${c.archivo}: totalPreguntas no coincide`);
   const numeros = preguntas.map((q) => q.numero);

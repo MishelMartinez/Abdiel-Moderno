@@ -1,5 +1,20 @@
 {
   "titulo": "Catecismo Menor de Westminster",
+  "presentacion": [
+    {
+      "parrafos": [
+        "Acordado por la Asamblea de Teólogos en Westminster, con la asistencia de los delegados de la Iglesia de Escocia, como parte de la uniformidad pactada y establecida en religión entre las iglesias de Cristo en los reinos de Escocia, Inglaterra e Irlanda.",
+        "Aprobado por la Asamblea General de la Iglesia de Escocia, en 1648, para ser un Directorio para catequizar a los que son de débil capacidad. Con pruebas de las Escrituras."
+      ]
+    },
+    {
+      "titulo": "Acta aprobando el Catecismo Menor.",
+      "parrafos": [
+        "La Asamblea General considerando seriamente el Catecismo Menor concordado por la Asamblea de Teólogos reunida en Westminster, con la ayuda de los Delegados de esta Iglesia; encuentra, examinándolo, que el dicho Catecismo es agradable a la Palabra de Dios, y en nada contrario a la doctrina recibida, en nada contrario a la adoración pública de Dios, en nada contrario de la disciplina y en nada contrario del gobierno de esta Iglesia: Y así, pues, aprueba el dicho Catecismo Menor, como una parte de la uniformidad propuesta, para ser una guía para catequizar a los que son de débil capacidad."
+      ],
+      "firma": "Asamblea en Edimburgo, 28 julio 1648. Sesión 19."
+    }
+  ],
   "paginas": "123–138",
   "totalPreguntas": 107,
   "preguntasCompletas": 107,

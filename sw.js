@@ -1,6 +1,6 @@
 // Permite usar la biblioteca sin conexión una vez visitada (GitHub Pages o cualquier servidor).
 // Estrategia: red primero y, si no hay conexión, la última copia guardada.
-const CACHE = 'catecismos-v8';
+const CACHE = 'catecismos-v8.1';
 const ARCHIVOS = [
   './', 'index.html', 'manifest.webmanifest',
   'assets/estilos.css', 'assets/app.js', 'assets/icono.svg', 'assets/icono-192.png', 'assets/icono-512.png',

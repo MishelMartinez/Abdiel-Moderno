@@ -149,6 +149,11 @@ test('observaciones del archivo en cada pregunta', async ({ page }) => {
 test('acerca del documento: versión, notas y referencias pendientes', async ({ page }) => {
   await page.getByText('Acerca de este documento').click();
   const notas = page.locator('#notasCuerpo');
+  const presentacion = notas.locator('.presentacion');
+  await expect(presentacion).toHaveCount(datos.presentacion.length);
+  await expect(presentacion.first()).toContainText('Acordado por la Asamblea de Teólogos en Westminster');
+  await expect(notas.getByRole('heading', { name: 'Acta aprobando el Catecismo Menor.' })).toBeVisible();
+  await expect(notas.locator('.presentacion-firma')).toHaveText('Asamblea en Edimburgo, 28 julio 1648. Sesión 19.');
   await expect(notas).toContainText(datos.paginas);
   await expect(notas).toContainText(datos.versionBiblica);
   for (const o of [...datos.observaciones, ...datos.observacionesExtraccion]) await expect(notas).toContainText(o);
