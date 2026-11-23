@@ -299,7 +299,7 @@ function renderNotas() {
   const det = $('notasDocumento');
   const cuerpo = $('notasCuerpo');
   cuerpo.replaceChildren();
-  if (!doc) { det.hidden = true; return; }
+  if (!doc) { renderPendientes(cuerpo); det.hidden = !cuerpo.childElementCount; return; }
   const datos = el('dl', 'notas-datos');
   const agregar = (dt, dd) => { if (dd == null || dd === '') return; datos.append(el('dt', '', dt), el('dd', '', dd)); };
   agregar('Título', doc.titulo);
