@@ -4,7 +4,9 @@
       "id": "catecismo-menor",
       "titulo": "Catecismo Menor de Westminster",
       "subtitulo": "Preguntas y respuestas para el estudio de la fe",
+      "tipo": "Catecismo",
       "archivo": "data/catecismo-menor.json",
+      "pendientes": "data/catecismo-menor-pendientes.json",
       "activo": true
     }
   ]

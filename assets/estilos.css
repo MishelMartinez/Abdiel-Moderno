@@ -119,6 +119,7 @@ main:focus { outline: none; }
 .libro-icono .ico { width: 26px; height: 26px; }
 .libro-texto strong { display: block; color: var(--primario); line-height: 1.3; }
 .libro-texto small { display: block; color: var(--suave); font-size: .78em; line-height: 1.4; }
+.libro-texto .libro-dato { margin-top: 4px; font-weight: 700; color: var(--acento); }
 
 /* Estudio */
 .estudio { display: grid; grid-template-columns: minmax(0, 1fr); gap: 18px; }
@@ -135,6 +136,12 @@ details[open] > summary .flecha svg { transform: rotate(180deg); }
 .notas-cuerpo { padding: 0 20px 18px; font-size: .9em; }
 .notas-cuerpo h3 { font-size: 1em; margin: 14px 0 6px; }
 .notas-cuerpo ul { margin: 0; padding-left: 1.2em; }
+.notas-cuerpo .pendientes { list-style: none; padding: 0; display: grid; gap: 8px; }
+.pendientes li { display: grid; gap: 2px; padding: 8px 12px; border-radius: 12px; border: 1px solid var(--borde); background: var(--superficie-2); }
+.pendientes li.pendiente-resuelta { border-style: dashed; }
+.enlace-pendiente { min-height: 44px; padding: 0; border: 0; background: none; color: var(--primario); font: inherit; font-weight: 600; text-align: left; text-decoration: underline; text-underline-offset: 3px; cursor: pointer; }
+.pendiente-motivo { color: var(--suave); font-size: .92em; }
+.pendiente-resuelta .pendiente-motivo { color: var(--acento); }
 .notas-datos { display: grid; grid-template-columns: max-content 1fr; gap: 4px 16px; margin: 0; }
 .notas-datos dt { font-weight: 700; color: var(--suave); }
 .notas-datos dd { margin: 0; }
@@ -188,6 +195,8 @@ details[open] > summary .flecha svg { transform: rotate(180deg); }
 .cita { display: inline-flex; align-items: center; gap: 10px; min-height: 48px; padding: 8px 16px; border-radius: 12px; background: var(--superficie); border: 2px solid var(--borde); color: var(--tinta); font-weight: 600; font-size: .9em; max-width: 100%; text-align: left; }
 .cita-boton { color: var(--primario); border-color: color-mix(in srgb, var(--primario) 35%, var(--borde)); }
 .cita-boton:hover { border-color: var(--primario); background: var(--nota-fondo); }
+.cita-pendiente { border-style: dashed; }
+.cita-estado { padding: 2px 10px; border-radius: 999px; background: var(--alerta-fondo); border: 1px solid var(--alerta-borde); color: var(--alerta-tinta); font-size: .8em; font-weight: 700; white-space: nowrap; }
 .cita svg { width: 1.25em; height: 1.25em; flex: none; fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
 
 .vacio { padding: 28px; text-align: center; color: var(--suave); }
