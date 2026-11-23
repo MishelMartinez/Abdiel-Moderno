@@ -136,6 +136,10 @@ details[open] > summary .flecha svg { transform: rotate(180deg); }
 .notas-cuerpo { padding: 0 20px 18px; font-size: .9em; }
 .notas-cuerpo h3 { font-size: 1em; margin: 14px 0 6px; }
 .notas-cuerpo ul { margin: 0; padding-left: 1.2em; }
+.presentacion { margin: 0 0 16px; font-family: Georgia, "Times New Roman", serif; font-size: 1.05em; line-height: 1.75; }
+.presentacion h3 { text-align: center; }
+.presentacion p { margin: 0 0 10px; }
+.presentacion-firma { text-align: right; font-style: italic; }
 .notas-cuerpo .pendientes { list-style: none; padding: 0; display: grid; gap: 8px; }
 .pendientes li { display: grid; gap: 2px; padding: 8px 12px; border-radius: 12px; border: 1px solid var(--borde); background: var(--superficie-2); }
 .pendientes li.pendiente-resuelta { border-style: dashed; }
