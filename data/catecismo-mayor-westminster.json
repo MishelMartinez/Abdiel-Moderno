@@ -1,10 +1,10 @@
 {
   "titulo": "Catecismo Mayor de Westminster",
   "totalPreguntas": 196,
-  "preguntasCompletas": 40,
+  "preguntasCompletas": 65,
   "versionBiblica": "Reina-Valera 1909",
   "observaciones": [
-    "Versión en revisión: incluye las preguntas 1 a 40 de 196.",
+    "Versión en revisión: incluye las preguntas 1 a 65 de 196.",
     "Traducción propia al español a partir del texto histórico en inglés (dominio público).",
     "Las letras de los incisos siguen la edición estándar de las pruebas bíblicas; la fuente en línea las presenta sin letras."
   ],
@@ -2199,6 +2199,1484 @@
             {
               "cita": "1 Ped. 2:6",
               "Pasaje": "6. Por lo cual también contiene la Escritura: He aquí, pongo en Sión la principal piedra del ángulo, escogida, preciosa; y el que creyere en ella, no será confundido."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 41,
+      "pregunta": "¿Por qué fue llamado Jesús nuestro Mediador?",
+      "respuesta": "Nuestro Mediador fue llamado Jesús, porque salva a su pueblo de sus pecados.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Mat. 1:21",
+              "Pasaje": "21. Y parirá un hijo, y llamarás su nombre JESUS, porque él salvará á su pueblo de sus pecados."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 42,
+      "pregunta": "¿Por qué fue llamado Cristo nuestro Mediador?",
+      "respuesta": "Nuestro Mediador fue llamado Cristo, porque fue ungido con el Espíritu Santo sin medida, y así apartado y plenamente provisto de toda autoridad y capacidad para ejercer los oficios de profeta, sacerdote y rey de su iglesia, tanto en el estado de su humillación como en el de su exaltación.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Jn. 3:34",
+              "Pasaje": "34. Porque el que Dios envió, las palabras de Dios habla: porque no da Dios el Espíritu por medida."
+            },
+            {
+              "cita": "Sal. 45:7",
+              "Pasaje": "7. Amaste la justicia y aborreciste la maldad: por tanto te ungió Dios, el Dios tuyo, con óleo de gozo sobre tus compañeros."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Jn. 6:27",
+              "Pasaje": "27. Trabajad no por la comida que perece, mas por la comida que á vida eterna permanece, la cual el Hijo del hombre os dará: porque á éste señaló el Padre, [que es] Dios."
+            },
+            {
+              "cita": "Mat. 28:18-20",
+              "Pasaje": "18. Y llegando Jesús, les habló, diciendo: Toda potestad me es dada en el cielo y en la tierra.\n19. Por tanto, id, y doctrinad á todos los Gentiles, bautizándolos en el nombre del Padre, y del Hijo, y del Espíritu Santo:\n20. Enseñándoles que guarden todas las cosas que os he mandado: y he aquí, yo estoy con vosotros todos los días, hasta el fin del mundo. Amén."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Hech. 3:21-22",
+              "Pasaje": "21. Al cual de cierto es menester que el cielo tenga hasta los tiempos de la restauración de todas las cosas, que habló Dios por boca de sus santos profetas que han sido desde el siglo.\n22. Porque Moisés dijo á los padres: El Señor vuestro Dios os levantará profeta de vuestros hermanos, como yo; á él oiréis en todas las cosas que os hablare."
+            },
+            {
+              "cita": "Luc. 4:18,21",
+              "Pasaje": "18. El Espíritu del Señor es sobre mí, por cuanto me ha ungido para dar buenas nuevas á los pobres: me ha enviado para sanar á los quebrantados de corazón; para pregonar á los cautivos libertad, y á los ciegos vista; para poner en libertad á los quebrantados:\n21. Y comenzó á decirles: Hoy se ha cumplido esta Escritura en vuestros oídos."
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "Heb. 5:5-7",
+              "Pasaje": "5. Así también Cristo no se glorificó á sí mismo haciéndose Pontífice, mas el que le dijo: Tú eres mi Hijo, yo te he engendrado hoy;\n6. Como también dice en otro [lugar]: Tú eres sacerdote eternamente, según el orden de Melchîsedec.\n7. El cual en los días de su carne, ofreciendo ruegos y súplicas con gran clamor y lágrimas al que le podía librar de la muerte, fué oído por su reverencial miedo."
+            },
+            {
+              "cita": "Heb. 4:14-15",
+              "Pasaje": "14. Por tanto, teniendo un gran Pontífice, que penetró los cielos, Jesús el Hijo de Dios, retengamos nuestra profesión.\n15. Porque no tenemos un Pontífice que no se pueda compadecer de nuestras flaquezas; mas tentado en todo según [nuestra] semejanza, [pero] sin pecado."
+            }
+          ]
+        },
+        {
+          "inciso": "e",
+          "citas": [
+            {
+              "cita": "Sal. 2:6",
+              "Pasaje": "6. Yo empero he puesto mi rey sobre Sión, monte de mi santidad."
+            },
+            {
+              "cita": "Mat. 21:5",
+              "Pasaje": "5. Decid á la hija de Sión: He aquí, tu Rey viene á ti, manso, y sentado sobre una asna, y sobre un pollino, hijo de animal de yugo."
+            },
+            {
+              "cita": "Isa. 9:6-7",
+              "Pasaje": "6. Porque un niño nos es nacido, hijo nos es dado; y el principado sobre su hombro: y llamaráse su nombre Admirable, Consejero, Dios fuerte, Padre eterno, Príncipe de paz.\n7. Lo dilatado de [su] imperio y la paz no tendrán término, sobre el trono de David, y sobre su reino, disponiéndolo y confirmándolo en juicio y en justicia desde ahora para siempre. El celo de Jehová de los ejércitos hará esto."
+            },
+            {
+              "cita": "Fil. 2:8-11",
+              "Pasaje": "8. Y hallado en la condición como hombre, se humilló á sí mismo, hecho obediente hasta la muerte, y muerte de cruz.\n9. Por lo cual Dios también le ensalzó á lo sumo, y dióle un nombre que es sobre todo nombre;\n10. Para que en el nombre de Jesús se doble toda rodilla de los [que están] en los cielos, y de los [que] en la tierra, y de los [que] debajo de la tierra;\n11. Y toda lengua confiese que Jesucristo es el Señor, á la gloria de Dios Padre."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 43,
+      "pregunta": "¿Cómo ejerce Cristo el oficio de profeta?",
+      "respuesta": "Cristo ejerce el oficio de profeta revelando a la iglesia, en todas las épocas, por su Espíritu y su Palabra, de diversas maneras de administración, toda la voluntad de Dios en todas las cosas que conciernen a su edificación y salvación.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Jn. 1:18",
+              "Pasaje": "18. A Dios nadie le vió jamás: el unigénito Hijo, que está en el seno del Padre, él [le] declaró."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "1 Ped. 1:10-12",
+              "Pasaje": "10. De la cual salud los profetas que profetizaron de la gracia que había de venir á vosotros, han inquirido y diligentemente buscado,\n11. Escudriñando cuándo y en qué punto de tiempo significaba el Espíritu de Cristo que estaba en ellos, el cual prenunciaba las aflicciones que habían de venir á Cristo, y las glorias después de ellas.\n12. A los cuales fué revelado, que no para sí mismos, sino para nosotros administraban las cosas que ahora os son anunciadas de los que os han predicado el evangelio por el Espíritu Santo enviado del cielo; en las cuales desean mirar los ángeles."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Heb. 1:1-2",
+              "Pasaje": "1. DIOS, habiendo hablado muchas veces y en muchas maneras en otro tiempo á los padres por los profetas,\n2. En estos postreros días nos ha hablado por el Hijo, al cual constituyó heredero de todo, por el cual asimismo hizo el universo:"
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "Jn. 15:15",
+              "Pasaje": "15. Ya no os llamaré siervos, porque el siervo no sabe lo que hace su señor: mas os he llamado amigos, porque todas las cosas que oí de mi Padre, os he hecho notorias."
+            }
+          ]
+        },
+        {
+          "inciso": "e",
+          "citas": [
+            {
+              "cita": "Hech. 20:32",
+              "Pasaje": "32. Y ahora, hermanos, os encomiendo á Dios, y á la palabra de su gracia: el cual es poderoso para sobreedificar, y daros heredad con todos los santificados.",
+              "observacionPasaje": "La fuente indica «Acts 20:23», que no trata de la edificación de la iglesia por la Palabra; las ediciones estándar citan Hechos 20:32."
+            },
+            {
+              "cita": "Ef. 4:11-13",
+              "Pasaje": "11. Y él mismo dió unos, ciertamente apóstoles; y otros, profetas; y otros, evangelistas; y otros, pastores y doctores;\n12. Para perfección de los santos, para la obra del ministerio, para edificación del cuerpo de Cristo;\n13. Hasta que todos lleguemos á la unidad de la fe y del conocimiento del Hijo de Dios, á un varón perfecto, á la medida de la edad de la plenitud de Cristo:"
+            },
+            {
+              "cita": "Jn. 20:31",
+              "Pasaje": "31. Estas empero son escritas, para que creáis que Jesús es el Cristo, el Hijo de Dios; y para que creyendo, tengáis vida en su nombre."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 44,
+      "pregunta": "¿Cómo ejerce Cristo el oficio de sacerdote?",
+      "respuesta": "Cristo ejerce el oficio de sacerdote al ofrecerse a sí mismo una sola vez a Dios como sacrificio sin mancha, para ser la reconciliación por los pecados de su pueblo, y al interceder continuamente por ellos.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Heb. 9:14,28",
+              "Pasaje": "14. ¿Cuánto más la sangre de Cristo, el cual por el Espíritu eterno se ofreció á sí mismo sin mancha á Dios, limpiará vuestras conciencias de las obras de muerte para que sirváis al Dios vivo?\n28. Así también Cristo fué ofrecido una vez para agotar los pecados de muchos; y la segunda vez, sin pecado, será visto de los que le esperan para salud."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Heb. 2:17",
+              "Pasaje": "17. Por lo cual, debía ser en todo semejante á los hermanos, para venir á ser misericordioso y fiel Pontífice en lo que es para con Dios, para expiar los pecados del pueblo."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Heb. 7:25",
+              "Pasaje": "25. Por lo cual puede también salvar eternamente á los que por él se allegan á Dios, viviendo siempre para interceder por ellos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 45,
+      "pregunta": "¿Cómo ejerce Cristo el oficio de rey?",
+      "respuesta": "Cristo ejerce el oficio de rey llamando del mundo a un pueblo para sí, y dándole oficiales, leyes y censuras, por medio de los cuales lo gobierna visiblemente; concediendo la gracia salvadora a sus elegidos, recompensando su obediencia y corrigiéndolos por sus pecados, preservándolos y sosteniéndolos en todas sus tentaciones y sufrimientos, refrenando y venciendo a todos sus enemigos, y ordenando poderosamente todas las cosas para su propia gloria y el bien de ellos; y también tomando venganza de los demás, que no conocen a Dios ni obedecen al evangelio.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Hech. 15:14-16",
+              "Pasaje": "14. Simón ha contado cómo Dios primero visitó á los Gentiles, para tomar de ellos pueblo para su nombre;\n15. Y con esto concuerdan las palabras de los profetas, como está escrito:\n16. Después de esto volveré y restauraré la habitación de David, que estaba caída; y repararé sus ruinas, y la volveré á levantar;"
+            },
+            {
+              "cita": "Gén. 49:10",
+              "Pasaje": "10. No será quitado el cetro de Judá, y el legislador de entre sus piés, hasta que venga Shiloh; y á él se congregarán los pueblos."
+            },
+            {
+              "cita": "Sal. 110:3",
+              "Pasaje": "3. Tu pueblo [serálo] de buena voluntad en el día de tu poder, en la hermosura de la santidad: desde el seno de la aurora, tienes tú el rocío de tu juventud."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Ef. 4:11-12",
+              "Pasaje": "11. Y él mismo dió unos, ciertamente apóstoles; y otros, profetas; y otros, evangelistas; y otros, pastores y doctores;\n12. Para perfección de los santos, para la obra del ministerio, para edificación del cuerpo de Cristo;"
+            },
+            {
+              "cita": "1 Cor. 12:28",
+              "Pasaje": "28. Y á unos puso Dios en la iglesia, primeramente apóstoles, luego profetas, lo tercero doctores; luego facultades; luego dones de sanidades, ayudas, gobernaciones, géneros de lenguas."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Isa. 33:22",
+              "Pasaje": "22. Porque Jehová es nuestro juez, Jehová es nuestro legislador, Jehová es nuestro Rey, él mismo nos salvará."
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "Mat. 18:17-18",
+              "Pasaje": "17. Y si no oyere á ellos, dilo á la iglesia: y si no oyere á la iglesia, tenle por étnico y publicano.\n18. De cierto os digo [que] todo lo que ligareis en la tierra, será ligado en el cielo; y todo lo que desatareis en la tierra, será desatado en el cielo."
+            },
+            {
+              "cita": "1 Cor. 5:4-5",
+              "Pasaje": "4. En el nombre del Señor nuestro Jesucristo, juntados vosotros y mi espíritu, con la facultad de nuestro Señor Jesucristo,\n5. El tal sea entregado á Satanás para muerte de la carne, porque el espíritu sea salvo en el día del Señor Jesús."
+            }
+          ]
+        },
+        {
+          "inciso": "e",
+          "citas": [
+            {
+              "cita": "Hech. 5:31",
+              "Pasaje": "31. A éste ha Dios ensalzado con su diestra por Príncipe y Salvador, para dar á Israel arrepentimiento y remisión de pecados."
+            }
+          ]
+        },
+        {
+          "inciso": "f",
+          "citas": [
+            {
+              "cita": "Apoc. 22:12",
+              "Pasaje": "12. Y he aquí, yo vengo presto, y mi galardón conmigo, para recompensar á cada uno según fuere su obra."
+            },
+            {
+              "cita": "Apoc. 2:10",
+              "Pasaje": "10. No tengas ningún temor de las cosas que has de padecer. He aquí, el diablo ha de enviar algunos de vosotros á la cárcel, para que seáis probados, y tendréis tribulación de diez días. Sé fiel hasta la muerte, y yo te daré la corona de la vida."
+            }
+          ]
+        },
+        {
+          "inciso": "g",
+          "citas": [
+            {
+              "cita": "Apoc. 3:19",
+              "Pasaje": "19. Yo reprendo y castigo á todos los que amo: sé pues celoso, y arrepiéntete."
+            }
+          ]
+        },
+        {
+          "inciso": "h",
+          "citas": [
+            {
+              "cita": "Isa. 63:9",
+              "Pasaje": "9. En toda angustia de ellos él fué angustiado, y el ángel de su faz los salvó: en su amor y en su clemencia los redimió, y los trajo, y los levantó todos los días del siglo."
+            }
+          ]
+        },
+        {
+          "inciso": "i",
+          "citas": [
+            {
+              "cita": "1 Cor. 15:25",
+              "Pasaje": "25. Porque es menester que él reine, hasta poner á todos sus enemigos debajo de sus pies."
+            },
+            {
+              "cita": "Sal. 110:1-2",
+              "Pasaje": "1. Salmo de David. JEHOVÁ dijo á mi Señor: Siéntate á mi diestra, en tanto que pongo tus enemigos por estrado de tus pies.\n2. La vara de tu fortaleza enviará Jehová desde Sión: domina en medio de tus enemigos."
+            }
+          ]
+        },
+        {
+          "inciso": "k",
+          "citas": [
+            {
+              "cita": "Rom. 14:10-11",
+              "Pasaje": "10. Mas tú ¿por qué juzgas á tu hermano? ó tú también, ¿por qué menosprecias á tu hermano? porque todos hemos de estar ante el tribunal de Cristo.\n11. Porque escrito está: Vivo yo, dice el Señor, que á mí se doblará toda rodilla, y toda lengua confesará á Dios."
+            }
+          ]
+        },
+        {
+          "inciso": "l",
+          "citas": [
+            {
+              "cita": "Rom. 8:28",
+              "Pasaje": "28. Y sabemos que á los que á Dios aman, todas las cosas les ayudan á bien, [es á saber], á los que conforme al propósito son llamados."
+            }
+          ]
+        },
+        {
+          "inciso": "m",
+          "citas": [
+            {
+              "cita": "2 Tes. 1:8-9",
+              "Pasaje": "8. En llama de fuego, para dar el pago á los que no conocieron á Dios, ni obedecen al evangelio de nuestro Señor Jesucristo;\n9. Los cuales serán castigados de eterna perdición por la presencia del Señor, y por la gloria de su potencia,"
+            },
+            {
+              "cita": "Sal. 2:8-9",
+              "Pasaje": "8. Pídeme, y te daré por heredad las gentes, y por posesión tuya los términos de la tierra.\n9. Quebrantarlos has con vara de hierro: como vaso de alfarero los desmenuzarás."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 46,
+      "pregunta": "¿Cuál fue el estado de la humillación de Cristo?",
+      "respuesta": "El estado de la humillación de Cristo fue aquella condición baja en la cual él, por causa nuestra, despojándose de su gloria, tomó sobre sí la forma de siervo, en su concepción y nacimiento, en su vida, en su muerte y después de su muerte, hasta su resurrección.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Fil. 2:6-8",
+              "Pasaje": "6. El cual, siendo en forma de Dios, no tuvo por usurpación ser igual á Dios:\n7. Sin embargo, se anonadó á sí mismo, tomando forma de siervo, hecho semejante á los hombres;\n8. Y hallado en la condición como hombre, se humilló á sí mismo, hecho obediente hasta la muerte, y muerte de cruz."
+            },
+            {
+              "cita": "Luc. 1:31",
+              "Pasaje": "31. Y he aquí, concebirás en tu seno, y parirás un hijo, y llamarás su nombre JESUS."
+            },
+            {
+              "cita": "2 Cor. 8:9",
+              "Pasaje": "9. Porque ya sabéis la gracia de nuestro Señor Jesucristo, que por amor de vosotros se hizo pobre, siendo rico; para que vosotros con su pobreza fueseis enriquecidos."
+            },
+            {
+              "cita": "Hech. 2:24",
+              "Pasaje": "24. Al cual Dios levantó, sueltos los dolores de la muerte, por cuanto era imposible ser detenido de ella."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 47,
+      "pregunta": "¿Cómo se humilló Cristo en su concepción y nacimiento?",
+      "respuesta": "Cristo se humilló en su concepción y nacimiento en que, siendo desde toda la eternidad el Hijo de Dios, en el seno del Padre, le agradó, en la plenitud del tiempo, hacerse hijo del hombre, nacido de una mujer de condición humilde, y nacer de ella, con diversas circunstancias de un abatimiento más que ordinario.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Jn. 1:14,18",
+              "Pasaje": "14. Y aquel Verbo fué hecho carne, y habitó entre nosotros (y vimos su gloria, gloria como del unigénito del Padre), lleno de gracia y de verdad.\n18. A Dios nadie le vió jamás: el unigénito Hijo, que está en el seno del Padre, él [le] declaró."
+            },
+            {
+              "cita": "Gál. 4:4",
+              "Pasaje": "4. Mas venido el cumplimiento del tiempo, Dios envió su Hijo, hecho de mujer, hecho súbdito á la ley,"
+            },
+            {
+              "cita": "Luc. 2:7",
+              "Pasaje": "7. Y parió á su hijo primogénito, y le envolvió en pañales, y acostóle en un pesebre, porque no había lugar para ellos en el mesón."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 48,
+      "pregunta": "¿Cómo se humilló Cristo en su vida?",
+      "respuesta": "Cristo se humilló en su vida sujetándose a la ley, la cual cumplió perfectamente, y luchando con los ultrajes del mundo, las tentaciones de Satanás y las flaquezas de su carne, ya fuesen comunes a la naturaleza del hombre, ya propias de aquella su condición humilde.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Gál. 4:4",
+              "Pasaje": "4. Mas venido el cumplimiento del tiempo, Dios envió su Hijo, hecho de mujer, hecho súbdito á la ley,"
+            },
+            {
+              "cita": "Mat. 5:17",
+              "Pasaje": "17. No penséis que he venido para abrogar la ley ó los profetas: no he venido para abrogar, sino á cumplir."
+            },
+            {
+              "cita": "Rom. 5:19",
+              "Pasaje": "19. Porque como por la desobediencia de un hombre los muchos fueron constituídos pecadores, así por la obediencia de uno los muchos serán constituídos justos."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Sal. 22:6",
+              "Pasaje": "6. Mas yo soy gusano, y no hombre; oprobio de los hombres, y desecho del pueblo."
+            },
+            {
+              "cita": "Heb. 12:2-3",
+              "Pasaje": "2. Puestos los ojos en al autor y consumador de la fe, [en] Jesús; el cual, habiéndole sido propuesto gozo, sufrió la cruz, menospreciando la vergüenza, y sentóse á la diestra del trono de Dios.\n3. Reducid pues á vuestro pensamiento á aquel que sufrió tal contradicción de pecadores contra sí mismo, porque no os fatiguéis en vuestros ánimos desmayando."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Mat. 4:1-12",
+              "Pasaje": "1. ENTONCES Jesús fué llevado del Espíritu al desierto, para ser tentado del diablo.\n2. Y habiendo ayunado cuarenta días y cuarenta noches, después tuvo hambre.\n3. Y llegándose á él el tentador, dijo: Si eres Hijo de Dios, di que estas piedras se hagan pan.\n4. Mas él respondiendo, dijo: Escrito está: No con solo el pan vivirá el hombre, mas con toda palabra que sale de la boca de Dios.\n5. Entonces el diablo le pasa á la santa ciudad, y le pone sobre las almenas del templo,\n6. Y le dice: Si eres Hijo de Dios, échate abajo; que escrito está: A sus ángeles mandará por ti, y te alzarán en las manos, para que nunca tropieces con tu pie en piedra.\n7. Jesús le dijo: Escrito está además: No tentarás al Señor tu Dios.\n8. Otra vez le pasa el diablo á un monte muy alto, y le muestra todos los reinos del mundo, y su gloria,\n9. Y dícele: Todo esto te daré, si postrado me adorares.\n10. Entonces Jesús le dice: Vete, Satanás, que escrito está: Al Señor tu Dios adorarás y á él solo servirás.\n11. El diablo entonces le dejó: y he aquí los ángeles llegaron y le servían.\n12. Mas oyendo Jesús que Juan era preso, se volvió á Galilea;"
+            },
+            {
+              "cita": "Luc. 4:13",
+              "Pasaje": "13. Y acabada toda tentación, el diablo se fué de él por un tiempo."
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "Heb. 2:17-18",
+              "Pasaje": "17. Por lo cual, debía ser en todo semejante á los hermanos, para venir á ser misericordioso y fiel Pontífice en lo que es para con Dios, para expiar los pecados del pueblo.\n18. Porque en cuanto él mismo padeció siendo tentado, es poderoso para socorrer á los que son tentados."
+            },
+            {
+              "cita": "Heb. 4:15",
+              "Pasaje": "15. Porque no tenemos un Pontífice que no se pueda compadecer de nuestras flaquezas; mas tentado en todo según [nuestra] semejanza, [pero] sin pecado."
+            },
+            {
+              "cita": "Isa. 52:13-14",
+              "Pasaje": "13. He aquí que mi siervo será prosperado, será engrandecido y ensalzado, y será muy sublimado.\n14. Como se pasmaron de ti muchos, en tanta manera fué desfigurado de los hombres su parecer; y su hermosura más que la de los hijos de los hombres."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 49,
+      "pregunta": "¿Cómo se humilló Cristo en su muerte?",
+      "respuesta": "Cristo se humilló en su muerte en que, habiendo sido traicionado por Judas, abandonado por sus discípulos, escarnecido y rechazado por el mundo, condenado por Pilato y atormentado por sus perseguidores; habiendo luchado también con los terrores de la muerte y los poderes de las tinieblas, y sentido y llevado el peso de la ira de Dios, entregó su vida como ofrenda por el pecado, soportando la muerte dolorosa, vergonzosa y maldita de la cruz.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Mat. 27:4",
+              "Pasaje": "4. Diciendo: Yo he pecado entregando la sangre inocente. Mas ellos dijeron: ¿Qué [se nos da] á nosotros? Viéras[lo] tú."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Mat. 26:56",
+              "Pasaje": "56. Mas todo esto se hace, para que se cumplan las Escrituras de los profetas. Entonces todos los discípulos huyeron, dejándole."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Isa. 53:2-3",
+              "Pasaje": "2. Y subirá cual renuevo delante de él, y como raíz de tierra seca: no hay parecer en él, ni hermosura: verlo hemos, mas sin atractivo para que le deseemos.\n3. Despreciado y desechado entre los hombres, varón de dolores, experimentado en quebranto: y como que escondimos de él el rostro, fué menospreciado, y no lo estimamos."
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "Mat. 27:26-50",
+              "Pasaje": "26. Entonces les soltó á Barrabás: y habiendo azotado á Jesús, le entregó para ser crucificado.\n27. Entonces los soldados del presidente llevaron á Jesús al pretorio, y juntaron á él toda la cuadrilla;\n28. Y desnudándole, le echaron encima un manto de grana;\n29. Y pusieron sobre su cabeza una corona tejida de espinas, y una caña en su mano derecha; é hincando la rodilla delante de él, le burlaban, diciendo: ¡Salve, Rey de los Judíos!\n30. Y escupiendo en él, tomaron la caña, y le herían en la cabeza.\n31. Y después que le hubieron escarnecido, le desnudaron el manto, y le vistieron de sus vestidos, y le llevaron para crucificarle.\n32. Y saliendo, hallaron á un Cireneo, que se llamaba Simón: á éste cargaron para que llevase su cruz.\n33. Y como llegaron al lugar que se llama Gólgotha, que es dicho, El lugar de la calavera,\n34. Le dieron á beber vinagre mezclado con hiel; y gustando, no quiso beber[lo].\n35. Y después que le hubieron crucificado, repartieron sus vestidos, echando suertes: para que se cumpliese lo que fué dicho por el profeta: Se repartieron mis vestidos, y sobre mi ropa echaron suertes.\n36. Y sentados le guardaban allí.\n37. Y pusieron sobre su cabeza su causa escrita: ESTE ES JESUS EL REY DE LOS JUDIOS.\n38. Entonces crucificaron con él dos ladrones, uno á la derecha, y otro á la izquierda.\n39. Y los que pasaban, le decían injurias, meneando sus cabezas,\n40. Y diciendo: Tú, el que derribas el templo, y en tres días lo reedificas, sálvate á ti mismo: si eres Hijo de Dios, desciende de la cruz.\n41. De esta manera también los príncipes de los sacerdotes, escarneciendo con los escribas y los Fariseos y los ancianos, decían:\n42. A otros salvó, á sí mismo no puede salvar: si es el Rey de Israel, descienda ahora de la cruz, y creeremos en él.\n43. Confió en Dios: líbrele ahora si le quiere: porque ha dicho: Soy Hijo de Dios.\n44. Lo mismo también le zaherían los ladrones que estaban crucificados con él.\n45. Y desde la hora de sexta fueron tinieblas sobre toda la tierra hasta la hora de nona.\n46. Y cerca de la hora de nona, Jesús exclamó con grande voz, diciendo: Eli, Eli, ¿lama sabachtani? Esto es: Dios mío, Dios mío, ¿por qué me has desamparado?\n47. Y algunos de los que estaban allí, oyéndolo, decían: A Elías llama éste.\n48. Y luego, corriendo uno de ellos, tomó una esponja, y la hinchió de vinagre, y poniéndola en una caña, dábale de beber.\n49. Y los otros decían: Deja, veamos si viene Elías á librarle.\n50. Mas Jesús, habiendo otra vez exclamado con grande voz, dió el espíritu."
+            },
+            {
+              "cita": "Jn. 19:34",
+              "Pasaje": "34. Empero uno de los soldados le abrió el costado con una lanza, y luego salió sangre y agua."
+            }
+          ]
+        },
+        {
+          "inciso": "e",
+          "citas": [
+            {
+              "cita": "Luc. 22:44",
+              "Pasaje": "44. Y estando en agonía, oraba más intensamente: y fué su sudor como grandes gotas de sangre que caían hasta la tierra."
+            },
+            {
+              "cita": "Mat. 27:46",
+              "Pasaje": "46. Y cerca de la hora de nona, Jesús exclamó con grande voz, diciendo: Eli, Eli, ¿lama sabachtani? Esto es: Dios mío, Dios mío, ¿por qué me has desamparado?"
+            }
+          ]
+        },
+        {
+          "inciso": "f",
+          "citas": [
+            {
+              "cita": "Isa. 53:10",
+              "Pasaje": "10. Con todo eso Jehová quiso quebrantarlo, sujetándole á padecimiento. Cuando hubiere puesto su vida en expiación por el pecado, verá linaje, vivirá por largos días, y la voluntad de Jehová será en su mano prosperada."
+            }
+          ]
+        },
+        {
+          "inciso": "g",
+          "citas": [
+            {
+              "cita": "Fil. 2:8",
+              "Pasaje": "8. Y hallado en la condición como hombre, se humilló á sí mismo, hecho obediente hasta la muerte, y muerte de cruz."
+            },
+            {
+              "cita": "Heb. 12:2",
+              "Pasaje": "2. Puestos los ojos en al autor y consumador de la fe, [en] Jesús; el cual, habiéndole sido propuesto gozo, sufrió la cruz, menospreciando la vergüenza, y sentóse á la diestra del trono de Dios."
+            },
+            {
+              "cita": "Gál. 3:13",
+              "Pasaje": "13. Cristo nos redimió de la maldición de la ley, hecho por nosotros maldición; (porque está escrito: Maldito cualquiera que es colgado en madero:)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 50,
+      "pregunta": "¿En qué consistió la humillación de Cristo después de su muerte?",
+      "respuesta": "La humillación de Cristo después de su muerte consistió en ser sepultado y en permanecer en el estado de los muertos y bajo el poder de la muerte hasta el tercer día; lo cual se ha expresado de otro modo con estas palabras: Descendió a los infiernos.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "1 Cor. 15:3-4",
+              "Pasaje": "3. Porque primeramente os he enseñado lo que asimismo recibí: Que Cristo fué muerto por nuestros pecados, conforme á las Escrituras;\n4. Y que fué sepultado, y que resucitó al tercer día, conforme á las Escrituras;"
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Sal. 16:10",
+              "Pasaje": "10. Porque no dejarás mi alma en el sepulcro; ni permitirás que tu santo vea corrupción."
+            },
+            {
+              "cita": "Hech. 2:24-27,31",
+              "Pasaje": "24. Al cual Dios levantó, sueltos los dolores de la muerte, por cuanto era imposible ser detenido de ella.\n25. Porque David dice de él: Veía al Señor siempre delante de mí: porque está á mi diestra, no seré conmovido.\n26. Por lo cual mi corazón se alegró, y gozóse mi lengua; y aun mi carne descansará en esperanza;\n27. Que no dejarás mi alma en el infierno, ni darás á tu Santo que vea corrupción.\n31. Viéndolo antes, habló de la resurrección de Cristo, que su alma no fué dejada en el infierno, ni su carne vió corrupción."
+            },
+            {
+              "cita": "Rom. 6:9",
+              "Pasaje": "9. Sabiendo que Cristo, habiendo resucitado de entre los muertos, ya no muere: la muerte no se enseñoreará más de él."
+            },
+            {
+              "cita": "Mat. 12:40",
+              "Pasaje": "40. Porque como estuvo Jonás en el vientre de la ballena tres días y tres noches, así estará el Hijo del hombre en el corazón de la tierra tres días y tres noches."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 51,
+      "pregunta": "¿Cuál fue el estado de la exaltación de Cristo?",
+      "respuesta": "El estado de la exaltación de Cristo comprende su resurrección, su ascensión, su estar sentado a la diestra del Padre y su segunda venida para juzgar al mundo.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "1 Cor. 15:4",
+              "Pasaje": "4. Y que fué sepultado, y que resucitó al tercer día, conforme á las Escrituras;"
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Mar. 16:19",
+              "Pasaje": "19. Y el Señor, después que les habló, fué recibido arriba en el cielo, y sentóse á la diestra de Dios."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Ef. 1:20",
+              "Pasaje": "20. La cual obró en Cristo, resucitándole de los muertos, y colocándole á su diestra en los cielos,"
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "Hech. 1:11",
+              "Pasaje": "11. Los cuales también les dijeron: Varones Galileos, ¿qué estáis mirando al cielo? este mismo Jesús que ha sido tomado desde vosotros arriba en el cielo, así vendrá como le habéis visto ir al cielo."
+            },
+            {
+              "cita": "Hech. 17:31",
+              "Pasaje": "31. Por cuanto ha establecido un día, en el cual ha de juzgar al mundo con justicia, por aquel varón al cual determinó; dando fe á todos con haberle levantado de los muertos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 52,
+      "pregunta": "¿Cómo fue exaltado Cristo en su resurrección?",
+      "respuesta": "Cristo fue exaltado en su resurrección en que, no habiendo visto corrupción en la muerte (por la cual no era posible que fuese retenido), y teniendo el mismo cuerpo en que padeció, con sus propiedades esenciales (pero sin la mortalidad y las demás flaquezas comunes propias de esta vida), verdaderamente unido a su alma, resucitó de entre los muertos al tercer día por su propio poder; por lo cual se declaró ser el Hijo de Dios, haber satisfecho la justicia divina, haber vencido a la muerte y al que tenía el imperio de ella, y ser Señor de vivos y muertos. Todo esto lo hizo como persona pública, cabeza de su iglesia, para la justificación de ellos, su vivificación en la gracia, su sostén contra los enemigos, y para asegurarles su resurrección de entre los muertos en el día postrero.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Hech. 2:24,27",
+              "Pasaje": "24. Al cual Dios levantó, sueltos los dolores de la muerte, por cuanto era imposible ser detenido de ella.\n27. Que no dejarás mi alma en el infierno, ni darás á tu Santo que vea corrupción."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Luc. 24:39",
+              "Pasaje": "39. Mirad mis manos y mis pies, que yo mismo soy: palpad, y ved; que el espíritu ni tiene carne ni huesos, como veis que yo tengo."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Rom. 6:9",
+              "Pasaje": "9. Sabiendo que Cristo, habiendo resucitado de entre los muertos, ya no muere: la muerte no se enseñoreará más de él."
+            },
+            {
+              "cita": "Apoc. 1:18",
+              "Pasaje": "18. Y el que vivo, y he sido muerto; y he aquí que vivo por siglos de siglos, Amén. Y tengo las llaves del infierno y de la muerte:"
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "Jn. 10:18",
+              "Pasaje": "18. Nadie me la quita, mas yo la pongo de mí mismo. Tengo poder para ponerla, y tengo poder para volverla á tomar. Este mandamiento recibí de mi Padre."
+            }
+          ]
+        },
+        {
+          "inciso": "e",
+          "citas": [
+            {
+              "cita": "Rom. 1:4",
+              "Pasaje": "4. El cual fué declarado Hijo de Dios con potencia, según el espíritu de santidad, por la resurrección de los muertos), de Jesucristo Señor nuestro,"
+            }
+          ]
+        },
+        {
+          "inciso": "f",
+          "citas": [
+            {
+              "cita": "Rom. 8:34",
+              "Pasaje": "34. ¿Quién es el que condenará? Cristo es el que murió; más aún, el que también resucitó, quien además está á la diestra de Dios, el que también intercede por nosotros."
+            }
+          ]
+        },
+        {
+          "inciso": "g",
+          "citas": [
+            {
+              "cita": "Heb. 2:14",
+              "Pasaje": "14. Así que, por cuanto los hijos participaron de carne y sangre, él también participó de lo mismo, para destruir por la muerte al que tenía el imperio de la muerte, es á saber, al diablo,"
+            }
+          ]
+        },
+        {
+          "inciso": "h",
+          "citas": [
+            {
+              "cita": "Rom. 14:9",
+              "Pasaje": "9. Porque Cristo para esto murió, y resucitó, y volvió á vivir, para ser Señor así de los muertos como de los que viven."
+            }
+          ]
+        },
+        {
+          "inciso": "i",
+          "citas": [
+            {
+              "cita": "1 Cor. 15:21-22",
+              "Pasaje": "21. Porque por cuanto la muerte [entró] por un hombre, también por un hombre la resurrección de los muertos.\n22. Porque así como en Adam todos mueren, así también en Cristo todos serán vivificados."
+            }
+          ]
+        },
+        {
+          "inciso": "k",
+          "citas": [
+            {
+              "cita": "Ef. 1:20-23",
+              "Pasaje": "20. La cual obró en Cristo, resucitándole de los muertos, y colocándole á su diestra en los cielos,\n21. Sobre todo principado, y potestad, y potencia, y señorío, y todo nombre que se nombra, no sólo en este siglo, mas aun en el venidero:\n22. Y sometió todas las cosas debajo de sus pies, y diólo por cabeza sobre todas las cosas á la iglesia,\n23. La cual es su cuerpo, la plenitud de Aquel que hinche todas las cosas en todos."
+            },
+            {
+              "cita": "Col. 1:18",
+              "Pasaje": "18. Y él es la cabeza del cuerpo [que es] la iglesia; [él] que es el principio, el primogénito de los muertos, para que en todo tenga el primado."
+            }
+          ]
+        },
+        {
+          "inciso": "l",
+          "citas": [
+            {
+              "cita": "Rom. 4:25",
+              "Pasaje": "25. El cual fué entregado por nuestros delitos, y resucitado para nuestra justificación."
+            }
+          ]
+        },
+        {
+          "inciso": "m",
+          "citas": [
+            {
+              "cita": "Ef. 2:1,5-6",
+              "Pasaje": "1. Y [DE ella recibisteis] vosotros, que estabais muertos en vuestros delitos y pecados,\n5. Aun estando nosotros muertos en pecados, nos dió vida juntamente con Cristo; por gracia sois salvos;\n6. Y juntamente nos resucitó, y asimismo nos hizo sentar en los cielos con Cristo Jesús,"
+            },
+            {
+              "cita": "Col. 2:12",
+              "Pasaje": "12. Sepultados juntamente con él en el bautismo, en el cual también resucitasteis con él, por la fe de la operación de Dios que le levantó de los muertos."
+            }
+          ]
+        },
+        {
+          "inciso": "n",
+          "citas": [
+            {
+              "cita": "1 Cor. 15:25-27",
+              "Pasaje": "25. Porque es menester que él reine, hasta poner á todos sus enemigos debajo de sus pies.\n26. Y el postrer enemigo que será deshecho, será la muerte.\n27. Porque todas las cosas sujetó debajo de sus pies. Y cuando dice: Todas las cosas son sujetadas á él, claro está exceptuado aquel que sujetó á él todas las cosas."
+            }
+          ]
+        },
+        {
+          "inciso": "o",
+          "citas": [
+            {
+              "cita": "1 Cor. 15:20",
+              "Pasaje": "20. Mas ahora Cristo ha resucitado de los muertos; primicias de los que durmieron es hecho."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 53,
+      "pregunta": "¿Cómo fue exaltado Cristo en su ascensión?",
+      "respuesta": "Cristo fue exaltado en su ascensión en que, habiéndose aparecido muchas veces a sus apóstoles después de su resurrección y conversado con ellos, hablándoles de las cosas pertenecientes al reino de Dios y dándoles el encargo de predicar el evangelio a todas las naciones, cuarenta días después de su resurrección él, en nuestra naturaleza y como nuestra cabeza, triunfando sobre los enemigos, subió visiblemente a los cielos más altos, para recibir allí dones para los hombres, para elevar allá nuestros afectos y para prepararnos un lugar donde él mismo está y estará hasta su segunda venida al fin del mundo.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Hech. 1:2-3",
+              "Pasaje": "2. Hasta el día en que, habiendo dado mandamientos por el Espíritu Santo á los apóstoles que escogió, fué recibido arriba;\n3. A los cuales, después de haber padecido, se presentó vivo con muchas pruebas indubitables, apareciéndoles por cuarenta días, y hablándo[les] del reino de Dios."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Mat. 28:19-20",
+              "Pasaje": "19. Por tanto, id, y doctrinad á todos los Gentiles, bautizándolos en el nombre del Padre, y del Hijo, y del Espíritu Santo:\n20. Enseñándoles que guarden todas las cosas que os he mandado: y he aquí, yo estoy con vosotros todos los días, hasta el fin del mundo. Amén."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Heb. 6:20",
+              "Pasaje": "20. Donde entró por nosotros [como] precursor Jesús, hecho Pontífice eternalmente según el orden de Melchîsedec."
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "Ef. 4:8",
+              "Pasaje": "8. Por lo cual dice: Subiendo á lo alto, llevó cautiva la cautividad, y dió dones á los hombres."
+            }
+          ]
+        },
+        {
+          "inciso": "e",
+          "citas": [
+            {
+              "cita": "Hech. 1:9-11",
+              "Pasaje": "9. Y habiendo dicho estas cosas, viéndo[lo] ellos, fué alzado; y una nube le recibió [y le quitó] de sus ojos.\n10. Y estando con los ojos puestos en el cielo, entre tanto que él iba, he aquí dos varones se pusieron junto á ellos en vestidos blancos;\n11. Los cuales también les dijeron: Varones Galileos, ¿qué estáis mirando al cielo? este mismo Jesús que ha sido tomado desde vosotros arriba en el cielo, así vendrá como le habéis visto ir al cielo."
+            },
+            {
+              "cita": "Ef. 4:10",
+              "Pasaje": "10. El que descendió, él mismo es el que también subió sobre todos los cielos para cumplir todas las cosas.)"
+            },
+            {
+              "cita": "Sal. 68:18",
+              "Pasaje": "18. Subiste á lo alto, cautivaste la cautividad, tomaste dones para los hombres, y también [para] los rebeldes, para que habite [entre ellos] JAH Dios."
+            }
+          ]
+        },
+        {
+          "inciso": "f",
+          "citas": [
+            {
+              "cita": "Col. 3:1-2",
+              "Pasaje": "1. SI habéis pues resucitado con Cristo, buscad las cosas de arriba, donde está Cristo sentado á la diestra de Dios.\n2. Poned la mira en las cosas de arriba, no en las de la tierra."
+            }
+          ]
+        },
+        {
+          "inciso": "g",
+          "citas": [
+            {
+              "cita": "Jn. 14:3",
+              "Pasaje": "3. Y si me fuere, y os aparejare lugar, vendré otra vez, y os tomaré á mí mismo: para que donde yo estoy, vosotros también estéis."
+            }
+          ]
+        },
+        {
+          "inciso": "h",
+          "citas": [
+            {
+              "cita": "Hech. 3:21",
+              "Pasaje": "21. Al cual de cierto es menester que el cielo tenga hasta los tiempos de la restauración de todas las cosas, que habló Dios por boca de sus santos profetas que han sido desde el siglo."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 54,
+      "pregunta": "¿Cómo es exaltado Cristo en su estar sentado a la diestra de Dios?",
+      "respuesta": "Cristo es exaltado en su estar sentado a la diestra de Dios en que, como Dios-hombre, es elevado al más alto favor de Dios Padre, con toda plenitud de gozo, gloria y poder sobre todas las cosas en el cielo y en la tierra; y reúne y defiende a su iglesia y somete a sus enemigos; provee a sus ministros y a su pueblo de dones y gracias, e intercede por ellos.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Fil. 2:9",
+              "Pasaje": "9. Por lo cual Dios también le ensalzó á lo sumo, y dióle un nombre que es sobre todo nombre;"
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Hech. 2:28",
+              "Pasaje": "28. Hicísteme notorios los caminos de la vida; me henchirás de gozo con tu presencia."
+            },
+            {
+              "cita": "Sal. 16:11",
+              "Pasaje": "11. Me mostrarás la senda de la vida: hartura de alegrías hay con tu rostro; deleites en tu diestra para siempre."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Jn. 17:5",
+              "Pasaje": "5. Ahora pues, Padre, glorifícame tú cerca de ti mismo con aquella gloria que tuve cerca de ti antes que el mundo fuese."
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "Ef. 1:22",
+              "Pasaje": "22. Y sometió todas las cosas debajo de sus pies, y diólo por cabeza sobre todas las cosas á la iglesia,"
+            },
+            {
+              "cita": "1 Ped. 3:22",
+              "Pasaje": "22. El cual está á la diestra de Dios, habiendo subido al cielo; estando á él sujetos los ángeles, y las potestades, y virtudes."
+            }
+          ]
+        },
+        {
+          "inciso": "e",
+          "citas": [
+            {
+              "cita": "Ef. 4:10-12",
+              "Pasaje": "10. El que descendió, él mismo es el que también subió sobre todos los cielos para cumplir todas las cosas.)\n11. Y él mismo dió unos, ciertamente apóstoles; y otros, profetas; y otros, evangelistas; y otros, pastores y doctores;\n12. Para perfección de los santos, para la obra del ministerio, para edificación del cuerpo de Cristo;"
+            },
+            {
+              "cita": "Sal. 110:1",
+              "Pasaje": "1. Salmo de David. JEHOVÁ dijo á mi Señor: Siéntate á mi diestra, en tanto que pongo tus enemigos por estrado de tus pies."
+            }
+          ]
+        },
+        {
+          "inciso": "f",
+          "citas": [
+            {
+              "cita": "Rom. 8:34",
+              "Pasaje": "34. ¿Quién es el que condenará? Cristo es el que murió; más aún, el que también resucitó, quien además está á la diestra de Dios, el que también intercede por nosotros."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 55,
+      "pregunta": "¿Cómo intercede Cristo?",
+      "respuesta": "Cristo intercede presentándose continuamente en nuestra naturaleza delante del Padre en el cielo, en el mérito de su obediencia y de su sacrificio en la tierra; declarando su voluntad de que sean aplicados a todos los creyentes; respondiendo a todas las acusaciones contra ellos, y obteniendo para ellos paz de conciencia, no obstante sus faltas diarias, acceso confiado al trono de la gracia, y aceptación de sus personas y de sus servicios.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Heb. 9:12,24",
+              "Pasaje": "12. Y no por sangre de machos cabríos ni de becerros, mas por su propia sangre, entró una sola vez en el santuario, habiendo obtenido eterna redención.\n24. Porque no entró Cristo en el santuario hecho de mano, figura del verdadero, sino en el mismo cielo para presentarse ahora por nosotros en la presencia de Dios."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Heb. 1:3",
+              "Pasaje": "3. El cual siendo el resplandor de su gloria, y la misma imagen de su sustancia, y sustentando todas las cosas con la palabra de su potencia, habiendo hecho la purgación de nuestros pecados por sí mismo, se sentó á la diestra de la Majestad en las alturas,"
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Jn. 3:16",
+              "Pasaje": "16. Porque de tal manera amó Dios al mundo, que ha dado á su Hijo unigénito, para que todo aquel que en él cree, no se pierda, mas tenga vida eterna."
+            },
+            {
+              "cita": "Jn. 17:9,20,24",
+              "Pasaje": "9. Yo ruego por ellos: no ruego por el mundo, sino por los que me diste; porque tuyos son:\n20. Mas no ruego solamente por éstos, sino también por los que han de creer en mí por la palabra de ellos.\n24. Padre, aquellos que me has dado, quiero que donde yo estoy, ellos estén también conmigo; para que vean mi gloria que me has dado: por cuanto me has amado desde antes de la constitución del mundo."
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "Rom. 8:33-34",
+              "Pasaje": "33. ¿Quién acusará á los escogidos de Dios? Dios es el que justifica.\n34. ¿Quién es el que condenará? Cristo es el que murió; más aún, el que también resucitó, quien además está á la diestra de Dios, el que también intercede por nosotros."
+            }
+          ]
+        },
+        {
+          "inciso": "e",
+          "citas": [
+            {
+              "cita": "Rom. 5:1-2",
+              "Pasaje": "1. JUSTIFICADOS pues por la fe, tenemos paz para con Dios por medio de nuestro Señor Jesucristo:\n2. Por el cual también tenemos entrada por la fe á esta gracia en la cual estamos [firmes], y nos gloriamos en la esperanza de la gloria de Dios."
+            },
+            {
+              "cita": "1 Jn. 2:1-2",
+              "Pasaje": "1. HIJITOS míos, estas cosas os escribo, para que no pequéis; y si alguno hubiere pecado, abogado tenemos para con el Padre, á Jesucristo el justo;\n2. Y él es la propiciación por nuestros pecados: y no solamente por los nuestros, sino también por los de todo el mundo."
+            }
+          ]
+        },
+        {
+          "inciso": "f",
+          "citas": [
+            {
+              "cita": "Heb. 4:16",
+              "Pasaje": "16. Lleguémonos pues confiadamente al trono de la gracia, para alcanzar misericordia, y hallar gracia para el oportuno socorro."
+            }
+          ]
+        },
+        {
+          "inciso": "g",
+          "citas": [
+            {
+              "cita": "Ef. 1:6",
+              "Pasaje": "6. Para alabanza de la gloria de su gracia, con la cual nos hizo aceptos en el Amado:"
+            }
+          ]
+        },
+        {
+          "inciso": "h",
+          "citas": [
+            {
+              "cita": "1 Ped. 2:5",
+              "Pasaje": "5. Vosotros también, como piedras vivas, sed edificados una casa espiritual, y un sacerdocio santo, para ofrecer sacrificios espirituales, agradables á Dios por Jesucristo."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 56,
+      "pregunta": "¿Cómo ha de ser exaltado Cristo en su segunda venida para juzgar al mundo?",
+      "respuesta": "Cristo ha de ser exaltado en su segunda venida para juzgar al mundo en que él, que fue juzgado y condenado injustamente por hombres malvados, vendrá otra vez en el día postrero con gran poder y en la plena manifestación de su propia gloria y de la de su Padre, con todos sus santos ángeles, con aclamación, con voz de arcángel y con trompeta de Dios, para juzgar al mundo con justicia.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Hech. 3:14-15",
+              "Pasaje": "14. Mas vosotros al Santo y al Justo negasteis, y pedisteis que se os diese un homicida;\n15. Y matasteis al Autor de la vida, al cual Dios ha resucitado de los muertos; de lo que nosotros somos testigos."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Mat. 24:30",
+              "Pasaje": "30. Y entonces se mostrará la señal del Hijo del hombre en el cielo; y entonces lamentarán todas las tribus de la tierra, y verán al Hijo del hombre que vendrá sobre las nubes del cielo, con grande poder y gloria."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Luc. 9:26",
+              "Pasaje": "26. Porque el que se avergonzare de mí y de mis palabras, de este tal el Hijo del hombre se avergonzará cuando viniere en su gloria, y del Padre, y de los santos ángeles."
+            },
+            {
+              "cita": "Mat. 25:31",
+              "Pasaje": "31. Y cuando el Hijo del hombre venga en su gloria, y todos los santos ángeles con él, entonces se sentará sobre el trono de su gloria."
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "1 Tes. 4:16",
+              "Pasaje": "16. Porque el mismo Señor con aclamación, con voz de arcángel, y con trompeta de Dios, descenderá del cielo; y los muertos en Cristo resucitarán primero:"
+            }
+          ]
+        },
+        {
+          "inciso": "e",
+          "citas": [
+            {
+              "cita": "Hech. 17:31",
+              "Pasaje": "31. Por cuanto ha establecido un día, en el cual ha de juzgar al mundo con justicia, por aquel varón al cual determinó; dando fe á todos con haberle levantado de los muertos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 57,
+      "pregunta": "¿Qué beneficios ha obtenido Cristo por su mediación?",
+      "respuesta": "Cristo, por su mediación, ha obtenido la redención, con todos los demás beneficios del pacto de gracia.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Heb. 9:12",
+              "Pasaje": "12. Y no por sangre de machos cabríos ni de becerros, mas por su propia sangre, entró una sola vez en el santuario, habiendo obtenido eterna redención."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "2 Cor. 1:20",
+              "Pasaje": "20. Porque todas las promesas de Dios son en él Sí, y en él Amén, por nosotros á gloria de Dios."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 58,
+      "pregunta": "¿Cómo llegamos a ser hechos partícipes de los beneficios que Cristo ha obtenido?",
+      "respuesta": "Somos hechos partícipes de los beneficios que Cristo ha obtenido por la aplicación de ellos a nosotros, la cual es obra especialmente de Dios Espíritu Santo.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Jn. 1:11-12",
+              "Pasaje": "11. A lo suyo vino, y los suyos no le recibieron.\n12. Mas á todos los que le recibieron, dióles potestad de ser hechos hijos de Dios, á los que creen en su nombre:"
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Tit. 3:5-6",
+              "Pasaje": "5. No por obras de justicia que nosotros habíamos hecho, mas por su misericordia nos salvó, por el lavacro de la regeneración, y de la renovación del Espíritu Santo;\n6. El cual derramó en nosotros abundantemente por Jesucristo nuestro Salvador,"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 59,
+      "pregunta": "¿Quiénes son hechos partícipes de la redención por medio de Cristo?",
+      "respuesta": "La redención es aplicada con certeza y comunicada eficazmente a todos aquellos para quienes Cristo la ha adquirido; los cuales, a su tiempo, son capacitados por el Espíritu Santo para creer en Cristo conforme al evangelio.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Ef. 1:13-14",
+              "Pasaje": "13. En el cual [esperasteis] también vosotros en oyendo la palabra de verdad, el evangelio de vuestra salud: en el cual también desde que creísteis, fuisteis sellados con el Espíritu Santo de la promesa,\n14. Que es las arras de nuestra herencia, para la redención de la posesión adquirida para alabanza de su gloria."
+            },
+            {
+              "cita": "Jn. 6:37,39",
+              "Pasaje": "37. Todo lo que el Padre me da, vendrá á mí; y al que á mí viene, no [le] hecho fuera.\n39. Y esta es la voluntad del que me envió, del Padre: Que todo lo que me diere, no pierda de ello, sino que lo resucite en el día postrero."
+            },
+            {
+              "cita": "Jn. 10:15-16",
+              "Pasaje": "15. Como el Padre me conoce, y yo conozco al Padre; y pongo mi vida por las ovejas.\n16. También tengo otras ovejas que no son de este redil; aquéllas también me conviene traer, y oirán mi voz; y habrá un rebaño, y un pastor."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Ef. 2:8",
+              "Pasaje": "8. Porque por gracia sois salvos por la fe; y esto no de vosotros, [pues es] don de Dios:"
+            },
+            {
+              "cita": "2 Cor. 4:13",
+              "Pasaje": "13. Empero teniendo el mismo espíritu de fe, conforme á lo que está escrito: Creí, por lo cual también hablé: nosotros también creemos, por lo cual también hablamos;"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 60,
+      "pregunta": "¿Pueden salvarse, viviendo conforme a la luz de la naturaleza, los que nunca han oído el evangelio, y por eso no conocen a Jesucristo ni creen en él?",
+      "respuesta": "Los que, nunca habiendo oído el evangelio, no conocen a Jesucristo ni creen en él, no pueden ser salvos, por muy diligentes que sean en ajustar sus vidas a la luz de la naturaleza o a las leyes de la religión que profesan; ni hay salvación en ningún otro sino solamente en Cristo, quien es el Salvador únicamente de su cuerpo, la iglesia.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Rom. 10:14",
+              "Pasaje": "14. ¿Cómo, pues invocarán á aquel en el cual no han creído? ¿y cómo creerán á aquel de quien no han oído? ¿y cómo oirán sin [haber] quien [les] predique?"
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "2 Tes. 1:8-9",
+              "Pasaje": "8. En llama de fuego, para dar el pago á los que no conocieron á Dios, ni obedecen al evangelio de nuestro Señor Jesucristo;\n9. Los cuales serán castigados de eterna perdición por la presencia del Señor, y por la gloria de su potencia,"
+            },
+            {
+              "cita": "Ef. 2:12",
+              "Pasaje": "12. Que en aquel tiempo estabais sin Cristo, alejados de la república de Israel, y extranjeros á los pactos de la promesa, sin esperanza y sin Dios en el mundo."
+            },
+            {
+              "cita": "Jn. 1:10-12",
+              "Pasaje": "10. En el mundo estaba, y el mundo fué hecho por él; y el mundo no le conoció.\n11. A lo suyo vino, y los suyos no le recibieron.\n12. Mas á todos los que le recibieron, dióles potestad de ser hechos hijos de Dios, á los que creen en su nombre:"
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Jn. 8:24",
+              "Pasaje": "24. Por eso os dije que moriréis en vuestros pecados; porque si no creyereis que yo soy, en vuestros pecados moriréis."
+            },
+            {
+              "cita": "Mar. 16:16",
+              "Pasaje": "16. El que creyere y fuere bautizado, será salvo; mas el que no creyere, será condenado."
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "1 Cor. 1:20-24",
+              "Pasaje": "20. ¿Qué es del sabio? ¿qué del escriba? ¿qué del escudriñador de este siglo? ¿no ha enloquecido Dios la sabiduría del mundo?\n21. Porque por no haber el mundo conocido en la sabiduría de Dios á Dios por sabiduría, agradó á Dios salvar á los creyentes por la locura de la predicación.\n22. Porque los Judíos piden señales, y los Griegos buscan sabiduría:\n23. Mas nosotros predicamos á Cristo crucificado, á los Judíos ciertamente tropezadero, y á los Gentiles locura;\n24. Empero á los llamados, así Judíos como Griegos, Cristo potencia de Dios, y sabiduría de Dios."
+            }
+          ]
+        },
+        {
+          "inciso": "e",
+          "citas": [
+            {
+              "cita": "Jn. 4:22",
+              "Pasaje": "22. Vosotros adoráis lo que no sabéis; nosotros adoramos lo que sabemos: porque la salud viene de los Judíos."
+            },
+            {
+              "cita": "Rom. 9:31-32",
+              "Pasaje": "31. Mas Israel que seguía la ley de justicia, no ha llegado á la ley de justicia.\n32. ¿Por qué? Porque [la seguían] no por fe, mas como por las obras de la ley: por lo cual tropezaron en la piedra de tropiezo,"
+            },
+            {
+              "cita": "Fil. 3:4-9",
+              "Pasaje": "4. Aunque yo tengo también de qué confiar en la carne. Si alguno parece que tiene de qué confiar en la carne, yo más:\n5. Circuncidado al octavo día, del linaje de Israel, de la tribu de Benjamín, Hebreo de Hebreos; cuanto á la ley, Fariseo;\n6. Cuanto al celo, perseguidor de la iglesia; cuanto á la justicia que es en la ley, irreprensible.\n7. Pero las cosas que para mí eran ganancias, helas reputado pérdidas por amor de Cristo.\n8. Y ciertamente, aun reputo todas las cosas pérdida por el eminente conocimiento de Cristo Jesús, mi Señor, por amor del cual lo he perdido todo, y téngolo por estiércol, para ganar á Cristo,\n9. Y ser hallado en él, no teniendo mi justicia, que es por la ley, sino la que es por la fe de Cristo, la justicia que es de Dios por la fe;"
+            }
+          ]
+        },
+        {
+          "inciso": "f",
+          "citas": [
+            {
+              "cita": "Hech. 4:12",
+              "Pasaje": "12. Y en ningún otro hay salud; porque no hay otro nombre debajo del cielo, dado á los hombres, en que podamos ser salvos."
+            }
+          ]
+        },
+        {
+          "inciso": "g",
+          "citas": [
+            {
+              "cita": "Ef. 5:23",
+              "Pasaje": "23. Porque el marido es cabeza de la mujer, así como Cristo es cabeza de la iglesia; y él es el que da la salud al cuerpo."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 61,
+      "pregunta": "¿Se salvan todos los que oyen el evangelio y viven en la iglesia?",
+      "respuesta": "No todos los que oyen el evangelio y viven en la iglesia visible se salvan, sino solamente los que son verdaderos miembros de la iglesia invisible.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Jn. 12:38-40",
+              "Pasaje": "38. Para que se cumpliese el dicho que dijo el profeta Isaías: ¿Señor, quién ha creído á nuestro dicho? ¿y el brazo del Señor, á quién es revelado?\n39. Por esto no podían creer, porque otra vez dijo Isaías:\n40. Cegó los ojos de ellos, y endureció su corazón; porque no vean con los ojos, y entiendan de corazón, y se conviertan, y yo los sane."
+            },
+            {
+              "cita": "Rom. 9:6",
+              "Pasaje": "6. No empero que la palabra de Dios haya faltado: porque no todos los que son de Israel son Israelitas;"
+            },
+            {
+              "cita": "Mat. 22:14",
+              "Pasaje": "14. Porque muchos son llamados, y pocos escogidos."
+            },
+            {
+              "cita": "Mat. 7:21",
+              "Pasaje": "21. No todo el que me dice: Señor, Señor, entrará en el reino de los cielos: mas el que hiciere la voluntad de mi Padre que está en los cielos."
+            },
+            {
+              "cita": "Rom. 11:7",
+              "Pasaje": "7. ¿Qué pues? Lo que buscaba Israel aquello no ha alcanzado; mas la elección lo ha alcanzado: y los demás fueron endurecidos;"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 62,
+      "pregunta": "¿Qué es la iglesia visible?",
+      "respuesta": "La iglesia visible es una sociedad formada por todos aquellos que, en todas las épocas y lugares del mundo, profesan la religión verdadera, y por sus hijos.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "1 Cor. 1:2",
+              "Pasaje": "2. A la iglesia de Dios que está en Corinto, santificados en Cristo Jesús, llamados santos, y á todos los que invocan el nombre de nuestro Señor Jesucristo en cualquier lugar, [Señor] de ellos y nuestro:"
+            },
+            {
+              "cita": "1 Cor. 12:13",
+              "Pasaje": "13. Porque por un Espíritu somos todos bautizados en un cuerpo, ora Judíos ó Griegos, ora siervos ó libres; y todos hemos bebido de un mismo Espíritu."
+            },
+            {
+              "cita": "Rom. 15:9-12",
+              "Pasaje": "9. Y para que los Gentiles glorifiquen á Dios por la misericordia; como está escrito: Por tanto yo te confesaré entre los Gentiles, y cantaré á tu nombre.\n10. Y otra vez dice: Alegraos, Gentiles, con su pueblo.\n11. Y otra vez: Alabad al Señor todos los Gentiles, y magnificadle, todos los pueblos.\n12. Y otra vez, dice Isaías: Estará la raíz de Jessé, y el que se levantará á regir los Gentiles: los Gentiles esperarán en él."
+            },
+            {
+              "cita": "Apoc. 7:9",
+              "Pasaje": "9. Después de estas cosas miré, y he aquí una gran compañía, la cual ninguno podía contar, de todas gentes y linajes y pueblos y lenguas, que estaban delante del trono y en la presencia del Cordero, vestidos de ropas blancas, y palmas en sus manos;"
+            },
+            {
+              "cita": "Sal. 2:8",
+              "Pasaje": "8. Pídeme, y te daré por heredad las gentes, y por posesión tuya los términos de la tierra."
+            },
+            {
+              "cita": "Sal. 22:27-31",
+              "Pasaje": "27. Acordarse han, y volveránse á Jehová todos los términos de la tierra; y se humillarán delante de ti todas las familias de las gentes.\n28. Porque de Jehová es el reino; y él se enseñoreará de las gentes.\n29. Comerán y adorarán todos los poderosos de la tierra: postraránse delante de él todos los que descienden al polvo, si bien ninguno puede conservar la vida á su propia alma.\n30. La posteridad le servirá; será ella contada por una generación de Jehová.\n31. Vendrán, y anunciarán al pueblo que naciere, su justicia que él hizo."
+            },
+            {
+              "cita": "Sal. 45:17",
+              "Pasaje": "17. Haré [perpetua] la memoria de tu nombre en todas las generaciones: por lo cual te alabarán los pueblos eternamente y para siempre."
+            },
+            {
+              "cita": "Mat. 28:19-20",
+              "Pasaje": "19. Por tanto, id, y doctrinad á todos los Gentiles, bautizándolos en el nombre del Padre, y del Hijo, y del Espíritu Santo:\n20. Enseñándoles que guarden todas las cosas que os he mandado: y he aquí, yo estoy con vosotros todos los días, hasta el fin del mundo. Amén."
+            },
+            {
+              "cita": "Isa. 59:21",
+              "Pasaje": "21. Y este será mi pacto con ellos, dijo Jehová: El espíritu mío que está sobre ti, y mis palabras que puse en tu boca, no faltarán de tu boca, ni de la boca de tu simiente, ni de la boca de la simiente de tu simiente, dijo Jehová, desde ahora y para siempre."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "1 Cor. 7:14",
+              "Pasaje": "14. Porque el marido infiel es santificado en la mujer, y la mujer infiel en el marido: pues de otra manera vuestros hijos serían inmundos; empero ahora son santos."
+            },
+            {
+              "cita": "Hech. 2:39",
+              "Pasaje": "39. Porque para vosotros es la promesa, y para vuestros hijos, y para todos los que están lejos; [para] cuantos el Señor nuestro Dios llamare."
+            },
+            {
+              "cita": "Rom. 11:16",
+              "Pasaje": "16. Y si el primer fruto es santo, también lo es el todo, y si la raíz es santa, también lo son las ramas."
+            },
+            {
+              "cita": "Gén. 17:7",
+              "Pasaje": "7. Y estableceré mi pacto entre mí y ti, y tu simiente después de ti en sus generaciones, por alianza perpetua, para serte á ti por Dios, y á tu simiente después de ti."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 63,
+      "pregunta": "¿Cuáles son los privilegios especiales de la iglesia visible?",
+      "respuesta": "La iglesia visible tiene el privilegio de estar bajo el cuidado y gobierno especial de Dios; de ser protegida y preservada en todas las épocas, a pesar de la oposición de todos sus enemigos; y de gozar de la comunión de los santos, de los medios ordinarios de salvación y de los ofrecimientos de la gracia por Cristo a todos sus miembros en el ministerio del evangelio, el cual testifica que todo aquel que cree en él será salvo, y no excluye a ninguno que quiera venir a él.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Isa. 4:5-6",
+              "Pasaje": "5. Y criará Jehová sobre toda la morada del monte de Sión, y sobre los lugares de sus convocaciones, nube y oscuridad de día, y de noche resplandor de fuego que eche llamas: porque sobre toda gloria [habrá] cobertura.\n6. Y habrá sombrajo para sombra contra el calor del día, para acogida y escondedero contra el turbión y contra el aguacero.",
+              "observacionPasaje": "La fuente indica «Isaiah 9:5-6»; las ediciones estándar citan Isaías 4:5-6, que trata del cuidado y la protección de Dios sobre Sion."
+            },
+            {
+              "cita": "1 Tim. 4:10",
+              "Pasaje": "10. Que por esto aun trabajamos y sufrimos oprobios, porque esperamos en el Dios viviente, el cual es Salvador de todos los hombres, mayormente de los que creen."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Sal. 115:1-2,9",
+              "Pasaje": "1. NO á nosotros, oh Jehová, no á nosotros, sino á tu nombre da gloria; por tu misericordia, por tu verdad.\n2. Por qué dirán las gentes: ¿Dónde está ahora su Dios?\n9. Oh Israel, confía en Jehová: él es su ayuda y su escudo."
+            },
+            {
+              "cita": "Isa. 31:4-5",
+              "Pasaje": "4. Porque Jehová me dijo á mí de esta manera: Como el león y el cachorro del león brama sobre su presa, y si se llega contra él cuadrilla de pastores, no temerá por sus voces, ni se acobardará por el tropel de ellos: así Jehová de los ejércitos descenderá á pelear por el monte de Sión, y por su collado.\n5. Como las aves que vuelan, así amparará Jehová de los ejércitos á Jerusalem, amparando, librando, pasando, y salvando."
+            },
+            {
+              "cita": "Zac. 12:2-4,8-9",
+              "Pasaje": "2. He aquí, yo pongo á Jerusalem por vaso de temblor á todos los pueblos de alrededor cuando estén en el sitio contra Judá y contra Jerusalem.\n3. Y será en aquel día, que yo pondré á Jerusalem por piedra pesada á todos los pueblos: todos los que se la cargaren, serán despedazados, bien que todas las gentes de la tierra se juntarán contra ella.\n4. En aquel día, dice Jehová, heriré con aturdimiento á todo caballo, y con locura al que en él sube; mas sobre la casa de Judá abriré mis ojos, y á todo caballo de los pueblos heriré con ceguera.\n8. En aquel día Jehová defenderá al morador de Jerusalem: y el que entre ellos fuere flaco, en aquel tiempo será como David; y la casa de David como ángeles, como el ángel de Jehová delante de ellos.\n9. Y será que en aquel día yo procuraré quebrantar todas las gentes que vinieren contra Jerusalem."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Hech. 2:39,42",
+              "Pasaje": "39. Porque para vosotros es la promesa, y para vuestros hijos, y para todos los que están lejos; [para] cuantos el Señor nuestro Dios llamare.\n42. Y perseveraban en la doctrina de los apóstoles, y en la comunión, y en el partimiento del pan, y en las oraciones."
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "Sal. 147:19-20",
+              "Pasaje": "19. El denuncia sus palabras á Jacob, sus estatutos y sus juicios á Israel.\n20. No ha hecho esto con toda gente; y no conocieron sus juicios. Aleluya."
+            },
+            {
+              "cita": "Rom. 9:4",
+              "Pasaje": "4. Que son israelitas, de los cuales es la adopción, y la gloria, y el pacto, y la data de la ley, y el culto, y las promesas;"
+            },
+            {
+              "cita": "Ef. 4:11-12",
+              "Pasaje": "11. Y él mismo dió unos, ciertamente apóstoles; y otros, profetas; y otros, evangelistas; y otros, pastores y doctores;\n12. Para perfección de los santos, para la obra del ministerio, para edificación del cuerpo de Cristo;"
+            },
+            {
+              "cita": "Mar. 16:15-16",
+              "Pasaje": "15. Y les dijo: Id por todo el mundo; predicad el evangelio á toda criatura.\n16. El que creyere y fuere bautizado, será salvo; mas el que no creyere, será condenado."
+            }
+          ]
+        },
+        {
+          "inciso": "e",
+          "citas": [
+            {
+              "cita": "Jn. 6:37",
+              "Pasaje": "37. Todo lo que el Padre me da, vendrá á mí; y al que á mí viene, no [le] hecho fuera."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 64,
+      "pregunta": "¿Qué es la iglesia invisible?",
+      "respuesta": "La iglesia invisible es el número completo de los elegidos que han sido, son o serán reunidos en uno bajo Cristo, la cabeza.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Ef. 1:10",
+              "Pasaje": "10. De reunir todas las cosas en Cristo, en la dispensación del cumplimiento de los tiempos, así las que [están] en los cielos, como las que [están] en la tierra:"
+            },
+            {
+              "cita": "Ef. 1:22-23",
+              "Pasaje": "22. Y sometió todas las cosas debajo de sus pies, y diólo por cabeza sobre todas las cosas á la iglesia,\n23. La cual es su cuerpo, la plenitud de Aquel que hinche todas las cosas en todos."
+            },
+            {
+              "cita": "Jn. 10:16",
+              "Pasaje": "16. También tengo otras ovejas que no son de este redil; aquéllas también me conviene traer, y oirán mi voz; y habrá un rebaño, y un pastor."
+            },
+            {
+              "cita": "Jn. 11:52",
+              "Pasaje": "52. Y no solamente por aquella nación, mas también para que juntase en uno los hijos de Dios que estaban derramados."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 65,
+      "pregunta": "¿Qué beneficios especiales gozan por Cristo los miembros de la iglesia invisible?",
+      "respuesta": "Los miembros de la iglesia invisible gozan por Cristo de unión y comunión con él en gracia y gloria.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Jn. 17:21",
+              "Pasaje": "21. Para que todos sean una cosa; como tú, oh Padre, en mí, y yo en ti, que también ellos sean en nosotros una cosa: para que el mundo crea que tú me enviaste."
+            },
+            {
+              "cita": "Ef. 2:5-6",
+              "Pasaje": "5. Aun estando nosotros muertos en pecados, nos dió vida juntamente con Cristo; por gracia sois salvos;\n6. Y juntamente nos resucitó, y asimismo nos hizo sentar en los cielos con Cristo Jesús,"
+            },
+            {
+              "cita": "Jn. 17:24",
+              "Pasaje": "24. Padre, aquellos que me has dado, quiero que donde yo estoy, ellos estén también conmigo; para que vean mi gloria que me has dado: por cuanto me has amado desde antes de la constitución del mundo."
             }
           ]
         }
