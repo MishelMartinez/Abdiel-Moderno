@@ -10,7 +10,7 @@ Generado por `npm run heidelberg` (scripts/heidelberg.mjs).
 | Texto alemán de 1563 disponible para cada pregunta incluida | Sí |
 | Incisos | 373 |
 | Referencias bíblicas | 1021 |
-| Versículos con texto (RV1909) | 2345 |
+| Versículos con texto (RV1909) | 2344 |
 | Pasajes vacíos o no encontrados | 0 |
 | Versión bíblica | Reina-Valera 1909 (eBible.org, spaRV1909) |
 
@@ -1267,7 +1267,7 @@ Faltan las fotos del libro «La fe que confesamos» para las preguntas 23–129 
 | 107 | g | Mat. 5:44,45 | 1563, DE, RE |
 | 107 | g | Rom. 12:20,21 | 1563, DE, RE |
 | 108 | a | Lev. 18:27-30 | 1563, DE, RE |
-| 108 | b | Jud. 1:1,22,23 | 1563, DE, RE |
+| 108 | b | Jud. 1:22,23 | 1563, DE, RE |
 | 108 | c | 1 Tes. 4:3-8 | 1563, DE, RE |
 | 108 | d | Heb. 13:4 | 1563, DE, RE |
 | 108 | d | 1 Cor. 7:1-9 | 1563, DE, RE |
