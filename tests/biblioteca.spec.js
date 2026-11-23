@@ -280,3 +280,12 @@ test('un catecismo o confesión nuevo en catalogo.json aparece y se recuerda', a
   await page.locator('#selectorCatecismo').selectOption('catecismo-menor');
   await expect(page.locator('#totalPreguntas')).toHaveText(`${N} preguntas`);
 });
+
+test('al cambiar de documento después de abrir un enlace compartido, recargar conserva el documento elegido', async ({ page }) => {
+  await page.goto('/?documento=catecismo-menor#pregunta-5');
+  await page.locator('#selectorCatecismo').selectOption('catecismo-mayor');
+  await expect(page.locator('#tituloEstudio')).toHaveText('Catecismo Mayor de Westminster');
+  expect(new URL(page.url()).search + new URL(page.url()).hash).toBe('');
+  await page.reload();
+  await expect(page.locator('#tituloEstudio')).toHaveText('Catecismo Mayor de Westminster');
+});

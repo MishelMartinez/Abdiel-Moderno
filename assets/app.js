@@ -373,7 +373,7 @@ function renderCatalogo() {
     const ic = el('span', 'libro-icono');
     ic.append(icono(ICONO_LIBRO));
     b.append(ic, texto);
-    b.addEventListener('click', () => elegir(c.id));
+    b.addEventListener('click', () => elegirDesdeLista(c.id));
     return b;
   }));
   $('selectorCatecismo').closest('.selector').hidden = activos.length <= 1;
@@ -398,6 +398,14 @@ async function elegir(id) {
   if (!extraerPreguntas(datos)) return fallo('El JSON debe contener un arreglo de preguntas o un objeto con la propiedad preguntas.');
   mostrarDocumento(c, datos, pendientes);
   guardarAjuste('documento', id);
+}
+
+// Al elegir otro documento, un enlace compartido (?documento=…#pregunta-N) ya no corresponde a lo que se ve.
+function elegirDesdeLista(id) {
+  if (new URLSearchParams(location.search).has('documento') || /^#pregunta-\d+$/.test(location.hash)) {
+    history.replaceState(null, '', location.pathname);
+  }
+  return elegir(id);
 }
 
 function mostrarDocumento(c, datos, pendientes, { conservarPagina = false } = {}) {
@@ -557,7 +565,7 @@ function cambiarTamano(paso) {
 $('buscar').addEventListener('input', () => { estado.pagina = 1; render(); });
 $('limpiar').addEventListener('click', () => { $('buscar').value = ''; estado.pagina = 1; render(); $('buscar').focus(); });
 $('abrirIndice').addEventListener('click', () => alternarIndice());
-$('selectorCatecismo').addEventListener('change', (e) => elegir(e.target.value));
+$('selectorCatecismo').addEventListener('change', (e) => elegirDesdeLista(e.target.value));
 $('abrirAjustes').addEventListener('click', (e) => abrirVentana($('ajustes'), e.currentTarget));
 $('letraMenos').addEventListener('click', () => cambiarTamano(-1));
 $('letraMas').addEventListener('click', () => cambiarTamano(1));
