@@ -140,7 +140,7 @@ details[open] > summary .flecha svg { transform: rotate(180deg); }
 .notas-datos dd { margin: 0; }
 @media (max-width: 480px) { .notas-datos { grid-template-columns: 1fr; } .notas-datos dd { margin-bottom: 8px; } }
 
-.herramientas { display: flex; flex-wrap: wrap; gap: 12px; padding: 14px; position: sticky; top: 86px; z-index: 10; }
+.herramientas { display: flex; flex-wrap: wrap; gap: 12px; padding: 14px; position: sticky; top: calc(var(--alto-barra, 77px) + 10px); z-index: 10; }
 .buscador { flex: 1 1 320px; min-width: 0; display: flex; align-items: center; gap: 10px; min-height: 56px; padding: 0 16px; border-radius: 14px; border: 2px solid var(--borde); background: var(--superficie-2); }
 .buscador:focus-within { border-color: var(--primario); }
 .buscador svg { width: 1.3em; height: 1.3em; flex: none; fill: none; stroke: var(--suave); stroke-width: 2.2; stroke-linecap: round; }
@@ -154,11 +154,11 @@ details[open] > summary .flecha svg { transform: rotate(180deg); }
 .indice-numero { min-height: 56px; border-radius: 14px; border: 2px solid var(--borde); background: var(--superficie-2); color: var(--primario); font-weight: 800; font-size: 1em; }
 .indice-numero:hover { border-color: var(--primario); background: var(--nota-fondo); }
 
-.resultado { margin: 0; font-size: .85em; color: var(--suave); font-weight: 600; scroll-margin-top: 100px; }
+.resultado { margin: 0; font-size: .85em; color: var(--suave); font-weight: 600; scroll-margin-top: calc(var(--alto-fijo, 100px) + 16px); }
 .lista { display: grid; gap: 22px; }
 
 /* Tarjeta de pregunta */
-.tarjeta { background: var(--superficie); border: 1px solid var(--borde); border-radius: var(--radio); box-shadow: var(--sombra); overflow: hidden; scroll-margin-top: 100px; padding: clamp(18px, 3.5vw, 30px) clamp(18px, 3.5vw, 30px) 0; }
+.tarjeta { background: var(--superficie); border: 1px solid var(--borde); border-radius: var(--radio); box-shadow: var(--sombra); overflow: hidden; scroll-margin-top: calc(var(--alto-fijo, 100px) + 16px); padding: clamp(18px, 3.5vw, 30px) clamp(18px, 3.5vw, 30px) 0; }
 .tarjeta:focus { outline: none; }
 .tarjeta.resaltada { animation: resaltar 2.4s ease-out; }
 @keyframes resaltar { 0%, 40% { box-shadow: 0 0 0 5px var(--enfoque); } 100% { box-shadow: var(--sombra); } }

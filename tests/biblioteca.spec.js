@@ -167,3 +167,18 @@ test('funciona abriendo index.html con doble clic (sin servidor)', async ({ page
   await page.locator('#buscar').fill('33');
   await expect(page.locator('#pregunta-33')).toBeVisible();
 });
+
+test('al abrir un enlace #pregunta-N la tarjeta queda visible bajo las barras fijas', async ({ page }) => {
+  await page.goto('/#pregunta-23');
+  await page.reload();
+  const t = page.locator('#pregunta-23');
+  await expect(t).toBeInViewport();
+  await page.waitForTimeout(300);
+  const { tope, fijo } = await page.evaluate(() => {
+    const herr = document.querySelector('.herramientas');
+    const barra = document.querySelector('.barra').getBoundingClientRect().bottom;
+    const fijo = getComputedStyle(herr).position === 'sticky' ? Math.max(barra, herr.getBoundingClientRect().bottom) : barra;
+    return { tope: document.getElementById('pregunta-23').getBoundingClientRect().top, fijo };
+  });
+  expect(tope).toBeGreaterThanOrEqual(fijo);
+});

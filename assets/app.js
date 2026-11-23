@@ -507,7 +507,21 @@ function abrirDesdeEnlace() {
 window.addEventListener('hashchange', abrirDesdeEnlace);
 
 /* ---------- Inicio ---------- */
+function medirFijos() {
+  const barra = document.querySelector('.barra').offsetHeight;
+  const herr = document.querySelector('.herramientas');
+  const fija = getComputedStyle(herr).position === 'sticky' ? herr.offsetHeight + 10 : 0;
+  document.documentElement.style.setProperty('--alto-barra', `${barra}px`);
+  document.documentElement.style.setProperty('--alto-fijo', `${barra + fija}px`);
+}
+if ('ResizeObserver' in window) {
+  const observador = new ResizeObserver(medirFijos);
+  observador.observe(document.querySelector('.barra'));
+  observador.observe(document.querySelector('.herramientas'));
+}
+window.addEventListener('resize', medirFijos);
 aplicarAjustes();
+medirFijos();
 renderCatalogo();
 renderNotas();
 renderIndice();
