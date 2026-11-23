@@ -458,7 +458,7 @@ function mostrarPasaje(cita, disparador) {
   $('estadoPasajeTexto').textContent = cita?.estadoPasaje || '';
   $('notaPasaje').hidden = !cita?.observacionPasaje;
   $('notaPasajeTexto').textContent = cita?.observacionPasaje ? `Nota: ${cita.observacionPasaje}` : '';
-  $('versionPasaje').textContent = `Versión: ${estado.documento?.versionBiblica || 'Reina-Valera 1960'} · Texto proporcionado en el JSON`;
+  $('versionPasaje').textContent = `Versión: ${estado.documento?.versionBiblica || 'Reina-Valera 1960'}${pasaje ? ' · Texto proporcionado en el JSON' : ''}`;
   const comp = cita?.pasajeComparativo;
   $('comparativo').hidden = !comp;
   $('tituloComparativo').textContent = cita?.referenciaComparativa || '';
