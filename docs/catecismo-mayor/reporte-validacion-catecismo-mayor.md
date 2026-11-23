@@ -4,12 +4,12 @@ Generado por `npm run mayor` (scripts/catecismo-mayor.mjs).
 
 | Concepto | Resultado |
 | --- | --- |
-| Preguntas incluidas | 112 de 196 (1–112) |
+| Preguntas incluidas | 135 de 196 (1–135) |
 | Numeración consecutiva y sin duplicados | Sí |
 | Preguntas o respuestas vacías | 0 |
-| Incisos | 574 |
-| Referencias bíblicas | 1016 |
-| Versículos con texto (RV1909) | 1748 |
+| Incisos | 740 |
+| Referencias bíblicas | 1335 |
+| Versículos con texto (RV1909) | 2333 |
 | Pasajes vacíos o no encontrados | 0 |
 | Versión bíblica | Reina-Valera 1909 (eBible.org, spaRV1909) |
 
@@ -27,6 +27,9 @@ Generado por `npm run mayor` (scripts/catecismo-mayor.mjs).
 - Pregunta 105, Col. 3:2,5: La fuente indica «Colossians 2:2, 5»; las ediciones estándar citan Colosenses 3:2, 5, sobre poner la mira en las cosas de la tierra.
 - Pregunta 105, Apoc. 3:1: La fuente indica «Revelation 2:1»; las ediciones estándar citan Apocalipsis 3:1 («tienes nombre que vives, y estás muerto»).
 - Pregunta 112, Mat. 6:9: La fuente indica «Matthew 11:9»; las ediciones estándar citan Mateo 6:9 («santificado sea tu nombre»).
+- Pregunta 121, Sal. 92:1,13-14: La fuente cita el título del Salmo 92 («Salmo o cántico para el día del sábado») comparado con los versículos 13-14; en la Reina-Valera 1909 el título forma parte del versículo 1.
+- Pregunta 128, Éx. 21:15: La fuente indica «Exodus 24:15»; las ediciones estándar citan Éxodo 21:15 («el que hiriere á su padre ó á su madre»).
+- Pregunta 135, Ef. 4:2,32: La fuente indica «Ephesians 5:2, 32»; las ediciones estándar citan Efesios 4:2, 32, sobre soportarse con paciencia y perdonarse unos a otros.
 - La fuente en línea (reformededucation.org) advierte que su transcripción aún no se ha cotejado con una edición estándar.
 - La fuente presenta las pruebas bíblicas sin letras de inciso; las letras se asignaron según la edición estándar y deben revisarse.
 - La traducción al español es propia y requiere revisión y aprobación.
