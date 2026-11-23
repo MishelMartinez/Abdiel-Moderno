@@ -1,0 +1,85 @@
+Citas bíblicas del libro «La fe que confesamos» (ejemplar de Mishel; transcritas de fotos de las págs. 41–56).
+Formato: P<n> | letra «palabras donde va la letra en el libro»: citas tal como aparecen | …
+Las citas se transcriben tal cual, con sus posibles erratas; las correcciones se hacen en citas-*.json con nota.
+[ilegible] = no se ve en la foto.
+
+P1 | a «tanto en la vida como en la muerte»: Rom. 14:8 | b «no me pertenezco a mí mismo»: 1 Cor. 6:19 | c «Jesucristo»: 1 Cor. 3:23; Tit. 2:14 | d «dominio del diablo»: Heb. 2:14; 1 Jn. 3:8; Jn. 8:34-36 | e «deuda de todos mis pecados»: 1 Ped. 1:18-19; 1 Jn. 2:2,12 | f «me preserva tanto»: Jn. 6:39; Jn. 10:28; 2 Tes. 3:3; 1 Ped. 1:5 | g «puede caer»: Mat. 10:30; Luc. 21:18 | h «mi salvación»: Rom. 8:28 | i «la vida eterna»: 2 Cor. 1:22; 2 Cor. 5:5; Ef. 1:14; Rom. 8:16 | j «santa voluntad»: Rom. 8:14; 1 Jn. 3:3
+P2 | a «Tres»: Mat. 11:28-30; Ef. 5:8 | b «pecados y miserias»: Jn. 9:41; Mat. 9:12; Rom. 3:10; Jn. 1:9-10 | c «liberado de mis pecados y miserias»: Jn. 17:3; Hch. 10:43; Hch. 4:12 | d «tales beneficios»: Ef. 5:10; Sal. 50:14; Mat. 5:16; 1 Ped. 2:12; Rom. 6:13; 2 Ti. 2:15
+P3 | a «Ley de Dios»: Rom. 3:20
+P4 | a «Profetas»: Deu. 6:5; Lev. 19:18; Mar. 12:30; Luc. 10:27
+P5 | a «De ninguna manera»: Rom. 3:10, 20, 23; 1 Jn. 1:8,10 | b «mi prójimo»: Rom. 8:7; Ef. 2:3; Tit. 3:3; Gén. 6:5; Gén. 8:21; Jer. 17:9; Rom. 7:23
+P6 | a «bueno»: Gén. 1:31 | b «imagen»: Gén. 1:26, 27 | c «alabarle»: Ef. 4:24; Col. 3:10; 2 Cor. 3:18
+P7 | a «paraíso»: Gén. 3; Rom. 5:12,18,19 | b «pecado»: Sal. 51:5; Gén. 5:3
+P8 | a «Ciertamente»: Gén. 8:21; Gén. 6:5; Job. 14:4; Job. 15:14; Job. 16:35; Jn. 3:6; Isa. 53:6 | b «Espíritu de Dios»: Jn. 3:3, 5; 1 Cor. 12:3; 2 Cor. 3:5
+P9 | a «No, en lo absoluto»: Ef. 4:24 | b «capaz de poderla cumplir»: Gén. 3:13; 1 Ti. 2:13, 14 | c «instigación del diablo»: Gén. 3:6; Rom. 5:12
+P10 | a «se engrandece terriblemente»: Gén. 2:17; Rom. 5:12 | b «temporal o eternamente»: Sal. 50:21; Sal. 5:5; Nah. 1:2; Ex. 34:7; Rom. 1:18; Ef. 5:6 | c «para hacerlas»: Deu. 27:26; Gál. 3:10
+P11 | a «misericordioso»: Ex. 34:6-7; Ex. 20:6 | b «justo»: Sal. 7:9; Ex. 20:5; 23:7; 34:7; Sal. 5:4-5; Nah. 1:2-3
+P12 | a «satisfacción a su justicia»: Gén. 2:17; Ex. 23:7; Eze. 18:4; Mat. 5:26; 2 Tes. 1:1-6; Luc. 16:2 | b «por alguno otro»: Rom. 8:4
+P13 | a «nuestra deuda»: Job 9:2; Job 15:15,16; Job 4:18-19; Sal. 130:3; Mat. 6:12; Mat. 18:25; Mat. 16:26
+P14 | a «el pecado que el hombre ha cometido»: Eze. 18:4; Gén. 3:17 | b «liberar a otros de ella»: Nah. 1:6; Sal. 130:3
+P15 | a «verdadero hombre»: 1 Cor. 15:21 | b «perfectamente justo»: Heb. 7:26 | c «verdadero Dios»: Isa. 7:14; 9:5; Jer. 23:6; Luc. 11:22
+P16 | a «satisfacción por el pecado»: Eze. 18:4,20; Rom. 5:18; 1 Cor. 15:21; Heb. 2:14,15,16 | b «no puede pagar por otros»: Heb. 7:26,27; Sal. 49:7; Rom. 3:18
+P17 | a «poder de su divinidad»: Isa. 9:5; Isa. 63:3 | b «en su humanidad»: Isa. 53:4,11 | c «la ira de Dios»: Deu. 4:24; Nah. 1:6; Sal. 130:3 | d «la justicia y la vida»: Isa. 53:5,11
+P18 | a «verdadero Dios» (en la pregunta): 1 Jn. 5:20; Rom. 9:5; Rom. 8:3; Gál. 4:4; Isa. 9:6; Jer. 23:6; Ml. 3:1 | b «verdadero hombre»: Luc. 1:42; Luc. 2:6,7; Rom. 1:3; Rom. 9:5; Fil. 2:7; Heb. 2:14, 16, 17; Heb. 4:15 | c «perfectamente justo»: Isa. 53:9,11; Jer. 23:5; Luc. 1:35; Jn. 8:46; Heb. 4:15; Heb. 7:26; 1 Ped. 1:19; 1 Ped. 2:22; 3:18 | d «Nuestro Señor Jesucristo»: 1 Tim. 3:16; Luc. 2:11; Heb. 2:9 | e «redención»: 1 Cor. 1:30
+P19 | a «paraíso»: Gén. 3:15 | b «patriarcas»: Gén. 22:18; Gén. 12:3; Gén. 49:10 | c «profetas»: Isa. 53; 42:1-4; 43:25; 49:5, 6, 22, 23; Jer. 23:5,6; 31:32,33; Jer. 32:39-41; Mq. 7:18-20; Hch 10:43; Hch 3:22-24; Rom. 1:2; Heb. 1:1 | d «ceremonias de la Ley»: Heb. 10:1,8; Col. 2:7; Jn. 5:46 | e «Hijo Unigénito»: Rom. 10:4; Gál. 4:4; Gál. 3:24; Col. 2:17   [lectura difícil en la foto]
+P20 | a «No todos»: Mat. 7:14; Mat. 22:14 | b «aceptan sus beneficios»: Mc. 16:16; Jn. 1:12; 3:16,18,36; Isa. 53:11; Sal. 2:11; Rom. 11:20; Rom. 3:22; Heb. 4:3; 5:9; 10:39; 11:6
+P21 | a «en su Palabra»: Stg. 2:19 | b «verdadera confianza»: Heb. 11:1,7; Rom. 4:18,21; Rom. 10:10; Ef. 3:12; Heb. 4:16; Stg. 1:6 | c «Espíritu Santo»: Gál. 5:22; Mat. 16:17; 2 Cor. 4:13; Jn. 6:29; Ef. 2:8; Fil. 1:19; Hch 16:14 | d «por medio del evangelio»: Rom. 1:16, Rom. 10:17; 1 Cor. 1:21; Hch 10:44; Hch 16:14 | e «salvación»: Rom. 1:7; Gál. 3:11; Heb. 10:10, 38; Gál. 2:16 | f «méritos de Jesucristo»: Ef. 2:8; Rom. 3:24; Rom. 5:19; Luc. 1:77, 78
+P22 | a «santo evangelio»: Jn. 20:31; Mat. 28:19; Mc. 1:15
+P23 | a «católica»: nota «Católica, tiene el significado de universal (en todos los tiempos y lugares).» (sin citas)
+P24 | sin citas
+P25 | a «naturaleza Divina» (en la pregunta): Deu. 6:4; Ef. 4:6; Isa. 44:6; 45:5; 1 Cor. 8:4,6 | b «en su Palabra»: Isa. 61:1; Luc. 4:18; Gén. 1:2,3; Sal. 33:6; Isa. 48:16; Mat. 3:16,17; 28:19; 1 Jn. 5:7; Isa. 6:1,3; Jn. 14:26; Jn. 15:26; 2 Cor. 13:13; Gál. 4:6; Ef. 2:18; Tit. 3:5, 6
+P26 | a «todo lo que en ellos hay»: Gén. 1 y 2; Ex. 20:11; Job. 33:4; 38 y 39; Hch 4:24; 14:15; Sal. 33:6; Isa. 45:7 | b «providencia»: Heb. 1:3; Sal. 104:27-30; 115:3; Mat. 10:29; Ef. 1:11 | c «Hijo Jesucristo»: Jn. 1:12; Rom. 8:15; Gál. 4:5-7; Ef. 1:5 | d «mi alma y mi cuerpo»: Sal. 55:22; Mat. 6:25,26; Luc. 12:22 | e «mi salvación»: Rom. 8:28 | f «Dios todopoderoso»: Isa. 46:4; Rom. 10:12 [El libro dice «Rom. 10:22», que no existe (Romanos 10 tiene 21 versículos); se usa Rom. 10:12, el capítulo que cita la edición de 1563.] | g «Padre benigno y fiel»: Mat. 6:32,33; Mat. 7:9-11
+P27 | a «presente en todo lugar»: Hch 17:25,27,28; Jer. 23:23,24; Isa. 29:15,16; Eze. 8:12 | b «de tal manera»: Heb. 1:3 | c «la lluvia y la sequía»: Jer. 5:24; Hch 14:17 | d «la enfermedad»: Jn. 9:3 | e «riquezas y pobrezas»: Prov. 22:2 | f «voluntad paternal»: Mat. 10:29; Prov. 16:33
+P28 | letras a «paciencia», b «agradecidos», c «fidelísimo», d «de su amor», e «sin su voluntad»; nota 102 [ilegible: tapada en la foto]
+P29 | a «de todos nuestros pecados»: Mat. 1:21; Heb. 7:25 | b «hallar salvación»: Hch 4:12; Jn. 15:4,5; 1 Tim. 2:5; Isa. 43:11; 1 Jn. 5:11 [posible continuación cortada]
+P30 | a «salvador Jesús»: 1 Cor. 1:13,30,31; Gál. 5:4 | b «todo lo necesario para su salvación»: Heb. 12:2; Isa. 9:6; Col. 1:19,20; Col. 2:10; 1 Jn. 1:7
+P31 | a «Espíritu Santo»: Sal. 45:7; Heb. 1:9; Isa. 61:1; Luc. 4:18 | b «profeta y maestro»: Deu. 18:15; Hch 3:22; Hch 7:37; Isa. 55:4 | c «nuestra redención»: Jn. 1:18; Jn. 15:15 | d «pontífice»: Sal. 110:4 | e «nos ha redimido»: Heb. 10:12,14,28 | f «por nosotros»: Rom. 8:34; Heb. 9:24; 1 Jn. 2:1; Rom. 5:9,10 | g «adquirido»: Sal. 2:6; Zac. 9:9; Mat. 21:5; Luc. 1:33; Mat. 28:18; Jn. 10:28; Apo. 12:10, 11
+P32 | a «cristiano» (en la pregunta): Hch 11:26 | b «miembro»: 1 Cor. 6:15 | c «unción»: 1 Jn. 2:27; Hch 2:17 | d «su nombre»: Mat. 10:32; Rom. 10:10 | e «agradable»: Rom. 12:1; 1 Ped. 2:5,9 [El libro dice «Ped. 2:5,9», sin número: es 1 Pedro.]; Apo. 1:6; 5:8,10 | f «limpia y buena»: 1 Ped. 2:11; Rom. 6:12,13; Gál. 5:16,17; Ef. 6:11; 1 Tim. 1:18,19 | g «todas las criaturas»: 2 Tim. 2:12; Mat. 25:34
+P33 | a «natural de Dios»: Jn. 1:14; Heb. 1:1,2; Jn. 3:16; 1 Jn. 4:9; Rom. 8:32 | b «amor de Él»: Rom. 8:16, Jn. 1:12; Gál. 4:6; Ef. 1:5,6
+P34 | a «nos ha hecho suyos»: 1 Ped. 1:18,19; 2:9; 1 Cor. 6:20, 1 Tim. 2:6; Jn. 20:28
+P35 | a «es»: 1 Jn. 5:20; Jn. 1:1; 17:3; Rom. 1:3, Col. 1:15 | b «permanece verdadero y eterno Dios»: Rom. 9:5 | c «virgen María»: Gál. 4:4; Luc. 1:31,42,43 | d «Espíritu Santo»: Mat. 1:20; Luc. 1:35 | e «simiente de David»: Rom. 1:3; Sal. 132:11; 2 Sam. 7:12; Luc. 1:32; Hch 2:30 | f «sus hermanos»: Fil. 2:7; Heb. 2:14,17 | g «el pecado»: Heb. 4:15
+P36 | a «Mediador»: Heb. 7:26,27 | b «presencia de Dios»: 1 Ped. 1:18,19; 3:18; 1 Cor. 1:30,31; Rom. 8:3,4; Isa. 53:11; Sal. 32:1
+P37 | a «género humano»: Isa. 53:4; 1 Ped. 2:24; 3:18; 1 Tim. 2:6 | b «propiciatorio»: Isa. 53:10; Ef. 5:2; 1 Cor. 5:7; 1 Jn. 2:2; Rom. 3:25; Heb. 9:28; 10:14 | c «eterna condenación»: Gál 3:13; Col. 1:13; Heb. 9:12; 1 Ped. 1:18,19 | d «vida eterna»: Rom. 3:25, 2 Cor. 5:21; Jn. 2:16; Jn. 6:51; Heb. 9:15; 10:19
+P38 | a «juez político»: Jn. 18:38; Mat. 27:24; Luc. 23:14,15; Jn. 19:4 | b «sobre nosotros»: Sal. 69:4; Isa. 53:4,5; 2 Cor. 5:21; Gál. 3:13
+P39 | a «sobre mí»: Gál. 3:13 | b «maldita de Dios»: Deu. 21:23
+P40 | a «verdad de Dios»: Gén. 2:17 | b «Hijo de Dios»: Rom. 8:3,4; Heb. 2:14,15
+P41 | a «murió»: Hch 13:29; Mat. 27:59,60; Luc. 23:53; Jn. 19:38
+P42 | a «nuestros pecados»: Mc. 8:37; Sal. 49:7 | b «vida eterna»: Fil.1:23; Jn. 5:24; Rom. 7:24
+P43 | a «con Él»: Rom. 6:6 | b «de la carne»: Rom. 6:6, 12 | c «sacrificio agradable»: Rom. 12:1
+P44 | a «su pasión»: Sal. 18:4,5; 116:3; Mat. 26:38; 27:46; Heb.5:7 | b «del infierno»: Isa. 53:5
+P45 | a «por su muerte»: Rom. 4:25; 1 Ped. 1:3; 1 Cor. 15:16 | b «nueva vida»: Rom. 6:4; Col. 3:1, Ef. 2:5,6 | c «gloriosa resurrección»: 1 Cor. 15:20,21
+P46 | a «al cielo»: Hch 1:9; Mc. 16:19; Luc. 24:51 | b «nuestro beneficio»: Heb.9:24; 4:14; Rom. 8:34; Col. 3:1 | c «a los muertos»: Hch 1:11; Mat.24:30
+P47 | a «prometió» (en la pregunta): Mat. 28:20 | b «en la tierra»: Heb. 8:4; Mat. 26:11; Jn. 16:28; 17:11; Hch 3:21 | c «de nosotros»: Jn. 4:18; Mat. 28:20
+P48 | a «todo lugar»: Jer. 23:24; Hch 7:49 | b «ha tomado»: Col. 2:9; Jn. 3:13; Jn. 11:15; Mat. 28:6
+P49 | a «del Padre»: 1 Jn. 2:1; Rom. 8:34 | b «miembros suyos»: Jn. 14:2; 17:24; 20:17; Ef. 2:6 | c «prenda recíproca»: Jn. 14:16; 16:7; Hch 2:33; 2 Cor. 1:22; 5:5 | d «diestra de Dios»: Col. 3:1
+P50 | a «de su Iglesia»: Ef. 1:20; Col. 1:18 | b «todas las cosas»: Mat. 28:18; Jn. 5:22
+P51 | a «dones celestiales»: Hch 2:33; Ef. 4:8 | b «nuestros enemigos»: Sal. 2:9; Sal. 110:1,2; Jn. 10:28; Ef. 4:8
+P52 | a «toda maldición»: Fil. 3:20; Luc. 21:28; Rom. 8:23; Tit. 2:13; 1 Tes. 4:16 | b «penas eternas»: Mat. 25:41; 2 Tes. 1:6 | c «gloria eterna»: Mat. 25:34; 2 Tes. 1:7
+P53 | a «Dios»: 1 Jn. 5:7; Gén. 1:2; Isa. 48:16; 1 Cor. 3:16; 6:19; Hch 5:3,4 | b «en mí»: Gál. 4:6; Mat. 28:19,20; 2 Cor. 1:22; Ef. 1:13 | c «beneficios»: Gál. 3:14; 1 Ped. 1:2; 1 Cor. 6:17 | d «me consuele»: Jn. 15:26; Hch 9:31 | e «eternamente»: Jn. 14:16; 1 Ped. 4:14
+P54 | a «el Hijo de Dios»: Ef. 5:26; Jn. 10:11; Hch 20:28; Ef. 4:11-13 | b «fin del mundo»: Sal. 71:17,18; Isa. 59:21; 1 Cor. 11:26 | c «género humano»: Gén. 26:4; Apo. 5:9 | d «para sí»: Mat. 16:18; Jn. 10:28-30; Sal. 129:1-5 | e «su Palabra»: Isa. 59:21; Rom. 1:16; 10:14-17; Ef. 5:26 | f «verdadera fe»: Hch 2:42; Ef. 4:3-5 | g «vida eterna»: Rom. 8:29; Ef.1:10-13 | h «yo soy»: 1 Jn. 3:14,19-21; 2 Cor.13:5; Rom. 8:10 | i «miembro vivo»: Sal. 23:6; 1 Cor. 1:8,9; Jn. 10:28; 1 Jn. 2:19; 1 Ped. 1:5
+P55 | a «bienes y dones»: 1 Jn. 1:3; Rom. 8:32; 1 Cor. 12:12,13; 1 Cor. 6:17 | b «de los demás»: 1 Cor. 12:21; 13:1,5; Fil. 2:4-8
+P56 | a «luchar toda la vida»: 1 Jn. 2:2; 1:7; 2 Cor. 5:19 | b «la justicia de Cristo»: Rom. 7:23-25; Jer. 31:34; Miq. 7:19; Sal. 103:3,10,12 | c «condenación»: Jn. 3:18; Jn. 5:24
+P57 | a «llevada»: Luc. 16:22; 23:43; Fil. 1:21,23 | b «cuerpo de Cristo»: Job. 19:25,26; 1 Jn. 3:2; Fil. 3:21
+P58 | a «gozo eterno»: 2 Cor. 5:2,3 | b «para siempre»: 1 Cor. 2:9
+P59 | a «vida eterna»: Hab. 2:4; Rom. 1:17; Jn. 3:36
+P60 | a «en Jesucristo»: Rom. 3:21,22,24; 5:1,2; Gál 2:16, Ef. 2:8,9; Fil. 3:9 | b «ninguno de ellos»: Rom. 3:19 | c «a todo mal»: Rom. 7:23 | d «mérito alguno mío»: Tit. 3:5; Deu. 9:6; Eze. 36:22 | e «pura gracia»: Rom. 3:24; Ef. 2:8 | f «da»: Rom. 4:4; 2 Cor. 5:19 | g «satisfacción»: 1 Jn. 2:2 | h «santidad de Cristo»: 1 Jn. 2:1 | i «por mí»: 2 Cor. 5:21 | j «corazón creyente»: Rom. 3:22; Jn. 3:18
+P61 | a «delante de Dios»: 1 Cor. 1:30,31; 2:2 | b «a través la fe»: Rom. 10:10; 1 Jn. 5:10-12
+P62 | a «Ley Divina»: Gál 3:10; Deu. 27:26 | b «contaminadas de pecado»: Isa. 64:6
+P63 | a «por gracia»: Luc. 17:10
+P64 | a «injertados en Cristo»: Mat. 7:18; Jn. 15:5
+P65 | a «Espíritu Santo»: Ef. 2:8; 6:23; Jn. 3:5; Fil. 1:29 | b «sacramentos»: Mat. 28:19; 1 Ped. 1:22,23
+P66 | a «en particular»: Gén. 17:11; Rom. 4:11; Deu. 30:6; Lev. 6:25; Heb. 9:7-9,24; Eze. 20:12; Isa. 54:9 [texto cortado en la foto: antes de Isa. 54:9 se lee «… 6:6,7» sin el libro]
+P67 | a «nuestra salvación» (en la pregunta): Rom. 6:3; Gál 3:27 (nota 141, al final de la respuesta)
+P68 | sin citas
+P69 | a «instituido»: Mat. 28:19 | b «esta promesa»: Mat. 28:19; Mc. 16:16; Hch 2:38; Jn. 1:33; Mat. 3:11; Rom. 6:3, 4 | c «todos mis pecados»: 1 Ped. 3:21; Mc. 1:4; Luc. 3:3
+P70 | a «en la cruz»: Heb. 12:24; 1 Ped. 1:2; Apo. 1:5; 7:14; Zac. 13:1; Eze. 36:25 | b «irreprensiblemente»: Jn. 1:33; 3:5; 1 Cor. 6:11; 12:13; Rom. 6:4; Col. 2:12
+P71 | a «Espíritu Santo»: Mat. 28:19 | b «condenado»: Mc.16:16 | c «ablución de pecados»: Tit.3:5; Hch. 22:16
+P72 | a «No»: Mat. 3:11; 1 Ped. 3:21; Ef. 5:26 | b «todo pecado»: 1 Jn. 1:7; 1 Cor. 6:11
+P73 | a «el agua»: Apo. 1:5; 7:14; 1 Cor. 6:11 | b «agua visible»: Mc. 16:16; Gál. 3:27
+P74 | a «iglesia de Dios»: Gén. 17:7 | b «remisión de los pecados»: Mat. 19:14 | c «obrador de la fe»: Luc. 1:15; Sal. 22:10; Isa. 44:1-3; Hch 2:39 | d «de los infieles»: Hch 10:47 | e «circuncisión»: Gén.17:14 | f «Nuevo Pacto»: Col. 2:11-13
+P75 | a «promesa»: Mat. 26:26-28; Mc. 14:22-24; Luc. 22:19,20; 1 Cor. 10:16,17; 1 Cor. 11:23-25; 1 Cor. 12:13
+P76 | a «vida eterna»: Jn. 6:35,40,47 [El libro dice «1 Jn. 6:35,40,47»; 1 Juan tiene 5 capítulos: es Juan 6.]; Jn. 6:48,50,51; 6:53,54 | b «Espíritu Santo»: Jn. 6:55,56 | c «en el cielo»: Col. 3:1; Hch 3:21; 1 Cor. 11:26 | d «sus huesos»: Ef. 5:29,30; 3:16; 1 Cor. 6:15; 1 Jn. 3:24; 4:13 | e «un solo espíritu»: Jn. 6:57; 15:1-6; Ef. 4:15,16
+P77 | a «fueron»: Mat. 26:26-28; Mc.14:22-24: Luc. 22:9,20 | b «que él venga»: 1 Cor. 11:23-26 | c «pan»: 1 Cor. 10:16,17
+P78 | a «De ninguna manera»: Mat. 26:29 | b «Bautismo»: Ef. 5:26; Tit. 3:5 | c «cuerpo»: 1 Cor. 11:26 | d «sacramentos»: Gén. 17:10,11; Ex. 12:11,13; 13:9; 1 Ped. 3:21; 1Cor. 10:3,4
+P79 | letras a «vida eterna», b «cuerpo»; notas en la página siguiente [falta foto]
+Faltan: nota 102 (P28), posible final de 103 (P29), final de 140 (P66) y desde la nota 152 (P79 en adelante, págs. 57+).
