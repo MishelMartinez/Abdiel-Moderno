@@ -83,7 +83,7 @@ for (const o of original.preguntas) {
   const tam = t.incisos || [];
   if (tam.reduce((s, n) => s + n, 0) !== o.pruebas.length) throw new Error(`Pregunta ${o.numero}: los incisos suman ${tam.reduce((s, n) => s + n, 0)} y la fuente tiene ${o.pruebas.length} referencias`);
   let i = 0;
-  const grupos = tam.map((n, g) => ({ inciso: g < LETRAS.length ? LETRAS[g] : LETRAS[g - LETRAS.length].repeat(2), citas: o.pruebas.slice(i, (i += n)).map((refOriginal) => {
+  const grupos = tam.map((n, g) => ({ inciso: LETRAS[g % LETRAS.length].repeat(Math.floor(g / LETRAS.length) + 1), citas: o.pruebas.slice(i, (i += n)).map((refOriginal) => {
     let [ref, nota] = t.correcciones?.[refOriginal] || [refOriginal, null];
     const solo = /^(Jude|2 John|3 John|Philemon|Obadiah) (\d+(?:-\d+)?)$/.exec(ref);
     if (solo) ref = `${solo[1]} 1:${solo[2]}`;

@@ -1,10 +1,10 @@
 {
   "titulo": "Catecismo Mayor de Westminster",
   "totalPreguntas": 196,
-  "preguntasCompletas": 135,
+  "preguntasCompletas": 155,
   "versionBiblica": "Reina-Valera 1909",
   "observaciones": [
-    "Versión en revisión: incluye las preguntas 1 a 135 de 196.",
+    "Versión en revisión: incluye las preguntas 1 a 155 de 196.",
     "Traducción propia al español a partir del texto histórico en inglés (dominio público).",
     "Las letras de los incisos siguen la edición estándar de las pruebas bíblicas; la fuente en línea las presenta sin letras."
   ],
@@ -10009,6 +10009,3295 @@
             {
               "cita": "Prov. 31:8-9",
               "Pasaje": "8. Abre tu boca por el mudo, en el juicio de todos los hijos de muerte.\n9. Abre tu boca, juzga justicia, y el derecho del pobre y del menesteroso."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 136,
+      "pregunta": "¿Cuáles son los pecados prohibidos en el sexto mandamiento?",
+      "respuesta": "Los pecados prohibidos en el sexto mandamiento son: todo quitar la vida a nosotros mismos o a otros, excepto en caso de justicia pública, guerra lícita o defensa necesaria; el descuidar o retirar los medios lícitos y necesarios para la preservación de la vida; la ira pecaminosa, el odio, la envidia, el deseo de venganza; todas las pasiones excesivas y las preocupaciones que distraen; el uso inmoderado de la comida, la bebida, el trabajo y las recreaciones; las palabras provocadoras, la opresión, las riñas, los golpes, las heridas, y todo lo demás que tiende a la destrucción de la vida de alguien.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Hech. 16:28",
+              "Pasaje": "28. Mas Pablo clamó á gran voz, diciendo: No te hagas ningún mal; que todos estamos aquí."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Gén. 9:6",
+              "Pasaje": "6. El que derramare sangre del hombre, por el hombre su sangre será derramada; porque á imagen de Dios es hecho el hombre."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Núm. 35:31,33",
+              "Pasaje": "31. Y no tomaréis precio por la vida del homicida; porque está condenado á muerte: mas indefectiblemente morirá.\n33. Y no contaminaréis la tierra donde estuviereis: porque esta sangre amancillará la tierra: y la tierra no será expiada de la sangre que fué derramada en ella, sino por la sangre del que la derramó."
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "Jer. 48:10",
+              "Pasaje": "10. Maldito el que hiciere engañosamente la obra de Jehová, y maldito el que detuviere su cuchillo de la sangre."
+            },
+            {
+              "cita": "Deut. 20:1",
+              "Pasaje": "1. CUANDO salieres á la guerra contra tus enemigos, y vieres caballos y carros, un pueblo más grande que tú, no tengas temor de ellos, que Jehová tu Dios es contigo, el cual te sacó de tierra de Egipto."
+            }
+          ]
+        },
+        {
+          "inciso": "e",
+          "citas": [
+            {
+              "cita": "Éx. 22:2-3",
+              "Pasaje": "2. Si el ladrón fuere hallado forzando una casa, y fuere herido y muriere, el que le hirió no será culpado de su muerte.\n3. Si el sol hubiere sobre él salido, el [matador] será reo de homicidio: [el ladrón] habrá de restituir cumplidamente; si no tuviere, será vendido por su hurto."
+            }
+          ]
+        },
+        {
+          "inciso": "f",
+          "citas": [
+            {
+              "cita": "Mat. 25:42-43",
+              "Pasaje": "42. Porque tuve hambre, y no me disteis de comer; tuve sed, y no me disteis de beber;\n43. Fuí huésped, y no me recogisteis; desnudo, y no me cubristeis; enfermo, y en la cárcel, y no me visitasteis."
+            },
+            {
+              "cita": "Sant. 2:15-16",
+              "Pasaje": "15. Y si el hermano ó la hermana están desnudos, y tienen necesidad del mantenimiento de cada día,\n16. Y alguno de vosotros les dice: Id en paz, calentaos y hartaos; pero no les diereis las cosas que son necesarias para el cuerpo: ¿qué aprovechará?"
+            },
+            {
+              "cita": "Ecl. 6:1-2",
+              "Pasaje": "1. HAY un mal que he visto debajo del cielo, y muy común entre los hombres:\n2. Hombre á quien Dios dió riquezas, y hacienda, y honra, y nada le falta de todo lo que su alma desea; mas Dios no le dió facultad de comer de ello, sino que los extraños se lo comen. Esto vanidad es, y enfermedad trabajosa."
+            }
+          ]
+        },
+        {
+          "inciso": "g",
+          "citas": [
+            {
+              "cita": "Mat. 5:22",
+              "Pasaje": "22. Mas yo os digo, que cualquiera que se enojare locamente con su hermano, será culpado del juicio; y cualquiera que dijere á su hermano, Raca, será culpado del concejo; y cualquiera que dijere, Fatuo, será culpado del infierno del fuego."
+            }
+          ]
+        },
+        {
+          "inciso": "h",
+          "citas": [
+            {
+              "cita": "1 Jn. 3:15",
+              "Pasaje": "15. Cualquiera que aborrece á su hermano, es homicida; y sabéis que ningún homicida tiene vida eterna permaneciente en sí."
+            },
+            {
+              "cita": "Lev. 19:17",
+              "Pasaje": "17. No aborrecerás á tu hermano en tu corazón: ingenuamente reprenderás á tu prójimo, y no consentirás sobre él pecado."
+            }
+          ]
+        },
+        {
+          "inciso": "i",
+          "citas": [
+            {
+              "cita": "Prov. 14:30",
+              "Pasaje": "30. El corazón apacible es vida de las carnes: mas la envidia, pudrimiento de huesos."
+            }
+          ]
+        },
+        {
+          "inciso": "k",
+          "citas": [
+            {
+              "cita": "Rom. 12:19",
+              "Pasaje": "19. No os venguéis vosotros mismos, amados míos; antes dad lugar á la ira; porque escrito está: Mía es la venganza: yo pagaré, dice el Señor."
+            }
+          ]
+        },
+        {
+          "inciso": "l",
+          "citas": [
+            {
+              "cita": "Ef. 4:31",
+              "Pasaje": "31. Toda amargura, y enojo, é ira, y voces, y maledicencia sea quitada de vosotros, y toda malicia:"
+            }
+          ]
+        },
+        {
+          "inciso": "m",
+          "citas": [
+            {
+              "cita": "Mat. 6:31,34",
+              "Pasaje": "31. No os congojéis pues, diciendo: ¿Qué comeremos, ó qué beberemos, ó con qué nos cubriremos?\n34. Así que, no os congojéis por el día de mañana; que el día de mañana traerá su fatiga: basta al día su afán."
+            }
+          ]
+        },
+        {
+          "inciso": "n",
+          "citas": [
+            {
+              "cita": "Luc. 21:34",
+              "Pasaje": "34. Y mirad por vosotros, que vuestros corazones no sean cargados de glotonería y embriaguez, y de los cuidados de esta vida, y venga de repente sobre vosotros aquel día."
+            },
+            {
+              "cita": "Rom. 13:13",
+              "Pasaje": "13. Andemos como de día, honestamente: no en glotonerías y borracheras, no en lechos y disoluciones, no en pedencias y envidia:"
+            }
+          ]
+        },
+        {
+          "inciso": "o",
+          "citas": [
+            {
+              "cita": "Ecl. 12:12",
+              "Pasaje": "12. Ahora, hijo mío, á más de esto, sé avisado. No hay fin de hacer muchos libros; y el mucho estudio aflicción es de la carne."
+            },
+            {
+              "cita": "Ecl. 2:22-23",
+              "Pasaje": "22. Porque ¿qué tiene el hombre de todo su trabajo, y fatiga de su corazón, con que debajo del sol él se afanara?\n23. Porque todos sus días [no] son [sino] dolores, y sus trabajos molestias: aun de noche su corazón no reposa. Esto también es vanidad."
+            }
+          ]
+        },
+        {
+          "inciso": "p",
+          "citas": [
+            {
+              "cita": "Isa. 5:12",
+              "Pasaje": "12. Y en sus banquetes hay arpas, vihuelas, tamboriles, flautas, y vino; y no miran la obra de Jehová, ni consideran la obra de sus manos."
+            }
+          ]
+        },
+        {
+          "inciso": "q",
+          "citas": [
+            {
+              "cita": "Prov. 15:1",
+              "Pasaje": "1. LA blanda respuesta quita la ira: mas la palabra áspera hace subir el furor."
+            },
+            {
+              "cita": "Prov. 12:18",
+              "Pasaje": "18. Hay quienes hablan como [dando] estocadas de espada: mas la lengua de los sabios es medicina."
+            }
+          ]
+        },
+        {
+          "inciso": "r",
+          "citas": [
+            {
+              "cita": "Ez. 18:18",
+              "Pasaje": "18. Su padre, por cuanto hizo agravio, despojó violentamente al hermano, é hizo en medio de su pueblo lo que no es bueno, he aquí que él morirá por su maldad."
+            },
+            {
+              "cita": "Éx. 1:14",
+              "Pasaje": "14. Y amargaron su vida con dura servidumbre, en [hacer] barro y ladrillo, y en toda labor del campo, y en todo su servicio, al cual los obligaban con rigorismo."
+            }
+          ]
+        },
+        {
+          "inciso": "s",
+          "citas": [
+            {
+              "cita": "Gál. 5:15",
+              "Pasaje": "15. Y si os mordéis y os coméis los unos á los otros, mirad que también no os consumáis los unos á los otros."
+            },
+            {
+              "cita": "Prov. 23:29",
+              "Pasaje": "29. ¿Para quién será el ay? ¿para quién el ay? ¿para quién las rencillas? ¿para quién las quejas? ¿para quién las heridas en balde? ¿para quién lo amoratado de los ojos?"
+            }
+          ]
+        },
+        {
+          "inciso": "t",
+          "citas": [
+            {
+              "cita": "Núm. 35:16-18,21",
+              "Pasaje": "16. Y si con instrumento de hierro lo hiriere y muriere, homicida es; el homicida morirá:\n17. Y si con piedra de mano, de que pueda morir, lo hiriere, y muriere, homicida es; el homicida morirá.\n18. Y si con instrumento de palo de mano, de que pueda morir, lo hiriere, y muriere, homicida es; el homicida morirá.\n21. O por enemistad lo hirió con su mano, y murió: el heridor morirá; es homicida; el pariente del muerto matará al homicida, cuando lo encontrare."
+            }
+          ]
+        },
+        {
+          "inciso": "u",
+          "citas": [
+            {
+              "cita": "Éx. 21:18-36",
+              "Pasaje": "18. Además, si algunos riñeren, y alguno hiriere á su prójimo con piedra ó con el puño, y no muriere, pero cayere en cama;\n19. Si se levantare y anduviere fuera sobre su báculo, entonces será el que le hirió absuelto: solamente le satisfará lo que estuvo parado, y hará que le curen.\n20. Y si alguno hiriere á su siervo ó á su sierva con palo, y muriere bajo de su mano, será castigado:\n21. Mas si durare por un día ó dos, no será castigado, porque su dinero es.\n22. Si algunos riñeren, é hiriesen á mujer preñada, y ésta abortare, pero sin haber muerte, será penado conforme á lo que le impusiere el marido de la mujer y juzgaren los árbitros.\n23. Mas si hubiere muerte, entonces pagarás vida por vida,\n24. Ojo por ojo, diente por diente, mano por mano, pie por pie,\n25. Quemadura por quemadura, herida por herida, golpe por golpe.\n26. Y cuando alguno hiriere el ojo de su siervo, ó el ojo de su sierva, y lo entortare, darále libertad por razón de su ojo.\n27. Y si sacare el diente de su siervo, ó el diente de su sierva, por su diente le dejará ir libre.\n28. Si un buey acorneare hombre ó mujer, y de resultas muriere, el buey será apedreado, y no se comerá su carne; mas el dueño del buey será absuelto.\n29. Pero si el buey era acorneador desde ayer y antes de ayer, y á su dueño le fué hecho requerimiento, y no lo hubiere guardado, y matare hombre ó mujer, el buey será apedreado, y también morirá su dueño.\n30. Si le fuere impuesto rescate, entonces dará por el rescate de su persona cuanto le fuere impuesto.\n31. Haya acorneado hijo, ó haya acorneado hija, conforme á este juicio se hará con él.\n32. Si el buey acorneare siervo ó sierva, pagará treinta siclos de plata su señor, y el buey será apedreado.\n33. Y si alguno abriere hoyo, ó cavare cisterna, y no la cubriere, y cayere allí buey ó asno,\n34. El dueño de la cisterna pagará el dinero, resarciendo á su dueño, y lo que fué muerto será suyo.\n35. Y si el buey de alguno hiriere al buey de su prójimo, y éste muriere, entonces venderán el buey vivo, y partirán el dinero de él, y también partirán el muerto.\n36. Mas si era notorio que el buey era acorneador de ayer y antes de ayer, y su dueño no lo hubiere guardado, pagará buey por buey, y el muerto será suyo.",
+              "observacionPasaje": "La fuente añade: «que contiene las leyes acerca de los que hieren, del daño por accidente, del buey acorneador y del que es ocasión de daño»."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 137,
+      "pregunta": "¿Cuál es el séptimo mandamiento?",
+      "respuesta": "El séptimo mandamiento es: No cometerás adulterio.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Éx. 20:14",
+              "Pasaje": "14. No cometerás adulterio."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 138,
+      "pregunta": "¿Cuáles son los deberes requeridos en el séptimo mandamiento?",
+      "respuesta": "Los deberes requeridos en el séptimo mandamiento son: la castidad en el cuerpo, la mente, los afectos, las palabras y la conducta, y su preservación en nosotros mismos y en otros; la vigilancia sobre los ojos y todos los sentidos; la templanza, el buscar compañías castas, la modestia en el vestir; el matrimonio para quienes no tienen el don de continencia, el amor conyugal y la cohabitación; el trabajo diligente en nuestras vocaciones; el huir de todas las ocasiones de impureza y el resistir las tentaciones a ella.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "1 Tes. 4:4",
+              "Pasaje": "4. Que cada uno de vosotros sepa tener su vaso en santificación y honor;"
+            },
+            {
+              "cita": "Job 31:1",
+              "Pasaje": "1. HICE pacto con mis ojos: ¿cómo pues había yo de pensar en virgen?"
+            },
+            {
+              "cita": "1 Cor. 7:34",
+              "Pasaje": "34. Hay asimismo diferencia entre la casada y la doncella: la doncella tiene cuidado de las cosas del Señor, para ser santa así en el cuerpo como en el espíritu: mas la casada tiene cuidado de las cosas del mundo, cómo ha de agradar á su marido."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Col. 4:6",
+              "Pasaje": "6. Sea vuestra palabra siempre con gracia, sazonada con sal; para que sepáis cómo os conviene responder á cada uno."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "1 Ped. 3:2",
+              "Pasaje": "2. Considerando vuestra casta conversación, que es en temor.",
+              "observacionPasaje": "La fuente indica «1 Peter 2:3»; las ediciones estándar citan 1 Pedro 3:2 («vuestra casta conversación»)."
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "1 Cor. 7:2,35-36",
+              "Pasaje": "2. Mas á causa de las fornicaciones, cada uno tenga su mujer, y cada una tenga su marido.\n35. Esto empero digo para vuestro provecho; no para echaros lazo, sino para lo honesto y decente, y para que sin impedimento os lleguéis al Señor.\n36. Mas, si á alguno parece cosa fea en su [hija] virgen, que pase ya de edad, y que así conviene que se haga, haga lo que quisiere, no peca; cásese."
+            }
+          ]
+        },
+        {
+          "inciso": "e",
+          "citas": [
+            {
+              "cita": "Job 31:1",
+              "Pasaje": "1. HICE pacto con mis ojos: ¿cómo pues había yo de pensar en virgen?"
+            }
+          ]
+        },
+        {
+          "inciso": "f",
+          "citas": [
+            {
+              "cita": "Hech. 24:24-25",
+              "Pasaje": "24. Y algunos días después, viniendo Félix con Drusila, su mujer, la cual era Judía, llamó á Pablo, y oyó de él la fe que es en Jesucristo.\n25. Y disertando él de la justicia, y de la continencia, y del juicio venidero, espantado Félix, respondió: Ahora vete; mas en teniendo oportunidad te llamaré:"
+            }
+          ]
+        },
+        {
+          "inciso": "g",
+          "citas": [
+            {
+              "cita": "Prov. 2:16-20",
+              "Pasaje": "16. Para librarte de la mujer extraña, de la ajena que halaga con sus palabras;\n17. Que desampara el príncipe de su mocedad, y se olvida del pacto de su Dios.\n18. Por lo cual su casa está inclinada á la muerte, y sus veredas hacia los muertos:\n19. Todos los que á ella entraren, no volverán, ni tomarán las veredas de la vida.\n20. Para que andes por el camino de los buenos, y guardes las veredas de los justos."
+            }
+          ]
+        },
+        {
+          "inciso": "h",
+          "citas": [
+            {
+              "cita": "1 Tim. 2:9",
+              "Pasaje": "9. Asimismo también las mujeres, ataviándose en hábito honesto, con vergüenza y modestia; no con cabellos encrespados, ú oro, ó perlas, ó vestidos costosos,"
+            }
+          ]
+        },
+        {
+          "inciso": "i",
+          "citas": [
+            {
+              "cita": "1 Cor. 7:2,9",
+              "Pasaje": "2. Mas á causa de las fornicaciones, cada uno tenga su mujer, y cada una tenga su marido.\n9. Y si no tienen don de continencia, cásense; que mejor es casarse que quemarse."
+            }
+          ]
+        },
+        {
+          "inciso": "k",
+          "citas": [
+            {
+              "cita": "Prov. 5:19-20",
+              "Pasaje": "19. [Como] cierva amada y graciosa corza, sus pechos te satisfagan en todo tiempo; y en su amor recréate siempre.\n20. ¿Y por qué, hijo mío, andarás ciego con la ajena, y abrazarás el seno de la extraña?"
+            }
+          ]
+        },
+        {
+          "inciso": "l",
+          "citas": [
+            {
+              "cita": "1 Ped. 3:7",
+              "Pasaje": "7. Vosotros maridos, semejantemente, habitad con ellas según ciencia, dando honor á la mujer como á vaso más frágil, y como á herederas juntamente de la gracia de la vida; para que vuestras oraciones no sean impedidas."
+            }
+          ]
+        },
+        {
+          "inciso": "m",
+          "citas": [
+            {
+              "cita": "Prov. 31:11,27-28",
+              "Pasaje": "11. El corazón de su marido está en ella confiado, y no tendrá necesidad de despojo.\n27. Considera los caminos de su casa, y no come el pan de balde.\n28. Levantáronse sus hijos, y llamáronla bienaventurada; y su marido también la alabó."
+            }
+          ]
+        },
+        {
+          "inciso": "n",
+          "citas": [
+            {
+              "cita": "Prov. 5:8",
+              "Pasaje": "8. Aleja de ella tu camino, y no te acerques á la puerta de su casa;"
+            },
+            {
+              "cita": "Gén. 39:8-10",
+              "Pasaje": "8. Y él no quiso, y dijo á la mujer de su señor: He aquí que mi señor no sabe conmigo lo que hay en casa, y ha puesto en mi mano todo lo que tiene:\n9. No hay otro mayor que yo en esta casa, y ninguna cosa me ha reservado sino á ti, por cuanto tú eres su mujer; ¿cómo, pues, haría yo este grande mal, y pecaría contra Dios?\n10. Y fué que hablando ella á José cada día, y no escuchándola él para acostarse al lado de ella, para estar con ella,"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 139,
+      "pregunta": "¿Cuáles son los pecados prohibidos en el séptimo mandamiento?",
+      "respuesta": "Los pecados prohibidos en el séptimo mandamiento, además del descuido de los deberes requeridos, son: el adulterio, la fornicación, la violación, el incesto, la sodomía y todas las concupiscencias contra la naturaleza; todas las imaginaciones, pensamientos, propósitos y afectos impuros; todas las conversaciones corrompidas o inmundas, o el prestarles oído; las miradas lascivas, la conducta desvergonzada o liviana, el vestido inmodesto; el prohibir los matrimonios lícitos y el dispensar los ilícitos; el permitir, tolerar o mantener prostíbulos, y el frecuentarlos; los votos de celibato que enredan la conciencia, la demora indebida del matrimonio, el tener más de una esposa o más de un esposo al mismo tiempo; el divorcio injusto o el abandono; la ociosidad, la glotonería, la embriaguez, las compañías impúdicas; las canciones, libros, pinturas, bailes y representaciones teatrales lascivos; y todas las demás provocaciones a la impureza, o actos de ella, ya sea en nosotros mismos o en otros.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Prov. 5:7",
+              "Pasaje": "7. Ahora pues, hijos, oidme, y no os apartéis de las razones de mi boca."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Heb. 13:4",
+              "Pasaje": "4. Honroso es en todos el matrimonio, y el lecho sin mancilla; mas á los fornicarios y á los adúlteros juzgará Dios."
+            },
+            {
+              "cita": "Gál. 5:19",
+              "Pasaje": "19. Y manifiestas son las obras de la carne, que son: adulterio, fornicación, inmundicia, disolución,"
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "2 Sam. 13:14",
+              "Pasaje": "14. Mas él no la quiso oir; antes pudiendo más que ella la forzó, y echóse con ella."
+            },
+            {
+              "cita": "1 Cor. 5:1",
+              "Pasaje": "1. DE cierto se oye que hay entre vosotros fornicación, y tal fornicación cual ni aun se nombra entre los Gentiles; tanto que alguno tenga la mujer de su padre."
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "Rom. 1:24,26-27",
+              "Pasaje": "24. Por lo cual también Dios los entregó á inmundicia, en las concupiscencias de sus corazones, de suerte que contaminaron sus cuerpos entre sí mismos:\n26. Por esto Dios los entregó á afectos vergonzosos; pues aun sus mujeres mudaron el natural uso en el uso que es contra naturaleza:\n27. Y del mismo modo también los hombres, dejando el uso natural de las mujeres, se encendieron en sus concupiscencias los unos con los otros, cometiendo cosas nefandas hombres con hombres, y recibiendo en sí mismos la recompensa que convino á su extravío."
+            },
+            {
+              "cita": "Lev. 20:15-16",
+              "Pasaje": "15. Y cualquiera que tuviere cópula con bestia, ha de ser muerto; y mataréis á la bestia.\n16. Y la mujer que se allegare á algún animal, para tener ayuntamiento con él, á la mujer y al animal matarás: morirán infaliblemente; será su sangre sobre ellos."
+            }
+          ]
+        },
+        {
+          "inciso": "e",
+          "citas": [
+            {
+              "cita": "Mat. 5:28",
+              "Pasaje": "28. Mas yo os digo, que cualquiera que mira á una mujer para codiciarla, ya adulteró con ella en su corazón."
+            },
+            {
+              "cita": "Mat. 15:19",
+              "Pasaje": "19. Porque del corazón salen los malos pensamientos, muertes, adulterios, fornicaciones, hurtos, falsos testimonios, blasfemias."
+            },
+            {
+              "cita": "Col. 3:5",
+              "Pasaje": "5. Amortiguad, pues, vuestros miembros que están sobre la tierra: fornicación, inmundicia, molicie, mala concupiscencia, y avaricia, que es idolatría:"
+            }
+          ]
+        },
+        {
+          "inciso": "f",
+          "citas": [
+            {
+              "cita": "Ef. 5:3-4",
+              "Pasaje": "3. Pero fornicación y toda inmundicia, ó avaricia, ni aun se nombre entre vosotros, como conviene á santos;\n4. Ni palabras torpes, ni necedades, ni truhanerías, que no convienen; sino antes bien acciones de gracias."
+            },
+            {
+              "cita": "Prov. 7:5,21-22",
+              "Pasaje": "5. Para que te guarden de la mujer ajena, y de la extraña que ablanda sus palabras.\n21. Rindiólo con la mucha suavidad de sus palabras, obligóle con la blandura de sus labios.\n22. Vase en pos de ella luego, como va el buey al degolladero, y como el loco á las prisiones para ser castigado;"
+            }
+          ]
+        },
+        {
+          "inciso": "g",
+          "citas": [
+            {
+              "cita": "Isa. 3:16",
+              "Pasaje": "16. Asimismo dice Jehová: Por cuanto las hijas de Sión se ensoberbecen, y andan cuellierguidas y los ojos descompuestos; cuando andan van danzando, y haciendo son con los pies:"
+            },
+            {
+              "cita": "2 Ped. 2:14",
+              "Pasaje": "14. Teniendo los ojos llenos de adulterio, y no saben cesar de pecar; cebando las almas inconstantes; teniendo el corazón ejercitado en codicias, siendo hijos de maldición;"
+            }
+          ]
+        },
+        {
+          "inciso": "h",
+          "citas": [
+            {
+              "cita": "Prov. 7:10,13",
+              "Pasaje": "10. Y he aquí, una mujer que le sale al encuentro con atavío de ramera, astuta de corazón,\n13. Y traba de él, y bésalo; desvergonzó su rostro, y díjole:"
+            }
+          ]
+        },
+        {
+          "inciso": "i",
+          "citas": [
+            {
+              "cita": "1 Tim. 4:3",
+              "Pasaje": "3. Que prohibirán casarse, [y mandarán] abstenerse de las viandas que Dios crió para que con hacimiento de gracias participasen de ellas los fieles, y los que han conocido la verdad."
+            }
+          ]
+        },
+        {
+          "inciso": "k",
+          "citas": [
+            {
+              "cita": "Lev. 18:1-21",
+              "Pasaje": "1. Y HABLÓ Jehová á Moisés, diciendo:\n2. Habla á los hijos de Israel, y diles: Yo soy Jehová vuestro Dios.\n3. No haréis como hacen en la tierra de Egipto, en la cual morasteis; ni haréis como hacen en la tierra de Canaán, á la cual yo os conduzco; ni andaréis en sus estatutos.\n4. Mis derechos pondréis por obra, y mis estatutos guardaréis, andando en ellos: Yo Jehová vuestro Dios.\n5. Por tanto mis estatutos y mis derechos guardaréis, los cuales haciendo el hombre, vivirá en ellos: Yo Jehová.\n6. Ningún varón se allegue á ninguna cercana de su carne, para descubrir [su] desnudez: Yo Jehová.\n7. La desnudez de tu padre, ó la desnudez de tu madre, no descubrirás: tu madre es, no descubrirás su desnudez.\n8. La desnudez de la mujer de tu padre no descubrirás; es la desnudez de tu padre.\n9. La desnudez de tu hermana, hija de tu padre, ó hija de tu madre, nacida en casa ó nacida fuera, su desnudez no descubrirás.\n10. La desnudez de la hija de tu hijo, ó de la hija de tu hija, su desnudez no descubrirás, porque es la desnudez tuya.\n11. La desnudez de la hija de la mujer de tu padre, engendrada de tu padre, tu hermana es, su desnudez no descubrirás.\n12. La desnudez de la hermana de tu padre no descubrirás: es parienta de tu padre.\n13. La desnudez de la hermana de tu madre no descubrirás: porque parienta de tu madre es.\n14. La desnudez del hermano de tu padre no descubrirás: no llegarás á su mujer: es mujer del hermano de tu padre.\n15. La desnudez de tu nuera no descubrirás: mujer es de tu hijo; no descubrirás su desnudez.\n16. La desnudez de la mujer de tu hermano no descubrirás: es la desnudez de tu hermano.\n17. La desnudez de la mujer y de su hija no descubrirás: no tomarás la hija de su hijo, ni la hija de su hija, para descubrir su desnudez: son parientas, es maldad.\n18. No tomarás mujer juntamente con su hermana, para hacerla su rival, descubriendo su desnudez delante de ella en su vida.\n19. Y no llegarás á la mujer en el apartamiento de su inmundicia, para descubrir su desnudez.\n20. Además, no tendrás acto carnal con la mujer de tu prójimo, contaminándote en ella.\n21. Y no des de tu simiente para hacerla pasar [por el fuego] á Moloch; no contamines el nombre de tu Dios: Yo Jehová."
+            },
+            {
+              "cita": "Mar. 6:18",
+              "Pasaje": "18. Porque Juan decía á Herodes: No te es lícito tener la mujer de tu hermano."
+            },
+            {
+              "cita": "Mal. 2:11-12",
+              "Pasaje": "11. Prevaricó Judá, y en Israel y en Jerusalem ha sido cometida abominación; porque Judá ha profanado la santidad de Jehová que amó, y casádose con hija de dios extraño.\n12. Jehová talará de las tiendas de Jacob al hombre que hiciere esto, al que vela, y al que responde, y al que ofrece presente á Jehová de los ejércitos."
+            }
+          ]
+        },
+        {
+          "inciso": "l",
+          "citas": [
+            {
+              "cita": "1 Rey. 15:12",
+              "Pasaje": "12. Porque quitó los sodomitas de la tierra, y quitó todas las suciedades que sus padres habían hecho."
+            },
+            {
+              "cita": "2 Rey. 23:7",
+              "Pasaje": "7. Además derribó las casas de los sodomitas que estaban en la casa de Jehová, en las cuales tejían las mujeres pabellones para el bosque."
+            },
+            {
+              "cita": "Deut. 23:17-18",
+              "Pasaje": "17. No habrá ramera de las hijas de Israel, ni habrá sodomítico de los hijos de Israel.\n18. No traerás precio de ramera, ni precio de perro á la casa de Jehová tu Dios por ningún voto; porque abominación es á Jehová tu Dios así lo uno como lo otro."
+            },
+            {
+              "cita": "Lev. 19:29",
+              "Pasaje": "29. No contaminarás tu hija haciéndola fornicar: porque no se prostituya la tierra, y se hincha de maldad."
+            },
+            {
+              "cita": "Jer. 5:7",
+              "Pasaje": "7. ¿Cómo te he de perdonar por esto? Sus hijos me dejaron, y juraron por lo que no es Dios. Saciélos, y adulteraron, y en casa de ramera se juntaron en compañías."
+            },
+            {
+              "cita": "Prov. 7:24-27",
+              "Pasaje": "24. Ahora pues, hijos, oidme, y estad atentos á las razones de mi boca.\n25. No se aparte á sus caminos tu corazón; no yerres en sus veredas.\n26. Porque á muchos ha hecho caer heridos; y aun los más fuertes han sido muertos por ella.\n27. Caminos del sepulcro son su casa, que descienden á las cámaras de la muerte."
+            }
+          ]
+        },
+        {
+          "inciso": "m",
+          "citas": [
+            {
+              "cita": "Mat. 19:10-11",
+              "Pasaje": "10. Dícenle sus discípulos: Si así es la condición del hombre con su mujer, no conviene casarse.\n11. Entonces él les dijo: No todos reciben esta palabra, sino aquellos á quienes es dado."
+            }
+          ]
+        },
+        {
+          "inciso": "n",
+          "citas": [
+            {
+              "cita": "1 Cor. 7:7-9",
+              "Pasaje": "7. Quisiera más bien que todos los hombres fuesen como yo: empero cada uno tiene su propio don de Dios; uno á la verdad así, y otro así.\n8. Digo pues á los solteros y á las viudas, que bueno les es si se quedaren como yo.\n9. Y si no tienen don de continencia, cásense; que mejor es casarse que quemarse."
+            },
+            {
+              "cita": "Gén. 38:26",
+              "Pasaje": "26. Entonces Judá los reconoció, y dijo: Más justa es que yo, por cuanto no la he dado á Sela mi hijo. Y nunca más la conoció."
+            }
+          ]
+        },
+        {
+          "inciso": "o",
+          "citas": [
+            {
+              "cita": "Mal. 2:14-15",
+              "Pasaje": "14. Mas diréis: ¿Por qué? Porque Jehová ha atestiguado entre ti y la mujer de tu mocedad, contra la cual tú has sido desleal, siendo ella tu compañera, y la mujer de tu pacto.\n15. Pues qué ¿no hizo él uno [solo] aunque tenía la abundancia del espíritu? ¿Y por qué uno? Para que procurara una simiente de Dios. Guardaos pues en vuestros espíritus, y contra la mujer de vuestra mocedad no seáis desleales."
+            },
+            {
+              "cita": "Mat. 19:5",
+              "Pasaje": "5. Y dijo: Por tanto, el hombre dejará padre y madre, y se unirá á su mujer, y serán dos en una carne?"
+            }
+          ]
+        },
+        {
+          "inciso": "p",
+          "citas": [
+            {
+              "cita": "Mal. 2:16",
+              "Pasaje": "16. Porque Jehová Dios de Israel ha dicho que él aborrece que sea repudiada; y cubra la iniquidad con su vestido, dijo Jehová de los ejércitos. Guardaos pues en vuestros espíritus, y no seáis desleales."
+            },
+            {
+              "cita": "Mat. 5:32",
+              "Pasaje": "32. Mas yo os digo, que el que repudiare á su mujer, fuera de causa de fornicación, hace que ella adultere; y el que se casare con la repudiada, comete adulterio."
+            },
+            {
+              "cita": "1 Cor. 7:12-13",
+              "Pasaje": "12. Y á los demás yo digo, no el Señor: Si algún hermano tiene mujer infiel, y ella consiente en habitar con él, no la despida.\n13. Y la mujer que tiene marido infiel, y él consiente en habitar con ella, no lo deje."
+            }
+          ]
+        },
+        {
+          "inciso": "q",
+          "citas": [
+            {
+              "cita": "Ez. 16:49",
+              "Pasaje": "49. He aquí que esta fué la maldad de Sodoma tu hermana: soberbia, hartura de pan, y abundancia de ociosidad tuvo ella y sus hijas; y no corroboró la mano del afligido y del menesteroso."
+            },
+            {
+              "cita": "Prov. 23:30-33",
+              "Pasaje": "30. Para los que se detienen mucho en el vino, para los que van buscando la mistura.\n31. No mires al vino cuando rojea, cuando resplandece su color en el vaso: éntrase suavemente;\n32. [Mas] al fin como serpiente morderá, y como basilisco dará dolor:\n33. Tus ojos mirarán las extrañas, y tu corazón hablará perversidades."
+            }
+          ]
+        },
+        {
+          "inciso": "r",
+          "citas": [
+            {
+              "cita": "Gén. 39:19",
+              "Pasaje": "19. Y sucedió que como oyó su señor las palabras que su mujer le hablara, diciendo: Así me ha tratado tu siervo; encendióse su furor."
+            },
+            {
+              "cita": "Prov. 5:8",
+              "Pasaje": "8. Aleja de ella tu camino, y no te acerques á la puerta de su casa;"
+            }
+          ]
+        },
+        {
+          "inciso": "s",
+          "citas": [
+            {
+              "cita": "Ef. 5:4",
+              "Pasaje": "4. Ni palabras torpes, ni necedades, ni truhanerías, que no convienen; sino antes bien acciones de gracias."
+            },
+            {
+              "cita": "Ez. 23:14-16",
+              "Pasaje": "14. Y aumentó sus fornicaciones: pues cuando vió hombres pintados en la pared, imágenes de Caldeos pintadas de color,\n15. Ceñidos de talabartes por sus lomos, y tiaras pintadas en sus cabezas, teniendo todos ellos parecer de capitanes, á la manera de los hombres de Babilonia, nacidos en tierra de Caldeos,\n16. Enamoróse de ellos en viéndolos, y envióles mensajeros á la tierra de los Caldeos."
+            },
+            {
+              "cita": "Isa. 23:15-17",
+              "Pasaje": "15. Y acontecerá en aquel día, que Tiro será puesta en olvido por setenta años, como días de un rey. Después de los setenta años, cantará Tiro canción como de ramera.\n16. Toma arpa, y rodea la ciudad, oh ramera olvidada: haz buena melodía, reitera la canción, porque tornes en memoria.\n17. Y acontecerá, que al fin de los setenta años visitará Jehová á Tiro: y tornaráse á su ganancia, y otra vez fornicará con todos los reinos de la tierra sobre la haz de la tierra."
+            },
+            {
+              "cita": "Isa. 3:16",
+              "Pasaje": "16. Asimismo dice Jehová: Por cuanto las hijas de Sión se ensoberbecen, y andan cuellierguidas y los ojos descompuestos; cuando andan van danzando, y haciendo son con los pies:"
+            },
+            {
+              "cita": "Mar. 6:22",
+              "Pasaje": "22. Y entrando la hija de Herodías, y danzando, y agradando á Herodes y á los que estaban con él á la mesa, el rey dijo á la muchacha: Pídeme lo que quisieres, que yo te lo daré."
+            },
+            {
+              "cita": "Rom. 13:13",
+              "Pasaje": "13. Andemos como de día, honestamente: no en glotonerías y borracheras, no en lechos y disoluciones, no en pedencias y envidia:"
+            },
+            {
+              "cita": "1 Ped. 4:3",
+              "Pasaje": "3. Porque nos debe bastar que el tiempo pasado de nuestra vida hayamos hecho la voluntad de los Gentiles, cuando conversábamos en lascivias, en concupiscencias, en embriagueces, en glotonerías, en banquetes, y en abominables idolatrías."
+            }
+          ]
+        },
+        {
+          "inciso": "t",
+          "citas": [
+            {
+              "cita": "2 Rey. 9:30",
+              "Pasaje": "30. Vino después Jehú á Jezreel: y como Jezabel lo oyó, adornó sus ojos con alcohol, y atavió su cabeza, y asomóse á una ventana."
+            },
+            {
+              "cita": "Jer. 4:30",
+              "Pasaje": "30. Y tú, destruída, ¿qué harás? Bien que te vistas de grana, aunque te adornes con atavíos de oro, aunque pintes con antimonio tus ojos, en vano te engalanas; menospreciáronte los amadores, buscarán tu alma."
+            },
+            {
+              "cita": "Ez. 23:40",
+              "Pasaje": "40. Y cuanto más, que enviaron por hombres que vienen de lejos, á los cuales había sido enviado mensajero: y he aquí vinieron; y por amor de ellos te lavaste, y alcoholaste tus ojos, y te ataviaste con adornos:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 140,
+      "pregunta": "¿Cuál es el octavo mandamiento?",
+      "respuesta": "El octavo mandamiento es: No hurtarás.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Éx. 20:15",
+              "Pasaje": "15. No hurtarás."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 141,
+      "pregunta": "¿Cuáles son los deberes requeridos en el octavo mandamiento?",
+      "respuesta": "Los deberes requeridos en el octavo mandamiento son: la verdad, la fidelidad y la justicia en los contratos y en el comercio entre los hombres; el dar a cada uno lo que le corresponde; la restitución de los bienes retenidos ilícitamente a sus legítimos dueños; el dar y prestar generosamente, según nuestras posibilidades y las necesidades de otros; la moderación de nuestros juicios, voluntades y afectos respecto de los bienes mundanos; un cuidado previsor y empeño en obtener, conservar, usar y disponer de aquellas cosas que son necesarias y convenientes para el sustento de nuestra naturaleza y adecuadas a nuestra condición; una vocación lícita y la diligencia en ella; la frugalidad; el evitar pleitos innecesarios, las fianzas u otros compromisos semejantes; y el esforzarnos, por todos los medios justos y lícitos, en procurar, conservar y aumentar la riqueza y el estado exterior de otros, así como los nuestros.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Sal. 15:2,4",
+              "Pasaje": "2. El que anda en integridad, y obra justicia, y habla verdad en su corazón.\n4. Aquel á cuyos ojos es menospreciado el vil; mas honra á los que temen á Jehová: [y] habiendo jurado en daño suyo, no por eso muda."
+            },
+            {
+              "cita": "Zac. 7:4,10",
+              "Pasaje": "4. Fué pues á mí palabra de Jehová de los ejércitos, diciendo:\n10. No agraviéis á la viuda, ni al huérfano, ni al extranjero, ni al pobre; ni ninguno piense mal en su corazón contra su hermano."
+            },
+            {
+              "cita": "Zac. 8:16-17",
+              "Pasaje": "16. Estas son las cosas que habéis de hacer: Hablad verdad cada cual con su prójimo; juzgad en vuestras puertas verdad y juicio de paz:\n17. Y ninguno de vosotros piense mal en su corazón contra su prójimo, ni améis juramento falso: porque todas estas son cosas que aborrezco, dice Jehová."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Lev. 6:2-5",
+              "Pasaje": "2. Cuando una persona pecare, é hiciere prevaricación contra Jehová, y negare á su prójimo lo encomendado, ó dejado en su mano, ó bien robare, ó calumniare á su prójimo;\n3. O sea que hallando lo perdido, después lo negare, y jurare en falso, en alguna de todas aquellas cosas en que suele pecar el hombre:\n4. Entonces será que, puesto habrá pecado y ofendido, restituirá aquello que robó, ó por el daño de la calumnia, ó el depósito que se le encomendó, ó lo perdido que halló,\n5. O todo aquello sobre que hubiere jurado falsamente; lo restituirá, pues, por entero, y añadirá á ello la quinta parte, que ha de pagar á aquel á quien pertenece en el día de su expiación."
+            },
+            {
+              "cita": "Luc. 19:8",
+              "Pasaje": "8. Entonces Zaqueo, puesto en pie, dijo al Señor: He aquí, Señor, la mitad de mis bienes doy á los pobres; y si en algo he defraudado á alguno, lo vuelvo con el cuatro tanto."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Luc. 6:30,38",
+              "Pasaje": "30. Y á cualquiera que te pidiere, da; y al que tomare lo que es tuyo, no vuelvas á pedir.\n38. Dad, y se os dará; medida buena, apretada, remecida, y rebosando darán en vuestro seno: porque con la misma medida que midiereis, os será vuelto á medir."
+            },
+            {
+              "cita": "1 Jn. 3:17",
+              "Pasaje": "17. Mas el que tuviere bienes de este mundo, y viere á su hermano tener necesidad, y le cerrare sus entrañas, ¿cómo está el amor de Dios en él?"
+            },
+            {
+              "cita": "Ef. 4:28",
+              "Pasaje": "28. El que hurtaba, no hurte más; antes trabaje, obrando con sus manos lo que es bueno, para que tenga de qué dar al que padeciere necesidad."
+            },
+            {
+              "cita": "Gál. 6:10",
+              "Pasaje": "10. Así que, entre tanto que tenemos tiempo, hagamos bien á todos, y mayormente á los domésticos de la fe."
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "1 Tim. 6:6-9",
+              "Pasaje": "6. Empero grande granjería es la piedad con contentamiento.\n7. Porque nada hemos traído á este mundo, y sin duda nada podremos sacar.\n8. Así que, teniendo sustento y con qué cubrirnos, seamos contentos con esto.\n9. Porque los que quieren enriquecerse, caen en tentación y lazo, y en muchas codicias locas y dañosas, que hunden á los hombres en perdición y muerte."
+            },
+            {
+              "cita": "Gál. 6:14",
+              "Pasaje": "14. Mas lejos esté de mí gloriarme, sino en la cruz de nuestro Señor Jesucristo, por el cual el mundo me es crucificado á mí, y yo al mundo."
+            }
+          ]
+        },
+        {
+          "inciso": "e",
+          "citas": [
+            {
+              "cita": "1 Tim. 5:8",
+              "Pasaje": "8. Y si alguno no tiene cuidado de los suyos, y mayormente de los de su casa, la fe negó, y es peor que un infiel."
+            },
+            {
+              "cita": "Prov. 27:23-27",
+              "Pasaje": "23. Considera atentamente el aspecto de tus ovejas; pon tu corazón á tus rebaños:\n24. Porque las riquezas no son para siempre; ¿y [será] la corona para perpetuas generaciones?\n25. Saldrá la grama, aparecerá la hierba, y segaránse las hierbas de los montes.\n26. Los corderos para tus vestidos, y los cabritos para el precio del campo:\n27. Y abundancia de leche de las cabras para tu mantenimiento, y para mantenimiento de tu casa, y para sustento de tus criadas."
+            },
+            {
+              "cita": "Ecl. 2:24",
+              "Pasaje": "24. No hay cosa mejor para el hombre [sino] que coma y beba, y que su alma vea el bien de su trabajo. También tengo yo visto que esto es de la mano de Dios."
+            },
+            {
+              "cita": "Ecl. 3:12-13",
+              "Pasaje": "12. Yo he conocido que no hay mejor para ellos, que alegrarse, y hacer bien en su vida:\n13. Y también que es don de Dios que todo hombre coma y beba, y goce el bien de toda su labor."
+            },
+            {
+              "cita": "1 Tim. 6:17-18",
+              "Pasaje": "17. A los ricos de este siglo manda que no sean altivos, ni pongan la esperanza en la incertidumbre de las riquezas, sino en el Dios vivo, que nos da todas las cosas en abundancia de que gocemos:\n18. Que hagan bien, que sean ricos en buenas obras, dadivosos, que con facilidad comuniquen;"
+            },
+            {
+              "cita": "Isa. 38:1",
+              "Pasaje": "1. EN aquellos días cayó Ezechîas enfermo para morir. Y vino á él Isaías profeta, hijo de Amoz, y díjole: Jehová dice así: Ordena tu casa, porque tú morirás, y no vivirás."
+            },
+            {
+              "cita": "Mat. 11:8",
+              "Pasaje": "8. Mas ¿qué salisteis á ver? ¿un hombre cubierto de delicados [vestidos]? He aquí, los que traen [vestidos] delicados, en las casas de los reyes están."
+            }
+          ]
+        },
+        {
+          "inciso": "f",
+          "citas": [
+            {
+              "cita": "1 Cor. 7:20",
+              "Pasaje": "20. Cada uno en la vocación en que fué llamado, en ella se quede."
+            },
+            {
+              "cita": "Gén. 2:15",
+              "Pasaje": "15. Tomó, pues, Jehová Dios al hombre, y le puso en el huerto de Edén, para que lo labrara y lo guardase."
+            },
+            {
+              "cita": "Gén. 3:19",
+              "Pasaje": "19. En el sudor de tu rostro comerás el pan hasta que vuelvas á la tierra; porque de ella fuiste tomado: pues polvo eres, y al polvo serás tornado."
+            }
+          ]
+        },
+        {
+          "inciso": "g",
+          "citas": [
+            {
+              "cita": "Ef. 4:28",
+              "Pasaje": "28. El que hurtaba, no hurte más; antes trabaje, obrando con sus manos lo que es bueno, para que tenga de qué dar al que padeciere necesidad."
+            },
+            {
+              "cita": "Prov. 10:4",
+              "Pasaje": "4. La mano negligente hace pobre: mas la mano de los diligentes enriquece."
+            }
+          ]
+        },
+        {
+          "inciso": "h",
+          "citas": [
+            {
+              "cita": "Jn. 6:12",
+              "Pasaje": "12. Y como fueron saciados, dijo á sus discípulos: Recoged los pedazos que han quedado, porque no se pierda nada."
+            },
+            {
+              "cita": "Prov. 21:20",
+              "Pasaje": "20. Tesoro codiciable y pingüe hay en la casa del sabio; mas el hombre insensato lo disipará."
+            }
+          ]
+        },
+        {
+          "inciso": "i",
+          "citas": [
+            {
+              "cita": "1 Cor. 6:1-9",
+              "Pasaje": "1. ¿OSA alguno de vosotros, teniendo algo con otro, ir á juicio delante de los injustos, y no delante de los santos?\n2. ¿O no sabéis que los santos han de juzgar al mundo? Y si el mundo ha de ser juzgado por vosotros, ¿sois indignos de juzgar cosas muy pequeñas?\n3. ¿O no sabéis que hemos de juzgar á los ángeles? ¿cuánto más las cosas de este siglo?\n4. Por tanto, si hubiereis de tener juicios de cosas de este siglo, poned para juzgar á los que son de menor estima en la iglesia.\n5. Para avergonzaros lo digo. ¿Pues qué, no hay entre vosotros sabio, ni aun uno que pueda juzgar entre sus hermanos;\n6. Sino que el hermano con el hermano pleitea en juicio, y esto ante los infieles?\n7. Así que, por cierto es ya una falta en vosotros que tengáis pleitos entre vosotros mismos. ¿Por qué no sufrís antes la injuria? ¿por qué no [sufrís] antes ser defraudados?\n8. Empero vosotros hacéis la injuria, y defraudáis, y esto á los hermanos.\n9. ¿No sabéis que los injustos no poseerán el reino de Dios? No erréis, que ni los fornicarios, ni los idólatras, ni los adúlteros, ni los afeminados, ni los que se echan con varones,"
+            }
+          ]
+        },
+        {
+          "inciso": "k",
+          "citas": [
+            {
+              "cita": "Prov. 6:1-6",
+              "Pasaje": "1. HIJO mío, si salieres fiador por tu amigo, si tocaste tu mano por el extraño,\n2. Enlazado eres con las palabras de tu boca, y preso con las razones de tu boca.\n3. Haz esto ahora, hijo mío, y líbrate, ya que has caído en la mano de tu prójimo: ve, humíllate, y asegúrate de tu amigo.\n4. No des sueño á tus ojos, ni á tus párpados adormecimiento.\n5. Escápate como el corzo de la mano [del cazador], y como el ave de la mano del parancero.\n6. Ve á la hormiga, oh perezoso, mira sus caminos, y sé sabio;"
+            },
+            {
+              "cita": "Prov. 11:15",
+              "Pasaje": "15. Con ansiedad será afligido el que fiare al extraño: mas el que aborreciere las fianzas [vivirá] confiado."
+            }
+          ]
+        },
+        {
+          "inciso": "l",
+          "citas": [
+            {
+              "cita": "Lev. 25:35",
+              "Pasaje": "35. Y cuando tu hermano empobreciere, y se acogiere á ti, tú lo ampararás: como peregrino y extranjero vivirá contigo."
+            },
+            {
+              "cita": "Deut. 22:1-4",
+              "Pasaje": "1. NO verás el buey de tu hermano, ó su cordero, perdidos, y te retirarás de ellos: precisamente los volverás á tu hermano.\n2. Y si tu hermano no fuere tu vecino, ó no le conocieres, los recogerás en tu casa, y estarán contigo hasta que tu hermano los busque, y se los devolverás.\n3. Y así harás de su asno, así harás también de su vestido, y lo mismo harás con toda cosa perdida de tu hermano que se le perdiere, y tú la hallares: no podrás retraerte [de ello].\n4. No verás el asno de tu hermano, ó su buey, caídos en el camino, y te esconderás de ellos: con él has de procurar levantarlos."
+            },
+            {
+              "cita": "Éx. 23:4-5",
+              "Pasaje": "4. Si encontrares el buey de tu enemigo ó su asno extraviado, vuelve á llevárselo.\n5. Si vieres el asno del que te aborrece caído debajo de su carga, ¿le dejarás entonces desamparado? Sin falta ayudarás con él á levantarlo."
+            },
+            {
+              "cita": "Gén. 47:14,20",
+              "Pasaje": "14. Y recogió José todo el dinero que se halló en la tierra de Egipto y en la tierra de Canaán, por los alimentos que de él compraban; y metió José el dinero en casa de Faraón.\n20. Entonces compró José toda la tierra de Egipto para Faraón; pues los Egipcios vendieron cada uno sus tierras, porque se agravó el hambre sobre ellos: y la tierra vino á ser de Faraón."
+            },
+            {
+              "cita": "Fil. 2:4",
+              "Pasaje": "4. No mirando cada uno á lo suyo propio, sino cada cual también á lo de los otros."
+            },
+            {
+              "cita": "Mat. 22:39",
+              "Pasaje": "39. Y el segundo es semejante á éste: Amarás á tu prójimo como á ti mismo."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 142,
+      "pregunta": "¿Cuáles son los pecados prohibidos en el octavo mandamiento?",
+      "respuesta": "Los pecados prohibidos en el octavo mandamiento, además del descuido de los deberes requeridos, son: el hurto, el robo, el secuestro de personas y el recibir cualquier cosa robada; el trato fraudulento, las pesas y medidas falsas, el remover los linderos, la injusticia y la infidelidad en los contratos entre los hombres o en los asuntos de confianza; la opresión, la extorsión, la usura, el soborno, los pleitos vejatorios, los cercamientos injustos de tierras y las despoblaciones; el acaparar mercancías para encarecer el precio; las vocaciones ilícitas, y todas las demás maneras injustas o pecaminosas de quitar o retener a nuestro prójimo lo que le pertenece, o de enriquecernos a nosotros mismos; la avaricia; el estimar y desear desordenadamente los bienes mundanos; las preocupaciones y afanes desconfiados y que distraen al obtenerlos, conservarlos y usarlos; la envidia ante la prosperidad de otros; así como también la ociosidad, la prodigalidad, los juegos de azar que derrochan; y todas las demás maneras por las cuales perjudicamos indebidamente nuestro propio estado exterior, y el defraudarnos a nosotros mismos del debido uso y consuelo de aquel estado que Dios nos ha dado.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Sant. 2:15-16",
+              "Pasaje": "15. Y si el hermano ó la hermana están desnudos, y tienen necesidad del mantenimiento de cada día,\n16. Y alguno de vosotros les dice: Id en paz, calentaos y hartaos; pero no les diereis las cosas que son necesarias para el cuerpo: ¿qué aprovechará?"
+            },
+            {
+              "cita": "1 Jn. 3:17",
+              "Pasaje": "17. Mas el que tuviere bienes de este mundo, y viere á su hermano tener necesidad, y le cerrare sus entrañas, ¿cómo está el amor de Dios en él?"
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Ef. 4:28",
+              "Pasaje": "28. El que hurtaba, no hurte más; antes trabaje, obrando con sus manos lo que es bueno, para que tenga de qué dar al que padeciere necesidad."
+            },
+            {
+              "cita": "Sal. 62:10",
+              "Pasaje": "10. No confiéis en la violencia, ni en la rapiña; no os envanezcáis: si se aumentare la hacienda, no pongáis el corazón [en ella]."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "1 Tim. 1:10",
+              "Pasaje": "10. Para los fornicarios, para los sodomitas, para los ladrones de hombres, para los mentirosos y perjuros, y si hay alguna otra cosa contraria á la sana doctrina;"
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "Prov. 29:24",
+              "Pasaje": "24. El aparcero del ladrón aborrece su vida; oirá maldiciones, y no [lo] denunciará."
+            },
+            {
+              "cita": "Sal. 50:18",
+              "Pasaje": "18. Si veías al ladrón, tú corrías con él; y con los adúlteros era tu parte."
+            }
+          ]
+        },
+        {
+          "inciso": "e",
+          "citas": [
+            {
+              "cita": "1 Tes. 4:6",
+              "Pasaje": "6. Que ninguno oprima, ni engañe en nada á su hermano: porque el Señor es vengador de todo esto, como ya os hemos dicho y protestado."
+            }
+          ]
+        },
+        {
+          "inciso": "f",
+          "citas": [
+            {
+              "cita": "Prov. 11:1",
+              "Pasaje": "1. EL peso falso abominación es á Jehová: mas la pesa cabal le agrada."
+            },
+            {
+              "cita": "Prov. 20:10",
+              "Pasaje": "10. Doble pesa y doble medida, abominación son á Jehová ambas cosas."
+            }
+          ]
+        },
+        {
+          "inciso": "g",
+          "citas": [
+            {
+              "cita": "Deut. 19:14",
+              "Pasaje": "14. No reducirás el término de tu prójimo, el cual señalaron los antiguos en tu heredad, la que poseyeres en la tierra que Jehová tu Dios te da para que la poseas."
+            },
+            {
+              "cita": "Prov. 23:10",
+              "Pasaje": "10. No traspases el término antiguo, ni entres en la heredad de los huérfanos:"
+            }
+          ]
+        },
+        {
+          "inciso": "h",
+          "citas": [
+            {
+              "cita": "Amós 8:5",
+              "Pasaje": "5. Diciendo: ¿Cuándo pasará el mes, y venderemos el trigo; y la semana, y abriremos [los alfolíes] del pan, y achicaremos la medida, y engrandeceremos el precio, y falsearemos el peso engañoso;"
+            },
+            {
+              "cita": "Sal. 37:21",
+              "Pasaje": "21. El impío toma prestado, y no paga; mas el justo tiene misericordia, y da."
+            }
+          ]
+        },
+        {
+          "inciso": "i",
+          "citas": [
+            {
+              "cita": "Luc. 16:10-12",
+              "Pasaje": "10. El que es fiel en lo muy poco, también en lo más es fiel: y el que en lo muy poco es injusto, también en lo más es injusto.\n11. Pues si en las malas riquezas no fuisteis fieles, ¿quién os confiará lo verdadero?\n12. Y si en lo ajeno no fuisteis fieles, ¿quién os dará lo que es vuestro?"
+            }
+          ]
+        },
+        {
+          "inciso": "k",
+          "citas": [
+            {
+              "cita": "Ez. 22:29",
+              "Pasaje": "29. El pueblo de la tierra usaba de opresión, y cometía robo, y al afligido y menesteroso hacían violencia, y al extranjero oprimían sin derecho."
+            },
+            {
+              "cita": "Lev. 25:17",
+              "Pasaje": "17. Y no engañe ninguno á su prójimo; mas tendrás temor de tu Dios: porque yo soy Jehová vuestro Dios."
+            }
+          ]
+        },
+        {
+          "inciso": "l",
+          "citas": [
+            {
+              "cita": "Mat. 23:25",
+              "Pasaje": "25. ¡Ay de vosotros, escribas y Fariseos, hipócritas! porque limpiáis lo que está de fuera del vaso y del plato; mas de dentro están llenos de robo y de injusticia."
+            },
+            {
+              "cita": "Ez. 22:12",
+              "Pasaje": "12. Precio recibieron en ti para derramar sangre; usura y logro tomaste, y á tus prójimos defraudaste con violencia: olvidástete de mí, dice el Señor Jehová."
+            }
+          ]
+        },
+        {
+          "inciso": "m",
+          "citas": [
+            {
+              "cita": "Sal. 15:5",
+              "Pasaje": "5. Quien su dinero no dió á usura, ni contra el inocente tomó cohecho. El que hace estas cosas, no resbalará para siempre."
+            }
+          ]
+        },
+        {
+          "inciso": "n",
+          "citas": [
+            {
+              "cita": "Job 15:34",
+              "Pasaje": "34. Porque la sociedad de los hipócritas será asolada, y fuego consumirá las tiendas de soborno."
+            }
+          ]
+        },
+        {
+          "inciso": "o",
+          "citas": [
+            {
+              "cita": "1 Cor. 6:6-8",
+              "Pasaje": "6. Sino que el hermano con el hermano pleitea en juicio, y esto ante los infieles?\n7. Así que, por cierto es ya una falta en vosotros que tengáis pleitos entre vosotros mismos. ¿Por qué no sufrís antes la injuria? ¿por qué no [sufrís] antes ser defraudados?\n8. Empero vosotros hacéis la injuria, y defraudáis, y esto á los hermanos."
+            },
+            {
+              "cita": "Prov. 3:29-30",
+              "Pasaje": "29. No intentes mal contra tu prójimo, estando él confiado de ti.\n30. No pleitees con alguno sin razón, si él no te ha hecho agravio."
+            }
+          ]
+        },
+        {
+          "inciso": "p",
+          "citas": [
+            {
+              "cita": "Isa. 5:8",
+              "Pasaje": "8. ¡Ay de los que juntan casa con casa, y allegan heredad á heredad hasta acabar el término! ¿Habitaréis vosotros solos en medio de la tierra?"
+            },
+            {
+              "cita": "Miq. 2:2",
+              "Pasaje": "2. Y codiciaron las heredades, y robáronlas: y casas, y las tomaron: oprimieron al hombre y á su casa, al hombre y á su heredad."
+            }
+          ]
+        },
+        {
+          "inciso": "q",
+          "citas": [
+            {
+              "cita": "Prov. 11:26",
+              "Pasaje": "26. Al que retiene el grano, el pueblo lo maldecirá: mas bendición será sobre la cabeza del que vende."
+            }
+          ]
+        },
+        {
+          "inciso": "r",
+          "citas": [
+            {
+              "cita": "Hech. 19:19,24-25",
+              "Pasaje": "19. Asimismo muchos de los que habían practicado vanas artes, trajeron los libros, y los quemaron delante de todos; y echada la cuenta del precio de ellos, hallaron [ser] cincuenta mil denarios.\n24. Porque un platero llamado Demetrio, el cual hacía de plata templecillos de Diana, daba á los artífices no poca ganancia;\n25. A los cuales, reunidos con los oficiales de semejante oficio, dijo: Varones, sabéis que de este oficio tenemos ganancia;"
+            }
+          ]
+        },
+        {
+          "inciso": "s",
+          "citas": [
+            {
+              "cita": "Job 20:19",
+              "Pasaje": "19. Por cuanto quebrantó y desamparó á los pobres, robó casas, y no las edificó;"
+            },
+            {
+              "cita": "Sant. 5:4",
+              "Pasaje": "4. He aquí, el jornal de los obreros que han segado vuestras tierras, el cual por engaño no les ha sido pagado de vosotros, clama; y los clamores de los que habían segado, han entrado en los oídos del Señor de los ejércitos."
+            },
+            {
+              "cita": "Prov. 21:6",
+              "Pasaje": "6. Allegar tesoros con lengua de mentira, es vanidad desatentada de aquellos que buscan la muerte."
+            }
+          ]
+        },
+        {
+          "inciso": "t",
+          "citas": [
+            {
+              "cita": "Luc. 12:15",
+              "Pasaje": "15. Y díjoles: Mirad, y guardaos de toda avaricia; porque la vida del hombre no consiste en la abundancia de los bienes que posee."
+            }
+          ]
+        },
+        {
+          "inciso": "u",
+          "citas": [
+            {
+              "cita": "1 Tim. 6:5",
+              "Pasaje": "5. Porfías de hombres corruptos de entendimiento y privados de la verdad, que tienen la piedad por granjería: apártate de los tales."
+            },
+            {
+              "cita": "Col. 3:2",
+              "Pasaje": "2. Poned la mira en las cosas de arriba, no en las de la tierra."
+            },
+            {
+              "cita": "Prov. 23:5",
+              "Pasaje": "5. ¿Has de poner tus ojos en las riquezas, siendo ningunas? porque hacerse han alas, como alas de águila, y volarán al cielo."
+            },
+            {
+              "cita": "Sal. 62:10",
+              "Pasaje": "10. No confiéis en la violencia, ni en la rapiña; no os envanezcáis: si se aumentare la hacienda, no pongáis el corazón [en ella]."
+            }
+          ]
+        },
+        {
+          "inciso": "v",
+          "citas": [
+            {
+              "cita": "Mat. 6:25,31,34",
+              "Pasaje": "25. Por tanto os digo: No os congojéis por vuestra vida, qué habéis de comer, ó qué habéis de beber; ni por vuestro cuerpo, qué habéis de vestir: ¿no es la vida más que el alimento, y el cuerpo que el vestido?\n31. No os congojéis pues, diciendo: ¿Qué comeremos, ó qué beberemos, ó con qué nos cubriremos?\n34. Así que, no os congojéis por el día de mañana; que el día de mañana traerá su fatiga: basta al día su afán."
+            },
+            {
+              "cita": "Ecl. 5:12",
+              "Pasaje": "12. Dulce es el sueño del trabajador, ora coma mucho ó poco; mas al rico no le deja dormir la hartura."
+            }
+          ]
+        },
+        {
+          "inciso": "w",
+          "citas": [
+            {
+              "cita": "Sal. 73:3",
+              "Pasaje": "3. Porque tuve envidia de los insensatos, viendo la prosperidad de los impíos."
+            },
+            {
+              "cita": "Sal. 37:1,7",
+              "Pasaje": "1. Salmo de David. NO te impacientes á causa de los malignos, ni tengas envidia de los que hacen iniquidad.\n7. Calla á Jehová, y espera en él: no te alteres con motivo del que prospera en su camino, por el hombre que hace maldades."
+            }
+          ]
+        },
+        {
+          "inciso": "x",
+          "citas": [
+            {
+              "cita": "2 Tes. 3:11",
+              "Pasaje": "11. Porque oímos que andan algunos entre vosotros fuera de orden, no trabajando en nada, sino ocupados en curiosear."
+            },
+            {
+              "cita": "Prov. 18:9",
+              "Pasaje": "9. También el que es negligente en su obra es hermano del hombre disipador."
+            }
+          ]
+        },
+        {
+          "inciso": "y",
+          "citas": [
+            {
+              "cita": "Prov. 21:17",
+              "Pasaje": "17. Hombre necesitado será el que ama el deleite: y el que ama el vino y ungüentos no enriquecerá."
+            },
+            {
+              "cita": "Prov. 23:20-21",
+              "Pasaje": "20. No estés con los bebedores de vino, ni con los comedores de carne:\n21. Porque el bebedor y el comilón empobrecerán: y el sueño hará vestir vestidos rotos."
+            },
+            {
+              "cita": "Prov. 28:19",
+              "Pasaje": "19. El que labra su tierra, se hartará de pan: mas el que sigue los ociosos, se hartará de pobreza."
+            }
+          ]
+        },
+        {
+          "inciso": "z",
+          "citas": [
+            {
+              "cita": "Ecl. 4:8",
+              "Pasaje": "8. Está un hombre solo y sin sucesor; que ni tiene hijo ni hermano; mas nunca cesa de trabajar, ni sus ojos se hartan de sus riquezas, [ni se pregunta]: ¿Para quién trabajo yo, y defraudo mi alma del bien? También esto es vanidad, y duro trabajo."
+            },
+            {
+              "cita": "Ecl. 6:2",
+              "Pasaje": "2. Hombre á quien Dios dió riquezas, y hacienda, y honra, y nada le falta de todo lo que su alma desea; mas Dios no le dió facultad de comer de ello, sino que los extraños se lo comen. Esto vanidad es, y enfermedad trabajosa."
+            },
+            {
+              "cita": "1 Tim. 5:8",
+              "Pasaje": "8. Y si alguno no tiene cuidado de los suyos, y mayormente de los de su casa, la fe negó, y es peor que un infiel."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 143,
+      "pregunta": "¿Cuál es el noveno mandamiento?",
+      "respuesta": "El noveno mandamiento es: No hablarás contra tu prójimo falso testimonio.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Éx. 20:16",
+              "Pasaje": "16. No hablarás contra tu prójimo falso testimonio."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 144,
+      "pregunta": "¿Cuáles son los deberes requeridos en el noveno mandamiento?",
+      "respuesta": "Los deberes requeridos en el noveno mandamiento son: preservar y promover la verdad entre los hombres, y el buen nombre de nuestro prójimo, así como el nuestro; el comparecer y mantenerse firme por la verdad; y el hablar de corazón la verdad, y solamente la verdad, sincera, libre, clara y plenamente, en asuntos de juicio y justicia y en todas las demás cosas; una estima caritativa de nuestro prójimo; el amar, desear y regocijarnos en su buen nombre; el entristecernos por sus flaquezas y cubrirlas; el reconocer libremente sus dones y gracias, y defender su inocencia; el recibir de buena gana un buen informe acerca de ellos, y el resistirnos a admitir un mal informe; el desalentar a los chismosos, aduladores y calumniadores; el amor y cuidado de nuestro propio buen nombre, y el defenderlo cuando sea necesario; el cumplir las promesas lícitas; el procurar y practicar todo lo que es verdadero, honesto, amable y de buen nombre.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Zac. 8:16",
+              "Pasaje": "16. Estas son las cosas que habéis de hacer: Hablad verdad cada cual con su prójimo; juzgad en vuestras puertas verdad y juicio de paz:"
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "3 Jn. 1:12",
+              "Pasaje": "12. Todos dan testimonio de Demetrio, y [aun] la misma verdad: y también nosotros damos testimonio; y vosotros habéis conocido que nuestro testimonio es verdadero."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Prov. 31:8-9",
+              "Pasaje": "8. Abre tu boca por el mudo, en el juicio de todos los hijos de muerte.\n9. Abre tu boca, juzga justicia, y el derecho del pobre y del menesteroso."
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "Sal. 15:2",
+              "Pasaje": "2. El que anda en integridad, y obra justicia, y habla verdad en su corazón."
+            },
+            {
+              "cita": "2 Crón. 19:9",
+              "Pasaje": "9. Y mandóles, diciendo: Procederéis asimismo con temor de Jehová, con verdad, y con corazón íntegro."
+            },
+            {
+              "cita": "1 Sam. 19:4-5",
+              "Pasaje": "4. Y Jonathán habló bien de David á Saúl su padre, y díjole: No peque el rey contra su siervo David, pues que ninguna cosa ha cometido contra ti: antes sus obras te han sido muy buenas;\n5. Porque él puso su alma en su palma, é hirió al Filisteo, y Jehová hizo una gran salud á todo Israel. Tú lo viste, y te holgaste: ¿por qué pues pecarás contra la sangre inocente, matando á David sin causa?"
+            },
+            {
+              "cita": "Jos. 7:19",
+              "Pasaje": "19. Entonces Josué dijo á Achân: Hijo mío, da gloria ahora á Jehová el Dios de Israel, y dale alabanza, y declárame ahora lo que has hecho; no me lo encubras."
+            },
+            {
+              "cita": "2 Sam. 14:18-20",
+              "Pasaje": "18. Entonces él respondió, y dijo á la mujer: Yo te ruego que no me encubras nada de lo que yo te preguntare. Y la mujer dijo: Hable mi señor el rey.\n19. Y el rey dijo: ¿No ha sido la mano de Joab contigo en todas estas cosas? Y la mujer respondió y dijo: Vive tu alma, rey señor mío, que no hay que apartarse á derecha ni á izquierda de todo lo que mi señor el rey ha hablado: porque tu siervo Joab, él me mandó, y él puso en boca de tu sierva todas estas palabras;\n20. Y que trocara la forma de las palabras, Joab tu siervo lo ha hecho: mas mi señor es sabio, conforme á la sabiduría de un ángel de Dios, para conocer lo que hay en la tierra."
+            },
+            {
+              "cita": "Lev. 19:15",
+              "Pasaje": "15. No harás agravio en el juicio: no tendrás respeto al pobre, ni honrarás la cara del grande: con justicia juzgarás á tu prójimo."
+            },
+            {
+              "cita": "2 Cor. 1:17-18",
+              "Pasaje": "17. Así que, pretendiendo esto, ¿usé quizá de liviandad? ó lo que pienso hacer, ¿piénsolo según la carne, para que haya en mí Sí y No?\n18. Antes, Dios fiel [sabe] que nuestra palabra para con vosotros no es Sí y No."
+            },
+            {
+              "cita": "Ef. 4:25",
+              "Pasaje": "25. Por lo cual, dejada la mentira, hablad verdad cada uno con su prójimo; porque somos miembros los unos de los otros."
+            }
+          ]
+        },
+        {
+          "inciso": "e",
+          "citas": [
+            {
+              "cita": "Heb. 6:9",
+              "Pasaje": "9. Pero de vosotros, oh amados, esperamos mejores cosas, y más cercanas á salud, aunque hablamos así."
+            },
+            {
+              "cita": "1 Cor. 13:7",
+              "Pasaje": "7. Todo lo sufre, todo lo cree, todo lo espera, todo lo soporta."
+            }
+          ]
+        },
+        {
+          "inciso": "f",
+          "citas": [
+            {
+              "cita": "Rom. 1:8",
+              "Pasaje": "8. Primeramente, doy gracias á mi Dios por Jesucristo acerca de todos vosotros, de que vuestra fe es predicada en todo el mundo."
+            },
+            {
+              "cita": "2 Jn. 1:4",
+              "Pasaje": "4. Mucho me he gozado, porque he hallado de tus hijos, que andan en verdad, como nosotros hemos recibido el mandamiento del Padre."
+            }
+          ]
+        },
+        {
+          "inciso": "g",
+          "citas": [
+            {
+              "cita": "2 Cor. 2:4",
+              "Pasaje": "4. Porque por la mucha tribulación y angustia del corazón os escribí con muchas lágrimas; no para que fueseis contristados, mas para que supieseis cuánto más amor tengo para con vosotros."
+            },
+            {
+              "cita": "2 Cor. 12:21",
+              "Pasaje": "21. Que cuando volviere, me humille Dios entre vosotros, y haya de llorar por muchos de los que antes habrán pecado, y no se han arrepentido de la inmundicia y fornicación y deshonestidad que han cometido."
+            }
+          ]
+        },
+        {
+          "inciso": "h",
+          "citas": [
+            {
+              "cita": "Prov. 17:9",
+              "Pasaje": "9. El que cubre la prevaricación, busca amistad: mas el que reitera la palabra, aparta al amigo."
+            },
+            {
+              "cita": "1 Ped. 4:8",
+              "Pasaje": "8. Y sobre todo, tened entre vosotros ferviente caridad; porque la caridad cubrirá multitud de pecados."
+            }
+          ]
+        },
+        {
+          "inciso": "i",
+          "citas": [
+            {
+              "cita": "1 Cor. 1:4-5,7",
+              "Pasaje": "4. Gracias doy á mi Dios siempre por vosotros, por la gracia de Dios que os es dada en Cristo Jesús;\n5. Que en todas las cosas sois enriquecidos en él, en toda lengua y en toda ciencia;\n7. De tal manera que nada os falte en ningún don, esperando la manifestación de nuestro Señor Jesucristo:"
+            },
+            {
+              "cita": "2 Tim. 1:4-5",
+              "Pasaje": "4. Deseando verte, acordándome de tus lágrimas, para ser lleno de gozo;\n5. Trayendo á la memoria la fe no fingida que hay en ti, la cual residió primero en tu abuela Loida, y en tu madre Eunice; y estoy cierto que en ti también."
+            }
+          ]
+        },
+        {
+          "inciso": "k",
+          "citas": [
+            {
+              "cita": "1 Sam. 22:14",
+              "Pasaje": "14. Entonces Ahimelech respondió al rey, y dijo: ¿Y quién entre todos tus siervos es tan fiel como David, yerno además del rey, y que va por tu mandado, y es ilustre en tu casa?"
+            }
+          ]
+        },
+        {
+          "inciso": "l",
+          "citas": [
+            {
+              "cita": "1 Cor. 13:6-7",
+              "Pasaje": "6. No se huelga de la injusticia, mas se huelga de la verdad;\n7. Todo lo sufre, todo lo cree, todo lo espera, todo lo soporta."
+            },
+            {
+              "cita": "Sal. 15:3",
+              "Pasaje": "3. El que no detrae con su lengua, ni hace mal á su prójimo, ni contra su prójimo acoge oprobio alguno."
+            }
+          ]
+        },
+        {
+          "inciso": "m",
+          "citas": [
+            {
+              "cita": "Prov. 25:23",
+              "Pasaje": "23. El viento del norte ahuyenta la lluvia, y el rostro airado la lengua detractora."
+            }
+          ]
+        },
+        {
+          "inciso": "n",
+          "citas": [
+            {
+              "cita": "Prov. 26:24-25",
+              "Pasaje": "24. Otro parece en los labios el que aborrece; mas en su interior pone engaño.\n25. Cuando hablare amigablemente, no le creas; porque siete abominaciones hay en su corazón."
+            }
+          ]
+        },
+        {
+          "inciso": "o",
+          "citas": [
+            {
+              "cita": "Sal. 101:5",
+              "Pasaje": "5. Al que solapadamente infama á su prójimo, yo le cortaré; no sufriré al de ojos altaneros, y de corazón vanidoso."
+            }
+          ]
+        },
+        {
+          "inciso": "p",
+          "citas": [
+            {
+              "cita": "Prov. 22:1",
+              "Pasaje": "1. DE más estima es la buena fama que las muchas riquezas; y la buena gracia más que la plata y el oro."
+            },
+            {
+              "cita": "Jn. 8:49",
+              "Pasaje": "49. Respondió Jesús: Yo no tengo demonio, antes honro á mi Padre; y vosotros me habéis deshonrado."
+            }
+          ]
+        },
+        {
+          "inciso": "q",
+          "citas": [
+            {
+              "cita": "Sal. 15:4",
+              "Pasaje": "4. Aquel á cuyos ojos es menospreciado el vil; mas honra á los que temen á Jehová: [y] habiendo jurado en daño suyo, no por eso muda."
+            }
+          ]
+        },
+        {
+          "inciso": "r",
+          "citas": [
+            {
+              "cita": "Fil. 4:8",
+              "Pasaje": "8. Por lo demás, hermanos, todo lo que es verdadero, todo lo honesto, todo lo justo, todo lo puro, todo lo amable, todo lo que es de buen nombre; si hay virtud alguna, si alguna alabanza, en esto pensad."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 145,
+      "pregunta": "¿Cuáles son los pecados prohibidos en el noveno mandamiento?",
+      "respuesta": "Los pecados prohibidos en el noveno mandamiento son: todo perjuicio a la verdad y al buen nombre de nuestro prójimo, así como al nuestro, especialmente en los tribunales públicos; el dar falso testimonio, sobornar testigos falsos, comparecer y abogar a sabiendas por una causa mala, desafiar y atropellar la verdad; el dictar sentencia injusta, llamar a lo malo bueno y a lo bueno malo; el recompensar al impío según la obra del justo, y al justo según la obra del impío; la falsificación, el ocultar la verdad, el silencio indebido en una causa justa, y el callar cuando la iniquidad pide una reprensión de nuestra parte o una queja ante otros; el decir la verdad a destiempo, o con malicia para un fin malo, o pervertirla dándole un sentido falso, o en expresiones dudosas y equívocas, en perjuicio de la verdad o de la justicia; el decir falsedad, mentir, calumniar, murmurar, detractar, chismear, cuchichear, burlarse, injuriar, y el censurar temeraria, áspera y parcialmente; el interpretar mal las intenciones, palabras y acciones; la adulación, la jactancia vanagloriosa; el pensar o hablar demasiado alto o demasiado bajo de nosotros mismos o de otros; el negar los dones y gracias de Dios; el agravar las faltas menores; el esconder, excusar o atenuar los pecados cuando se nos llama a una libre confesión; el descubrir innecesariamente las flaquezas; el levantar falsos rumores, recibir y apoyar los malos informes, y cerrar nuestros oídos a la defensa justa; la mala sospecha; el envidiar o entristecerse por el merecido crédito de alguien, el esforzarse o desear menoscabarlo, el regocijarse en su deshonra e infamia; el menosprecio desdeñoso, la admiración necia; el quebrantar las promesas lícitas; el descuidar las cosas que son de buen nombre, y el practicar, o no evitar en nosotros mismos, o no impedir en otros en cuanto podamos, las cosas que procuran mala fama.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "1 Sam. 17:28",
+              "Pasaje": "28. Y oyéndole hablar Eliab su hermano mayor con aquellos hombres, Eliab se encendió en ira contra David, y dijo: ¿Para qué has descendido acá? ¿y á quién has dejado aquellas pocas ovejas en el desierto? Yo conozco tu soberbia y la malicia de tu corazón, que para ver la batalla has venido."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "2 Sam. 16:3",
+              "Pasaje": "3. Y dijo el rey: ¿Dónde está el hijo de tu señor? Y Siba respondió al rey: He aquí él se ha quedado en Jerusalem, porque ha dicho: Hoy me devolverá la casa de Israel el reino de mi padre."
+            },
+            {
+              "cita": "2 Sam. 1:9-10,15-16",
+              "Pasaje": "9. Y él me volvió á decir: Yo te ruego que te pongas sobre mí, y me mates, porque me toman angustias, y toda mi alma está aún en mí.\n10. Yo entonces púseme sobre él, y matélo, porque sabía que no podía vivir después de su caída: y tomé la corona que tenía en su cabeza, y la ajorca que traía en su brazo, y helas traído acá á mi señor.\n15. Entonces llamó David uno de los mancebos, y díjole: Llega, y mátalo. Y él lo hirió, y murió.\n16. Y David le dijo: Tu sangre sea sobre tu cabeza, pues que tu boca atestiguó contra ti, diciendo: Yo maté al ungido de Jehová."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Lev. 19:15",
+              "Pasaje": "15. No harás agravio en el juicio: no tendrás respeto al pobre, ni honrarás la cara del grande: con justicia juzgarás á tu prójimo."
+            },
+            {
+              "cita": "Hab. 1:4",
+              "Pasaje": "4. Por lo cual la ley es debilitada, y el juicio no sale verdadero: por cuanto el impío asedia al justo, por eso sale torcido el juicio."
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "Prov. 19:5",
+              "Pasaje": "5. El testigo falso no quedará sin castigo; y el que habla mentiras no escapará."
+            },
+            {
+              "cita": "Prov. 6:16,19",
+              "Pasaje": "16. Seis cosas aborrece Jehová, y aun siete abomina su alma:\n19. El testigo falso que habla mentiras, y el que enciende rencillas entre los hermanos."
+            }
+          ]
+        },
+        {
+          "inciso": "e",
+          "citas": [
+            {
+              "cita": "Hech. 6:13",
+              "Pasaje": "13. Y pusieron testigos falsos, que dijesen: Este hombre no cesa de hablar palabras blasfemas contra este lugar santo y la ley:"
+            }
+          ]
+        },
+        {
+          "inciso": "f",
+          "citas": [
+            {
+              "cita": "Jer. 9:3,5",
+              "Pasaje": "3. E hicieron que su lengua, [como] su arco, tirase mentira; y no se fortalecieron por verdad en la tierra: porque de mal en mal procedieron, y me han desconocido, dice Jehová.\n5. Y cada uno engaña á su compañero, y no hablan verdad: enseñaron su lengua á hablar mentira, se ocupan de hacer perversamente."
+            },
+            {
+              "cita": "Hech. 24:2,5",
+              "Pasaje": "2. Y citado que fué, Tértulo comenzó á acusar, diciendo: Como por causa tuya vivamos en grande paz, y muchas cosas sean bien gobernadas en el pueblo por tu prudencia,\n5. Porque hemos hallado que este hombre es pestilencial, y levantador de sediciones entre todos los Judíos por todo el mundo, y príncipe de la secta de los Nazarenos:"
+            },
+            {
+              "cita": "Sal. 12:3-4",
+              "Pasaje": "3. Destruirá Jehová todos los labios lisonjeros, la lengua que habla grandezas;\n4. Que dijeron: Por nuestra lengua prevaleceremos; nuestros labios están con nosotros: ¿quién nos es señor?"
+            },
+            {
+              "cita": "Sal. 52:1-4",
+              "Pasaje": "1. Al Músico principal: Masquil de David, cuando vino Doeg Idumeo y dió cuenta á Saúl, diciéndole: David ha venido á casa de Ahimelech. ¿POR qué te glorías de maldad, oh poderoso? La misericordia de Dios es continua.\n2. Agravios maquina tu lengua: como navaja amolada hace engaño.\n3. Amaste el mal más que el bien; la mentira más que hablar justicia. (Selah.)\n4. Has amado toda suerte de palabras perniciosas, engañosa lengua."
+            }
+          ]
+        },
+        {
+          "inciso": "g",
+          "citas": [
+            {
+              "cita": "Prov. 17:15",
+              "Pasaje": "15. El que justifica al impío, y el que condena al justo, ambos á dos son abominación á Jehová."
+            },
+            {
+              "cita": "1 Rey. 21:9-14",
+              "Pasaje": "9. Y las cartas que escribió decían así: Proclamad ayuno, y poned á Naboth á la cabecera del pueblo;\n10. Y poned dos hombres perversos delante de él, que atestigüen contra él, y digan: Tú has blasfemado á Dios y al rey. Y entonces sacadlo, y apedreadlo, y muera.\n11. Y los de su ciudad, los ancianos y los principales que moraban en su ciudad, lo hicieron como Jezabel les mandó, conforme á lo escrito en las cartas que ella les había enviado.\n12. Y promulgaron ayuno, y asentaron á Naboth á la cabecera del pueblo.\n13. Vinieron entonces dos hombres perversos, y sentáronse delante de él: y aquellos hombres de Belial atestiguaron contra Naboth delante del pueblo, diciendo: Naboth ha blasfemado á Dios y al rey. Y sacáronlo fuera de la ciudad, y apedreáronlo con piedras, y murió.\n14. Después enviaron á decir á Jezabel: Naboth ha sido apedreado y muerto."
+            }
+          ]
+        },
+        {
+          "inciso": "h",
+          "citas": [
+            {
+              "cita": "Isa. 5:23",
+              "Pasaje": "23. Los que dan por justo al impío por cohechos, y al justo quitan su justicia!"
+            }
+          ]
+        },
+        {
+          "inciso": "i",
+          "citas": [
+            {
+              "cita": "Sal. 119:69",
+              "Pasaje": "69. Contra mí forjaron mentira los soberbios: [mas] yo guardaré de todo corazón tus mandamientos."
+            },
+            {
+              "cita": "Luc. 19:8",
+              "Pasaje": "8. Entonces Zaqueo, puesto en pie, dijo al Señor: He aquí, Señor, la mitad de mis bienes doy á los pobres; y si en algo he defraudado á alguno, lo vuelvo con el cuatro tanto."
+            },
+            {
+              "cita": "Luc. 16:5-7",
+              "Pasaje": "5. Y llamando á cada uno de los deudores de su señor, dijo al primero: ¿Cuánto debes á mi señor?\n6. Y él dijo: Cien barriles de aceite. Y le dijo: Toma tu obligación, y siéntate presto, y escribe cincuenta.\n7. Después dijo á otro: ¿Y tú, cuánto debes? Y él dijo: Cien coros de trigo. Y él le dijo: Toma tu obligación, y escribe ochenta."
+            }
+          ]
+        },
+        {
+          "inciso": "k",
+          "citas": [
+            {
+              "cita": "Lev. 5:1",
+              "Pasaje": "1. Y CUANDO alguna persona pecare, que hubiere oído la voz del que juró, y él fuere testigo que vió, ó supo, si no lo denunciare, él llevará su pecado."
+            },
+            {
+              "cita": "Deut. 13:8",
+              "Pasaje": "8. No consentirás con él, ni le darás oído; ni tu ojo le perdonará, ni tendrás compasión, ni lo encubrirás:"
+            },
+            {
+              "cita": "Hech. 5:3,8-9",
+              "Pasaje": "3. Y dijo Pedro: Ananías, ¿por qué ha llenado Satanás tu corazón á que mintieses al Espíritu Santo, y defraudases del precio de la heredad?\n8. Entonces Pedro le dijo: Dime: ¿vendisteis en tanto la heredad? Y ella dijo: Sí, en tanto.\n9. Y Pedro le dijo: ¿Por qué os concertasteis para tentar al Espíritu del Señor? He aquí á la puerta los pies de los que han sepultado á tu marido, y te sacarán."
+            },
+            {
+              "cita": "2 Tim. 4:16",
+              "Pasaje": "16. En mi primera defensa ninguno me ayudó, antes me desampararon todos: no les sea imputado.",
+              "observacionPasaje": "La fuente indica «2 Timothy 4:6»; las ediciones estándar citan 2 Timoteo 4:16 («ninguno me ayudó»), sobre el silencio indebido en una causa justa."
+            }
+          ]
+        },
+        {
+          "inciso": "l",
+          "citas": [
+            {
+              "cita": "1 Rey. 1:6",
+              "Pasaje": "6. Y su padre nunca lo entristeció en todos sus días con decirle: ¿Por qué haces así? Y también éste era de hermoso parecer; y habíalo engendrado después de Absalom."
+            },
+            {
+              "cita": "Lev. 19:17",
+              "Pasaje": "17. No aborrecerás á tu hermano en tu corazón: ingenuamente reprenderás á tu prójimo, y no consentirás sobre él pecado."
+            }
+          ]
+        },
+        {
+          "inciso": "m",
+          "citas": [
+            {
+              "cita": "Isa. 59:4",
+              "Pasaje": "4. No hay quien clame por la justicia, ni quien juzgue por la verdad: confían en vanidad, y hablan vanidades; conciben trabajo, y paren iniquidad."
+            }
+          ]
+        },
+        {
+          "inciso": "n",
+          "citas": [
+            {
+              "cita": "Prov. 29:11",
+              "Pasaje": "11. El necio da suelta á todo su espíritu; mas el sabio al fin le sosiega."
+            }
+          ]
+        },
+        {
+          "inciso": "o",
+          "citas": [
+            {
+              "cita": "1 Sam. 22:9-10",
+              "Pasaje": "9. Entonces Doeg Idumeo, que era superior entre los siervos de Saúl, respondió y dijo: Yo vi al hijo de Isaí que vino á Nob, á Ahimelech hijo de Ahitob;\n10. El cual consultó por él á Jehová, y dióle provisión, y también le dió la espada de Goliath el Filisteo."
+            },
+            {
+              "cita": "Sal. 52:1-5",
+              "Pasaje": "1. Al Músico principal: Masquil de David, cuando vino Doeg Idumeo y dió cuenta á Saúl, diciéndole: David ha venido á casa de Ahimelech. ¿POR qué te glorías de maldad, oh poderoso? La misericordia de Dios es continua.\n2. Agravios maquina tu lengua: como navaja amolada hace engaño.\n3. Amaste el mal más que el bien; la mentira más que hablar justicia. (Selah.)\n4. Has amado toda suerte de palabras perniciosas, engañosa lengua.\n5. Por tanto Dios te derribará para siempre: te asolará y te arrancará de tu morada, y te desarraigará de la tierra de los vivientes. (Selah.)"
+            }
+          ]
+        },
+        {
+          "inciso": "p",
+          "citas": [
+            {
+              "cita": "Sal. 56:5",
+              "Pasaje": "5. Todos los días me contristan mis negocios; contra mí son todos sus pensamientos para mal."
+            },
+            {
+              "cita": "Jn. 2:19",
+              "Pasaje": "19. Respondió Jesús, y díjoles: Destruid este templo, y en tres días lo levantaré."
+            },
+            {
+              "cita": "Mat. 26:60-61",
+              "Pasaje": "60. Y no lo hallaron, aunque muchos testigos falsos se llegaban; mas á la postre vinieron dos testigos falsos,\n61. Que dijeron: Este dijo: Puedo derribar el templo de Dios, y en tres días reedificarlo."
+            }
+          ]
+        },
+        {
+          "inciso": "q",
+          "citas": [
+            {
+              "cita": "Gén. 3:5",
+              "Pasaje": "5. Mas sabe Dios que el día que comiereis de él, serán abiertos vuestros ojos, y seréis como dioses sabiendo el bien y el mal."
+            },
+            {
+              "cita": "Gén. 26:7,9",
+              "Pasaje": "7. Y los hombres de aquel lugar le preguntaron acerca de su mujer; y él respondió: Es mi hermana; porque tuvo miedo de decir: Es mi mujer; que tal vez, [dijo], los hombres del lugar me matarían por causa de Rebeca; porque era de hermoso aspecto.\n9. Y llamó Abimelech á Isaac, y dijo: He aquí ella es de cierto tu mujer: ¿cómo, pues, dijiste: Es mi hermana? E Isaac le respondió: Porque dije: Quizá moriré por causa de ella."
+            }
+          ]
+        },
+        {
+          "inciso": "r",
+          "citas": [
+            {
+              "cita": "Isa. 59:13",
+              "Pasaje": "13. El prevaricar y mentir contra Jehová, y tornar de en pos de nuestro Dios; el hablar calumnia y rebelión, concebir y proferir de corazón palabras de mentira."
+            }
+          ]
+        },
+        {
+          "inciso": "s",
+          "citas": [
+            {
+              "cita": "Lev. 19:11",
+              "Pasaje": "11. No hurtaréis, y no engañaréis, ni mentiréis ninguno á su prójimo."
+            },
+            {
+              "cita": "Col. 3:9",
+              "Pasaje": "9. No mintáis los unos á los otros, habiéndoos despojado del viejo hombre con sus hechos,"
+            }
+          ]
+        },
+        {
+          "inciso": "t",
+          "citas": [
+            {
+              "cita": "Sal. 50:20",
+              "Pasaje": "20. Tomabas asiento, [y] hablabas contra tu hermano; contra el hijo de tu madre ponías infamia."
+            }
+          ]
+        },
+        {
+          "inciso": "u",
+          "citas": [
+            {
+              "cita": "Sant. 4:11",
+              "Pasaje": "11. Hermanos, no murmuréis los unos de los otros. El que murmura del hermano, y juzga á su hermano, este tal murmura de la ley, y juzga á la ley; pero si tú juzgas á la ley, no eres guardador de la ley, sino juez."
+            },
+            {
+              "cita": "Jer. 38:4",
+              "Pasaje": "4. Y dijeron los príncipes al rey: Muera ahora este hombre; porque de esta manera hace desmayar las manos de los hombres de guerra que han quedado en esta ciudad, y las manos de todo el pueblo, hablándoles tales palabras; porque este hombre no busca la paz de este pueblo, sino el mal."
+            }
+          ]
+        },
+        {
+          "inciso": "v",
+          "citas": [
+            {
+              "cita": "Lev. 19:16",
+              "Pasaje": "16. No andarás chismeando en tus pueblos. No te pondrás contra la sangre de tu prójimo: Yo Jehová.",
+              "observacionPasaje": "La fuente indica «Leviticus 19:19»; las ediciones estándar citan Levítico 19:16 («No andarás chismeando»)."
+            }
+          ]
+        },
+        {
+          "inciso": "w",
+          "citas": [
+            {
+              "cita": "Rom. 1:29-30",
+              "Pasaje": "29. Estando atestados de toda iniquidad, de fornicación, de malicia, de avaricia, de maldad; llenos de envidia, de homicidios, de contiendas, de engaños, de malignidades;\n30. Murmuradores, detractores, aborrecedores de Dios, injuriosos, soberbios, altivos, inventores de males, desobedientes á los padres,"
+            }
+          ]
+        },
+        {
+          "inciso": "x",
+          "citas": [
+            {
+              "cita": "Gén. 21:9",
+              "Pasaje": "9. Y vió Sara al hijo de Agar la Egipcia, el cual había [ésta] parido á Abraham, que se burlaba."
+            },
+            {
+              "cita": "Gál. 4:29",
+              "Pasaje": "29. Empero como entonces el que era engendrado según la carne, perseguía al que [había nacido] según el Espíritu, así también ahora."
+            }
+          ]
+        },
+        {
+          "inciso": "y",
+          "citas": [
+            {
+              "cita": "1 Cor. 6:10",
+              "Pasaje": "10. Ni los ladrones, ni los avaros, ni los borrachos, ni los maldicientes, ni los robadores, heredarán el reino de Dios."
+            }
+          ]
+        },
+        {
+          "inciso": "z",
+          "citas": [
+            {
+              "cita": "Mat. 7:1",
+              "Pasaje": "1. NO juzguéis, para que no seáis juzgados."
+            },
+            {
+              "cita": "Hech. 28:4",
+              "Pasaje": "4. Y como los bárbaros vieron la víbora colgando de su mano, decían los unos á los otros: Ciertamente este hombre es homicida, á quien, escapado de la mar, la justicia no deja vivir."
+            },
+            {
+              "cita": "Gén. 38:24",
+              "Pasaje": "24. Y acaeció que al cabo de unos tres meses fué dado aviso á Judá, diciendo: Thamar tu nuera ha fornicado, y aun cierto está preñada de las fornicaciones. Y Judá dijo: Sacadla, y sea quemada."
+            },
+            {
+              "cita": "Rom. 2:1",
+              "Pasaje": "1. POR lo cual eres inexcusable, oh hombre, cualquiera que juzgas: porque en lo que juzgas á otro, te condenas á ti mismo; porque lo mismo haces, tú que juzgas."
+            }
+          ]
+        },
+        {
+          "inciso": "aa",
+          "citas": [
+            {
+              "cita": "Neh. 6:6-8",
+              "Pasaje": "6. En la cual estaba escrito: Hase oído entre las gentes, y Gasmu lo dice, que tú y los Judíos pensáis rebelaros; y que por eso edificas tú el muro, con la mira, según estas palabras, de ser tú su rey;\n7. Y que has puesto profetas que prediquen de ti en Jerusalem, diciendo: ¡Rey en Judá! Y ahora serán oídas del rey las tales palabras: ven por tanto, y consultemos juntos.\n8. Entonces envié yo á decirle: No hay tal cosa como dices, sino que de tu corazón tú lo inventas."
+            },
+            {
+              "cita": "Rom. 3:8",
+              "Pasaje": "8. ¿Y por qué no [decir] (como somos blasfemados, y como algunos dicen que nosotros decimos): Hagamos males para que vengan bienes? la condenación de los cuales es justa."
+            },
+            {
+              "cita": "Sal. 69:10",
+              "Pasaje": "10. Y lloré [afligiendo] con ayuno mi alma; y esto me ha sido por afrenta."
+            },
+            {
+              "cita": "1 Sam. 1:13-15",
+              "Pasaje": "13. Mas Anna hablaba en su corazón, y solamente se movían sus labios, y su voz no se oía; y túvola Eli por borracha.\n14. Entonces le dijo Eli: ¿Hasta cuándo estarás borracha?; digiere tu vino.\n15. Y Anna le respondió, diciendo: No, señor mío: mas yo soy una mujer trabajada de espíritu: no he bebido vino ni sidra, sino que he derramado mi alma delante de Jehová."
+            },
+            {
+              "cita": "2 Sam. 10:3",
+              "Pasaje": "3. Los príncipes de los hijos de Ammón dijeron á Hanún su señor: ¿Te parece que por honrar David á tu padre te ha enviado consoladores? ¿no ha enviado David sus siervos á ti por reconocer é inspeccionar la ciudad, para destruirla?"
+            }
+          ]
+        },
+        {
+          "inciso": "bb",
+          "citas": [
+            {
+              "cita": "Sal. 12:2-3",
+              "Pasaje": "2. Mentira habla cada uno con su prójimo; con labios lisonjeros, con corazón doble hablan.\n3. Destruirá Jehová todos los labios lisonjeros, la lengua que habla grandezas;"
+            }
+          ]
+        },
+        {
+          "inciso": "cc",
+          "citas": [
+            {
+              "cita": "2 Tim. 3:2",
+              "Pasaje": "2. Que habrá hombres amadores de sí mismos, avaros, vanagloriosos, soberbios, detractores, desobedientes á los padres, ingratos, sin santidad,"
+            }
+          ]
+        },
+        {
+          "inciso": "dd",
+          "citas": [
+            {
+              "cita": "Luc. 18:9,11",
+              "Pasaje": "9. Y dijo también á unos que confiaban de sí como justos, y menospreciaban á los otros, esta parábola:\n11. El Fariseo, en pie, oraba consigo de esta manera: Dios, te doy gracias, que no soy como los otros hombres, ladrones, injustos, adúlteros, ni aun como este publicano;"
+            },
+            {
+              "cita": "Rom. 12:16",
+              "Pasaje": "16. Unánimes entre vosotros: no altivos, mas acomodándoos á los humildes. No seáis sabios en vuestra opinión."
+            },
+            {
+              "cita": "1 Cor. 4:6",
+              "Pasaje": "6. Esto empero, hermanos, he pasado por ejemplo en mí y en Apolos por amor de vosotros; para que en nosotros aprendáis á no saber más de lo que está escrito, hinchándoos por causa de otro el uno contra el otro."
+            },
+            {
+              "cita": "Hech. 12:22",
+              "Pasaje": "22. Y el pueblo aclamaba: Voz de Dios, y no de hombre."
+            },
+            {
+              "cita": "Éx. 4:10-14",
+              "Pasaje": "10. Entonces dijo Moisés á Jehová: ¡Ay Señor! yo no soy hombre de palabras de ayer ni de anteayer, ni aun desde que tú hablas á tu siervo; porque soy tardo en el habla y torpe de lengua.\n11. Y Jehová le respondió: ¿Quién dió la boca al hombre? ¿ó quién hizo al mudo y al sordo, al que ve y al ciego? ¿no soy yo Jehová?\n12. Ahora pues, ve, que yo seré en tu boca, y te enseñaré lo que hayas de hablar.\n13. Y él dijo: ¡Ay Señor! envía por mano del que has de enviar.\n14. Entonces Jehová se enojó contra Moisés, y dijo: ¿No conozco yo á tu hermano Aarón, Levita, y que él hablará? Y aun he aquí que él te saldrá á recibir, y en viéndote, se alegrará en su corazón."
+            }
+          ]
+        },
+        {
+          "inciso": "ee",
+          "citas": [
+            {
+              "cita": "Job 27:5-6",
+              "Pasaje": "5. Nunca tal acontezca que yo os justifique: hasta morir no quitaré de mí mi integridad.\n6. Mi justicia tengo asida, y no la cederé: no [me] reprochará mi corazón en el tiempo de mi vida."
+            },
+            {
+              "cita": "Job 4:6",
+              "Pasaje": "6. ¿Es este tu temor, tu confianza, tu esperanza, y la perfección de tus caminos?"
+            }
+          ]
+        },
+        {
+          "inciso": "ff",
+          "citas": [
+            {
+              "cita": "Mat. 7:3-5",
+              "Pasaje": "3. Y ¿por qué miras la mota que está en el ojo de tu hermano, y no echas de ver la viga que está en tu ojo?\n4. O ¿cómo dirás á tu hermano: Espera, echaré de tu ojo la mota, y he aquí la viga en tu ojo?\n5. ¡Hipócrita! echa primero la viga de tu ojo, y entonces mirarás en echar la mota del ojo de tu hermano."
+            }
+          ]
+        },
+        {
+          "inciso": "gg",
+          "citas": [
+            {
+              "cita": "Prov. 28:13",
+              "Pasaje": "13. El que encubre sus pecados, no prosperará: mas el que los confiesa y se aparta, alcanzará misericordia."
+            },
+            {
+              "cita": "Prov. 30:20",
+              "Pasaje": "20. Tal es el rastro de la mujer adúltera: come, y limpia su boca, y dice: No he hecho maldad."
+            },
+            {
+              "cita": "Gén. 3:12-13",
+              "Pasaje": "12. Y el hombre respondió: La mujer que me diste por compañera me dió del árbol, y yo comí.\n13. Entonces Jehová Dios dijo á la mujer: ¿Qué es lo que has hecho? Y dijo la mujer: La serpiente me engañó, y comí."
+            },
+            {
+              "cita": "Jer. 2:35",
+              "Pasaje": "35. Y dices: Porque soy inocente, de cierto su ira se apartó de mí. He aquí yo entraré en juicio contigo, porque dijiste: No he pecado."
+            },
+            {
+              "cita": "2 Rey. 5:25",
+              "Pasaje": "25. Y él entró, y púsose delante de su señor. Y Eliseo le dijo: ¿De dónde vienes, Giezi? Y él dijo: Tu siervo no ha ido á ninguna parte."
+            },
+            {
+              "cita": "Gén. 4:9",
+              "Pasaje": "9. Y Jehová dijo á Caín: ¿Dónde está Abel tu hermano? Y él respondió: No sé; ¿soy yo guarda de mi hermano?"
+            }
+          ]
+        },
+        {
+          "inciso": "hh",
+          "citas": [
+            {
+              "cita": "Gén. 9:22",
+              "Pasaje": "22. Y Châm, padre de Canaán, vió la desnudez de su padre, y díjolo á sus dos hermanos á la parte de afuera."
+            },
+            {
+              "cita": "Prov. 25:9-10",
+              "Pasaje": "9. Trata tu causa con tu compañero y no descubras el secreto á otro.\n10. No sea que te deshonre el que lo oyere, y tu infamia no pueda repararse."
+            }
+          ]
+        },
+        {
+          "inciso": "ii",
+          "citas": [
+            {
+              "cita": "Éx. 23:1",
+              "Pasaje": "1. NO admitirás falso rumor. No te concertarás con el impío para ser testigo falso."
+            }
+          ]
+        },
+        {
+          "inciso": "kk",
+          "citas": [
+            {
+              "cita": "Prov. 29:12",
+              "Pasaje": "12. Del señor que escucha la palabra mentirosa, todos sus ministros son impíos."
+            }
+          ]
+        },
+        {
+          "inciso": "ll",
+          "citas": [
+            {
+              "cita": "Hech. 7:56-57",
+              "Pasaje": "56. Y dijo: He aquí, veo los cielos abiertos, y al Hijo del hombre que está á la diestra de Dios.\n57. Entonces dando grandes voces, se taparon sus oídos, y arremetieron unánimes contra él;"
+            },
+            {
+              "cita": "Job 31:13-14",
+              "Pasaje": "13. Si hubiera tenido en poco el derecho de mi siervo y de mi sierva, cuando ellos pleitearan conmigo,\n14. ¿Qué haría yo cuando Dios se levantase? y cuando él visitara, ¿qué le respondería yo?"
+            }
+          ]
+        },
+        {
+          "inciso": "mm",
+          "citas": [
+            {
+              "cita": "1 Cor. 13:5",
+              "Pasaje": "5. No es injuriosa, no busca lo suyo, no se irrita, no piensa el mal;"
+            },
+            {
+              "cita": "1 Tim. 6:4",
+              "Pasaje": "4. Es hinchado, nada sabe, y enloquece acerca de cuestiones y contiendas de palabras, de las cuales nacen envidias, pleitos, maledicencias, malas sospechas,"
+            }
+          ]
+        },
+        {
+          "inciso": "nn",
+          "citas": [
+            {
+              "cita": "Núm. 11:29",
+              "Pasaje": "29. Y Moisés le respondió: ¿Tienes tú celos por mí? mas ojalá que todo el pueblo de Jehová fuesen profetas, que Jehová pusiera su espíritu sobre ellos."
+            },
+            {
+              "cita": "Mat. 21:15",
+              "Pasaje": "15. Mas los príncipes de los sacerdotes y los escribas, viendo las maravillas que hacía, y á los muchachos aclamando en el templo y diciendo: ¡Hosanna al Hijo de David! se indignaron,"
+            }
+          ]
+        },
+        {
+          "inciso": "oo",
+          "citas": [
+            {
+              "cita": "Esd. 4:12-13",
+              "Pasaje": "12. Sea notorio al rey, que los Judíos que subieron de ti á nosotros, vinieron á Jerusalem; y edifican la ciudad rebelde y mala, y han erigido los muros; y compuesto los fundamentos.\n13. Ahora, notorio sea al rey, que si aquella ciudad fuere reedificada, y los muros fueren establecidos, el tributo, pecho, y rentas no darán, y el catastro de lo reyes será menoscabado."
+            }
+          ]
+        },
+        {
+          "inciso": "pp",
+          "citas": [
+            {
+              "cita": "Jer. 48:27",
+              "Pasaje": "27. ¿Y no te fué á ti Israel por escarnio, como si lo tomaran entre ladrones? porque desde que de él hablaste, tú te has movido."
+            }
+          ]
+        },
+        {
+          "inciso": "qq",
+          "citas": [
+            {
+              "cita": "Sal. 35:15-16,21",
+              "Pasaje": "15. Pero ellos se alegraron en mi adversidad, y se juntaron; juntáronse contra mí gentes despreciables, y yo no lo entendía: despedazábanme, y no cesaban;\n16. Con los lisonjeros escarnecedores truhanes, crujiendo sobre mí sus dientes.\n21. Y ensancharon sobre mí su boca; dijeron: ¡Ea, ea, nuestros ojos [lo] han visto!"
+            },
+            {
+              "cita": "Mat. 27:28-29",
+              "Pasaje": "28. Y desnudándole, le echaron encima un manto de grana;\n29. Y pusieron sobre su cabeza una corona tejida de espinas, y una caña en su mano derecha; é hincando la rodilla delante de él, le burlaban, diciendo: ¡Salve, Rey de los Judíos!"
+            }
+          ]
+        },
+        {
+          "inciso": "rr",
+          "citas": [
+            {
+              "cita": "Jud. 1:16",
+              "Pasaje": "16. Estos son murmuradores, querellosos, andando según sus deseos; y su boca habla cosas soberbias, teniendo en admiración las personas por causa del provecho."
+            },
+            {
+              "cita": "Hech. 12:22",
+              "Pasaje": "22. Y el pueblo aclamaba: Voz de Dios, y no de hombre."
+            }
+          ]
+        },
+        {
+          "inciso": "ss",
+          "citas": [
+            {
+              "cita": "Rom. 1:31",
+              "Pasaje": "31. Necios, desleales, sin afecto natural, implacables, sin misericordia:"
+            },
+            {
+              "cita": "2 Tim. 3:3",
+              "Pasaje": "3. Sin afecto, desleales, calumniadores, destemplados, crueles, aborrecedores de lo bueno,"
+            }
+          ]
+        },
+        {
+          "inciso": "tt",
+          "citas": [
+            {
+              "cita": "1 Sam. 2:24",
+              "Pasaje": "24. No, hijos míos; porque no es buena fama la que yo oigo: que hacéis pecar al pueblo de Jehová."
+            }
+          ]
+        },
+        {
+          "inciso": "uu",
+          "citas": [
+            {
+              "cita": "2 Sam. 13:12-13",
+              "Pasaje": "12. Ella entonces le respondió: No, hermano mío, no me hagas fuerza; porque no se ha de hacer así en Israel. No hagas tal desacierto.\n13. Porque, ¿dónde iría yo con mi deshonra? Y aun tú serías [estimado] como uno de los perversos en Israel. Ruégote pues ahora que hables al rey, que no me negará á ti."
+            },
+            {
+              "cita": "Prov. 5:8-9",
+              "Pasaje": "8. Aleja de ella tu camino, y no te acerques á la puerta de su casa;\n9. Porque no des á los extraños tu honor, y tus años á cruel;"
+            },
+            {
+              "cita": "Prov. 6:33",
+              "Pasaje": "33. Plaga y vergüenza hallará; y su afrenta nunca será raída."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 146,
+      "pregunta": "¿Cuál es el décimo mandamiento?",
+      "respuesta": "El décimo mandamiento es: No codiciarás la casa de tu prójimo, no codiciarás la mujer de tu prójimo, ni su siervo, ni su criada, ni su buey, ni su asno, ni cosa alguna de tu prójimo.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Éx. 20:17",
+              "Pasaje": "17. No codiciarás la casa de tu prójimo, no codiciarás la mujer de tu prójimo, ni su siervo, ni su criada, ni su buey, ni su asno, ni cosa alguna de tu prójimo."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 147,
+      "pregunta": "¿Cuáles son los deberes requeridos en el décimo mandamiento?",
+      "respuesta": "Los deberes requeridos en el décimo mandamiento son: un contentamiento tan pleno con nuestra propia condición, y una disposición tan caritativa de toda el alma hacia nuestro prójimo, que todos nuestros movimientos y afectos interiores respecto de él tiendan a todo el bien que le pertenece y lo promuevan.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Heb. 13:5",
+              "Pasaje": "5. Sean las costumbres vuestras sin avaricia; contentos de lo presente; porque él dijo: No te desampararé, ni te dejaré."
+            },
+            {
+              "cita": "1 Tim. 6:6",
+              "Pasaje": "6. Empero grande granjería es la piedad con contentamiento."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Job 31:29",
+              "Pasaje": "29. Si me alegré en el quebrantamiento del que me aborrecía, y me regocijé cuando le halló el mal;"
+            },
+            {
+              "cita": "Rom. 12:15",
+              "Pasaje": "15. Gozaos con los que se gozan: llorad con los que lloran."
+            },
+            {
+              "cita": "Sal. 122:7-9",
+              "Pasaje": "7. Haya paz en tu antemuro, [y] descanso en tus palacios.\n8. Por amor de mis hermanos y mis compañeros hablaré ahora paz de ti.\n9. A causa de la casa de Jehová nuestro Dios, buscaré bien para ti."
+            },
+            {
+              "cita": "1 Tim. 1:5",
+              "Pasaje": "5. Pues el fin del mandamiento es la caridad [nacida] de corazón limpio, y de buena conciencia, y de fe no fingida:"
+            },
+            {
+              "cita": "Est. 10:3",
+              "Pasaje": "3. Porque Mardochêo Judío fué segundo después del rey Assuero, y grande entre los Judíos, y acepto á la multitud de sus hermanos, procurando el bien de su pueblo, y hablando paz para toda su simiente."
+            },
+            {
+              "cita": "1 Cor. 13:4-7",
+              "Pasaje": "4. La caridad es sufrida, es benigna; la caridad no tiene envidia, la caridad no hace sinrazón, no se ensancha;\n5. No es injuriosa, no busca lo suyo, no se irrita, no piensa el mal;\n6. No se huelga de la injusticia, mas se huelga de la verdad;\n7. Todo lo sufre, todo lo cree, todo lo espera, todo lo soporta."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 148,
+      "pregunta": "¿Cuáles son los pecados prohibidos en el décimo mandamiento?",
+      "respuesta": "Los pecados prohibidos en el décimo mandamiento son: el descontento con nuestra propia condición; la envidia y la tristeza por el bien de nuestro prójimo, juntamente con todos los movimientos y afectos desordenados hacia cualquier cosa que sea suya.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "1 Rey. 21:4",
+              "Pasaje": "4. Y vínose Achâb á su casa triste y enojado, por la palabra que Naboth de Jezreel le había respondido, diciendo: No te daré la heredad de mis padres. Y acostóse en su cama, y volvió su rostro, y no comió pan."
+            },
+            {
+              "cita": "Est. 5:13",
+              "Pasaje": "13. Mas todo esto nada me sirve cada vez que veo al judío Mardochêo sentado á la puerta del rey."
+            },
+            {
+              "cita": "1 Cor. 10:10",
+              "Pasaje": "10. Ni murmuréis, como algunos de ellos murmuraron, y perecieron por el destructor."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Gál. 5:26",
+              "Pasaje": "26. No seamos codiciosos de vana gloria, irritando los unos á los otros, envidiándose los unos á los otros."
+            },
+            {
+              "cita": "Sant. 3:14,16",
+              "Pasaje": "14. Pero si tenéis envidia amarga y contención en vuestros corazones, no os gloriéis, ni seáis mentirosos contra la verdad:\n16. Porque donde hay envidia y contención, allí hay perturbación y toda obra perversa."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Sal. 112:9-10",
+              "Pasaje": "9. Esparce, da á los pobres: su justicia permanece para siempre; su cuerno será ensalzado en gloria.\n10. Verálo el impío, y se despechará; crujirá los dientes, y se repudrirá: perecerá el deseo de los impíos."
+            },
+            {
+              "cita": "Neh. 2:10",
+              "Pasaje": "10. Y oyéndolo Sanballat Horonita, y Tobías, el siervo Ammonita, disgustóles en extremo que viniese alguno para procurar el bien de los hijos de Israel."
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "Rom. 7:7-8",
+              "Pasaje": "7. ¿Qué pues diremos? ¿La ley es pecado? En ninguna manera. Empero yo no conocí el pecado sino por la ley: porque tampoco conociera la concupiscencia, si la ley no dijera: No codiciarás.\n8. Mas el pecado, tomando ocasión, obró en mí por el mandamiento toda concupiscencia: porque sin la ley el pecado [está] muerto."
+            },
+            {
+              "cita": "Rom. 13:9",
+              "Pasaje": "9. Porque: No adulterarás; no matarás; no hurtarás; no dirás falso testimonio; no codiciarás; y si hay algún otro mandamiento, en esta sentencia se comprende sumariamente: Amarás á tu prójimo como á ti mismo."
+            },
+            {
+              "cita": "Col. 3:5",
+              "Pasaje": "5. Amortiguad, pues, vuestros miembros que están sobre la tierra: fornicación, inmundicia, molicie, mala concupiscencia, y avaricia, que es idolatría:"
+            },
+            {
+              "cita": "Deut. 5:21",
+              "Pasaje": "21. No codiciarás la mujer de tu prójimo, ni desearás la casa de tu prójimo, ni su tierra, ni su siervo, ni su sierva, ni su buey, ni su asno, ni ninguna cosa que sea de tu prójimo."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 149,
+      "pregunta": "¿Puede algún hombre guardar perfectamente los mandamientos de Dios?",
+      "respuesta": "Ningún hombre puede, ni por sí mismo ni por gracia alguna recibida en esta vida, guardar perfectamente los mandamientos de Dios, sino que diariamente los quebranta en pensamiento, palabra y obra.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Sant. 3:2",
+              "Pasaje": "2. Porque todos ofendemos en muchas cosas. Si alguno no ofende en palabra, éste es varón perfecto, que también puede con freno gobernar todo el cuerpo."
+            },
+            {
+              "cita": "Jn. 15:5",
+              "Pasaje": "5. Yo soy la vid, vosotros los pámpanos: el que está en mí, y yo en él, éste lleva mucho fruto; porque sin mí nada podéis hacer."
+            },
+            {
+              "cita": "Rom. 8:3",
+              "Pasaje": "3. Porque lo que era imposible á la ley, por cuanto era débil por la carne, Dios enviando á su Hijo en semejanza de carne de pecado, y á causa del pecado, condenó al pecado en la carne;"
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Ecl. 7:20",
+              "Pasaje": "20. Ciertamente no hay hombre justo en la tierra, que haga bien y nunca peque."
+            },
+            {
+              "cita": "1 Jn. 1:8,10",
+              "Pasaje": "8. Si dijéremos que no tenemos pecado, nos engañamos á nosotros mismos, y no hay verdad en nosotros.\n10. Si dijéremos que no hemos pecado, lo hacemos á él mentiroso, y su palabra no está en nosotros."
+            },
+            {
+              "cita": "Gál. 5:17",
+              "Pasaje": "17. Porque la carne codicia contra el Espíritu, y el Espíritu contra la carne: y estas cosas se oponen la una á la otra, para que no hagáis lo que quisiereis."
+            },
+            {
+              "cita": "Rom. 7:18-19",
+              "Pasaje": "18. Y yo sé que en mí (es á saber, en mi carne) no mora el bien: porque tengo el querer, mas efectuar el bien no lo alcanzo.\n19. Porque no hago el bien que quiero; mas el mal que no quiero, éste hago."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Gén. 6:5",
+              "Pasaje": "5. Y vió Jehová que la malicia de los hombres [era] mucha en la tierra, y que todo designio de los pensamientos del corazón de ellos era de continuo solamente el mal."
+            },
+            {
+              "cita": "Gén. 8:21",
+              "Pasaje": "21. Y percibió Jehová olor de suavidad; y dijo Jehová en su corazón: No tornaré más á maldecir la tierra por causa del hombre; porque el intento del corazón del hombre es malo desde su juventud: ni volveré más á destruir todo viviente, como he hecho."
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "Rom. 3:9-19",
+              "Pasaje": "9. ¿Qué pues? ¿Somos mejores que ellos? En ninguna manera: porque ya hemos acusado á Judíos y á Gentiles, que todos están debajo de pecado.\n10. Como está escrito: No hay justo, ni aun uno;\n11. No hay quien entienda, no hay quien busque á Dios;\n12. Todos se apartaron, á una fueron hechos inútiles; no hay quien haga lo bueno, no hay ni aun uno:\n13. Sepulcro abierto es su garganta; con sus lenguas tratan engañosamente; veneno de áspides está debajo de sus labios;\n14. Cuya boca está llena de maledicencia y de amargura;\n15. Sus pies son ligeros á derramar sangre;\n16. Quebrantamiento y desventura hay en sus caminos;\n17. Y camino de paz no conocieron:\n18. No hay temor de Dios delante de sus ojos.\n19. Empero sabemos que todo lo que la ley dice, á los que están en la ley lo dice, para que toda boca se tape, y que todo el mundo se sujete á Dios:"
+            },
+            {
+              "cita": "Sant. 3:2-13",
+              "Pasaje": "2. Porque todos ofendemos en muchas cosas. Si alguno no ofende en palabra, éste es varón perfecto, que también puede con freno gobernar todo el cuerpo.\n3. He aquí nosotros ponemos frenos en las bocas de los caballos para que nos obedezcan, y gobernamos todo su cuerpo.\n4. Mirad también las naves: aunque tan grandes, y llevadas de impetuosos vientos, son gobernadas con un muy pequeño timón por donde quisiere el que las gobierna.\n5. Así también, la lengua es un miembro pequeño, y se gloría de grandes cosas. He aquí, un pequeño fuego ¡cuán grande bosque enciende!\n6. Y la lengua es un fuego, un mundo de maldad. Así la lengua está puesta entre nuestros miembros, la cual contamina todo el cuerpo, é inflama la rueda de la creación, y es inflamada del infierno.\n7. Porque toda naturaleza de bestias, y de aves, y de serpientes, y de seres de la mar, se doma y es domada de la naturaleza humana:\n8. Pero ningún hombre puede domar la lengua, [que es] un mal que no puede ser refrenado; llena de veneno mortal.\n9. Con ella bendecimos al Dios y Padre, y con ella maldecimos á los hombres, los cuales son hechos á la semejanza de Dios.\n10. De una misma boca proceden bendición y maldición. Hermanos míos, no conviene que estas cosas sean así hechas.\n11. ¿Echa alguna fuente por una misma abertura agua dulce y amarga?\n12. Hermanos míos, ¿puede la higuera producir aceitunas, ó la vid higos? Así ninguna fuente puede hacer agua salada y dulce.\n13. ¿Quién es sabio y avisado entre vosotros? muestre por buena conversación sus obras en mansedumbre de sabiduría."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 150,
+      "pregunta": "¿Son todas las transgresiones de la ley de Dios igualmente graves en sí mismas y a la vista de Dios?",
+      "respuesta": "No todas las transgresiones de la ley de Dios son igualmente graves, sino que algunos pecados, en sí mismos y a causa de diversos agravantes, son más graves a la vista de Dios que otros.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Jn. 19:11",
+              "Pasaje": "11. Respondió Jesús: Ninguna potestad tendrías contra mí, si no te fuese dado de arriba: por tanto, el que á ti me ha entregado, mayor pecado tiene."
+            },
+            {
+              "cita": "Ez. 8:6,13,15",
+              "Pasaje": "6. Díjome entonces: Hijo del hombre, ¿no ves lo que éstos hacen, las grandes abominaciones que la casa de Israel hace aquí, para alejarme de mi santuario? Mas vuélvete aún, y verás abominaciones mayores.\n13. Díjome después: Vuélvete aún, verás abominaciones mayores que hacen éstos.\n15. Luego me dijo: ¿No ves, hijo del hombre? Vuélvete aún, verás abominaciones mayores que éstas."
+            },
+            {
+              "cita": "1 Jn. 5:16",
+              "Pasaje": "16. Si alguno viere cometer á su hermano pecado no de muerte, demandará, y se le dará vida; [digo] á los que pecan no de muerte. Hay pecado de muerte, por el cual yo no digo que ruegue."
+            },
+            {
+              "cita": "Sal. 78:17,32,56",
+              "Pasaje": "17. Empero aun tornaron á pecar contra él, enojando en la soledad al Altísimo.\n32. Con todo esto pecaron aún, y no dieron crédito á sus maravillas.\n56. Mas tentaron y enojaron al Dios Altísimo, y no guardaron sus testimonios;"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 151,
+      "pregunta": "¿Cuáles son los agravantes que hacen a algunos pecados más graves que otros?",
+      "respuesta": "Los pecados reciben sus agravantes:\n\n1. De las personas que ofenden: si son de edad más madura, de mayor experiencia o gracia, eminentes por su profesión, dones, posición u oficio, guías de otros, y cuyo ejemplo probablemente será seguido por otros.\n\n2. De las partes ofendidas: si es directamente contra Dios, sus atributos y su culto; contra Cristo y su gracia; contra el Espíritu Santo, su testimonio y sus operaciones; contra los superiores, los hombres eminentes, y aquellos con quienes tenemos una relación o un compromiso especial; contra cualquiera de los santos, particularmente los hermanos débiles, las almas de ellos o de cualquier otro, y el bien común de todos o de muchos.\n\n3. De la naturaleza y calidad de la ofensa: si es contra la letra expresa de la ley, si quebranta muchos mandamientos, si contiene en sí muchos pecados; si no solo es concebida en el corazón, sino que estalla en palabras y acciones, escandaliza a otros y no admite reparación; si es contra los medios, las misericordias, los juicios, la luz de la naturaleza, la convicción de la conciencia, la amonestación pública o privada, las censuras de la iglesia, los castigos civiles; y contra nuestras oraciones, propósitos, promesas, votos, pactos y compromisos con Dios o con los hombres; si se comete deliberada, voluntaria, presuntuosa, desvergonzada, jactanciosa, maliciosa, frecuente y obstinadamente, con deleite, con persistencia, o recayendo después del arrepentimiento.\n\n4. De las circunstancias de tiempo y lugar: si es en el día del Señor o en otros tiempos de culto divino; o inmediatamente antes o después de ellos, o de otras ayudas para prevenir o remediar tales faltas; si es en público o en presencia de otros, que probablemente serán provocados o contaminados por ello.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Jer. 2:8",
+              "Pasaje": "8. Los sacerdotes no dijeron: ¿Dónde está Jehová? y los que tenían la ley no me conocieron; y los pastores se rebelaron contra mí, y los profetas profetizaron en Baal, y anduvieron tras lo que no aprovecha."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Job 32:7,9",
+              "Pasaje": "7. Yo decía: Los días hablarán, y la muchedumbre de años declarará sabiduría.\n9. No los grandes son los sabios, ni los viejos entienden el derecho."
+            },
+            {
+              "cita": "Ecl. 4:13",
+              "Pasaje": "13. Mejor es el muchacho pobre y sabio, que el rey viejo y fatuo que no sabe ser aconsejado."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "1 Rey. 11:4,9",
+              "Pasaje": "4. Y ya que Salomón era viejo, sus mujeres inclinaron su corazón tras dioses ajenos; y su corazón no era perfecto con Jehová su Dios, como el corazón de su padre David.\n9. Y enojóse Jehová contra Salomón, por cuanto estaba su corazón desviado de Jehová Dios de Israel, que le había aparecido dos veces,"
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "2 Sam. 12:14",
+              "Pasaje": "14. Mas por cuanto con este negocio hiciste blasfemar á los enemigos de Jehová, el hijo que te ha nacido morirá ciertamente."
+            },
+            {
+              "cita": "1 Cor. 5:1",
+              "Pasaje": "1. DE cierto se oye que hay entre vosotros fornicación, y tal fornicación cual ni aun se nombra entre los Gentiles; tanto que alguno tenga la mujer de su padre."
+            }
+          ]
+        },
+        {
+          "inciso": "e",
+          "citas": [
+            {
+              "cita": "Sant. 4:17",
+              "Pasaje": "17. El pecado, pues, está en aquel que sabe hacer lo bueno, y no lo hace."
+            },
+            {
+              "cita": "Luc. 12:47-48",
+              "Pasaje": "47. Porque el siervo que entendió la voluntad de su señor, y no se apercibió, ni hizo conforme á su voluntad, será azotado mucho.\n48. Mas el que no entendió, é hizo cosas dignas de azotes, será azotado poco: porque á cualquiera que fué dado mucho, mucho será vuelto á demandar de él; y al que encomendaron mucho, más le será pedido."
+            }
+          ]
+        },
+        {
+          "inciso": "f",
+          "citas": [
+            {
+              "cita": "Jer. 5:4-5",
+              "Pasaje": "4. Yo empero dije: Por cierto ellos son pobres, enloquecido han, pues no conocen el camino de Jehová, el juicio de su Dios.\n5. Irme he á los grandes, y hablaréles; porque ellos conocen el camino de Jehová, el juicio de su Dios. Ciertamente ellos también quebraron el yugo, rompieron las coyundas."
+            }
+          ]
+        },
+        {
+          "inciso": "g",
+          "citas": [
+            {
+              "cita": "2 Sam. 12:7-9",
+              "Pasaje": "7. Entonces dijo Nathán á David: Tú eres aquel hombre. Así ha dicho Jehová, Dios de Israel: Yo te ungí por rey sobre Israel, y te libré de la mano de Saúl;\n8. Yo te dí la casa de tu señor, y las mujeres de tu señor en tu seno: demás de esto te dí la casa de Israel y de Judá; y si esto es poco, yo te añadiré tales y tales cosas.\n9. ¿Por qué pues tuviste en poco la palabra de Jehová, haciendo lo malo delante de sus ojos? A Uría Hetheo heriste á cuchillo, y tomaste por tu mujer á su mujer, y á él mataste con el cuchillo de los hijos de Ammón."
+            },
+            {
+              "cita": "Ez. 8:11-12",
+              "Pasaje": "11. Y delante de ellos estaban setenta varones de los ancianos de la casa de Israel, y Jaazanías hijo de Saphán estaba en medio de ellos, cada uno con su incensario en su mano; y del sahumerio subía espesura de niebla.\n12. Y me dijo: Hijo del hombre, ¿has visto las cosas que los ancianos de la casa de Israel hacen en tinieblas, cada uno en sus cámaras pintadas? porque dicen ellos: No nos ve Jehová; Jehová ha dejado la tierra."
+            }
+          ]
+        },
+        {
+          "inciso": "h",
+          "citas": [
+            {
+              "cita": "Rom. 2:17-24",
+              "Pasaje": "17. He aquí, tú tienes el sobrenombre de Judío, y estás reposado en la ley, y te glorías en Dios,\n18. Y sabes su voluntad, y apruebas lo mejor, instruído por la ley;\n19. Y confías que eres guía de los ciegos, luz de los que están en tinieblas,\n20. Enseñador de los que no saben, maestro de niños, que tienes la forma de la ciencia y de la verdad en la ley:\n21. Tú pues, que enseñas á otro, ¿no te enseñas á ti mismo? ¿Tú, que predicas que no se ha de hurtar, hurtas?\n22. ¿Tú, que dices que no se ha de adulterar, adulteras? ¿Tú, que abominas los ídolos, cometes sacrilegio?\n23. ¿Tú, que te jactas de la ley, con infracción de la ley deshonras á Dios?\n24. Porque el nombre de Dios es blasfemado por causa de vosotros entre los Gentiles, como está escrito."
+            }
+          ]
+        },
+        {
+          "inciso": "i",
+          "citas": [
+            {
+              "cita": "Gál. 2:11-14",
+              "Pasaje": "11. Empero viniendo Pedro á Antioquía, le resistí en la cara, porque era de condenar.\n12. Porque antes que viniesen unos [de parte] de Jacobo, comía con los Gentiles; mas después que vinieron, se retraía y apartaba, teniendo miedo de los que eran de la circuncisión.\n13. Y á su disimulación consentían también los otros Judíos; de tal manera que aun Bernabé fué también llevado [de ellos] en su simulación.\n14. Mas cuando vi que no andaban derechamente conforme á la verdad del evangelio, dije á Pedro delante de todos: Si tú, siendo Judío, vives como los Gentiles y no como Judío, ¿por qué constriñes á los Gentiles á judaizar?"
+            }
+          ]
+        },
+        {
+          "inciso": "k",
+          "citas": [
+            {
+              "cita": "Mat. 21:38-39",
+              "Pasaje": "38. Mas los labradores, viendo al hijo, dijeron entre sí: Este es el heredero; venid, matémosle, y tomemos su heredad.\n39. Y tomado, le echaron fuera de la viña, y le mataron."
+            },
+            {
+              "cita": "1 Sam. 2:25",
+              "Pasaje": "25. Si pecare el hombre contra el hombre, los jueces le juzgarán; mas si alguno pecare contra Jehová, ¿quién rogará por él? Mas ellos no oyeron la voz de su padre, porque Jehová los quería matar."
+            },
+            {
+              "cita": "Hech. 5:4",
+              "Pasaje": "4. Reteniéndola, ¿no se te quedaba á ti? y vendida, ¿no estaba en tu potestad? ¿Por qué pusiste esto en tu corazón? No has mentido á los hombres, sino á Dios."
+            },
+            {
+              "cita": "Sal. 5:4",
+              "Pasaje": "4. Porque tú no eres un Dios que ame la maldad: el malo no habitará junto á ti."
+            }
+          ]
+        },
+        {
+          "inciso": "l",
+          "citas": [
+            {
+              "cita": "Rom. 2:4",
+              "Pasaje": "4. ¿O menosprecias las riquezas de su benignidad, y paciencia, y longanimidad, ignorando que su benignidad te guía á arrepentimiento?"
+            }
+          ]
+        },
+        {
+          "inciso": "m",
+          "citas": [
+            {
+              "cita": "Mal. 1:8",
+              "Pasaje": "8. Y cuando ofrecéis el [animal] ciego para sacrificar, ¿no es malo? asimismo cuando ofrecéis el cojo ó el enfermo, ¿no es malo? Preséntalo pues á tu príncipe: ¿acaso se agradará de ti, ó le serás acepto? dice Jehová de los ejércitos."
+            },
+            {
+              "cita": "Mal. 1:14",
+              "Pasaje": "14. Maldito el engañoso, que tiene macho en su rebaño, y promete, y sacrifica lo dañado á Jehová: porque yo soy Gran Rey, dice Jehová de los ejércitos, y mi nombre es formidable entre las gentes."
+            }
+          ]
+        },
+        {
+          "inciso": "n",
+          "citas": [
+            {
+              "cita": "Heb. 2:2-3",
+              "Pasaje": "2. Porque si la palabra dicha por los ángeles fué firme, y toda rebelión y desobediencia recibió justa paga de retribución,\n3. ¿Cómo escaparemos nosotros, si tuviéremos en poco una salud tan grande? La cual, habiendo comenzado á ser publicada por el Señor, ha sido confirmada hasta nosotros por los que oyeron;"
+            },
+            {
+              "cita": "Heb. 7:25",
+              "Pasaje": "25. Por lo cual puede también salvar eternamente á los que por él se allegan á Dios, viviendo siempre para interceder por ellos."
+            }
+          ]
+        },
+        {
+          "inciso": "o",
+          "citas": [
+            {
+              "cita": "Heb. 10:29",
+              "Pasaje": "29. ¿Cuánto pensáis que será más digno de mayor castigo, el que hollare al Hijo de Dios, y tuviere por inmunda la sangre del testamento, en la cual fué santificado, é hiciere afrenta al Espíritu de gracia?"
+            },
+            {
+              "cita": "Mat. 12:31-32",
+              "Pasaje": "31. Por tanto os digo: Todo pecado y blasfemia será perdonado á los hombres: mas la blasfemia contra el Espíritu no será perdonada á los hombres.\n32. Y cualquiera que hablare contra el Hijo del hombre, le será perdonado: mas cualquiera que hablare contra el Espíritu Santo, no le será perdonado, ni en este siglo, ni en el venidero."
+            }
+          ]
+        },
+        {
+          "inciso": "p",
+          "citas": [
+            {
+              "cita": "Ef. 4:30",
+              "Pasaje": "30. Y no contristéis al Espíritu Santo de Dios, con el cual estáis sellados para el día de la redención."
+            },
+            {
+              "cita": "Heb. 6:4-6",
+              "Pasaje": "4. Porque es imposible que los que una vez fueron iluminados y gustaron el don celestial, y fueron hechos partícipes del Espíritu Santo,\n5. Y asimismo gustaron la buena palabra de Dios, y las virtudes del siglo venidero,\n6. Y recayeron, sean otra vez renovados para arrepentimiento, crucificando de nuevo para sí mismos al Hijo de Dios, y exponiéndole á vituperio."
+            }
+          ]
+        },
+        {
+          "inciso": "q",
+          "citas": [
+            {
+              "cita": "Jud. 1:8",
+              "Pasaje": "8. De la misma manera también estos soñadores amancillan la carne, y menosprecian la potestad, y vituperan las potestades superiores."
+            },
+            {
+              "cita": "Núm. 12:8-9",
+              "Pasaje": "8. Boca á boca hablaré con él, y á las claras, y no por figuras; y verá la apariencia de Jehová: ¿por qué pues no tuvisteis temor de hablar contra mi siervo Moisés?\n9. Entonces el furor de Jehová se encendió en ellos; y fuése."
+            },
+            {
+              "cita": "Isa. 3:5",
+              "Pasaje": "5. Y el pueblo hará violencia los unos á los otros, cada cual contra su vecino: el mozo se levantará contra el viejo, y el villano contra el noble."
+            }
+          ]
+        },
+        {
+          "inciso": "r",
+          "citas": [
+            {
+              "cita": "Prov. 30:17",
+              "Pasaje": "17. El ojo que escarnece á su padre, y menosprecia la enseñanza de la madre, los cuervos lo saquen de la arroyada, y tráguenlo los hijos del águila."
+            },
+            {
+              "cita": "2 Cor. 12:15",
+              "Pasaje": "15. Empero yo de muy buena gana despenderé y seré despendido por vuestras almas, aunque amándoos más, sea amado menos."
+            },
+            {
+              "cita": "Sal. 55:12-15",
+              "Pasaje": "12. Porque no me afrentó un enemigo, lo cual habría soportado; ni se alzó contra mí el que me aborrecía, porque me hubiera ocultado de él:\n13. Mas tú, hombre, al parecer íntimo mío, mi guía, y mi familiar:\n14. Que juntos comunicábamos dulcemente los secretos, á la casa de Dios andábamos en compañía.\n15. Condenados sean á muerte, desciendan vivos al infierno: porque maldades hay en su compañía, entre ellos."
+            }
+          ]
+        },
+        {
+          "inciso": "s",
+          "citas": [
+            {
+              "cita": "Sof. 2:8,10-11",
+              "Pasaje": "8. Yo he oído las afrentas de Moab, y los denuestos de los hijos de Ammón con que deshonraron á mi pueblo, y se engrandecieron sobre su término.\n10. Esto les vendrá por su soberbia, porque afrentaron, y se engrandecieron contra el pueblo de Jehová de los ejércitos.\n11. Terrible será Jehová contra ellos, porque enervará á todos los dioses de la tierra; y cada uno desde su lugar se inclinará á él, todas las islas de las gentes."
+            },
+            {
+              "cita": "Mat. 18:6",
+              "Pasaje": "6. Y cualquiera que escandalizare á alguno de estos pequeños que creen en mí, mejor le fuera que se le colgase al cuello una piedra de molino de asno, y que se le anegase en el profundo de la mar."
+            },
+            {
+              "cita": "1 Cor. 6:8",
+              "Pasaje": "8. Empero vosotros hacéis la injuria, y defraudáis, y esto á los hermanos."
+            },
+            {
+              "cita": "Apoc. 17:6",
+              "Pasaje": "6. Y vi la mujer embriagada de la sangre de los santos, y de la sangre de los mártires de Jesús: y cuando la vi, quedé maravillado de grande admiración."
+            }
+          ]
+        },
+        {
+          "inciso": "t",
+          "citas": [
+            {
+              "cita": "1 Cor. 8:11-12",
+              "Pasaje": "11. Y por tu ciencia se perderá el hermano flaco por el cual Cristo murió.\n12. De esta manera, pues, pecando contra los hermanos, é hiriendo su flaca conciencia, contra Cristo pecáis."
+            },
+            {
+              "cita": "Rom. 14:13,15,21",
+              "Pasaje": "13. Así que, no juzguemos más los unos de los otros: antes bien juzgad de no poner tropiezo ó escándalo al hermano.\n15. Empero si por causa de la comida tu hermano es contristado, ya no andas conforme á la caridad. No arruines con tu comida á aquél por el cual Cristo murió.\n21. Bueno es no comer carne, ni beber vino, ni [nada] en que tu hermano tropiece, ó se ofenda, ó sea debilitado."
+            }
+          ]
+        },
+        {
+          "inciso": "u",
+          "citas": [
+            {
+              "cita": "Ez. 13:19",
+              "Pasaje": "19. ¿Y habéis de profanarme entre mi pueblo por puñados de cebada y por pedazos de pan, matando las almas que no mueren, y dando vida á las almas que no vivirán, mintiendo á mi pueblo que escucha la mentira?"
+            },
+            {
+              "cita": "1 Cor. 8:12",
+              "Pasaje": "12. De esta manera, pues, pecando contra los hermanos, é hiriendo su flaca conciencia, contra Cristo pecáis."
+            },
+            {
+              "cita": "Apoc. 18:12-13",
+              "Pasaje": "12. Mercadería de oro, y de plata, y de piedras preciosas, y de margaritas, y de lino fino, y de escarlata, y de seda, y de grana, y de toda madera olorosa, y de todo vaso de marfil, y de todo vaso de madera preciosa, y de cobre, y de hierro, y de mármol;\n13. Y canela, y olores, y ungüentos, y de incienso, y de vino, y de aceite; y flor de harina y trigo, y de bestias, y de ovejas; y de caballos, y de carros, y de siervos, y de almas de hombres."
+            },
+            {
+              "cita": "Mat. 23:15",
+              "Pasaje": "15. ¡Ay de vosotros, escribas y Fariseos, hipócritas! porque rodeáis la mar y la tierra por hacer un prosélito; y cuando fuere hecho, le hacéis hijo del infierno doble más que vosotros."
+            }
+          ]
+        },
+        {
+          "inciso": "v",
+          "citas": [
+            {
+              "cita": "1 Tes. 2:15-16",
+              "Pasaje": "15. Los cuales aun mataron al Señor Jesús y á sus propios profetas, y á nosotros nos han perseguido; y no agradan á Dios, y se oponen á todos los hombres;\n16. Prohibiéndonos hablar á los Gentiles, á fin de que se salven, para henchir [la medida de] sus pecados siempre: pues vino sobre ellos la ira hasta el extremo."
+            },
+            {
+              "cita": "Jos. 22:20",
+              "Pasaje": "20. ¿No cometió Achân, hijo de Zera, prevaricación en el anatema, y vino ira sobre toda la congregación de Israel? y aquel hombre no pereció solo en su iniquidad."
+            }
+          ]
+        },
+        {
+          "inciso": "w",
+          "citas": [
+            {
+              "cita": "Prov. 6:30-33",
+              "Pasaje": "30. No tienen en poco al ladrón, cuando hurtare para saciar su alma teniendo hambre:\n31. Empero tomado, paga las setenas, da toda la sustancia de su casa.\n32. Mas el que comete adulterio con la mujer, es falto de entendimiento: corrompe su alma el que tal hace.\n33. Plaga y vergüenza hallará; y su afrenta nunca será raída."
+            },
+            {
+              "cita": "Esd. 9:10-12",
+              "Pasaje": "10. Mas ahora, ¿qué diremos, oh Dios nuestro, después de esto? porque nosotros hemos dejado tus mandamientos,\n11. Los cuales prescribiste por mano de tus siervos los profetas, diciendo: La tierra á la cual entráis para poseerla, tierra inmunda es á causa de la inmundicia de los pueblos de aquellas regiones, por las abominaciones de que la han henchido de uno á otro extremo con su inmundicia.\n12. Ahora pues, no daréis vuestras hijas á los hijos de ellos, ni sus hijas tomaréis para vuestros hijos, ni procuraréis su paz ni su bien para siempre; para que seáis corroborados, y comáis el bien de la tierra, y la dejéis por heredad á vuestros hijos para siempre."
+            },
+            {
+              "cita": "1 Rey. 11:9-10",
+              "Pasaje": "9. Y enojóse Jehová contra Salomón, por cuanto estaba su corazón desviado de Jehová Dios de Israel, que le había aparecido dos veces,\n10. Y le había mandado acerca de esto, que no siguiese dioses ajenos: mas él no guardó lo que le mandó Jehová."
+            }
+          ]
+        },
+        {
+          "inciso": "x",
+          "citas": [
+            {
+              "cita": "Col. 3:5",
+              "Pasaje": "5. Amortiguad, pues, vuestros miembros que están sobre la tierra: fornicación, inmundicia, molicie, mala concupiscencia, y avaricia, que es idolatría:"
+            },
+            {
+              "cita": "1 Tim. 6:10",
+              "Pasaje": "10. Porque el amor del dinero es la raíz de todos los males: el cual codiciando algunos, se descaminaron de la fe, y fueron traspasados de muchos dolores."
+            },
+            {
+              "cita": "Prov. 5:8-12",
+              "Pasaje": "8. Aleja de ella tu camino, y no te acerques á la puerta de su casa;\n9. Porque no des á los extraños tu honor, y tus años á cruel;\n10. Porque no se harten los extraños de tu fuerza, y tus trabajos [estén] en casa del extraño;\n11. Y gimas en tus postrimerías, cuando se consumiere tu carne y tu cuerpo,\n12. Y digas: ¡Cómo aborrecí el consejo, y mi corazón menospreció la reprensión;"
+            },
+            {
+              "cita": "Prov. 6:32-33",
+              "Pasaje": "32. Mas el que comete adulterio con la mujer, es falto de entendimiento: corrompe su alma el que tal hace.\n33. Plaga y vergüenza hallará; y su afrenta nunca será raída."
+            },
+            {
+              "cita": "Jos. 7:21",
+              "Pasaje": "21. Que vi entre los despojos un manto babilónico muy bueno, y doscientos siclos de plata, y un changote de oro de peso de cincuenta siclos; lo cual codicié, y tomé: y he aquí que está escondido debajo de tierra en el medio de mi tienda, y el dinero debajo de ello."
+            }
+          ]
+        },
+        {
+          "inciso": "y",
+          "citas": [
+            {
+              "cita": "Sant. 1:14-15",
+              "Pasaje": "14. Sino que cada uno es tentado, cuando de su propia concupiscencia es atraído, y cebado.\n15. Y la concupiscencia, después que ha concebido, pare el pecado: y el pecado, siendo cumplido, engendra muerte."
+            },
+            {
+              "cita": "Mat. 5:22",
+              "Pasaje": "22. Mas yo os digo, que cualquiera que se enojare locamente con su hermano, será culpado del juicio; y cualquiera que dijere á su hermano, Raca, será culpado del concejo; y cualquiera que dijere, Fatuo, será culpado del infierno del fuego."
+            },
+            {
+              "cita": "Miq. 2:1",
+              "Pasaje": "1. ¡AY de los que piensan iniquidad, y de los que fabrican el mal en sus camas! Cuando viene la mañana lo ponen en obra, porque tienen en su mano el poder."
+            }
+          ]
+        },
+        {
+          "inciso": "z",
+          "citas": [
+            {
+              "cita": "Mat. 18:7",
+              "Pasaje": "7. ¡Ay del mundo por los escándalos! porque necesario es que vengan escándalos; mas ¡ay de aquel hombre por el cual viene el escándalo!"
+            },
+            {
+              "cita": "Rom. 2:23-24",
+              "Pasaje": "23. ¿Tú, que te jactas de la ley, con infracción de la ley deshonras á Dios?\n24. Porque el nombre de Dios es blasfemado por causa de vosotros entre los Gentiles, como está escrito."
+            }
+          ]
+        },
+        {
+          "inciso": "aa",
+          "citas": [
+            {
+              "cita": "Deut. 22:22,28-29",
+              "Pasaje": "22. Cuando se sorprendiere alguno echado con mujer casada con marido, entrambos morirán, el hombre que se acostó con la mujer, y la mujer: así quitarás el mal de Israel.\n28. Cuando alguno hallare moza virgen, que no fuere desposada, y la tomare, y se echare con ella, y fueren hallados;\n29. Entonces el hombre que se echó con ella dará al padre de la moza cincuenta [piezas] de plata, y ella será su mujer, por cuanto la humilló: no la podrá despedir en todos sus días."
+            },
+            {
+              "cita": "Prov. 6:32-35",
+              "Pasaje": "32. Mas el que comete adulterio con la mujer, es falto de entendimiento: corrompe su alma el que tal hace.\n33. Plaga y vergüenza hallará; y su afrenta nunca será raída.\n34. Porque los celos son el furor del hombre, y no perdonará en el día de la venganza.\n35. No tendrá respeto á ninguna redención; ni querrá [perdonar], aunque multipliques los dones."
+            }
+          ]
+        },
+        {
+          "inciso": "bb",
+          "citas": [
+            {
+              "cita": "Mat. 11:21-24",
+              "Pasaje": "21. ¡Ay de ti, Corazín! ¡Ay de ti, Bethsaida! porque si en Tiro y en Sidón fueran hechas las maravillas que han sido hechas en vosotras, en otro tiempo se hubieran arrepentido en saco y en ceniza.\n22. Por tanto os digo, [que] á Tiro y á Sidón será más tolerable [el castigo] en el día del juicio, que á vosotras.\n23. Y tú, Capernaum, que eres levantada hasta el cielo, hasta los infiernos serás abajada; porque si en los de Sodoma fueran hechas las maravillas que han sido hechas en ti, hubieran quedado hasta el día de hoy.\n24. Por tanto os digo, [que] á la tierra de los de Sodoma será más tolerable [el castigo] en el día del juicio, que á ti."
+            },
+            {
+              "cita": "Jn. 15:22",
+              "Pasaje": "22. Si no hubiera venido, ni les hubiera hablado, no tendrían pecado, mas ahora no tienen excusa de su pecado."
+            }
+          ]
+        },
+        {
+          "inciso": "cc",
+          "citas": [
+            {
+              "cita": "Isa. 1:3",
+              "Pasaje": "3. El buey conoce á su dueño, y el asno el pesebre de su señor: Israel no conoce, mi pueblo no tiene entendimiento."
+            },
+            {
+              "cita": "Deut. 32:6",
+              "Pasaje": "6. ¿Así pagáis á Jehová, pueblo loco é ignorante? ¿no es él tu padre que te poseyó? él te hizo y te ha organizado."
+            }
+          ]
+        },
+        {
+          "inciso": "dd",
+          "citas": [
+            {
+              "cita": "Amós 4:8-11",
+              "Pasaje": "8. Y venían dos ó tres ciudades á una ciudad para beber agua, y no se hartaban: con todo no os tornasteis á mí, dice Jehová.\n9. Os herí con viento solano y oruga; vuestros muchos huertos y vuestras viñas, y vuestros higuerales y vuestros olivares comió la langosta: pero nunca os tornasteis á mí, dice Jehová.\n10. Envié entre vosotros mortandad al modo que en Egipto: maté á cuchillo vuestros mancebos, con cautiverio de vuestros caballos; é hice subir el hedor de vuestros reales hasta vuestras narices: empero no os tornasteis á mí, dice Jehová.\n11. Trastornéos, como cuando Dios trastornó á Sodoma y á Gomorra, y fuisteis como tizón escapado del fuego: mas no os tornasteis á mí, dice Jehová."
+            },
+            {
+              "cita": "Jer. 5:3",
+              "Pasaje": "3. Oh Jehová, ¿no miran tus ojos á la verdad? Azotástelos, y no les dolió; consumístelos, y no quisieron recibir corrección; endurecieron sus rostros más que la piedra, no quisieron tornarse."
+            }
+          ]
+        },
+        {
+          "inciso": "ee",
+          "citas": [
+            {
+              "cita": "Rom. 1:26-27",
+              "Pasaje": "26. Por esto Dios los entregó á afectos vergonzosos; pues aun sus mujeres mudaron el natural uso en el uso que es contra naturaleza:\n27. Y del mismo modo también los hombres, dejando el uso natural de las mujeres, se encendieron en sus concupiscencias los unos con los otros, cometiendo cosas nefandas hombres con hombres, y recibiendo en sí mismos la recompensa que convino á su extravío."
+            }
+          ]
+        },
+        {
+          "inciso": "ff",
+          "citas": [
+            {
+              "cita": "Rom. 1:32",
+              "Pasaje": "32. Que, habiendo entendido el juicio de Dios que los que hacen tales cosas son dignos de muerte, no sólo las hacen, mas aun consienten á los que las hacen."
+            },
+            {
+              "cita": "Dan. 5:22",
+              "Pasaje": "22. Y tú, su hijo Belsasar, no has humillado tu corazón, sabiendo todo esto:"
+            },
+            {
+              "cita": "Tit. 3:10-11",
+              "Pasaje": "10. Rehusa hombre hereje, después de una y otra amonestación;\n11. Estando cierto que el tal es trastornado, y peca, siendo condenado de su propio juicio."
+            }
+          ]
+        },
+        {
+          "inciso": "gg",
+          "citas": [
+            {
+              "cita": "Prov. 29:1",
+              "Pasaje": "1. EL hombre que reprendido endurece la cerviz, de repente será quebrantado; ni habrá [para él] medicina."
+            }
+          ]
+        },
+        {
+          "inciso": "hh",
+          "citas": [
+            {
+              "cita": "Tit. 3:10",
+              "Pasaje": "10. Rehusa hombre hereje, después de una y otra amonestación;"
+            },
+            {
+              "cita": "Mat. 18:17",
+              "Pasaje": "17. Y si no oyere á ellos, dilo á la iglesia: y si no oyere á la iglesia, tenle por étnico y publicano."
+            }
+          ]
+        },
+        {
+          "inciso": "ii",
+          "citas": [
+            {
+              "cita": "Prov. 27:22",
+              "Pasaje": "22. Aunque majes al necio en un mortero entre granos de trigo á pisón majados, no se quitará de él su necedad."
+            },
+            {
+              "cita": "Prov. 23:35",
+              "Pasaje": "35. [Y dirás]: Hiriéronme, mas no me dolió; azotáronme, mas no lo sentí; cuando despertare, aun lo tornaré á buscar."
+            }
+          ]
+        },
+        {
+          "inciso": "kk",
+          "citas": [
+            {
+              "cita": "Sal. 78:34-37",
+              "Pasaje": "34. Si los mataba, entonces buscaban á Dios; entonces se volvían solícitos en busca suya.\n35. Y acordábanse que Dios era su refugio, y el Dios Alto su redentor.\n36. Mas le lisonjeaban con su boca, y con su lengua le mentían:\n37. Pues sus corazones no eran rectos con él, ni estuvieron firmes en su pacto."
+            },
+            {
+              "cita": "Jer. 2:20",
+              "Pasaje": "20. Porque desde muy atrás he quebrado tu yugo, y roto tus ataduras; y dijiste: No serviré. Con todo eso, sobre todo collado alto y debajo de todo árbol umbroso, corrías tú, oh ramera."
+            },
+            {
+              "cita": "Jer. 13:5-6,20-21",
+              "Pasaje": "5. Fuí pues, y escondílo junto al Eufrates, como Jehová me mandó.\n6. Y sucedió que al cabo de muchos días me dijo Jehová: Levántate, y ve al Eufrates, y toma de allí el cinto que te mandé escondieses allá.\n20. Alzad vuestros ojos, y ved los que vienen del aquilón: ¿dónde está el rebaño que te fué dado, la grey de tu gloria?\n21. ¿Qué dirás cuando te visitará? porque tú los enseñaste [á ser] príncipes [y] cabeza sobre ti. ¿No te tomarán dolores como á mujer que pare?"
+            }
+          ]
+        },
+        {
+          "inciso": "ll",
+          "citas": [
+            {
+              "cita": "Ecl. 5:4-6",
+              "Pasaje": "4. Cuando á Dios hicieres promesa, no tardes en pagarla; porque no se agrada de los insensatos. Paga lo que prometieres.\n5. Mejor es que no prometas, que no que prometas y no pagues.\n6. No sueltes tu boca para hacer pecar á tu carne; ni digas delante del ángel, que fué ignorancia. ¿Por qué [harás que] Dios se aire á causa de tu voz, y que destruya la obra de tus manos?"
+            },
+            {
+              "cita": "Prov. 20:25",
+              "Pasaje": "25. Lazo es al hombre el devorar lo santo, y andar pesquisando después de los votos."
+            }
+          ]
+        },
+        {
+          "inciso": "mm",
+          "citas": [
+            {
+              "cita": "Lev. 26:25",
+              "Pasaje": "25. Y traeré sobre vosotros espada vengadora, en vindicación del pacto; y os recogeréis á vuestras ciudades; mas yo enviaré pestilencia entre vosotros, y seréis entregados en mano del enemigo."
+            }
+          ]
+        },
+        {
+          "inciso": "nn",
+          "citas": [
+            {
+              "cita": "Prov. 2:17",
+              "Pasaje": "17. Que desampara el príncipe de su mocedad, y se olvida del pacto de su Dios."
+            },
+            {
+              "cita": "Ez. 7:18-19",
+              "Pasaje": "18. Ceñirse han también de sacos, y cubrirálos temblor; y en todo rostro habrá confusión, y en todas sus cabezas peladura.\n19. Arrojarán su plata por las calles, y su oro será desechado; su plata ni su oro, no podrá librarlos en el día del furor de Jehová; no saciarán su alma, ni henchirán sus entrañas: porque ha sido tropiezo para su maldad."
+            }
+          ]
+        },
+        {
+          "inciso": "oo",
+          "citas": [
+            {
+              "cita": "Sal. 36:4",
+              "Pasaje": "4. Iniquidad piensa sobre su cama; está en camino no bueno, el mal no aborrece."
+            }
+          ]
+        },
+        {
+          "inciso": "pp",
+          "citas": [
+            {
+              "cita": "Jer. 6:16",
+              "Pasaje": "16. Así dijo Jehová: Paraos en los caminos, y mirad, y preguntad por las sendas antiguas, cuál sea el buen camino, y andad por él, y hallaréis descanso para vuestra alma. Mas dijeron: No andaremos."
+            }
+          ]
+        },
+        {
+          "inciso": "qq",
+          "citas": [
+            {
+              "cita": "Núm. 15:30",
+              "Pasaje": "30. Mas la persona que hiciere algo con altiva mano, así el natural como el extranjero, á Jehová injurió; y la tal persona será cortada de en medio de su pueblo."
+            },
+            {
+              "cita": "Éx. 21:14",
+              "Pasaje": "14. Además, si alguno se ensoberbeciere contra su prójimo, y lo matare con alevosía, de mi altar lo quitarás para que muera."
+            }
+          ]
+        },
+        {
+          "inciso": "rr",
+          "citas": [
+            {
+              "cita": "Jer. 3:3",
+              "Pasaje": "3. Por esta causa las aguas han sido detenidas, y faltó la lluvia de la tarde; y has tenido frente de mala mujer, ni quisiste tener vergüenza."
+            },
+            {
+              "cita": "Prov. 7:13",
+              "Pasaje": "13. Y traba de él, y bésalo; desvergonzó su rostro, y díjole:"
+            }
+          ]
+        },
+        {
+          "inciso": "ss",
+          "citas": [
+            {
+              "cita": "Sal. 52:1",
+              "Pasaje": "1. Al Músico principal: Masquil de David, cuando vino Doeg Idumeo y dió cuenta á Saúl, diciéndole: David ha venido á casa de Ahimelech. ¿POR qué te glorías de maldad, oh poderoso? La misericordia de Dios es continua."
+            }
+          ]
+        },
+        {
+          "inciso": "tt",
+          "citas": [
+            {
+              "cita": "3 Jn. 1:10",
+              "Pasaje": "10. Por esta causa, si yo viniere, recordaré las obras que hace parlando con palabras maliciosas contra nosotros; y no contento con estas cosas, no recibe á los hermanos, y prohibe á los que los quieren [recibir], y los echa de la iglesia."
+            }
+          ]
+        },
+        {
+          "inciso": "uu",
+          "citas": [
+            {
+              "cita": "Núm. 14:22",
+              "Pasaje": "22. Que todos los que vieron mi gloria y mis señales que he hecho en Egipto y en el desierto, y me han tentado ya diez veces, y no han oído mi voz,"
+            }
+          ]
+        },
+        {
+          "inciso": "vv",
+          "citas": [
+            {
+              "cita": "Zac. 7:11-12",
+              "Pasaje": "11. Empero no quisieron escuchar, antes dieron hombro rebelado, y agravaron sus oídos para no oir:\n12. Y pusieron su corazón como diamante, para no oir la ley ni las palabras que Jehová de los ejércitos enviaba por su espíritu, por mano de los profetas primeros: fué, por tanto, hecho grande castigo por Jehová de los ejércitos."
+            }
+          ]
+        },
+        {
+          "inciso": "ww",
+          "citas": [
+            {
+              "cita": "Prov. 2:14",
+              "Pasaje": "14. Que se alegran haciendo mal, que se huelgan en las perversidades del vicio;"
+            }
+          ]
+        },
+        {
+          "inciso": "xx",
+          "citas": [
+            {
+              "cita": "Isa. 57:17",
+              "Pasaje": "17. Por la iniquidad de su codicia me enojé y heríle, escondí [mi rostro] y ensañéme; y fué él rebelde por el camino de su corazón."
+            }
+          ]
+        },
+        {
+          "inciso": "yy",
+          "citas": [
+            {
+              "cita": "Jer. 34:8-11",
+              "Pasaje": "8. Palabra que fué á Jeremías de Jehová, después que Sedechîas hizo concierto con todo el pueblo en Jerusalem, para promulgarles libertad:\n9. Que cada uno dejase su siervo, y cada uno su sierva, hebreo y hebrea, libres; que ninguno usase de los Judíos su hermanos como de siervos.\n10. Y como oyeron todos los príncipes, y todo el pueblo que habían venido en el concierto de dejar cada uno su siervo y cada uno su sierva libres, que ninguno usase más de ellos como de siervos, obedecieron, y dejáronlos.\n11. Mas después se arrepintieron, é hicieron tornar los siervos y las siervas que habían dejado libres, y sujetáronlos por siervos y por siervas."
+            },
+            {
+              "cita": "2 Ped. 2:20-22",
+              "Pasaje": "20. Ciertamente, si habiéndose ellos apartado de las contaminaciones del mundo, por el conocimiento del Señor y Salvador Jesucristo, y otra vez envolviéndose en ellas, son vencidos, sus postrimerías les son hechas peores que los principios.\n21. Porque mejor les hubiera sido no haber conocido el camino de la justicia, que después de haberlo conocido, tornarse atrás del santo mandamiento que les fué dado.\n22. Pero les ha acontecido lo del verdadero proverbio: El perro se volvió á su vómito, y la puerca lavada á revolcarse en el cieno."
+            }
+          ]
+        },
+        {
+          "inciso": "zz",
+          "citas": [
+            {
+              "cita": "2 Rey. 5:26",
+              "Pasaje": "26. El entonces le dijo: ¿No fué también mi corazón, cuando el hombre volvió de su carro á recibirte? ¿es tiempo de tomar plata, y de tomar vestidos, olivares, viñas, ovejas, bueyes, siervos y siervas?"
+            }
+          ]
+        },
+        {
+          "inciso": "aaa",
+          "citas": [
+            {
+              "cita": "Jer. 7:10",
+              "Pasaje": "10. Vendréis y os pondréis delante de mí en esta casa sobre la cual es invocado mi nombre, y diréis: Librados somos: para hacer todas estas abominaciones?"
+            },
+            {
+              "cita": "Isa. 26:10",
+              "Pasaje": "10. Alcanzará piedad el impío, y no aprenderá justicia; en tierra de rectitud hará iniquidad, y no mirará á la majestad de Jehová."
+            }
+          ]
+        },
+        {
+          "inciso": "bbb",
+          "citas": [
+            {
+              "cita": "Ez. 23:37-39",
+              "Pasaje": "37. Porque han adulterado, y hay sangre en sus manos, y han fornicado con sus ídolos; y aun sus hijos que me habían engendrado, hicieron pasar [por el fuego], quemándolos.\n38. Aun esto más me hicieron: contaminaron mi santuario en aquel día, y profanaron mis sábados;\n39. Pues habiendo sacrificado sus hijos á sus ídolos, entrábanse en mi santuario el mismo día para contaminarlo: y he aquí, así hicieron en medio de mi casa."
+            },
+            {
+              "cita": "Isa. 58:3-5",
+              "Pasaje": "3. ¿Por qué, [dicen], ayunamos, y no hiciste caso; humillamos nuestras almas, y no te diste por entendido? He aquí que en el día de vuestro ayuno halláis lo que queréis, y todos demandáis vuestras haciendas.\n4. He aquí que para contiendas y debates ayunáis, y para herir con el puño inicuamente; no ayunéis como hoy, para que vuestra voz sea oída en lo alto.\n5. ¿Es tal el ayuno que yo escogí, que de día aflija el hombre su alma, que encorve su cabeza como junco, y haga cama de saco y de ceniza? ¿Llamaréis esto ayuno, y día agradable á Jehová?"
+            },
+            {
+              "cita": "Núm. 25:6-7",
+              "Pasaje": "6. Y he aquí un varón de los hijos de Israel vino y trajo una Madianita á sus hermanos, á ojos de Moisés y de toda la congregación de los hijos de Israel, llorando ellos á la puerta del tabernáculo del testimonio.\n7. Y viólo Phinees, hijo de Eleazar, hijo de Aarón el sacerdote, y levantóse de en medio de la congregación, y tomó una lanza en su mano:"
+            }
+          ]
+        },
+        {
+          "inciso": "ccc",
+          "citas": [
+            {
+              "cita": "1 Cor. 11:20-21",
+              "Pasaje": "20. Cuando pues os juntáis en uno, [esto] no es comer la cena del Señor:\n21. Porque cada uno toma antes para comer su propia cena; y el uno tiene hambre, y el otro está embriagado."
+            },
+            {
+              "cita": "Jer. 7:8-10",
+              "Pasaje": "8. He aquí vosotros os confiáis en palabras de mentira, que no aprovechan.\n9. ¿Hurtando, matando, y adulterando, y jurando falso, é incensando á Baal, y andando tras dioses extraños que no conocisteis,\n10. Vendréis y os pondréis delante de mí en esta casa sobre la cual es invocado mi nombre, y diréis: Librados somos: para hacer todas estas abominaciones?"
+            },
+            {
+              "cita": "Prov. 7:14-15",
+              "Pasaje": "14. Sacrificios de paz había prometido, hoy he pagado mis votos;\n15. Por tanto he salido á encontrarte, buscando diligentemente tu rostro, y te he hallado."
+            },
+            {
+              "cita": "Jn. 13:27,30",
+              "Pasaje": "27. Y tras el bocado Satanás entró en él. Entonces Jesús le dice: Lo que haces, haz[lo] más presto.\n30. Como él pues hubo tomado el bocado, luego salió: y era [ya] noche."
+            }
+          ]
+        },
+        {
+          "inciso": "ddd",
+          "citas": [
+            {
+              "cita": "Esd. 9:13-14",
+              "Pasaje": "13. Mas después de todo lo que nos ha sobrevenido á causa de nuestras malas obras, y á causa de nuestro grande delito; ya que tú, Dios nuestro, estorbaste que fuésemos oprimidos bajo de nuestras iniquidades, y nos diste este tal efugio;\n14. ¿Hemos de volver á infringir tus mandamientos, y á emparentar con los pueblos de estas abominaciones? ¿No te ensañarías contra nosotros hasta consumirnos, sin que quedara resto ni escapatoria?"
+            }
+          ]
+        },
+        {
+          "inciso": "eee",
+          "citas": [
+            {
+              "cita": "2 Sam. 16:22",
+              "Pasaje": "22. Entonces pusieron una tienda á Absalom sobre el terrado, y entró Absalom á las concubinas de su padre, en ojos de todo Israel."
+            },
+            {
+              "cita": "1 Sam. 2:22-24",
+              "Pasaje": "22. Eli empero era muy viejo, y oyó todo lo que sus hijos hacían á todo Israel, y como dormían con las mujeres que velaban á la puerta del tabernáculo del testimonio.\n23. Y díjoles: ¿Por qué hacéis cosas semejantes? Porque yo oigo de todo este pueblo vuestros malos procederes.\n24. No, hijos míos; porque no es buena fama la que yo oigo: que hacéis pecar al pueblo de Jehová."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 152,
+      "pregunta": "¿Qué merece todo pecado de parte de Dios?",
+      "respuesta": "Todo pecado, aun el más pequeño, siendo contra la soberanía, la bondad y la santidad de Dios, y contra su justa ley, merece su ira y maldición, tanto en esta vida como en la venidera, y no puede ser expiado sino por la sangre de Cristo.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Sant. 2:10-11",
+              "Pasaje": "10. Porque cualquiera que hubiere guardado toda la ley, y ofendiere en un [punto], es hecho culpado de todos.\n11. Porque el que dijo: No cometerás adulterio, también ha dicho: No matarás. Ahora bien, si no hubieres cometido adulterio, pero hubieres matado, ya eres hecho transgresor de la ley."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Éx. 20:1-2",
+              "Pasaje": "1. Y HABLÓ Dios todas estas palabras, diciendo:\n2. Yo soy JEHOVÁ tu Dios, que te saqué de la tierra de Egipto, de casa de siervos."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Hab. 1:13",
+              "Pasaje": "13. Muy limpio eres de ojos para ver el mal, ni puedes ver el agravio: ¿por qué ves los menospreciadores, y callas cuando destruye el impío al más justo que él,"
+            },
+            {
+              "cita": "Lev. 10:3",
+              "Pasaje": "3. Entonces dijo Moisés á Aarón: Esto es lo que habló Jehová, diciendo: En mis allegados me santificaré, y en presencia de todo el pueblo seré glorificado. Y Aarón calló."
+            },
+            {
+              "cita": "Lev. 11:44-45",
+              "Pasaje": "44. Pues que yo soy Jehová vuestro Dios, vosotros por tanto os santificaréis, y seréis santos, porque yo soy santo: así que no ensuciéis vuestras personas con ningún reptil que anduviere arrastrando sobre la tierra.\n45. Porque yo soy Jehová, que os hago subir de la tierra de Egipto para seros por Dios: seréis pues santos, porque yo soy santo."
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "1 Jn. 3:4",
+              "Pasaje": "4. Cualquiera que hace pecado, traspasa también la ley; pues el pecado es transgresión de la ley."
+            },
+            {
+              "cita": "Rom. 7:12",
+              "Pasaje": "12. De manera que la ley á la verdad es santa, y el mandamiento santo, y justo, y bueno."
+            }
+          ]
+        },
+        {
+          "inciso": "e",
+          "citas": [
+            {
+              "cita": "Ef. 5:6",
+              "Pasaje": "6. Nadie os engañe con palabras vanas; porque por estas cosas viene la ira de Dios sobre los hijos de desobediencia."
+            },
+            {
+              "cita": "Gál. 3:10",
+              "Pasaje": "10. Porque todos los que son de las obras de la ley, están bajo de maldición. Porque escrito está: Maldito todo aquel que no permaneciere en todas las cosas que están escritas en el libro de la ley, para hacerlas."
+            }
+          ]
+        },
+        {
+          "inciso": "f",
+          "citas": [
+            {
+              "cita": "Lam. 3:39",
+              "Pasaje": "39. ¿Por qué murmura el hombre viviente, el hombre en su pecado?"
+            },
+            {
+              "cita": "Deut. 28:15-18",
+              "Pasaje": "15. Y será, si no oyeres la voz de Jehová tu Dios, para cuidar de poner por obra todos sus mandamientos y sus estatutos, que yo te intimo hoy, que vendrán sobre ti todas estas maldiciones, y te alcanzarán.\n16. Maldito serás tu en la ciudad, y maldito en el campo.\n17. Maldito tu canastillo, y tus sobras.\n18. Maldito el fruto de tu vientre, y el fruto de tu tierra, y la cría de tus vacas, y los rebaños de tus ovejas."
+            }
+          ]
+        },
+        {
+          "inciso": "g",
+          "citas": [
+            {
+              "cita": "Mat. 25:41",
+              "Pasaje": "41. Entonces dirá también á los que [estarán] á la izquierda: Apartaos de mí, malditos, al fuego eterno preparado para el diablo y para sus ángeles:"
+            }
+          ]
+        },
+        {
+          "inciso": "h",
+          "citas": [
+            {
+              "cita": "Heb. 9:22",
+              "Pasaje": "22. Y casi todo es purificado según la ley con sangre; y sin derramamiento de sangre no se hace remisión."
+            },
+            {
+              "cita": "1 Ped. 1:18-19",
+              "Pasaje": "18. Sabiendo que habéis sido rescatados de vuestra vana conversación, la cual recibisteis de vuestros padres, no con cosas corruptibles, [como] oro ó plata;\n19. Sino con la sangre preciosa de Cristo, como de un cordero sin mancha y sin contaminación:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 153,
+      "pregunta": "¿Qué requiere Dios de nosotros para que escapemos de su ira y maldición, que merecemos por la transgresión de la ley?",
+      "respuesta": "Para que escapemos de la ira y maldición de Dios que merecemos por la transgresión de la ley, él requiere de nosotros arrepentimiento para con Dios y fe en nuestro Señor Jesucristo, y el uso diligente de los medios exteriores por los cuales Cristo nos comunica los beneficios de su mediación.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Hech. 20:21",
+              "Pasaje": "21. Testificando á los Judíos y á los Gentiles arrepentimiento para con Dios, y la fe en nuestro Señor Jesucristo."
+            },
+            {
+              "cita": "Mat. 3:7-8",
+              "Pasaje": "7. Y viendo él muchos de los Fariseos y de los Saduceos, que venían á su bautismo, decíales: Generación de víboras, ¿quién os ha enseñado á huir de la ira que vendrá?\n8. Haced pues frutos dignos de arrepentimiento,"
+            },
+            {
+              "cita": "Luc. 13:3,5",
+              "Pasaje": "3. No, os digo; antes si no os arrepintiereis, todos pereceréis igualmente.\n5. No, os digo; antes si no os arrepintiereis, todos pereceréis asimismo."
+            },
+            {
+              "cita": "Hech. 16:30-31",
+              "Pasaje": "30. Y sacándolos fuera, les dice: Señores, ¿qué es menester que yo haga para ser salvo?\n31. Y ellos dijeron: Cree en el Señor Jesucristo, y serás salvo tú, y tu casa."
+            },
+            {
+              "cita": "Jn. 3:16,18",
+              "Pasaje": "16. Porque de tal manera amó Dios al mundo, que ha dado á su Hijo unigénito, para que todo aquel que en él cree, no se pierda, mas tenga vida eterna.\n18. El que en él cree, no es condenado; mas el que no cree, ya es condenado, porque no creyó en el nombre del unigénito Hijo de Dios."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Prov. 2:1-5",
+              "Pasaje": "1. HIJO mío, si tomares mis palabras, y mis mandamientos guardares dentro de ti,\n2. Haciendo estar atento tu oído á la sabiduría; [si] inclinares tu corazón á la prudencia;\n3. Si clamares á la inteligencia, y á la prudencia dieres tu voz;\n4. Si como á la plata la buscares, y la escudriñares como á tesoros;\n5. Entonces entenderás el temor de Jehová, y hallarás el conocimiento de Dios."
+            },
+            {
+              "cita": "Prov. 8:33-36",
+              "Pasaje": "33. Atended el consejo, y sed sabios, y no lo menospreciéis.\n34. Bienaventurado el hombre que me oye, velando á mis puertas cada día, guardando los umbrales de mis entradas.\n35. Porque el que me hallare, hallará la vida, y alcanzará el favor de Jehová.\n36. Mas el que peca contra mí, defrauda su alma: todos los que me aborrecen, aman la muerte."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 154,
+      "pregunta": "¿Cuáles son los medios exteriores por los cuales Cristo nos comunica los beneficios de su mediación?",
+      "respuesta": "Los medios exteriores y ordinarios por los cuales Cristo comunica a su iglesia los beneficios de su mediación son todas sus ordenanzas, especialmente la Palabra, los sacramentos y la oración; todos los cuales son hechos eficaces para la salvación de los elegidos.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Mat. 28:19-20",
+              "Pasaje": "19. Por tanto, id, y doctrinad á todos los Gentiles, bautizándolos en el nombre del Padre, y del Hijo, y del Espíritu Santo:\n20. Enseñándoles que guarden todas las cosas que os he mandado: y he aquí, yo estoy con vosotros todos los días, hasta el fin del mundo. Amén."
+            },
+            {
+              "cita": "Hech. 2:42,46-47",
+              "Pasaje": "42. Y perseveraban en la doctrina de los apóstoles, y en la comunión, y en el partimiento del pan, y en las oraciones.\n46. Y perseverando unánimes cada día en el templo, y partiendo el pan en las casas, comían juntos con alegría y con sencillez de corazón,\n47. Alabando á Dios, y teniendo gracia con todo el pueblo. Y el Señor añadía cada día á la iglesia los que habían de ser salvos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 155,
+      "pregunta": "¿Cómo se hace eficaz la Palabra para salvación?",
+      "respuesta": "El Espíritu de Dios hace de la lectura, pero especialmente de la predicación de la Palabra, un medio eficaz para iluminar, convencer y humillar a los pecadores; para sacarlos de sí mismos y atraerlos a Cristo; para conformarlos a su imagen y sujetarlos a su voluntad; para fortalecerlos contra las tentaciones y las corrupciones; para edificarlos en la gracia y afirmar sus corazones en santidad y consuelo, por medio de la fe, para salvación.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Neh. 8:8",
+              "Pasaje": "8. Y leían en el libro de la ley de Dios claramente, y ponían el sentido, de modo que entendiesen la lectura."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Hech. 26:18",
+              "Pasaje": "18. Para que abras sus ojos, para que se conviertan de las tinieblas á la luz, y de la potestad de Satanás á Dios; para que reciban, por la fe que es en mí, remisión de pecados y suerte entre los santificados."
+            },
+            {
+              "cita": "Sal. 19:8",
+              "Pasaje": "8. Los mandamientos de Jehová son rectos, que alegran el corazón: el precepto de Jehová, puro, que alumbra los ojos."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "1 Cor. 14:24-25",
+              "Pasaje": "24. Mas si todos profetizan, y entra algún infiel ó indocto, de todos es convencido, de todos es juzgado;\n25. Lo oculto de su corazón se hace manifiesto: y así, postrándose sobre el rostro, adorará á Dios, declarando que verdaderamente Dios está en vosotros."
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "Hech. 2:37,41",
+              "Pasaje": "37. Entonces oído [esto], fueron compungidos de corazón, y dijeron á Pedro y á los otros apóstoles: Varones hermanos, ¿qué haremos?\n41. Así que, los que recibieron su palabra, fueron bautizados: y fueron añadidas [á ellos] aquel día como tres mil personas."
+            },
+            {
+              "cita": "Hech. 8:27-30,35-38",
+              "Pasaje": "27. Entonces él se levantó, y fué: y he aquí un Etiope, eunuco, gobernador de Candace, reina de los Etiopes, el cual era puesto sobre todos sus tesoros, y había venido á adorar á Jerusalem,\n28. Se volvía sentado en su carro, y leyendo el profeta Isaías.\n29. Y el Espíritu dijo á Felipe: Llégate, y júntate á este carro.\n30. Y acudiendo Felipe, le oyó que leía el profeta Isaías, y dijo: Mas ¿entiendes lo que lees?\n35. Entonces Felipe, abriendo su boca, y comenzando desde esta escritura, le anunció el evangelio de Jesús.\n36. Y yendo por el camino, llegaron á cierta agua; y dijo el eunuco: He aquí agua; ¿qué impide que yo sea bautizado?\n37. Y Felipe dijo: Si crees de todo corazón, bien puedes. Y respondiendo, dijo: Creo que Jesucristo es el Hijo de Dios.\n38. Y mandó parar el carro: y descendieron ambos al agua, Felipe y el eunuco; y bautizóle."
+            }
+          ]
+        },
+        {
+          "inciso": "e",
+          "citas": [
+            {
+              "cita": "2 Cor. 3:18",
+              "Pasaje": "18. Por tanto, nosotros todos, mirando á cara descubierta como en un espejo la gloria del Señor, somos transformados de gloria en gloria en la misma semejanza, como por el Espíritu del Señor."
+            }
+          ]
+        },
+        {
+          "inciso": "f",
+          "citas": [
+            {
+              "cita": "2 Cor. 10:4-6",
+              "Pasaje": "4. (Porque las armas de nuestra milicia no son carnales, sino poderosas en Dios para la destrucción de fortalezas;)\n5. Destruyendo consejos, y toda altura que se levanta contra la ciencia de Dios, y cautivando todo intento á la obediencia de Cristo;\n6. Y estando prestos para castigar toda desobediencia, cuando vuestra obediencia fuere cumplida."
+            },
+            {
+              "cita": "Rom. 6:17",
+              "Pasaje": "17. Empero gracias á Dios, que aunque fuisteis siervos del pecado, habéis obedecido de corazón á aquella forma de doctrina á la cual sois entregados;"
+            }
+          ]
+        },
+        {
+          "inciso": "g",
+          "citas": [
+            {
+              "cita": "Mat. 4:4,7,10",
+              "Pasaje": "4. Mas él respondiendo, dijo: Escrito está: No con solo el pan vivirá el hombre, mas con toda palabra que sale de la boca de Dios.\n7. Jesús le dijo: Escrito está además: No tentarás al Señor tu Dios.\n10. Entonces Jesús le dice: Vete, Satanás, que escrito está: Al Señor tu Dios adorarás y á él solo servirás."
+            },
+            {
+              "cita": "Ef. 6:16-17",
+              "Pasaje": "16. Sobre todo, tomando el escudo de la fe, con que podáis apagar todos los dardos de fuego del maligno.\n17. Y tomad el yelmo de salud, y la espada del Espíritu; que es la palabra de Dios;"
+            },
+            {
+              "cita": "Sal. 19:11",
+              "Pasaje": "11. Tu siervo es además amonestado con ellos: en guardarlos hay grande galardón."
+            },
+            {
+              "cita": "1 Cor. 10:11",
+              "Pasaje": "11. Y estas cosas les acontecieron en figura; y son escritas para nuestra admonición, en quienes los fines de los siglos han parado."
+            }
+          ]
+        },
+        {
+          "inciso": "h",
+          "citas": [
+            {
+              "cita": "Hech. 20:32",
+              "Pasaje": "32. Y ahora, hermanos, os encomiendo á Dios, y á la palabra de su gracia: el cual es poderoso para sobreedificar, y daros heredad con todos los santificados."
+            },
+            {
+              "cita": "2 Tim. 3:15-17",
+              "Pasaje": "15. Y que desde la niñez has sabido las Sagradas Escrituras, las cuales te pueden hacer sabio para la salud por la fe que es en Cristo Jesús.\n16. Toda Escritura [es] inspirada divinamente y útil para enseñar, para redargüir, para corregir, para instituir en justicia,\n17. Para que el hombre de Dios sea perfecto, enteramente instruído para toda buena obra."
+            }
+          ]
+        },
+        {
+          "inciso": "i",
+          "citas": [
+            {
+              "cita": "Rom. 16:25",
+              "Pasaje": "25. Y al que puede confirmaros según mi evangelio y la predicación de Jesucristo, según la revelación del misterio encubierto desde tiempos eternos,"
+            },
+            {
+              "cita": "1 Tes. 3:2,10-11,13",
+              "Pasaje": "2. Y enviamos á Timoteo, nuestro hermano, y ministro de Dios, y colaborador nuestro en el evangelio de Cristo, á confirmaros y exhortaros en vuestra fe,\n10. Orando de noche y de día con grande instancia, que veamos vuestro rostro, y que cumplamos lo que falta á vuestra fe?\n11. Mas el mismo Dios y Padre nuestro, y el Señor nuestro Jesucristo, encamine nuestro viaje á vosotros.\n13. Para que sean confirmados vuestros corazones en santidad, irreprensibles delante de Dios y nuestro Padre, para la venida de nuestro Señor Jesucristo con todos sus santos."
+            }
+          ]
+        },
+        {
+          "inciso": "k",
+          "citas": [
+            {
+              "cita": "Rom. 15:4",
+              "Pasaje": "4. Porque las cosas que antes fueron escritas, para nuestra enseñanza fueron escritas; para que por la paciencia, y por la consolación de las Escrituras, tengamos esperanza."
+            },
+            {
+              "cita": "Rom. 10:13-17",
+              "Pasaje": "13. Porque todo aquel que invocare el nombre del Señor, será salvo.\n14. ¿Cómo, pues invocarán á aquel en el cual no han creído? ¿y cómo creerán á aquel de quien no han oído? ¿y cómo oirán sin [haber] quien [les] predique?\n15. ¿Y cómo predicarán si no fueren enviados? Como está escrito: ¡Cuán hermosos son los pies de los que anuncian el evangelio de la paz, de los que anuncian el evangelio de los bienes!\n16. Mas no todos obedecen al evangelio; pues Isaías dice: Señor, ¿quién ha creído á nuestro anuncio?\n17. Luego la fe es por el oir; y el oir por la palabra de Dios."
+            },
+            {
+              "cita": "Rom. 1:16",
+              "Pasaje": "16. Porque no me avergüenzo del evangelio: porque es potencia de Dios para salud á todo aquel que cree; al Judío primeramente y también al Griego."
             }
           ]
         }

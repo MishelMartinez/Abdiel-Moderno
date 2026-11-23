@@ -4,12 +4,12 @@ Generado por `npm run mayor` (scripts/catecismo-mayor.mjs).
 
 | Concepto | Resultado |
 | --- | --- |
-| Preguntas incluidas | 135 de 196 (1–135) |
+| Preguntas incluidas | 155 de 196 (1–155) |
 | Numeración consecutiva y sin duplicados | Sí |
 | Preguntas o respuestas vacías | 0 |
-| Incisos | 740 |
-| Referencias bíblicas | 1335 |
-| Versículos con texto (RV1909) | 2333 |
+| Incisos | 981 |
+| Referencias bíblicas | 1820 |
+| Versículos con texto (RV1909) | 3175 |
 | Pasajes vacíos o no encontrados | 0 |
 | Versión bíblica | Reina-Valera 1909 (eBible.org, spaRV1909) |
 
@@ -30,6 +30,10 @@ Generado por `npm run mayor` (scripts/catecismo-mayor.mjs).
 - Pregunta 121, Sal. 92:1,13-14: La fuente cita el título del Salmo 92 («Salmo o cántico para el día del sábado») comparado con los versículos 13-14; en la Reina-Valera 1909 el título forma parte del versículo 1.
 - Pregunta 128, Éx. 21:15: La fuente indica «Exodus 24:15»; las ediciones estándar citan Éxodo 21:15 («el que hiriere á su padre ó á su madre»).
 - Pregunta 135, Ef. 4:2,32: La fuente indica «Ephesians 5:2, 32»; las ediciones estándar citan Efesios 4:2, 32, sobre soportarse con paciencia y perdonarse unos a otros.
+- Pregunta 136, Éx. 21:18-36: La fuente añade: «que contiene las leyes acerca de los que hieren, del daño por accidente, del buey acorneador y del que es ocasión de daño».
+- Pregunta 138, 1 Ped. 3:2: La fuente indica «1 Peter 2:3»; las ediciones estándar citan 1 Pedro 3:2 («vuestra casta conversación»).
+- Pregunta 145, 2 Tim. 4:16: La fuente indica «2 Timothy 4:6»; las ediciones estándar citan 2 Timoteo 4:16 («ninguno me ayudó»), sobre el silencio indebido en una causa justa.
+- Pregunta 145, Lev. 19:16: La fuente indica «Leviticus 19:19»; las ediciones estándar citan Levítico 19:16 («No andarás chismeando»).
 - La fuente en línea (reformededucation.org) advierte que su transcripción aún no se ha cotejado con una edición estándar.
 - La fuente presenta las pruebas bíblicas sin letras de inciso; las letras se asignaron según la edición estándar y deben revisarse.
 - La traducción al español es propia y requiere revisión y aprobación.
