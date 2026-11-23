@@ -475,7 +475,7 @@ function mostrarPasaje(cita, disparador) {
   $('textoComparativo').textContent = comp || '';
   const escuchar = $('escucharPasaje');
   escuchar.hidden = !voz || !pasaje;
-  escuchar.onclick = () => alternarVoz(`${etiqueta}. ${pasaje}${comp ? ` Compare con ${cita.referenciaComparativa || ''}. ${comp}` : ''}`, escuchar);
+  escuchar.onclick = () => alternarVoz(`${etiqueta}. ${pasaje}${comp ? ` Compare con ${cita.referenciaComparativa || ''}. ${comp}` : ''}`, escuchar, { sinNumerosDeVersiculo: true });
   abrirVentana($('ventanaPasaje'), disparador);
 }
 
@@ -500,12 +500,12 @@ function detenerVoz() {
   marcarBoton(botonHablando, false);
   botonHablando = null;
 }
-function alternarVoz(texto, boton) {
+function alternarVoz(texto, boton, { sinNumerosDeVersiculo = false } = {}) {
   if (!voz) return;
   const eraEste = botonHablando === boton;
   detenerVoz();
   if (eraEste) return;
-  const u = new SpeechSynthesisUtterance(texto.replace(/(^|\n)\d+\.\s/g, '$1'));
+  const u = new SpeechSynthesisUtterance(sinNumerosDeVersiculo ? texto.replace(/(^|\n)\d+\.\s/g, '$1') : texto);
   u.lang = 'es-MX';
   u.rate = estado.velocidad;
   const v = vozEspanol();
