@@ -443,10 +443,11 @@ function actualizarVozDisponible() {
 async function compartirPregunta(q, boton) {
   const url = new URL(location.href);
   url.hash = `pregunta-${q.numero}`;
-  const datos = { title: `Pregunta ${q.numero}`, text: `${q.pregunta}\n${q.respuesta}`, url: url.href };
+  const local = url.protocol === 'file:';
+  const texto = `Pregunta ${q.numero}: ${q.pregunta}\n${q.respuesta}`;
   try {
-    if (navigator.share && url.protocol !== 'file:') { await navigator.share(datos); return; }
-    await navigator.clipboard.writeText(`Pregunta ${q.numero}: ${q.pregunta}\n${q.respuesta}\n${url.href}`);
+    if (navigator.share && !local) { await navigator.share({ title: `Pregunta ${q.numero}`, text: texto, url: url.href }); return; }
+    await navigator.clipboard.writeText(local ? texto : `${texto}\n${url.href}`);
     avisoTemporal(boton, '✓ Copiado');
   } catch (e) {
     if (e?.name !== 'AbortError') avisoTemporal(boton, 'No se pudo copiar');
@@ -511,7 +512,11 @@ renderCatalogo();
 renderNotas();
 renderIndice();
 render();
-abrirDesdeEnlace();
+if (/^#pregunta-\d+$/.test(location.hash)) {
+  if ('scrollRestoration' in history) history.scrollRestoration = 'manual';
+  abrirDesdeEnlace();
+  window.addEventListener('load', abrirDesdeEnlace, { once: true });
+}
 
 if (location.protocol !== 'file:') {
   leerJson('data/catalogo.json').then((cat) => {
