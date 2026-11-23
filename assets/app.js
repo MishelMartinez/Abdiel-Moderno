@@ -131,7 +131,14 @@ function tarjeta(q) {
     if (d.pasaje) {
       const cita = el('blockquote', 'dato-curioso-pasaje');
       cita.append(el('p', '', d.pasaje), el('cite', '', [d.cita, d.version].filter(Boolean).join(' · ')));
-      caja.append(cita);
+      const oir = el('button', 'boton boton-suave dato-curioso-voz');
+      oir.type = 'button';
+      oir.dataset.voz = '';
+      oir.hidden = !voz;
+      oir.append(icono(ICONO_VOZ), el('span', '', 'Escuchar'));
+      oir.setAttribute('aria-label', `Escuchar ${d.cita || 'el pasaje'}`);
+      oir.addEventListener('click', () => alternarVoz(`${d.cita || ''}. ${d.pasaje}`, oir));
+      caja.append(cita, oir);
     }
     art.append(caja);
   }

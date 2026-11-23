@@ -274,3 +274,4 @@ details[open] > summary .flecha svg { transform: rotate(180deg); }
 .muestra-sepia { background: linear-gradient(135deg, #fbf6ea 50%, #7a4e1f 50%); }
 .muestra-oscuro { background: linear-gradient(135deg, #17222e 50%, #7cc0ff 50%); }
 .muestra-contraste { background: linear-gradient(135deg, #000 50%, #ffd400 50%); }
+.dato-curioso-voz { margin-top: 12px; }

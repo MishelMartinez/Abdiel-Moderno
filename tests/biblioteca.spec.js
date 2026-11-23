@@ -276,6 +276,8 @@ test('Catecismo de Heidelberg: se elige y muestra sus pasajes RV1909, también s
   await page.locator('#buscar').fill('105');
   await expect(page.locator('#pregunta-105 .dato-curioso')).toContainText('Dato curioso');
   await expect(page.locator('#pregunta-105 .dato-curioso-pasaje')).toContainText(hc.preguntas[104].datoCurioso.pasaje);
+  await page.locator('#buscar').fill('Eclesiástico 3:27');
+  await expect(page.locator('#pregunta-105')).toBeVisible();
 });
 
 test('un catecismo o confesión nuevo en catalogo.json aparece y se recuerda', async ({ page }) => {
