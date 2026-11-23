@@ -195,7 +195,8 @@ details[open] > summary .flecha svg { transform: rotate(180deg); }
 .cita { display: inline-flex; align-items: center; gap: 10px; min-height: 48px; padding: 8px 16px; border-radius: 12px; background: var(--superficie); border: 2px solid var(--borde); color: var(--tinta); font-weight: 600; font-size: .9em; max-width: 100%; text-align: left; }
 .cita-boton { color: var(--primario); border-color: color-mix(in srgb, var(--primario) 35%, var(--borde)); }
 .cita-boton:hover { border-color: var(--primario); background: var(--nota-fondo); }
-.cita-pendiente { border-style: dashed; }
+.cita-pendiente { border-style: dashed; flex-wrap: wrap; row-gap: 6px; }
+.cita-etiqueta { min-width: 0; overflow-wrap: anywhere; }
 .cita-estado { padding: 2px 10px; border-radius: 999px; background: var(--alerta-fondo); border: 1px solid var(--alerta-borde); color: var(--alerta-tinta); font-size: .8em; font-weight: 700; white-space: nowrap; }
 .cita svg { width: 1.25em; height: 1.25em; flex: none; fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
 
