@@ -1,0 +1,16 @@
+{
+  "name": "abdiel-moderno",
+  "version": "7.0.0",
+  "private": true,
+  "description": "Biblioteca de Catecismos — versión moderna, accesible y pensada para web y móvil",
+  "type": "module",
+  "scripts": {
+    "sync": "node scripts/sincronizar-datos.mjs",
+    "validar": "node scripts/validar-datos.mjs",
+    "start": "node scripts/servidor.mjs 8080",
+    "test": "npm run validar && playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.56.1"
+  }
+}
