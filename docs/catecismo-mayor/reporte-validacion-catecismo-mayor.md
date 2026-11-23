@@ -4,12 +4,12 @@ Generado por `npm run mayor` (scripts/catecismo-mayor.mjs).
 
 | Concepto | Resultado |
 | --- | --- |
-| Preguntas incluidas | 155 de 196 (1–155) |
+| Preguntas incluidas | 176 de 196 (1–176) |
 | Numeración consecutiva y sin duplicados | Sí |
 | Preguntas o respuestas vacías | 0 |
-| Incisos | 981 |
-| Referencias bíblicas | 1820 |
-| Versículos con texto (RV1909) | 3175 |
+| Incisos | 1122 |
+| Referencias bíblicas | 2092 |
+| Versículos con texto (RV1909) | 3666 |
 | Pasajes vacíos o no encontrados | 0 |
 | Versión bíblica | Reina-Valera 1909 (eBible.org, spaRV1909) |
 
@@ -35,6 +35,12 @@ Generado por `npm run mayor` (scripts/catecismo-mayor.mjs).
 - Pregunta 138, 1 Ped. 3:2: La fuente indica «1 Peter 2:3»; las ediciones estándar citan 1 Pedro 3:2 («vuestra casta conversación»).
 - Pregunta 145, 2 Tim. 4:16: La fuente indica «2 Timothy 4:6»; las ediciones estándar citan 2 Timoteo 4:16 («ninguno me ayudó»), sobre el silencio indebido en una causa justa.
 - Pregunta 145, Lev. 19:16: La fuente indica «Leviticus 19:19»; las ediciones estándar citan Levítico 19:16 («No andarás chismeando»).
+- Pregunta 156, Gén. 18:19: La fuente indica «Genesis 18:17»; las ediciones estándar citan Génesis 18:19, sobre Abraham que mandará a sus hijos y a su casa.
+- Pregunta 157, Neh. 8:6,8: La fuente indica «Nehemiah 7:6, 8»; las ediciones estándar citan Nehemías 8:6, 8, sobre la lectura de la ley.
+- Pregunta 172, Jon. 2:4: En inglés «Jonah 2:4»; en la Reina-Valera 1909 este capítulo se numera 1 versículo(s) más adelante.
+- Pregunta 174, Fil. 3:9: La fuente indica «Philippians 1:16»; las ediciones estándar citan Filipenses 3:9, sobre la justicia que es por la fe de Cristo.
+- Pregunta 174, Sal. 63:4-5: La fuente indica «Psalm 58:4-5»; las ediciones estándar citan Salmo 63:4-5, sobre el alma saciada que alaba con gozo.
+- Pregunta 175, 1 Cor. 11:17,30-31: La fuente indica «1 Corinthians 11:7, 30-31»; las ediciones estándar citan 1 Corintios 11:17, 30-31, sobre el examen de cómo se ha participado.
 - La fuente en línea (reformededucation.org) advierte que su transcripción aún no se ha cotejado con una edición estándar.
 - La fuente presenta las pruebas bíblicas sin letras de inciso; las letras se asignaron según la edición estándar y deben revisarse.
 - La traducción al español es propia y requiere revisión y aprobación.

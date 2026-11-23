@@ -34,9 +34,9 @@ for (const linea of (await leer('fuentes/rv1909/spaRV1909_vpl.txt')).split('\n')
 // Versículos que la Reina-Valera 1909 numera distinto que la versión inglesa.
 const VERSIFICACION = { '2CO 13:14': '2CO 13:13' };
 // Capítulos que la RV1909 numera desde el versículo final del capítulo anterior (versículo inglés N = N + desplazamiento).
-const DESPLAZADOS = { '1SA 24': 1 };
+const DESPLAZADOS = { '1SA 24': 1, 'JON 2': 1 };
 // Capítulos con numeración distinta aún sin verificar: si una referencia cae en ellos, se detiene la generación.
-const POR_VERIFICAR = new Set(['NUM 13', 'NUM 30', 'HOS 12', 'JON 2', 'JOB 39', 'JOB 40', 'JOB 41']);
+const POR_VERIFICAR = new Set(['NUM 13', 'NUM 30', 'HOS 12', 'JOB 39', 'JOB 40', 'JOB 41']);
 
 // Devuelve [{cap, v}] para «36», «24-28», «6-7, 13», «1 (entire)», «chapters 8, 9, 10 (entire)», «3:1-4:2».
 function versiculos(codigo, espec) {

@@ -1,10 +1,10 @@
 {
   "titulo": "Catecismo Mayor de Westminster",
   "totalPreguntas": 196,
-  "preguntasCompletas": 155,
+  "preguntasCompletas": 176,
   "versionBiblica": "Reina-Valera 1909",
   "observaciones": [
-    "Versión en revisión: incluye las preguntas 1 a 155 de 196.",
+    "Versión en revisión: incluye las preguntas 1 a 176 de 196.",
     "Traducción propia al español a partir del texto histórico en inglés (dominio público).",
     "Las letras de los incisos siguen la edición estándar de las pruebas bíblicas; la fuente en línea las presenta sin letras."
   ],
@@ -13299,6 +13299,1954 @@
             {
               "cita": "Rom. 1:16",
               "Pasaje": "16. Porque no me avergüenzo del evangelio: porque es potencia de Dios para salud á todo aquel que cree; al Judío primeramente y también al Griego."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 156,
+      "pregunta": "¿Deben todos leer la Palabra de Dios?",
+      "respuesta": "Aunque no a todos se les ha de permitir leer públicamente la Palabra a la congregación, todas las clases de personas están obligadas a leerla a solas, por sí mismas, y con sus familias; con este fin, las Santas Escrituras han de ser traducidas de los idiomas originales a las lenguas comunes.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Deut. 31:9,11-13",
+              "Pasaje": "9. Y escribió Moisés esta ley, y dióla á los sacerdotes, hijos de Leví, que llevaban el arca del pacto de Jehová, y á todos los ancianos de Israel.\n11. Cuando viniere todo Israel á presentarse delante de Jehová tu Dios en el lugar que él escogiere, leerás esta ley delante de todo Israel á oídos de ellos.\n12. Harás congregar el pueblo, varones y mujeres y niños, y tus extranjeros que estuvieren en tus ciudades, para que oigan y aprendan, y teman á Jehová vuestro Dios, y cuiden de poner por obra todas las palabras de esta ley:\n13. Y los hijos de ellos que no supieron oigan, y aprendan á temer á Jehová vuestro Dios todos los días que viviereis sobre la tierra, para ir á la cual pasáis el Jordán para poseerla."
+            },
+            {
+              "cita": "Neh. 8:2-3",
+              "Pasaje": "2. Y Esdras el sacerdote, trajo la ley delante de la congregación, así de hombres como de mujeres, y de todo entendido para escuchar, el primer día del mes séptimo.\n3. Y leyó en el [libro] delante de la plaza que está delante de la puerta de las Aguas, desde el alba hasta el medio día, en presencia de hombres y mujeres y entendidos; y los oídos de todo el pueblo estaban [atentos] al libro de la ley."
+            },
+            {
+              "cita": "Neh. 9:3-5",
+              "Pasaje": "3. Y puestos de pie en su lugar, leyeron en el libro de la ley de Jehová su Dios la cuarta parte del día, y la cuarta parte confesaron y adoraron á Jehová su Dios.\n4. Levantáronse luego sobre la grada de los Levitas, Jesuá y Bani, Cadmiel, Sebanías, Bunni, Serebías, Bani y Chênani, y clamaron en voz alta á Jehová su Dios.\n5. Y dijeron los Levitas, Jesuá y Cadmiel, Bani, Hosabnías, Serebías, Odaías, Sebanías [y] Pethaía: Levantaos, bendecid á Jehová vuestro Dios desde el siglo hasta el siglo: y bendigan el nombre tuyo, glorioso y alto sobre toda bendición y alabanza."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Deut. 17:19",
+              "Pasaje": "19. Y lo tendrá consigo, y leerá en él todos los días de su vida, para que aprenda á temer á Jehová su Dios, para guardar todas las palabras de aquesta ley y estos estatutos, para ponerlos por obra:"
+            },
+            {
+              "cita": "Apoc. 1:3",
+              "Pasaje": "3. Bienaventurado el que lee, y los que oyen las palabras de esta profecía, y guardan las cosas en ella escritas: porque el tiempo está cerca."
+            },
+            {
+              "cita": "Jn. 5:39",
+              "Pasaje": "39. Escudriñad las Escrituras, porque á vosotros os parece que en ellas tenéis la vida eterna; y ellas son las que dan testimonio de mí."
+            },
+            {
+              "cita": "Isa. 34:16",
+              "Pasaje": "16. Inquirid en el libro de Jehová, y leed si faltó alguno de ellos: ninguno faltó con su compañera; porque su boca mandó, y reuniólos su mismo espíritu."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Deut. 6:6-9",
+              "Pasaje": "6. Y estas palabras que yo te mando hoy, estarán sobre tu corazón:\n7. Y las repetirás á tus hijos, y hablarás de ellas estando en tu casa, y andando por el camino, y al acostarte, y cuando te levantes:\n8. Y has de atarlas por señal en tu mano, y estarán por frontales entre tus ojos:\n9. Y las escribirás en los postes de tu casa, y en tus portadas."
+            },
+            {
+              "cita": "Gén. 18:19",
+              "Pasaje": "19. Porque yo lo he conocido, [sé] que mandará á sus hijos y á su casa después de sí, que guarden el camino de Jehová, haciendo justicia y juicio, para que haga venir Jehová sobre Abraham lo que ha hablado acerca de él.",
+              "observacionPasaje": "La fuente indica «Genesis 18:17»; las ediciones estándar citan Génesis 18:19, sobre Abraham que mandará a sus hijos y a su casa."
+            },
+            {
+              "cita": "Sal. 78:5-7",
+              "Pasaje": "5. El estableció testimonio en Jacob, y pusó ley en Israel; la cual mandó á nuestros padres que la notificasen á sus hijos;\n6. Para que [lo] sepa la generación venidera, y los hijos que nacerán; y [los que] se levantarán, [lo] cuenten á sus hijos;\n7. A fin de que pongan en Dios su confianza, y no se olviden de las obras de Dios, y guarden sus mandamientos:"
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "1 Cor. 14:6,9,11-12,15-16,24,27-28",
+              "Pasaje": "6. Ahora pues, hermanos, si yo fuere á vosotros hablando lenguas, ¿qué os aprovecharé, si no os hablare, ó con revelación, ó con ciencia, ó con profecía, ó con doctrina?\n9. Así también vosotros, si por la lengua no diereis palabra bien significante, ¿cómo se entenderá lo que se dice? porque hablaréis al aire.\n11. Mas si yo ignorare el valor de la voz, seré bárbaro al que habla, y el que habla será bárbaro para mí.\n12. Así también vosotros; pues que anheláis espirituales [dones], procurad ser excelentes para la edificación de la iglesia.\n15. ¿Qué pues? Oraré con el espíritu, mas oraré también con entendimiento; cantaré con el espíritu, mas cantaré también con entendimiento.\n16. Porque si bendijeres con el espíritu, el que ocupa lugar de un mero particular, ¿cómo dirá amén á tu acción de gracias? pues no sabe lo que has dicho.\n24. Mas si todos profetizan, y entra algún infiel ó indocto, de todos es convencido, de todos es juzgado;\n27. Si hablare alguno en lengua [extraña], [sea esto] por dos, ó á lo más tres, y por turno; mas uno interprete.\n28. Y si no hubiere intérprete, calle en la iglesia, y hable á sí mismo y á Dios."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 157,
+      "pregunta": "¿Cómo se ha de leer la Palabra de Dios?",
+      "respuesta": "Las Santas Escrituras han de leerse con una estima alta y reverente de ellas; con la firme persuasión de que son la misma Palabra de Dios, y de que solamente él puede capacitarnos para entenderlas; con el deseo de conocer, creer y obedecer la voluntad de Dios revelada en ellas; con diligencia y atención a su contenido y propósito; con meditación, aplicación, negación de sí mismo y oración.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Sal. 19:10",
+              "Pasaje": "10. Deseables son más que el oro, y más que mucho oro afinado; y dulces más que miel, y que la que destila del panal."
+            },
+            {
+              "cita": "Neh. 8:3-6,10",
+              "Pasaje": "3. Y leyó en el [libro] delante de la plaza que está delante de la puerta de las Aguas, desde el alba hasta el medio día, en presencia de hombres y mujeres y entendidos; y los oídos de todo el pueblo estaban [atentos] al libro de la ley.\n4. Y Esdras el escriba estaba sobre un púlpito de madera, que habían hecho para ello; y junto á él estaban Mathithías, y Sema, y Anías, y Urías, é Hilcías, y Maasías, á su mano derecha; y á su mano izquierda, Pedaía, Misael, y Malchîas, y Hasum, y Hasbedana, Zachârías, y Mesullam.\n5. Abrió pues Esdras el libro á ojos de todo el pueblo, (porque estaba más alto que todo el pueblo); y como lo abrió, todo el pueblo estuvo atento.\n6. Bendijo entonces Esdras á Jehová, Dios grande. Y todo el pueblo respondió, ¡Amén! ¡Amén! alzando sus manos; y humilláronse, y adoraron á Jehová inclinados á tierra.\n10. Díjoles luego: Id, comed grosuras, y bebed [vino] dulce, y enviad porciones á los que no tienen prevenido; porque día santo es á nuestro Señor: y no os entristezcáis, porque el gozo de Jehová es vuestra fortaleza."
+            },
+            {
+              "cita": "Éx. 24:7",
+              "Pasaje": "7. Y tomó el libro de la alianza, y leyó á oídos del pueblo, el cual dijo: Haremos todas las cosas que Jehová ha dicho, y obedeceremos."
+            },
+            {
+              "cita": "2 Crón. 34:27",
+              "Pasaje": "27. Y tu corazón se enterneció, y te humillaste delante de Dios al oir sus palabras sobre este lugar, y sobre sus moradores, y te humillaste delante de mí, y rasgaste tus vestidos, y lloraste en mi presencia, yo también te he oído, dice Jehová."
+            },
+            {
+              "cita": "Isa. 66:2",
+              "Pasaje": "2. Mi mano hizo todas estas cosas, y [así] todas estas cosas fueron, dice Jehová: mas á aquél miraré que es pobre y humilde de espíritu, y que tiembla á mi palabra."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "2 Ped. 1:19-21",
+              "Pasaje": "19. Tenemos también la palabra profética más permanente, á la cual hacéis bien de estar atentos como á una antorcha que alumbra en lugar oscuro hasta que el día esclarezca, y el lucero de la mañana salga en vuestros corazones:\n20. Entendiendo primero esto, que ninguna profecía de la Escritura es de particular interpretación;\n21. Porque la profecía no fué en los tiempos pasados traída por voluntad humana, sino los santos hombres de Dios hablaron siendo inspirados del Espíritu Santo."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Luc. 24:45",
+              "Pasaje": "45. Entonces les abrió el sentido, para que entendiesen las Escrituras;"
+            },
+            {
+              "cita": "2 Cor. 3:13-16",
+              "Pasaje": "13. Y no como Moisés, [que] ponía un velo sobre su faz, para que los hijos de Israel no pusiesen los ojos en el fin de lo que había de ser abolido.\n14. Empero los sentidos de ellos se embotaron; porque hasta el día de hoy [les] queda el mismo velo no descubierto en la lección del antiguo testamento, el cual por Cristo es quitado.\n15. Y aun hasta el día de hoy, cuando Moisés es leído, el velo está puesto sobre el corazón de ellos.\n16. Mas cuando se convirtieren al Señor, el velo se quitará."
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "Deut. 17:10,20",
+              "Pasaje": "10. Y harás según la sentencia que te indicaren los del lugar que Jehová escogiere, y cuidarás de hacer según todo lo que te manifestaren.\n20. Para que no se eleve su corazón sobre sus hermanos, ni se aparte del mandamiento á diestra ni á siniestra: á fin que prolongue sus días en su reino, él y sus hijos, en medio de Israel."
+            }
+          ]
+        },
+        {
+          "inciso": "e",
+          "citas": [
+            {
+              "cita": "Hech. 17:11",
+              "Pasaje": "11. Y fueron éstos más nobles que los que [estaban] en Tesalónica, pues recibieron la palabra con toda solicitud, escudriñando cada día las Escrituras, si estas cosas eran así."
+            }
+          ]
+        },
+        {
+          "inciso": "f",
+          "citas": [
+            {
+              "cita": "Hech. 8:30,34",
+              "Pasaje": "30. Y acudiendo Felipe, le oyó que leía el profeta Isaías, y dijo: Mas ¿entiendes lo que lees?\n34. Y respondiendo el eunuco á Felipe, dijo: Ruégote ¿de quién el profeta dice esto? ¿de sí, ó de otro alguno?"
+            },
+            {
+              "cita": "Luc. 10:26-28",
+              "Pasaje": "26. Y él le dijo: ¿Qué está escrito en la ley? ¿cómo lees?\n27. Y él respondiendo, dijo: Amarás al Señor tu Dios de todo tu corazón, y de toda tu alma, y de todas tus fuerzas, y de todo tu entendimiento; y á tu prójimo como á ti mismo.\n28. Y díjole: Bien has respondido: haz esto, y vivirás."
+            }
+          ]
+        },
+        {
+          "inciso": "g",
+          "citas": [
+            {
+              "cita": "Sal. 1:2",
+              "Pasaje": "2. Antes en la ley de Jehová está su delicia, y en su ley medita de día y de noche."
+            },
+            {
+              "cita": "Sal. 119:97",
+              "Pasaje": "97. MEM ¡Cuánto amo yo tu ley! todo el día es ella mi meditación."
+            }
+          ]
+        },
+        {
+          "inciso": "h",
+          "citas": [
+            {
+              "cita": "2 Crón. 34:21",
+              "Pasaje": "21. Andad, y consultad á Jehová de mí, y de las reliquias de Israel y de Judá, acerca de las palabras del libro que se ha hallado; porque grande es el furor de Jehová que ha caído sobre nosotros, por cuanto nuestros padres no guardaron la palabra de Jehová, para hacer conforme á todo lo que está escrito en este libro."
+            }
+          ]
+        },
+        {
+          "inciso": "i",
+          "citas": [
+            {
+              "cita": "Prov. 3:5",
+              "Pasaje": "5. Fíate de Jehová de todo tu corazón, y no estribes en tu prudencia."
+            },
+            {
+              "cita": "Deut. 33:3",
+              "Pasaje": "3. Aun amó los pueblos; todos sus santos en tu mano: ellos también se llegaron á tus pies: recibieron de tus dichos."
+            }
+          ]
+        },
+        {
+          "inciso": "k",
+          "citas": [
+            {
+              "cita": "Prov. 2:1-6",
+              "Pasaje": "1. HIJO mío, si tomares mis palabras, y mis mandamientos guardares dentro de ti,\n2. Haciendo estar atento tu oído á la sabiduría; [si] inclinares tu corazón á la prudencia;\n3. Si clamares á la inteligencia, y á la prudencia dieres tu voz;\n4. Si como á la plata la buscares, y la escudriñares como á tesoros;\n5. Entonces entenderás el temor de Jehová, y hallarás el conocimiento de Dios.\n6. Porque Jehová da la sabiduría, y de su boca [viene] el conocimiento y la inteligencia."
+            },
+            {
+              "cita": "Sal. 119:18",
+              "Pasaje": "18. Abre mis ojos, y miraré las maravillas de tu ley."
+            },
+            {
+              "cita": "Neh. 8:6,8",
+              "Pasaje": "6. Bendijo entonces Esdras á Jehová, Dios grande. Y todo el pueblo respondió, ¡Amén! ¡Amén! alzando sus manos; y humilláronse, y adoraron á Jehová inclinados á tierra.\n8. Y leían en el libro de la ley de Dios claramente, y ponían el sentido, de modo que entendiesen la lectura.",
+              "observacionPasaje": "La fuente indica «Nehemiah 7:6, 8»; las ediciones estándar citan Nehemías 8:6, 8, sobre la lectura de la ley."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 158,
+      "pregunta": "¿Por quiénes ha de ser predicada la Palabra de Dios?",
+      "respuesta": "La Palabra de Dios ha de ser predicada solamente por aquellos que están suficientemente dotados, y también debidamente aprobados y llamados a ese oficio.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "1 Tim. 3:2,6",
+              "Pasaje": "2. Conviene, pues, que el obispo sea irreprensible, marido de una mujer, solícito, templado, compuesto, hospedador, apto para enseñar;\n6. No un neófito, porque inflándose no caiga en juicio del diablo."
+            },
+            {
+              "cita": "Ef. 4:8-11",
+              "Pasaje": "8. Por lo cual dice: Subiendo á lo alto, llevó cautiva la cautividad, y dió dones á los hombres.\n9. (Y que subió, ¿qué es, sino que también había descendido primero á las partes más bajas de la tierra?\n10. El que descendió, él mismo es el que también subió sobre todos los cielos para cumplir todas las cosas.)\n11. Y él mismo dió unos, ciertamente apóstoles; y otros, profetas; y otros, evangelistas; y otros, pastores y doctores;"
+            },
+            {
+              "cita": "Os. 4:6",
+              "Pasaje": "6. Mi pueblo fué talado, porque le faltó sabiduría. Porque tú desechaste la sabiduría, yo te echaré del sacerdocio: y pues que olvidaste la ley de tu Dios, también yo me olvidaré de tus hijos."
+            },
+            {
+              "cita": "Mal. 2:7",
+              "Pasaje": "7. Porque los labios de los sacerdotes han de guardar la sabiduría, y de su boca buscarán la ley; porque mensajero es de Jehová de los ejércitos."
+            },
+            {
+              "cita": "2 Cor. 3:6",
+              "Pasaje": "6. El cual asimismo nos hizo ministros suficientes de un nuevo pacto: no de la letra, mas del espíritu; porque la letra mata, mas el espíritu vivifica."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Jer. 14:15",
+              "Pasaje": "15. Por tanto así ha dicho Jehová sobre los profetas que profetizan en mi nombre, los cuales yo no envié, y que dicen, Cuchillo ni hambre no habrá en esta tierra: Con cuchillo y con hambre serán consumidos esos profetas."
+            },
+            {
+              "cita": "Rom. 10:15",
+              "Pasaje": "15. ¿Y cómo predicarán si no fueren enviados? Como está escrito: ¡Cuán hermosos son los pies de los que anuncian el evangelio de la paz, de los que anuncian el evangelio de los bienes!"
+            },
+            {
+              "cita": "Heb. 5:4",
+              "Pasaje": "4. Ni nadie toma para sí la honra, sino el que es llamado de Dios, como Aarón."
+            },
+            {
+              "cita": "1 Cor. 12:28-29",
+              "Pasaje": "28. Y á unos puso Dios en la iglesia, primeramente apóstoles, luego profetas, lo tercero doctores; luego facultades; luego dones de sanidades, ayudas, gobernaciones, géneros de lenguas.\n29. ¿Son todos apóstoles? ¿son todos profetas? ¿todos doctores? ¿todos facultades?"
+            },
+            {
+              "cita": "1 Tim. 3:10",
+              "Pasaje": "10. Y éstos también sean antes probados; y así ministren, si fueren sin crimen."
+            },
+            {
+              "cita": "1 Tim. 4:14",
+              "Pasaje": "14. No descuides el don que está en ti, que te es dado por profecía con la imposición de las manos del presbiterio."
+            },
+            {
+              "cita": "1 Tim. 5:22",
+              "Pasaje": "22. No impongas de ligero las manos á ninguno, ni comuniques en pecados ajenos: consérvate en limpieza."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 159,
+      "pregunta": "¿Cómo han de predicar la Palabra de Dios los que son llamados a ello?",
+      "respuesta": "Los que son llamados a trabajar en el ministerio de la Palabra han de predicar la sana doctrina: diligentemente, a tiempo y fuera de tiempo; con claridad, no con palabras persuasivas de humana sabiduría, sino con demostración del Espíritu y de poder; fielmente, dando a conocer todo el consejo de Dios; sabiamente, adaptándose a las necesidades y capacidades de los oyentes; con celo, con ferviente amor a Dios y a las almas de su pueblo; sinceramente, procurando la gloria de él y la conversión, edificación y salvación de ellos.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Tit. 2:1,8",
+              "Pasaje": "1. EMPERO tú, habla lo que conviene á la sana doctrina:\n8. Palabra sana, é irreprensible; que el adversario se avergüence, no teniendo mal ninguno que decir de vosotros."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Hech. 18:25",
+              "Pasaje": "25. Este era instruído en el camino del Señor; y ferviente de espíritu, hablaba y enseñaba diligentemente las cosas que son del Señor, enseñando solamente en el bautismo de Juan."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "2 Tim. 4:2",
+              "Pasaje": "2. Que prediques la palabra; que instes á tiempo y fuera de tiempo; redarguye, reprende, exhorta con toda paciencia y doctrina."
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "1 Cor. 14:19",
+              "Pasaje": "19. Pero en la iglesia más quiero hablar cinco palabras con mi sentido, para que enseñe también á los otros, que diez mil palabras en lengua [desconocida]."
+            }
+          ]
+        },
+        {
+          "inciso": "e",
+          "citas": [
+            {
+              "cita": "1 Cor. 2:4",
+              "Pasaje": "4. Y ni mi palabra ni mi predicación fué con palabras persuasivas de humana sabiduría, mas con demostración del Espíritu y de poder;"
+            }
+          ]
+        },
+        {
+          "inciso": "f",
+          "citas": [
+            {
+              "cita": "Jer. 23:28",
+              "Pasaje": "28. El profeta con quien fuere sueño, cuente sueño; y el con quien fuere mi palabra, cuente mi palabra verdadera. ¿Qué [tiene que ver] la paja con el trigo? dice Jehová."
+            },
+            {
+              "cita": "1 Cor. 4:1-2",
+              "Pasaje": "1. TÉNGANNOS los hombres por ministros de Cristo, y dispensadores de los misterios de Dios.\n2. Mas ahora se requiere en los dispensadores, que cada uno sea hallado fiel."
+            }
+          ]
+        },
+        {
+          "inciso": "g",
+          "citas": [
+            {
+              "cita": "Hech. 20:27",
+              "Pasaje": "27. Porque no he rehuído de anunciaros todo el consejo de Dios."
+            }
+          ]
+        },
+        {
+          "inciso": "h",
+          "citas": [
+            {
+              "cita": "Col. 1:28",
+              "Pasaje": "28. El cual nosotros anunciamos, amonestando á todo hombre, y enseñando en toda sabiduría, para que presentemos á todo hombre perfecto en Cristo Jesús:"
+            },
+            {
+              "cita": "2 Tim. 2:15",
+              "Pasaje": "15. Procura con diligencia presentarte á Dios aprobado, [como] obrero que no tiene de qué avergonzarse, que traza bien la palabra de verdad."
+            }
+          ]
+        },
+        {
+          "inciso": "i",
+          "citas": [
+            {
+              "cita": "1 Cor. 3:2",
+              "Pasaje": "2. Os dí á beber leche, y no vianda: porque aun no podíais, ni aun podéis ahora;"
+            },
+            {
+              "cita": "Heb. 5:12-14",
+              "Pasaje": "12. Porque debiendo ser ya maestros á causa del tiempo, tenéis necesidad de volver á ser enseñados cuáles sean los primeros rudimentos de las palabras de Dios; y habéis llegado á ser tales que tengáis necesidad de leche, y no de manjar sólido.\n13. Que cualquiera que participa de la leche, es inhábil para la palabra de la justicia, porque es niño;\n14. Mas la vianda firme es para los perfectos, para los que por la costumbre tienen los sentidos ejercitados en el discernimiento del bien y del mal."
+            },
+            {
+              "cita": "Luc. 12:42",
+              "Pasaje": "42. Y dijo el Señor: ¿Quién es el mayordomo fiel y prudente, al cual el señor pondrá sobre su familia, para que á tiempo les dé su ración?"
+            }
+          ]
+        },
+        {
+          "inciso": "k",
+          "citas": [
+            {
+              "cita": "Hech. 18:25",
+              "Pasaje": "25. Este era instruído en el camino del Señor; y ferviente de espíritu, hablaba y enseñaba diligentemente las cosas que son del Señor, enseñando solamente en el bautismo de Juan."
+            }
+          ]
+        },
+        {
+          "inciso": "l",
+          "citas": [
+            {
+              "cita": "2 Cor. 5:13-14",
+              "Pasaje": "13. Porque si loqueamos, es para Dios; y si estamos en seso, es para vosotros.\n14. Porque el amor de Cristo nos constriñe, pensando esto: Que si uno murió por todos, luego todos son muertos;"
+            },
+            {
+              "cita": "Fil. 1:15-17",
+              "Pasaje": "15. Y algunos, á la verdad, predican á Cristo por envidia y porfía; mas algunos también por buena voluntad.\n16. Los unos anuncian á Cristo por contención, no sinceramente, pensando añadir aflicción á mis prisiones;\n17. Pero los otros por amor, sabiendo que soy puesto por la defensa del evangelio."
+            }
+          ]
+        },
+        {
+          "inciso": "m",
+          "citas": [
+            {
+              "cita": "Col. 4:12",
+              "Pasaje": "12. Os saluda Epafras, el cual es de vosotros, siervo de Cristo, siempre solícito por vosotros en oraciones, para que estéis [firmes], perfectos y cumplidos en todo lo que Dios quiere."
+            },
+            {
+              "cita": "2 Cor. 12:15",
+              "Pasaje": "15. Empero yo de muy buena gana despenderé y seré despendido por vuestras almas, aunque amándoos más, sea amado menos."
+            }
+          ]
+        },
+        {
+          "inciso": "n",
+          "citas": [
+            {
+              "cita": "2 Cor. 2:17",
+              "Pasaje": "17. Porque no somos como muchos, mercaderes falsos de la palabra de Dios: antes con sinceridad, como de Dios, delante de Dios, hablamos en Cristo."
+            },
+            {
+              "cita": "2 Cor. 4:2",
+              "Pasaje": "2. Antes quitamos los escondrijos de vergüenza, no andando con astucia, ni adulterando la palabra de Dios, sino por manifestación de la verdad encomendándonos á nosotros mismos á toda conciencia humana delante de Dios."
+            }
+          ]
+        },
+        {
+          "inciso": "o",
+          "citas": [
+            {
+              "cita": "1 Tes. 2:4-6",
+              "Pasaje": "4. Sino según fuimos aprobados de Dios para que se nos encargase el evangelio, así hablamos; no como los que agradan á los hombres, sino á Dios, el cual prueba nuestros corazones.\n5. Porque nunca fuimos lisonjeros en la palabra, como sabéis, ni tocados de avaricia; Dios es testigo;\n6. Ni buscamos de los hombres gloria, ni de vosotros, ni de otros, aunque podíamos seros carga como apóstoles de Cristo."
+            },
+            {
+              "cita": "Jn. 7:18",
+              "Pasaje": "18. El que habla de sí mismo, su propia gloria busca; mas el que busca la gloria del que le envió, éste es verdadero, y no hay en él injusticia."
+            }
+          ]
+        },
+        {
+          "inciso": "p",
+          "citas": [
+            {
+              "cita": "1 Cor. 9:19-22",
+              "Pasaje": "19. Por lo cual, siendo libre para con todos, me he hecho siervo de todos por ganar á más.\n20. Heme hecho á los Judíos como Judío, por ganar á los Judíos; á los que están sujetos á la ley (aunque yo no sea sujeto á la ley) como sujeto á la ley, por ganar á los que están sujetos á la ley;\n21. A los que son sin ley, como si yo fuera sin ley, (no estando yo sin ley de Dios, mas en la ley de Cristo) por ganar á los que estaban sin ley.\n22. Me he hecho á los flacos flaco, por ganar á los flacos: á todos me he hecho todo, para que de todo punto salve á algunos."
+            }
+          ]
+        },
+        {
+          "inciso": "q",
+          "citas": [
+            {
+              "cita": "2 Cor. 12:19",
+              "Pasaje": "19. ¿Pensáis aún que nos excusamos con vosotros? Delante de Dios en Cristo hablamos: mas todo, muy amados, por vuestra edificación."
+            },
+            {
+              "cita": "Ef. 4:12",
+              "Pasaje": "12. Para perfección de los santos, para la obra del ministerio, para edificación del cuerpo de Cristo;"
+            }
+          ]
+        },
+        {
+          "inciso": "r",
+          "citas": [
+            {
+              "cita": "1 Tim. 4:16",
+              "Pasaje": "16. Ten cuidado de ti mismo y de la doctrina; persiste en ello; pues haciendo esto, á ti mismo salvarás y á los que te oyeren."
+            },
+            {
+              "cita": "Hech. 26:16-18",
+              "Pasaje": "16. Mas levántate, y ponte sobre tus pies; porque para esto te he aparecido, para ponerte por ministro y testigo de las cosas que has visto, y de aquellas en que apareceré á ti:\n17. Librándote del pueblo y de los Gentiles, á los cuales ahora te envío,\n18. Para que abras sus ojos, para que se conviertan de las tinieblas á la luz, y de la potestad de Satanás á Dios; para que reciban, por la fe que es en mí, remisión de pecados y suerte entre los santificados."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 160,
+      "pregunta": "¿Qué se requiere de los que oyen la Palabra predicada?",
+      "respuesta": "Se requiere de los que oyen la Palabra predicada que asistan a ella con diligencia, preparación y oración; que examinen por las Escrituras lo que oyen; que reciban la verdad con fe, amor, mansedumbre y prontitud de ánimo, como Palabra de Dios; que mediten en ella y conversen acerca de ella; que la guarden en sus corazones y produzcan su fruto en sus vidas.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Prov. 8:34",
+              "Pasaje": "34. Bienaventurado el hombre que me oye, velando á mis puertas cada día, guardando los umbrales de mis entradas."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "1 Ped. 2:1-2",
+              "Pasaje": "1. DEJANDO pues toda malicia, y todo engaño, y fingimientos, y envidias, y todas las detracciones,\n2. Desead, como niños recién nacidos, la leche espiritual, sin engaño, para que por ella crezcáis en salud:"
+            },
+            {
+              "cita": "Luc. 8:18",
+              "Pasaje": "18. Mirad pues cómo oís; porque á cualquiera que tuviere, le será dado; y á cualquiera que no tuviere, aun lo que parece tener le será quitado."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Sal. 119:18",
+              "Pasaje": "18. Abre mis ojos, y miraré las maravillas de tu ley."
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "Hech. 17:11",
+              "Pasaje": "11. Y fueron éstos más nobles que los que [estaban] en Tesalónica, pues recibieron la palabra con toda solicitud, escudriñando cada día las Escrituras, si estas cosas eran así."
+            }
+          ]
+        },
+        {
+          "inciso": "e",
+          "citas": [
+            {
+              "cita": "Heb. 4:2",
+              "Pasaje": "2. Porque también á nosotros se nos ha evangelizado como á ellos; mas no les aprovechó el oir la palabra á los que [la] oyeron sin mezclar fe."
+            }
+          ]
+        },
+        {
+          "inciso": "f",
+          "citas": [
+            {
+              "cita": "2 Tes. 2:10",
+              "Pasaje": "10. Y con todo engaño de iniquidad en los que perecen; por cuanto no recibieron el amor de la verdad para ser salvos."
+            }
+          ]
+        },
+        {
+          "inciso": "g",
+          "citas": [
+            {
+              "cita": "Sant. 1:21",
+              "Pasaje": "21. Por lo cual, dejando toda inmundicia y superfluidad de malicia, recibid con mansedumbre la palabra ingerida, la cual puede hacer salvas vuestras almas."
+            }
+          ]
+        },
+        {
+          "inciso": "h",
+          "citas": [
+            {
+              "cita": "Hech. 17:11",
+              "Pasaje": "11. Y fueron éstos más nobles que los que [estaban] en Tesalónica, pues recibieron la palabra con toda solicitud, escudriñando cada día las Escrituras, si estas cosas eran así."
+            }
+          ]
+        },
+        {
+          "inciso": "i",
+          "citas": [
+            {
+              "cita": "1 Tes. 2:13",
+              "Pasaje": "13. Por lo cual, también nosotros damos gracias á Dios sin cesar, de que habiendo recibido la palabra de Dios que oísteis de nosotros, recibisteis no palabra de hombres, sino según es en verdad, la palabra de Dios, el cual obra en vosotros los que creísteis."
+            }
+          ]
+        },
+        {
+          "inciso": "k",
+          "citas": [
+            {
+              "cita": "Luc. 9:44",
+              "Pasaje": "44. Poned vosotros en vuestros oídos estas palabras; porque ha de acontecer que el Hijo del hombre será entregado en manos de hombres."
+            },
+            {
+              "cita": "Heb. 2:1",
+              "Pasaje": "1. POR tanto, es menester que con más diligencia atendamos á las cosas que hemos oído, porque acaso no nos escurramos."
+            }
+          ]
+        },
+        {
+          "inciso": "l",
+          "citas": [
+            {
+              "cita": "Luc. 24:14",
+              "Pasaje": "14. E iban hablando entre sí de todas aquellas cosas que habían acaecido."
+            },
+            {
+              "cita": "Deut. 6:6-7",
+              "Pasaje": "6. Y estas palabras que yo te mando hoy, estarán sobre tu corazón:\n7. Y las repetirás á tus hijos, y hablarás de ellas estando en tu casa, y andando por el camino, y al acostarte, y cuando te levantes:"
+            }
+          ]
+        },
+        {
+          "inciso": "m",
+          "citas": [
+            {
+              "cita": "Prov. 2:1",
+              "Pasaje": "1. HIJO mío, si tomares mis palabras, y mis mandamientos guardares dentro de ti,"
+            },
+            {
+              "cita": "Sal. 119:11",
+              "Pasaje": "11. En mi corazón he guardado tus dichos, para no pecar contra ti."
+            }
+          ]
+        },
+        {
+          "inciso": "n",
+          "citas": [
+            {
+              "cita": "Luc. 8:15",
+              "Pasaje": "15. Mas la que en buena tierra, éstos son los que con corazón bueno y recto retienen la palabra oída, y llevan fruto en paciencia."
+            },
+            {
+              "cita": "Sant. 1:25",
+              "Pasaje": "25. Mas el que hubiere mirado atentamente en la perfecta ley, [que es] la de la libertad, y perseverado [en ella], no siendo oidor olvidadizo, sino hacedor de la obra, este tal será bienaventurado en su hecho."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 161,
+      "pregunta": "¿Cómo llegan los sacramentos a ser medios eficaces de salvación?",
+      "respuesta": "Los sacramentos llegan a ser medios eficaces de salvación, no por algún poder que haya en ellos mismos, ni por alguna virtud derivada de la piedad o intención de aquel que los administra, sino solamente por la obra del Espíritu Santo y la bendición de Cristo, quien los instituyó.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "1 Ped. 3:21",
+              "Pasaje": "21. A la figura de la cual el bautismo que ahora corresponde nos salva (no quitando las inmundicias de la carne, sino [como] demanda de una buena conciencia delante de Dios,) por la resurrección de Jesucristo:"
+            },
+            {
+              "cita": "Hech. 8:13,23",
+              "Pasaje": "13. El mismo Simón creyó también entonces, y bautizándose, se llegó á Felipe: y viendo los milagros y grandes maravillas que se hacían, estaba atónito.\n23. Porque en hiel de amargura y en prisión de maldad veo que estás."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "1 Cor. 3:6-7",
+              "Pasaje": "6. Yo planté, Apolos regó: mas Dios ha dado el crecimiento.\n7. Así que, ni el que planta es algo, ni el que riega; sino Dios, que da el crecimiento."
+            },
+            {
+              "cita": "1 Cor. 12:13",
+              "Pasaje": "13. Porque por un Espíritu somos todos bautizados en un cuerpo, ora Judíos ó Griegos, ora siervos ó libres; y todos hemos bebido de un mismo Espíritu."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 162,
+      "pregunta": "¿Qué es un sacramento?",
+      "respuesta": "Un sacramento es una santa ordenanza instituida por Cristo en su iglesia para significar, sellar y presentar a los que están dentro del pacto de gracia los beneficios de su mediación; para fortalecer y aumentar su fe y todas las demás gracias; para obligarlos a la obediencia; para testificar y fomentar su amor y comunión los unos con los otros; y para distinguirlos de los que están fuera.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Gén. 17:7,10",
+              "Pasaje": "7. Y estableceré mi pacto entre mí y ti, y tu simiente después de ti en sus generaciones, por alianza perpetua, para serte á ti por Dios, y á tu simiente después de ti.\n10. Este será mi pacto, que guardaréis entre mí y vosotros y tu simiente después de ti: Será circuncidado todo varón de entre vosotros."
+            },
+            {
+              "cita": "Mat. 28:19",
+              "Pasaje": "19. Por tanto, id, y doctrinad á todos los Gentiles, bautizándolos en el nombre del Padre, y del Hijo, y del Espíritu Santo:"
+            },
+            {
+              "cita": "Mat. 26:26-28",
+              "Pasaje": "26. Y comiendo ellos, tomó Jesús el pan, y bendijo, y lo partió, y dió á sus discípulos, y dijo: Tomad, comed: esto es mi cuerpo.\n27. Y tomando el vaso, y hechas gracias, les dió, diciendo: Bebed de él todos;\n28. Porque esto es mi sangre del nuevo pacto, la cual es derramada por muchos para remisión de los pecados."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Rom. 4:11",
+              "Pasaje": "11. Y recibió la circuncisión por señal, por sello de la justicia de la fe que tuvo en la incircuncisión: para que fuese padre de todos los creyentes no circuncidados, para que también á ellos les sea contado por justicia;"
+            },
+            {
+              "cita": "1 Cor. 11:24-25",
+              "Pasaje": "24. Y habiendo dado gracias, lo partió, y dijo: Tomad, comed: esto es mi cuerpo que por vosotros es partido: haced esto en memoria de mí.\n25. Asimismo [tomó] también la copa, después de haber cenado, diciendo: Esta copa es el nuevo pacto en mi sangre: haced esto todas las veces que bebiereis, en memoria de mí."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Rom. 15:8",
+              "Pasaje": "8. Digo, pues, que Cristo Jesús fué hecho ministro de la circuncisión por la verdad de Dios, para confirmar las promesas [hechas] á los padres,"
+            },
+            {
+              "cita": "Éx. 12:48",
+              "Pasaje": "48. Mas si algún extranjero peregrinare contigo, y quisiere hacer la pascua á Jehová, séale circuncidado todo varón, y entonces se llegará á hacerla, y será como el natural de la tierra; pero ningún incircunciso comerá de ella."
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "Hech. 2:38",
+              "Pasaje": "38. Y Pedro les dice: Arrepentíos, y bautícese cada uno de vosotros en el nombre de Jesucristo para perdón de los pecados; y recibiréis el don del Espíritu Santo."
+            },
+            {
+              "cita": "1 Cor. 10:16",
+              "Pasaje": "16. La copa de bendición que bendecimos, ¿no es la comunión de la sangre de Cristo? El pan que partimos, ¿no es la comunión del cuerpo de Cristo?"
+            }
+          ]
+        },
+        {
+          "inciso": "e",
+          "citas": [
+            {
+              "cita": "Rom. 4:11",
+              "Pasaje": "11. Y recibió la circuncisión por señal, por sello de la justicia de la fe que tuvo en la incircuncisión: para que fuese padre de todos los creyentes no circuncidados, para que también á ellos les sea contado por justicia;"
+            },
+            {
+              "cita": "Gál. 3:27",
+              "Pasaje": "27. Porque todos los que habéis sido bautizados en Cristo, de Cristo estáis vestidos."
+            }
+          ]
+        },
+        {
+          "inciso": "f",
+          "citas": [
+            {
+              "cita": "Rom. 6:3-4",
+              "Pasaje": "3. ¿O no sabéis que todos los que somos bautizados en Cristo Jesús, somos bautizados en su muerte?\n4. Porque somos sepultados juntamente con él á muerte por el bautismo; para que como Cristo resucitó de los muertos por la gloria del Padre, así también nosotros andemos en novedad de vida."
+            },
+            {
+              "cita": "1 Cor. 10:21",
+              "Pasaje": "21. No podéis beber la copa del Señor, y la copa de los demonios: no podéis ser partícipes de la mesa del Señor, y de la mesa de los demonios."
+            }
+          ]
+        },
+        {
+          "inciso": "g",
+          "citas": [
+            {
+              "cita": "Ef. 4:2-5",
+              "Pasaje": "2. Con toda humildad y mansedumbre, con paciencia soportando los unos á los otros en amor;\n3. Solícitos á guardar la unidad del Espíritu en el vínculo de la paz.\n4. Un cuerpo, y un Espíritu; como sois también llamados á una misma esperanza de vuestra vocación:\n5. Un Señor, una fe, un bautismo,"
+            },
+            {
+              "cita": "1 Cor. 12:13",
+              "Pasaje": "13. Porque por un Espíritu somos todos bautizados en un cuerpo, ora Judíos ó Griegos, ora siervos ó libres; y todos hemos bebido de un mismo Espíritu."
+            }
+          ]
+        },
+        {
+          "inciso": "h",
+          "citas": [
+            {
+              "cita": "Ef. 2:11-12",
+              "Pasaje": "11. Por tanto, acordaos que en otro tiempo vosotros los Gentiles en la carne, que erais llamados incircuncisión por la que se llama circuncisión, hecha con mano en la carne;\n12. Que en aquel tiempo estabais sin Cristo, alejados de la república de Israel, y extranjeros á los pactos de la promesa, sin esperanza y sin Dios en el mundo."
+            },
+            {
+              "cita": "Gén. 34:14",
+              "Pasaje": "14. Y dijéronles: No podemos hacer esto de dar nuestra hermana á hombre que tiene prepucio; porque entre nosotros es abominación."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 163,
+      "pregunta": "¿Cuáles son las partes de un sacramento?",
+      "respuesta": "Las partes de un sacramento son dos: la una, una señal exterior y sensible, usada conforme a la propia institución de Cristo; la otra, una gracia interior y espiritual significada por ella.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Mat. 3:11",
+              "Pasaje": "11. Yo á la verdad os bautizo en agua para arrepentimiento; mas el que viene tras mí, más poderoso es que yo; los zapatos del cual yo no soy digno de llevar; él os bautizará en Espíritu Santo y [en] fuego."
+            },
+            {
+              "cita": "1 Ped. 3:21",
+              "Pasaje": "21. A la figura de la cual el bautismo que ahora corresponde nos salva (no quitando las inmundicias de la carne, sino [como] demanda de una buena conciencia delante de Dios,) por la resurrección de Jesucristo:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 164,
+      "pregunta": "¿Cuántos sacramentos ha instituido Cristo en su iglesia bajo el Nuevo Testamento?",
+      "respuesta": "Bajo el Nuevo Testamento, Cristo ha instituido en su iglesia solamente dos sacramentos: el bautismo y la Cena del Señor.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Mat. 28:19",
+              "Pasaje": "19. Por tanto, id, y doctrinad á todos los Gentiles, bautizándolos en el nombre del Padre, y del Hijo, y del Espíritu Santo:"
+            },
+            {
+              "cita": "1 Cor. 11:20,23",
+              "Pasaje": "20. Cuando pues os juntáis en uno, [esto] no es comer la cena del Señor:\n23. Porque yo recibí del Señor lo que también os he enseñado: Que el Señor Jesús, la noche que fué entregado, tomó pan;"
+            },
+            {
+              "cita": "Mat. 26:26-28",
+              "Pasaje": "26. Y comiendo ellos, tomó Jesús el pan, y bendijo, y lo partió, y dió á sus discípulos, y dijo: Tomad, comed: esto es mi cuerpo.\n27. Y tomando el vaso, y hechas gracias, les dió, diciendo: Bebed de él todos;\n28. Porque esto es mi sangre del nuevo pacto, la cual es derramada por muchos para remisión de los pecados."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 165,
+      "pregunta": "¿Qué es el bautismo?",
+      "respuesta": "El bautismo es un sacramento del Nuevo Testamento en el cual Cristo ha ordenado el lavamiento con agua en el nombre del Padre, y del Hijo, y del Espíritu Santo, para que sea señal y sello de nuestra unión con él, de la remisión de los pecados por su sangre y de la regeneración por su Espíritu; de la adopción y de la resurrección para vida eterna; y por el cual los bautizados son admitidos solemnemente en la iglesia visible, y entran en un compromiso público y declarado de ser total y únicamente del Señor.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Mat. 28:19",
+              "Pasaje": "19. Por tanto, id, y doctrinad á todos los Gentiles, bautizándolos en el nombre del Padre, y del Hijo, y del Espíritu Santo:"
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Gál. 3:27",
+              "Pasaje": "27. Porque todos los que habéis sido bautizados en Cristo, de Cristo estáis vestidos."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Mar. 1:4",
+              "Pasaje": "4. Bautizaba Juan en el desierto, y predicaba el bautismo del arrepentimiento para remisión de pecados."
+            },
+            {
+              "cita": "Apoc. 1:5",
+              "Pasaje": "5. Y de Jesucristo, el testigo fiel, el primogénito de los muertos, y príncipe de los reyes de la tierra. Al que nos amó, y nos ha lavado de nuestros pecados con su sangre,"
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "Tit. 3:5",
+              "Pasaje": "5. No por obras de justicia que nosotros habíamos hecho, mas por su misericordia nos salvó, por el lavacro de la regeneración, y de la renovación del Espíritu Santo;"
+            },
+            {
+              "cita": "Ef. 5:26",
+              "Pasaje": "26. Para santificarla limpiándola en el lavacro del agua por la palabra,"
+            }
+          ]
+        },
+        {
+          "inciso": "e",
+          "citas": [
+            {
+              "cita": "Gál. 3:26-27",
+              "Pasaje": "26. Porque todos sois hijos de Dios por la fe en Cristo Jesús.\n27. Porque todos los que habéis sido bautizados en Cristo, de Cristo estáis vestidos."
+            }
+          ]
+        },
+        {
+          "inciso": "f",
+          "citas": [
+            {
+              "cita": "1 Cor. 15:29",
+              "Pasaje": "29. De otro modo, ¿qué harán los que se bautizan por los muertos, si en ninguna manera los muertos resucitan? ¿Por qué pues se bautizan por los muertos?"
+            },
+            {
+              "cita": "Rom. 6:5",
+              "Pasaje": "5. Porque si fuimos plantados juntamente en [él] á la semejanza de su muerte, así también [lo seremos á la] de su resurrección:"
+            }
+          ]
+        },
+        {
+          "inciso": "g",
+          "citas": [
+            {
+              "cita": "1 Cor. 12:13",
+              "Pasaje": "13. Porque por un Espíritu somos todos bautizados en un cuerpo, ora Judíos ó Griegos, ora siervos ó libres; y todos hemos bebido de un mismo Espíritu."
+            }
+          ]
+        },
+        {
+          "inciso": "h",
+          "citas": [
+            {
+              "cita": "Rom. 6:4",
+              "Pasaje": "4. Porque somos sepultados juntamente con él á muerte por el bautismo; para que como Cristo resucitó de los muertos por la gloria del Padre, así también nosotros andemos en novedad de vida."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 166,
+      "pregunta": "¿A quiénes se ha de administrar el bautismo?",
+      "respuesta": "El bautismo no se ha de administrar a ninguno de los que están fuera de la iglesia visible, y por tanto ajenos al pacto de la promesa, hasta que profesen su fe en Cristo y su obediencia a él; pero los niños que descienden de padres que, ambos o uno solo de ellos, profesan fe en Cristo y obediencia a él, están en ese respecto dentro del pacto y han de ser bautizados.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Hech. 8:36-37",
+              "Pasaje": "36. Y yendo por el camino, llegaron á cierta agua; y dijo el eunuco: He aquí agua; ¿qué impide que yo sea bautizado?\n37. Y Felipe dijo: Si crees de todo corazón, bien puedes. Y respondiendo, dijo: Creo que Jesucristo es el Hijo de Dios."
+            },
+            {
+              "cita": "Hech. 2:38",
+              "Pasaje": "38. Y Pedro les dice: Arrepentíos, y bautícese cada uno de vosotros en el nombre de Jesucristo para perdón de los pecados; y recibiréis el don del Espíritu Santo."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Gén. 17:7,9",
+              "Pasaje": "7. Y estableceré mi pacto entre mí y ti, y tu simiente después de ti en sus generaciones, por alianza perpetua, para serte á ti por Dios, y á tu simiente después de ti.\n9. Dijo de nuevo Dios á Abraham: Tú empero guardarás mi pacto, tú y tu simiente después de ti por sus generaciones."
+            },
+            {
+              "cita": "Gál. 3:9,14",
+              "Pasaje": "9. Luego los de la fe son benditos con el creyente Abraham.\n14. Para que la bendición de Abraham fuese sobre los Gentiles en Cristo Jesús; para que por la fe recibamos la promesa del Espíritu."
+            },
+            {
+              "cita": "Col. 2:11-12",
+              "Pasaje": "11. En el cual también sois circuncidados de circuncisión no hecha con manos, con el despojamiento del cuerpo de los pecados de la carne, en la circuncisión de Cristo;\n12. Sepultados juntamente con él en el bautismo, en el cual también resucitasteis con él, por la fe de la operación de Dios que le levantó de los muertos."
+            },
+            {
+              "cita": "Hech. 2:38-39",
+              "Pasaje": "38. Y Pedro les dice: Arrepentíos, y bautícese cada uno de vosotros en el nombre de Jesucristo para perdón de los pecados; y recibiréis el don del Espíritu Santo.\n39. Porque para vosotros es la promesa, y para vuestros hijos, y para todos los que están lejos; [para] cuantos el Señor nuestro Dios llamare."
+            },
+            {
+              "cita": "Rom. 4:11-12",
+              "Pasaje": "11. Y recibió la circuncisión por señal, por sello de la justicia de la fe que tuvo en la incircuncisión: para que fuese padre de todos los creyentes no circuncidados, para que también á ellos les sea contado por justicia;\n12. Y padre de la circuncisión, no solamente á los que son de la circuncisión, mas también á los que siguen las pisadas de la fe que fué en nuestro padre Abraham antes de ser circuncidado."
+            },
+            {
+              "cita": "1 Cor. 7:14",
+              "Pasaje": "14. Porque el marido infiel es santificado en la mujer, y la mujer infiel en el marido: pues de otra manera vuestros hijos serían inmundos; empero ahora son santos."
+            },
+            {
+              "cita": "Mat. 28:19",
+              "Pasaje": "19. Por tanto, id, y doctrinad á todos los Gentiles, bautizándolos en el nombre del Padre, y del Hijo, y del Espíritu Santo:"
+            },
+            {
+              "cita": "Luc. 18:15-16",
+              "Pasaje": "15. Y traían á él los niños para que los tocase; lo cual viendo los discípulos les reñían.\n16. Mas Jesús llamándolos, dijo: Dejad los niños venir á mí, y no los impidáis; porque de tales es el reino de Dios."
+            },
+            {
+              "cita": "Rom. 11:16",
+              "Pasaje": "16. Y si el primer fruto es santo, también lo es el todo, y si la raíz es santa, también lo son las ramas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 167,
+      "pregunta": "¿Cómo hemos de aprovechar nuestro bautismo?",
+      "respuesta": "El deber necesario, pero muy descuidado, de aprovechar nuestro bautismo ha de ser cumplido por nosotros durante toda nuestra vida, especialmente en el tiempo de la tentación y cuando estamos presentes en su administración a otros: por la consideración seria y agradecida de su naturaleza y de los fines para los cuales Cristo lo instituyó, de los privilegios y beneficios conferidos y sellados por él, y del voto solemne que hicimos en él; humillándonos por nuestra contaminación pecaminosa, por quedarnos cortos de la gracia del bautismo y de nuestros compromisos, y por andar en contra de ellos; creciendo hasta la seguridad del perdón del pecado y de todas las demás bendiciones selladas para nosotros en ese sacramento; tomando fuerza de la muerte y resurrección de Cristo, en quien somos bautizados, para mortificar el pecado y avivar la gracia; y esforzándonos por vivir por fe, por tener nuestra conducta en santidad y justicia, como quienes en él han entregado sus nombres a Cristo, y por andar en amor fraternal, como bautizados por el mismo Espíritu en un solo cuerpo.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Col. 2:11-12",
+              "Pasaje": "11. En el cual también sois circuncidados de circuncisión no hecha con manos, con el despojamiento del cuerpo de los pecados de la carne, en la circuncisión de Cristo;\n12. Sepultados juntamente con él en el bautismo, en el cual también resucitasteis con él, por la fe de la operación de Dios que le levantó de los muertos."
+            },
+            {
+              "cita": "Rom. 6:4,6,11",
+              "Pasaje": "4. Porque somos sepultados juntamente con él á muerte por el bautismo; para que como Cristo resucitó de los muertos por la gloria del Padre, así también nosotros andemos en novedad de vida.\n6. Sabiendo esto, que nuestro viejo hombre juntamente fué crucificado con [él], para que el cuerpo del pecado sea deshecho, á fin de que no sirvamos más al pecado.\n11. Así también vosotros, pensad que de cierto estáis muertos al pecado, mas vivos á Dios en Cristo Jesús Señor nuestro."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Rom. 6:3-5",
+              "Pasaje": "3. ¿O no sabéis que todos los que somos bautizados en Cristo Jesús, somos bautizados en su muerte?\n4. Porque somos sepultados juntamente con él á muerte por el bautismo; para que como Cristo resucitó de los muertos por la gloria del Padre, así también nosotros andemos en novedad de vida.\n5. Porque si fuimos plantados juntamente en [él] á la semejanza de su muerte, así también [lo seremos á la] de su resurrección:"
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "1 Cor. 1:11-13",
+              "Pasaje": "11. Porque me ha sido declarado de vosotros, hermanos míos, por los [que son] de Cloé, que hay entre vosotros contiendas;\n12. Quiero decir, que cada uno de vosotros dice: Yo cierto soy de Pablo; pues yo de Apolos; y yo de Cefas; y yo de Cristo.\n13. ¿Está dividido Cristo? ¿Fué crucificado Pablo por vosotros? ¿ó habéis sido bautizados en el nombre de Pablo?"
+            },
+            {
+              "cita": "Rom. 6:2-3",
+              "Pasaje": "2. En ninguna manera. Porque los que somos muertos al pecado, ¿cómo viviremos aún en él?\n3. ¿O no sabéis que todos los que somos bautizados en Cristo Jesús, somos bautizados en su muerte?"
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "Rom. 4:11-12",
+              "Pasaje": "11. Y recibió la circuncisión por señal, por sello de la justicia de la fe que tuvo en la incircuncisión: para que fuese padre de todos los creyentes no circuncidados, para que también á ellos les sea contado por justicia;\n12. Y padre de la circuncisión, no solamente á los que son de la circuncisión, mas también á los que siguen las pisadas de la fe que fué en nuestro padre Abraham antes de ser circuncidado."
+            },
+            {
+              "cita": "1 Ped. 3:21",
+              "Pasaje": "21. A la figura de la cual el bautismo que ahora corresponde nos salva (no quitando las inmundicias de la carne, sino [como] demanda de una buena conciencia delante de Dios,) por la resurrección de Jesucristo:"
+            }
+          ]
+        },
+        {
+          "inciso": "e",
+          "citas": [
+            {
+              "cita": "Rom. 6:3-5",
+              "Pasaje": "3. ¿O no sabéis que todos los que somos bautizados en Cristo Jesús, somos bautizados en su muerte?\n4. Porque somos sepultados juntamente con él á muerte por el bautismo; para que como Cristo resucitó de los muertos por la gloria del Padre, así también nosotros andemos en novedad de vida.\n5. Porque si fuimos plantados juntamente en [él] á la semejanza de su muerte, así también [lo seremos á la] de su resurrección:"
+            }
+          ]
+        },
+        {
+          "inciso": "f",
+          "citas": [
+            {
+              "cita": "Gál. 3:26-27",
+              "Pasaje": "26. Porque todos sois hijos de Dios por la fe en Cristo Jesús.\n27. Porque todos los que habéis sido bautizados en Cristo, de Cristo estáis vestidos."
+            }
+          ]
+        },
+        {
+          "inciso": "g",
+          "citas": [
+            {
+              "cita": "Rom. 6:22",
+              "Pasaje": "22. Mas ahora, librados del pecado, y hechos siervos á Dios, tenéis por vuestro fruto la santificación, y por fin la vida eterna."
+            }
+          ]
+        },
+        {
+          "inciso": "h",
+          "citas": [
+            {
+              "cita": "Hech. 2:38",
+              "Pasaje": "38. Y Pedro les dice: Arrepentíos, y bautícese cada uno de vosotros en el nombre de Jesucristo para perdón de los pecados; y recibiréis el don del Espíritu Santo."
+            }
+          ]
+        },
+        {
+          "inciso": "i",
+          "citas": [
+            {
+              "cita": "1 Cor. 12:13,25",
+              "Pasaje": "13. Porque por un Espíritu somos todos bautizados en un cuerpo, ora Judíos ó Griegos, ora siervos ó libres; y todos hemos bebido de un mismo Espíritu.\n25. Para que no haya desavenencia en el cuerpo, sino que los miembros todos se interesen los unos por los otros."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 168,
+      "pregunta": "¿Qué es la Cena del Señor?",
+      "respuesta": "La Cena del Señor es un sacramento del Nuevo Testamento en el cual, al dar y recibir pan y vino conforme a la institución de Jesucristo, se anuncia su muerte; y los que participan dignamente se alimentan de su cuerpo y de su sangre, para su nutrición espiritual y crecimiento en la gracia; tienen confirmada su unión y comunión con él; testifican y renuevan su gratitud y su compromiso con Dios, y su amor y comunión mutuos los unos con los otros, como miembros del mismo cuerpo místico.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Luc. 22:20",
+              "Pasaje": "20. Asimismo también el vaso, después que hubo cenado, diciendo: Este vaso es el nuevo pacto en mi sangre, que por vosotros se derrama."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Mat. 26:26-28",
+              "Pasaje": "26. Y comiendo ellos, tomó Jesús el pan, y bendijo, y lo partió, y dió á sus discípulos, y dijo: Tomad, comed: esto es mi cuerpo.\n27. Y tomando el vaso, y hechas gracias, les dió, diciendo: Bebed de él todos;\n28. Porque esto es mi sangre del nuevo pacto, la cual es derramada por muchos para remisión de los pecados."
+            },
+            {
+              "cita": "1 Cor. 11:23-26",
+              "Pasaje": "23. Porque yo recibí del Señor lo que también os he enseñado: Que el Señor Jesús, la noche que fué entregado, tomó pan;\n24. Y habiendo dado gracias, lo partió, y dijo: Tomad, comed: esto es mi cuerpo que por vosotros es partido: haced esto en memoria de mí.\n25. Asimismo [tomó] también la copa, después de haber cenado, diciendo: Esta copa es el nuevo pacto en mi sangre: haced esto todas las veces que bebiereis, en memoria de mí.\n26. Porque todas las veces que comiereis este pan, y bebiereis esta copa, la muerte del Señor anunciáis hasta que venga."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "1 Cor. 10:16",
+              "Pasaje": "16. La copa de bendición que bendecimos, ¿no es la comunión de la sangre de Cristo? El pan que partimos, ¿no es la comunión del cuerpo de Cristo?"
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "1 Cor. 11:24",
+              "Pasaje": "24. Y habiendo dado gracias, lo partió, y dijo: Tomad, comed: esto es mi cuerpo que por vosotros es partido: haced esto en memoria de mí."
+            }
+          ]
+        },
+        {
+          "inciso": "e",
+          "citas": [
+            {
+              "cita": "1 Cor. 10:14-16,21",
+              "Pasaje": "14. Por tanto, amados míos, huid de la idolatría.\n15. Como á sabios hablo; juzgad vosotros lo que digo.\n16. La copa de bendición que bendecimos, ¿no es la comunión de la sangre de Cristo? El pan que partimos, ¿no es la comunión del cuerpo de Cristo?\n21. No podéis beber la copa del Señor, y la copa de los demonios: no podéis ser partícipes de la mesa del Señor, y de la mesa de los demonios."
+            }
+          ]
+        },
+        {
+          "inciso": "f",
+          "citas": [
+            {
+              "cita": "1 Cor. 10:17",
+              "Pasaje": "17. Porque un pan, [es que] muchos somos un cuerpo; pues todos participamos de aquel un pan."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 169,
+      "pregunta": "¿Cómo ha dispuesto Cristo que se den y se reciban el pan y el vino en el sacramento de la Cena del Señor?",
+      "respuesta": "Cristo ha dispuesto que los ministros de su Palabra, en la administración de este sacramento de la Cena del Señor, aparten el pan y el vino del uso común mediante las palabras de la institución, la acción de gracias y la oración; que tomen y partan el pan, y den tanto el pan como el vino a los comulgantes; los cuales, por la misma disposición, han de tomar y comer el pan y beber el vino, en agradecida memoria de que el cuerpo de Cristo fue partido y dado, y su sangre derramada, por ellos.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "1 Cor. 11:23-24",
+              "Pasaje": "23. Porque yo recibí del Señor lo que también os he enseñado: Que el Señor Jesús, la noche que fué entregado, tomó pan;\n24. Y habiendo dado gracias, lo partió, y dijo: Tomad, comed: esto es mi cuerpo que por vosotros es partido: haced esto en memoria de mí."
+            },
+            {
+              "cita": "Mat. 26:26-28",
+              "Pasaje": "26. Y comiendo ellos, tomó Jesús el pan, y bendijo, y lo partió, y dió á sus discípulos, y dijo: Tomad, comed: esto es mi cuerpo.\n27. Y tomando el vaso, y hechas gracias, les dió, diciendo: Bebed de él todos;\n28. Porque esto es mi sangre del nuevo pacto, la cual es derramada por muchos para remisión de los pecados."
+            },
+            {
+              "cita": "Mar. 14:22-24",
+              "Pasaje": "22. Y estando ellos comiendo, tomó Jesús pan, y bendiciendo, partió y les dió, y dijo: Tomad, esto es mi cuerpo.\n23. Y tomando el vaso, habiendo hecho gracias, les dió: y bebieron de él todos.\n24. Y les dice: Esto es mi sangre del nuevo pacto, que por muchos es derramada."
+            },
+            {
+              "cita": "Luc. 22:19-20",
+              "Pasaje": "19. Y tomando el pan, habiendo dado gracias, partió, y les dió, diciendo: Esto es mi cuerpo, que por vosotros es dado: haced esto en memoria de mí.\n20. Asimismo también el vaso, después que hubo cenado, diciendo: Este vaso es el nuevo pacto en mi sangre, que por vosotros se derrama."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 170,
+      "pregunta": "¿Cómo se alimentan del cuerpo y de la sangre de Cristo los que participan dignamente en la Cena del Señor?",
+      "respuesta": "Así como el cuerpo y la sangre de Cristo no están presentes corporal ni carnalmente en el pan y el vino de la Cena del Señor, ni con ellos, ni bajo ellos, y sin embargo están presentes espiritualmente para la fe del que los recibe, no menos verdadera y realmente que los elementos mismos lo están para sus sentidos exteriores; así los que participan dignamente en el sacramento de la Cena del Señor se alimentan en él del cuerpo y de la sangre de Cristo, no de manera corporal y carnal, sino espiritual; pero verdadera y realmente, mientras por la fe reciben y se aplican a sí mismos a Cristo crucificado y todos los beneficios de su muerte.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Hech. 3:21",
+              "Pasaje": "21. Al cual de cierto es menester que el cielo tenga hasta los tiempos de la restauración de todas las cosas, que habló Dios por boca de sus santos profetas que han sido desde el siglo."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Mat. 26:26,28",
+              "Pasaje": "26. Y comiendo ellos, tomó Jesús el pan, y bendijo, y lo partió, y dió á sus discípulos, y dijo: Tomad, comed: esto es mi cuerpo.\n28. Porque esto es mi sangre del nuevo pacto, la cual es derramada por muchos para remisión de los pecados."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "1 Cor. 11:24-29",
+              "Pasaje": "24. Y habiendo dado gracias, lo partió, y dijo: Tomad, comed: esto es mi cuerpo que por vosotros es partido: haced esto en memoria de mí.\n25. Asimismo [tomó] también la copa, después de haber cenado, diciendo: Esta copa es el nuevo pacto en mi sangre: haced esto todas las veces que bebiereis, en memoria de mí.\n26. Porque todas las veces que comiereis este pan, y bebiereis esta copa, la muerte del Señor anunciáis hasta que venga.\n27. De manera que, cualquiera que comiere este pan ó bebiere esta copa del Señor indignamente, será culpado del cuerpo y de la sangre del Señor.\n28. Por tanto, pruébese cada uno á sí mismo, y coma así de aquel pan, y beba de aquella copa.\n29. Porque el que come y bebe indignamente, juicio come y bebe para sí, no discerniendo el cuerpo del Señor."
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "1 Cor. 10:16",
+              "Pasaje": "16. La copa de bendición que bendecimos, ¿no es la comunión de la sangre de Cristo? El pan que partimos, ¿no es la comunión del cuerpo de Cristo?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 171,
+      "pregunta": "¿Cómo deben prepararse, antes de acercarse a él, los que reciben el sacramento de la Cena del Señor?",
+      "respuesta": "Los que reciben el sacramento de la Cena del Señor han de prepararse para él, antes de acercarse, examinándose a sí mismos acerca de si están en Cristo, de sus pecados y necesidades; de la verdad y medida de su conocimiento, fe y arrepentimiento; de su amor a Dios y a los hermanos, de su caridad para con todos los hombres, perdonando a quienes les han hecho mal; de sus deseos de Cristo y de su nueva obediencia; y renovando el ejercicio de estas gracias por medio de la meditación seria y la oración ferviente.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "1 Cor. 11:28",
+              "Pasaje": "28. Por tanto, pruébese cada uno á sí mismo, y coma así de aquel pan, y beba de aquella copa."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "2 Cor. 13:5",
+              "Pasaje": "5. Examinaos á vosotros mismos si estáis en fe; probaos á vosotros mismos. ¿No os conocéis á vosotros mismos, que Jesucristo está en vosotros? si ya no sois reprobados."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "1 Cor. 5:7",
+              "Pasaje": "7. Limpiad pues la vieja levadura, para que seáis nueva masa, como sois sin levadura: porque nuestra pascua, [que es] Cristo, fué sacrificada por nosotros."
+            },
+            {
+              "cita": "Éx. 12:15",
+              "Pasaje": "15. Siete días comeréis panes sin levadura; y así el primer día haréis que no haya levadura en vuestras casas: porque cualquiera que comiere leudado desde el primer día hasta el séptimo, aquella alma será cortada de Israel."
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "1 Cor. 11:29",
+              "Pasaje": "29. Porque el que come y bebe indignamente, juicio come y bebe para sí, no discerniendo el cuerpo del Señor."
+            }
+          ]
+        },
+        {
+          "inciso": "e",
+          "citas": [
+            {
+              "cita": "1 Cor. 13:5",
+              "Pasaje": "5. No es injuriosa, no busca lo suyo, no se irrita, no piensa el mal;"
+            },
+            {
+              "cita": "Mat. 26:28",
+              "Pasaje": "28. Porque esto es mi sangre del nuevo pacto, la cual es derramada por muchos para remisión de los pecados."
+            }
+          ]
+        },
+        {
+          "inciso": "f",
+          "citas": [
+            {
+              "cita": "Zac. 12:10",
+              "Pasaje": "10. Y derramaré sobre la casa de David, y sobre los moradores de Jerusalem, espíritu de gracia y de oración; y mirarán á mí, á quien traspasaron, y harán llanto sobre él, como llanto sobre unigénito, afligiéndose sobre él como quien se aflige sobre primogénito."
+            },
+            {
+              "cita": "1 Cor. 11:31",
+              "Pasaje": "31. Que si nos examinásemos á nosotros mismos, cierto no seríamos juzgados."
+            }
+          ]
+        },
+        {
+          "inciso": "g",
+          "citas": [
+            {
+              "cita": "1 Cor. 10:16-17",
+              "Pasaje": "16. La copa de bendición que bendecimos, ¿no es la comunión de la sangre de Cristo? El pan que partimos, ¿no es la comunión del cuerpo de Cristo?\n17. Porque un pan, [es que] muchos somos un cuerpo; pues todos participamos de aquel un pan."
+            },
+            {
+              "cita": "Hech. 2:46-47",
+              "Pasaje": "46. Y perseverando unánimes cada día en el templo, y partiendo el pan en las casas, comían juntos con alegría y con sencillez de corazón,\n47. Alabando á Dios, y teniendo gracia con todo el pueblo. Y el Señor añadía cada día á la iglesia los que habían de ser salvos."
+            }
+          ]
+        },
+        {
+          "inciso": "h",
+          "citas": [
+            {
+              "cita": "1 Cor. 5:8",
+              "Pasaje": "8. Así que hagamos fiesta, no en la vieja levadura, ni en la levadura de malicia y de maldad, sino en ázimos de sinceridad y de verdad."
+            },
+            {
+              "cita": "1 Cor. 11:18,20",
+              "Pasaje": "18. Porque lo primero, cuando os juntáis en la iglesia, oigo que hay entre vosotros disensiones; y en parte lo creo.\n20. Cuando pues os juntáis en uno, [esto] no es comer la cena del Señor:"
+            }
+          ]
+        },
+        {
+          "inciso": "i",
+          "citas": [
+            {
+              "cita": "Mat. 5:23-24",
+              "Pasaje": "23. Por tanto, si trajeres tu presente al altar, y allí te acordares de que tu hermano tiene algo contra ti,\n24. Deja allí tu presente delante del altar, y vete, vuelve primero en amistad con tu hermano, y entonces ven y ofrece tu presente."
+            }
+          ]
+        },
+        {
+          "inciso": "k",
+          "citas": [
+            {
+              "cita": "Isa. 55:1",
+              "Pasaje": "1. A TODOS los sedientos: Venid á las aguas; y los que no tienen dinero, venid, comprad, y comed. Venid, comprad, sin dinero y sin precio, vino y leche."
+            },
+            {
+              "cita": "Jn. 7:37",
+              "Pasaje": "37. Mas en el postrer día grande de la fiesta, Jesús se ponía en pie y clamaba, diciendo: Si alguno tiene sed, venga á mí y beba."
+            }
+          ]
+        },
+        {
+          "inciso": "l",
+          "citas": [
+            {
+              "cita": "1 Cor. 5:7-8",
+              "Pasaje": "7. Limpiad pues la vieja levadura, para que seáis nueva masa, como sois sin levadura: porque nuestra pascua, [que es] Cristo, fué sacrificada por nosotros.\n8. Así que hagamos fiesta, no en la vieja levadura, ni en la levadura de malicia y de maldad, sino en ázimos de sinceridad y de verdad."
+            }
+          ]
+        },
+        {
+          "inciso": "m",
+          "citas": [
+            {
+              "cita": "1 Cor. 11:25-26,28",
+              "Pasaje": "25. Asimismo [tomó] también la copa, después de haber cenado, diciendo: Esta copa es el nuevo pacto en mi sangre: haced esto todas las veces que bebiereis, en memoria de mí.\n26. Porque todas las veces que comiereis este pan, y bebiereis esta copa, la muerte del Señor anunciáis hasta que venga.\n28. Por tanto, pruébese cada uno á sí mismo, y coma así de aquel pan, y beba de aquella copa."
+            },
+            {
+              "cita": "Heb. 10:21-22",
+              "Pasaje": "21. Y [teniendo] un gran sacerdote sobre la casa de Dios,\n22. Lleguémonos con corazón verdadero, en plena certidumbre de fe, purificados los corazones de mala conciencia, y lavados los cuerpos con agua limpia."
+            },
+            {
+              "cita": "Heb. 10:24",
+              "Pasaje": "24. Y considerémonos los unos á los otros para provocarnos al amor y á las buenas obras;"
+            },
+            {
+              "cita": "Sal. 26:6",
+              "Pasaje": "6. Lavaré en inocencia mis manos, y andaré alrededor de tu altar, oh Jehová:"
+            }
+          ]
+        },
+        {
+          "inciso": "n",
+          "citas": [
+            {
+              "cita": "1 Cor. 11:24-25",
+              "Pasaje": "24. Y habiendo dado gracias, lo partió, y dijo: Tomad, comed: esto es mi cuerpo que por vosotros es partido: haced esto en memoria de mí.\n25. Asimismo [tomó] también la copa, después de haber cenado, diciendo: Esta copa es el nuevo pacto en mi sangre: haced esto todas las veces que bebiereis, en memoria de mí."
+            }
+          ]
+        },
+        {
+          "inciso": "o",
+          "citas": [
+            {
+              "cita": "2 Crón. 30:18-19",
+              "Pasaje": "18. Porque una gran multitud del pueblo de Ephraim y Manasés, y de Issachâr y Zabulón, no se habían purificado, y comieron la pascua no conforme á lo que está escrito. Mas Ezechîas oró por ellos, diciendo: Jehová, que es bueno, sea propicio á todo aquel que ha apercibido su corazón para buscar á Dios,\n19. A Jehová el Dios de sus padres, aunque no [esté purificado] según la purificación del santuario."
+            },
+            {
+              "cita": "Mat. 26:26",
+              "Pasaje": "26. Y comiendo ellos, tomó Jesús el pan, y bendijo, y lo partió, y dió á sus discípulos, y dijo: Tomad, comed: esto es mi cuerpo."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 172,
+      "pregunta": "¿Puede acercarse a la Cena del Señor el que duda de si está en Cristo o de su debida preparación?",
+      "respuesta": "El que duda de si está en Cristo, o de su debida preparación para el sacramento de la Cena del Señor, puede tener verdadera parte en Cristo aunque todavía no esté seguro de ello; y a la cuenta de Dios la tiene, si está debidamente afectado por la percepción de su falta, y desea sinceramente ser hallado en Cristo y apartarse de la iniquidad; en tal caso (porque se han hecho promesas, y este sacramento ha sido instituido, para el alivio aun de los cristianos débiles y dudosos) ha de lamentar su incredulidad y esforzarse por que se resuelvan sus dudas; y, haciéndolo así, puede y debe acercarse a la Cena del Señor, para ser fortalecido aún más.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Isa. 50:10",
+              "Pasaje": "10. ¿Quién hay entre vosotros que teme á Jehová, y oye la voz de su siervo? el que anda en tinieblas y carece de luz, confíe en el nombre de Jehová, y apóyese en su Dios."
+            },
+            {
+              "cita": "1 Jn. 5:13",
+              "Pasaje": "13. Estas cosas he escrito á vosotros que creéis en el nombre del Hijo de Dios, para que sepáis que tenéis vida eterna, y para que creáis en el nombre del Hijo de Dios."
+            },
+            {
+              "cita": "Sal. 88",
+              "Pasaje": "1. Canción: Salmo para los hijos de Coré: al Músico principal: para cantar sobre Mahalath: Masquil de Hemán Ezrahita. OH Jehová, Dios de mi salud, día y noche clamo delante de ti.\n2. Entre mi oración en tu presencia: inclina tu oído á mi clamor.\n3. Porque mi alma está harta de males, y mi vida cercana al sepulcro.\n4. Soy contado con los que descienden al hoyo, soy como hombre sin fuerza:\n5. Libre entre los muertos, como los matados que yacen en el sepulcro, que no te acuerdas más de ellos, y que son cortados de tu mano.\n6. Hasme puesto en el hoyo profundo, en tinieblas, en honduras.\n7. Sobre mí se ha acostado tu ira, y me has afligido con todas tus ondas. (Selah.)\n8. Has alejado de mí mis conocidos: hasme puesto por abominación á ellos: encerrado estoy, y no puedo salir.\n9. Mis ojos enfermaron á causa de mi aflicción: hete llamado, oh Jehová, cada día; he extendido á ti mis manos.\n10. ¿Harás tú milagro á los muertos? ¿levantaránse los muertos para alabarte? (Selah.)\n11. ¿Será contada en el sepulcro tu misericordia, ó tu verdad en la perdición?\n12. ¿Será conocida en las tinieblas tu maravilla, ni tu justicia en la tierra del olvido?\n13. Mas yo á ti he clamado, oh Jehová; y de mañana mi oración te previno.\n14. ¿Por qué, oh Jehová, desechas mi alma? ¿por qué escondes de mí tu rostro?\n15. Yo soy afligido y menesteroso: desde la mocedad he llevado tus terrores, he estado medroso.\n16. Sobre mí han pasado tus iras; tus espantos me han cortado.\n17. Hanme rodeado como aguas de continuo; hanme cercado á una.\n18. Has alejado de mí el amigo y el compañero; y mis conocidos [se esconden] en la tiniebla.",
+              "observacionPasaje": "Capítulo completo."
+            },
+            {
+              "cita": "Sal. 77:1-4,7-10",
+              "Pasaje": "1. Al Músico principal: para Jeduthún: Salmo de Asaph. CON mi voz clamé á Dios, á Dios clamé, y él me escuchará.\n2. Al Señor busqué en el día de mi angustia: mi mal corría de noche, y no cesaba: mi alma rehusaba consuelo.\n3. Acordábame de Dios, y gritaba: quejábame, y desmayaba mi espíritu. (Selah.)\n4. Tenías los párpados de mis ojos: estaba yo quebrantado, y no hablaba.\n7. ¿Desechará el Señor para siempre, y no volverá más á amar?\n8. ¿Hase acabado para siempre su misericordia? ¿hase acabado la palabra suya para generación y generación?\n9. ¿Ha olvidado Dios el tener misericordia? ¿ha encerrado con ira sus piedades? (Selah.)\n10. Y dije: Enfermedad mía es esta; [traeré pues á la memoria] los años de la diestra del Altísimo."
+            },
+            {
+              "cita": "Jon. 2:4",
+              "Pasaje": "5. Y yo dije: Echado soy de delante de tus ojos: mas aun veré tu santo templo.",
+              "observacionPasaje": "En inglés «Jonah 2:4»; en la Reina-Valera 1909 este capítulo se numera 1 versículo(s) más adelante."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Isa. 54:7-10",
+              "Pasaje": "7. Por un pequeño momento te dejé; mas te recogeré con grandes misericordias.\n8. Con un poco de ira escondí mi rostro de ti por un momento; mas con misericordia eterna tendré compasión de ti, dijo tu Redentor Jehová.\n9. Porque esto me será [como] las aguas de Noé; que juré que nunca más las aguas de Noé pasarían sobre la tierra; así he jurado que no me enojaré contra ti, ni te reñiré.\n10. Porque los montes se moverán, y los collados temblarán; mas no se apartará de ti mi misericordia, ni el pacto de mi paz vacilará, dijo Jehová, el que tiene misericordia de ti."
+            },
+            {
+              "cita": "Mat. 5:3-4",
+              "Pasaje": "3. Bienaventurados los pobres en espíritu: porque de ellos es el reino de los cielos.\n4. Bienaventurados los que lloran: porque ellos recibirán consolación."
+            },
+            {
+              "cita": "Sal. 31:22",
+              "Pasaje": "22. Y decía yo en mi premura: Cortado soy de delante de tus ojos: tú empero oíste la voz de mis ruegos, cuando á ti clamaba."
+            },
+            {
+              "cita": "Sal. 73:13,22-23",
+              "Pasaje": "13. Verdaderamente en vano he limpiado mi corazón, y lavado mis manos en inocencia;\n22. Mas yo era ignorante, y no entendía: era como una bestia acerca de ti.\n23. Con todo, yo siempre estuve contigo: trabaste de mi mano derecha."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Fil. 3:8-9",
+              "Pasaje": "8. Y ciertamente, aun reputo todas las cosas pérdida por el eminente conocimiento de Cristo Jesús, mi Señor, por amor del cual lo he perdido todo, y téngolo por estiércol, para ganar á Cristo,\n9. Y ser hallado en él, no teniendo mi justicia, que es por la ley, sino la que es por la fe de Cristo, la justicia que es de Dios por la fe;"
+            },
+            {
+              "cita": "Sal. 10:17",
+              "Pasaje": "17. El deseo de los humildes oíste, oh Jehová: tú dispones su corazón, y haces atento tu oído;"
+            },
+            {
+              "cita": "Sal. 42:1-2,5,11",
+              "Pasaje": "1. Al Músico principal: Masquil á los hijos de Coré. COMO el ciervo brama por las corrientes de las aguas, así clama por ti, oh Dios, el alma mía.\n2. Mi alma tiene sed de Dios, del Dios vivo: ¡cuándo vendré, y pareceré delante de Dios!\n5. ¿Por qué te abates, oh alma mía, y te conturbas en mí? Espera á Dios; porque aun le tengo de alabar por las saludes de su presencia.\n11. ¿Por qué te abates, oh alma mía, y por qué te conturbas en mí? Espera á Dios; porque aun le tengo de alabar; [es él] salvamento delante de mí, y el Dios mío."
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "2 Tim. 2:19",
+              "Pasaje": "19. Pero el fundamento de Dios está firme, teniendo este sello: Conoce el Señor á los que son suyos; y: Apártese de iniquidad todo aquel que invoca el nombre de Cristo."
+            },
+            {
+              "cita": "Isa. 50:10",
+              "Pasaje": "10. ¿Quién hay entre vosotros que teme á Jehová, y oye la voz de su siervo? el que anda en tinieblas y carece de luz, confíe en el nombre de Jehová, y apóyese en su Dios."
+            },
+            {
+              "cita": "Sal. 66:18-20",
+              "Pasaje": "18. Si en mi corazón hubiese yo mirado á la iniquidad, el Señor no [me] oyera.\n19. Mas ciertamente [me] oyó Dios; antendió á la voz de mi súplica.\n20. Bendito Dios, que no echó [de sí] mi oración, ni de mí su misericordia."
+            }
+          ]
+        },
+        {
+          "inciso": "e",
+          "citas": [
+            {
+              "cita": "Isa. 40:11,29,31",
+              "Pasaje": "11. Como pastor apacentará su rebaño; en su brazo cogerá los corderos, y en su seno los llevará; pastoreará suavemente las paridas.\n29. El da esfuerzo al cansado, y multiplica las fuerzas al que no tiene ningunas.\n31. Mas los que esperan á Jehová tendrán nuevas fuerzas; levantarán las alas como águilas; correrán, y no se cansarán; caminarán, y no se fatigarán."
+            },
+            {
+              "cita": "Mat. 11:28",
+              "Pasaje": "28. Venid á mí todos los que estáis trabajados y cargados, que yo os haré descansar."
+            },
+            {
+              "cita": "Mat. 12:20",
+              "Pasaje": "20. La caña cascada no quebrará, y el pábilo que humea no apagará, hasta que saque á victoria el juicio."
+            },
+            {
+              "cita": "Mat. 26:28",
+              "Pasaje": "28. Porque esto es mi sangre del nuevo pacto, la cual es derramada por muchos para remisión de los pecados."
+            }
+          ]
+        },
+        {
+          "inciso": "f",
+          "citas": [
+            {
+              "cita": "Mar. 9:24",
+              "Pasaje": "24. Y luego el padre del muchacho dijo clamando: Creo, ayuda mi incredulidad."
+            }
+          ]
+        },
+        {
+          "inciso": "g",
+          "citas": [
+            {
+              "cita": "Hech. 2:37",
+              "Pasaje": "37. Entonces oído [esto], fueron compungidos de corazón, y dijeron á Pedro y á los otros apóstoles: Varones hermanos, ¿qué haremos?"
+            },
+            {
+              "cita": "Hech. 16:30",
+              "Pasaje": "30. Y sacándolos fuera, les dice: Señores, ¿qué es menester que yo haga para ser salvo?"
+            }
+          ]
+        },
+        {
+          "inciso": "h",
+          "citas": [
+            {
+              "cita": "Rom. 4:11",
+              "Pasaje": "11. Y recibió la circuncisión por señal, por sello de la justicia de la fe que tuvo en la incircuncisión: para que fuese padre de todos los creyentes no circuncidados, para que también á ellos les sea contado por justicia;"
+            },
+            {
+              "cita": "1 Cor. 11:28",
+              "Pasaje": "28. Por tanto, pruébese cada uno á sí mismo, y coma así de aquel pan, y beba de aquella copa."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 173,
+      "pregunta": "¿Se puede impedir el acceso a la Cena del Señor a algunos que profesan la fe y desean acercarse a ella?",
+      "respuesta": "A los que se hallen ignorantes o escandalosos, no obstante su profesión de fe y su deseo de acercarse a la Cena del Señor, se les puede y se les debe impedir el acceso a ese sacramento, por el poder que Cristo ha dejado en su iglesia, hasta que reciban instrucción y manifiesten su enmienda.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "1 Cor. 11:27-34",
+              "Pasaje": "27. De manera que, cualquiera que comiere este pan ó bebiere esta copa del Señor indignamente, será culpado del cuerpo y de la sangre del Señor.\n28. Por tanto, pruébese cada uno á sí mismo, y coma así de aquel pan, y beba de aquella copa.\n29. Porque el que come y bebe indignamente, juicio come y bebe para sí, no discerniendo el cuerpo del Señor.\n30. Por lo cual hay muchos enfermos y debilitados entre vosotros; y muchos duermen.\n31. Que si nos examinásemos á nosotros mismos, cierto no seríamos juzgados.\n32. Mas siendo juzgados, somos castigados del Señor, para que no seamos condenados con el mundo.\n33. Así, que, hermanos míos, cuando os juntáis á comer, esperaos unos á otros.\n34. Si alguno tuviere hambre, coma en su casa, porque no os juntéis para juicio. Las demás cosas ordenaré cuando llegare."
+            },
+            {
+              "cita": "Mat. 7:6",
+              "Pasaje": "6. No deis lo santo á los perros, ni echéis vuestras perlas delante de los puercos; porque no las rehuellen con sus pies, y vuelvan y os despedacen."
+            },
+            {
+              "cita": "1 Cor. 5",
+              "Pasaje": "1. DE cierto se oye que hay entre vosotros fornicación, y tal fornicación cual ni aun se nombra entre los Gentiles; tanto que alguno tenga la mujer de su padre.\n2. Y vosotros estáis hinchados, y no más bien tuvisteis duelo, para que fuese quitado de en medio de vosotros el que hizo tal obra.\n3. Y ciertamente, como ausente con el cuerpo, mas presente en espíritu, ya como presente he juzgado al que esto así ha cometido:\n4. En el nombre del Señor nuestro Jesucristo, juntados vosotros y mi espíritu, con la facultad de nuestro Señor Jesucristo,\n5. El tal sea entregado á Satanás para muerte de la carne, porque el espíritu sea salvo en el día del Señor Jesús.\n6. No es buena vuestra jactancia. ¿No sabéis que un poco de levadura leuda toda la masa?\n7. Limpiad pues la vieja levadura, para que seáis nueva masa, como sois sin levadura: porque nuestra pascua, [que es] Cristo, fué sacrificada por nosotros.\n8. Así que hagamos fiesta, no en la vieja levadura, ni en la levadura de malicia y de maldad, sino en ázimos de sinceridad y de verdad.\n9. Os he escrito por carta, que no os envolváis con los fornicarios:\n10. No absolutamente con los fornicarios de este mundo, ó con los avaros, ó con los ladrones, ó con los idólatras; pues en tal caso os sería menester salir del mundo.\n11. Mas ahora os he escrito, que no os envolváis, [es á saber], que si alguno llamándose hermano fuere fornicario, ó avaro, ó idólatra, ó maldiciente, ó borracho, ó ladrón, con el tal ni aun comáis.\n12. Porque ¿qué me va á mí en juzgar á los que están fuera? ¿No juzgáis vosotros á los que están dentro?\n13. Porque á los que están fuera, Dios juzgará: quitad [pues] á ese malo de entre vosotros.",
+              "observacionPasaje": "Capítulo completo."
+            },
+            {
+              "cita": "Jud. 1:23",
+              "Pasaje": "23. Mas haced salvos á los otros por temor, arrebatándolos del fuego; aborreciendo aun la ropa que es contaminada de la carne."
+            },
+            {
+              "cita": "1 Tim. 5:22",
+              "Pasaje": "22. No impongas de ligero las manos á ninguno, ni comuniques en pecados ajenos: consérvate en limpieza."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "2 Cor. 2:7",
+              "Pasaje": "7. Así que, al contrario, vosotros más bien lo perdonéis y consoléis, porque no sea el tal consumido de demasiada tristeza."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 174,
+      "pregunta": "¿Qué se requiere de los que reciben el sacramento de la Cena del Señor durante su administración?",
+      "respuesta": "Se requiere de los que reciben el sacramento de la Cena del Señor que, durante su administración, esperen en Dios en esa ordenanza con toda santa reverencia y atención; observen diligentemente los elementos y las acciones sacramentales; disciernan cuidadosamente el cuerpo del Señor, y mediten con afecto en su muerte y sufrimientos, y así se estimulen a un ejercicio vigoroso de sus gracias: juzgándose a sí mismos y doliéndose por el pecado; teniendo hambre y sed ardientes de Cristo, alimentándose de él por la fe, recibiendo de su plenitud, confiando en sus méritos, regocijándose en su amor, dando gracias por su gracia; renovando su pacto con Dios y su amor a todos los santos.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Lev. 10:3",
+              "Pasaje": "3. Entonces dijo Moisés á Aarón: Esto es lo que habló Jehová, diciendo: En mis allegados me santificaré, y en presencia de todo el pueblo seré glorificado. Y Aarón calló."
+            },
+            {
+              "cita": "Heb. 12:28",
+              "Pasaje": "28. Así que, tomando el reino inmóvil, retengamos la gracia por la cual sirvamos á Dios agradándole con temor y reverencia;"
+            },
+            {
+              "cita": "Sal. 5:7",
+              "Pasaje": "7. Y yo en la multitud de tu misericordia entraré en tu casa: adoraré hacia el templo de tu santidad en tu temor."
+            },
+            {
+              "cita": "1 Cor. 11:17,26-27",
+              "Pasaje": "17. Esto empero os denuncio, que no alabo, que no por mejor sino por peor os juntáis.\n26. Porque todas las veces que comiereis este pan, y bebiereis esta copa, la muerte del Señor anunciáis hasta que venga.\n27. De manera que, cualquiera que comiere este pan ó bebiere esta copa del Señor indignamente, será culpado del cuerpo y de la sangre del Señor."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Éx. 24:8",
+              "Pasaje": "8. Entonces Moisés tomó la sangre, y roció sobre el pueblo, y dijo: He aquí la sangre de la alianza que Jehová ha hecho con vosotros sobre todas estas cosas."
+            },
+            {
+              "cita": "Mat. 26:28",
+              "Pasaje": "28. Porque esto es mi sangre del nuevo pacto, la cual es derramada por muchos para remisión de los pecados."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "1 Cor. 11:29",
+              "Pasaje": "29. Porque el que come y bebe indignamente, juicio come y bebe para sí, no discerniendo el cuerpo del Señor."
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "Luc. 22:19",
+              "Pasaje": "19. Y tomando el pan, habiendo dado gracias, partió, y les dió, diciendo: Esto es mi cuerpo, que por vosotros es dado: haced esto en memoria de mí."
+            }
+          ]
+        },
+        {
+          "inciso": "e",
+          "citas": [
+            {
+              "cita": "1 Cor. 11:26",
+              "Pasaje": "26. Porque todas las veces que comiereis este pan, y bebiereis esta copa, la muerte del Señor anunciáis hasta que venga."
+            },
+            {
+              "cita": "1 Cor. 10:3-5,11,14",
+              "Pasaje": "3. Y todos comieron la misma vianda espiritual;\n4. Y todos bebieron la misma bebida espiritual; porque bebían de la piedra espiritual que los seguía, y la piedra era Cristo:\n5. Mas de muchos de ellos no se agradó Dios; por lo cual fueron postrados en el desierto.\n11. Y estas cosas les acontecieron en figura; y son escritas para nuestra admonición, en quienes los fines de los siglos han parado.\n14. Por tanto, amados míos, huid de la idolatría."
+            }
+          ]
+        },
+        {
+          "inciso": "f",
+          "citas": [
+            {
+              "cita": "1 Cor. 11:31",
+              "Pasaje": "31. Que si nos examinásemos á nosotros mismos, cierto no seríamos juzgados."
+            }
+          ]
+        },
+        {
+          "inciso": "g",
+          "citas": [
+            {
+              "cita": "Zac. 12:10",
+              "Pasaje": "10. Y derramaré sobre la casa de David, y sobre los moradores de Jerusalem, espíritu de gracia y de oración; y mirarán á mí, á quien traspasaron, y harán llanto sobre él, como llanto sobre unigénito, afligiéndose sobre él como quien se aflige sobre primogénito."
+            }
+          ]
+        },
+        {
+          "inciso": "h",
+          "citas": [
+            {
+              "cita": "Apoc. 22:17",
+              "Pasaje": "17. Y el Espíritu y la Esposa dicen: Ven. Y el que oye, diga: Ven. Y el que tiene sed, venga: y el que quiere, tome del agua de la vida de balde."
+            }
+          ]
+        },
+        {
+          "inciso": "i",
+          "citas": [
+            {
+              "cita": "Jn. 6:35",
+              "Pasaje": "35. Y Jesús les dijo: Yo soy el pan de vida: el que á mí viene, nunca tendrá hambre; y el que en mí cree, no tendrá sed jamás."
+            }
+          ]
+        },
+        {
+          "inciso": "k",
+          "citas": [
+            {
+              "cita": "Jn. 1:16",
+              "Pasaje": "16. Porque de su plenitud tomamos todos, y gracia por gracia."
+            }
+          ]
+        },
+        {
+          "inciso": "l",
+          "citas": [
+            {
+              "cita": "Fil. 3:9",
+              "Pasaje": "9. Y ser hallado en él, no teniendo mi justicia, que es por la ley, sino la que es por la fe de Cristo, la justicia que es de Dios por la fe;",
+              "observacionPasaje": "La fuente indica «Philippians 1:16»; las ediciones estándar citan Filipenses 3:9, sobre la justicia que es por la fe de Cristo."
+            }
+          ]
+        },
+        {
+          "inciso": "m",
+          "citas": [
+            {
+              "cita": "Sal. 63:4-5",
+              "Pasaje": "4. Así te bendeciré en mi vida: en tu nombre alzaré mis manos.\n5. Como de meollo y de grosura será saciada mi alma; y con labios de júbilo te alabará mi boca,",
+              "observacionPasaje": "La fuente indica «Psalm 58:4-5»; las ediciones estándar citan Salmo 63:4-5, sobre el alma saciada que alaba con gozo."
+            }
+          ]
+        },
+        {
+          "inciso": "n",
+          "citas": [
+            {
+              "cita": "2 Crón. 30:21",
+              "Pasaje": "21. Así celebraron los hijos de Israel que se hallaron en Jerusalem, la solemnidad de los panes sin levadura por siete días con grande gozo: y alababan á Jehová todos los días los Levitas y los sacerdotes, [cantando] con instrumentos de fortaleza á Jehová."
+            }
+          ]
+        },
+        {
+          "inciso": "o",
+          "citas": [
+            {
+              "cita": "Sal. 22:26",
+              "Pasaje": "26. Comerán los pobres, y serán saciados: alabarán á Jehová los que le buscan: vivirá vuestro corazón para siempre."
+            }
+          ]
+        },
+        {
+          "inciso": "p",
+          "citas": [
+            {
+              "cita": "Jer. 50:5",
+              "Pasaje": "5. Preguntarán por el camino de Sión, hacia donde [volverán] sus rostros, [diciendo]: Venid, y juntaos á Jehová con pacto eterno, que jamás se ponga en olvido."
+            },
+            {
+              "cita": "Sal. 50:5",
+              "Pasaje": "5. Juntadme mis santos; los que hicieron conmigo pacto con sacrificio."
+            }
+          ]
+        },
+        {
+          "inciso": "q",
+          "citas": [
+            {
+              "cita": "Hech. 2:42",
+              "Pasaje": "42. Y perseveraban en la doctrina de los apóstoles, y en la comunión, y en el partimiento del pan, y en las oraciones."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 175,
+      "pregunta": "¿Cuál es el deber de los cristianos después de haber recibido el sacramento de la Cena del Señor?",
+      "respuesta": "El deber de los cristianos, después de haber recibido el sacramento de la Cena del Señor, es considerar seriamente cómo se han comportado en él y con qué fruto; si hallan avivamiento y consuelo, bendecir a Dios por ello, rogar que continúe, velar contra las recaídas, cumplir sus votos y animarse a asistir con frecuencia a esa ordenanza; pero si no hallan beneficio presente, revisar con más exactitud su preparación para el sacramento y su conducta en él; y, si en ambas cosas pueden aprobarse delante de Dios y de su propia conciencia, han de esperar su fruto a su debido tiempo; pero, si ven que han fallado en alguna de ellas, han de humillarse y asistir después a él con más cuidado y diligencia.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Sal. 28:7",
+              "Pasaje": "7. Jehová es mi fortaleza y mi escudo: en él esperó mi corazón, y fuí ayudado; por lo que se gozó mi corazón, y con mi canción le alabaré."
+            },
+            {
+              "cita": "Sal. 85:8",
+              "Pasaje": "8. Escucharé lo que hablará el Dios Jehová: porque hablará paz á su pueblo y á sus santos, para que no se conviertan á la locura."
+            },
+            {
+              "cita": "1 Cor. 11:17,30-31",
+              "Pasaje": "17. Esto empero os denuncio, que no alabo, que no por mejor sino por peor os juntáis.\n30. Por lo cual hay muchos enfermos y debilitados entre vosotros; y muchos duermen.\n31. Que si nos examinásemos á nosotros mismos, cierto no seríamos juzgados.",
+              "observacionPasaje": "La fuente indica «1 Corinthians 11:7, 30-31»; las ediciones estándar citan 1 Corintios 11:17, 30-31, sobre el examen de cómo se ha participado."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "2 Crón. 30:21-23,25-26",
+              "Pasaje": "21. Así celebraron los hijos de Israel que se hallaron en Jerusalem, la solemnidad de los panes sin levadura por siete días con grande gozo: y alababan á Jehová todos los días los Levitas y los sacerdotes, [cantando] con instrumentos de fortaleza á Jehová.\n22. Y habló Ezechîas al corazón de todos los Levitas que tenían buena inteligencia [en el servicio] de Jehová. Y comieron [de lo sacrificado] en la solemnidad por siete días, ofreciendo sacrificios pacíficos, y dando gracias á Jehová el Dios de sus padres.\n23. Y toda aquella multitud determinó que celebrasen otros siete días; y celebraron otros siete días con alegría.\n25. Alegróse pues toda la congregación de Judá, como también los sacerdotes y Levitas, y toda la multitud que había venido de Israel; asimismo los extranjeros que habían venido de la tierra de Israel, y los que habitaban en Judá.\n26. E hiciéronse grandes alegrías en Jerusalem: porque desde los días de Salomón hijo de David rey de Israel, no había habido cosa tal en Jerusalem."
+            },
+            {
+              "cita": "Sal. 36:10",
+              "Pasaje": "10. Extiende tu misericordia á los que te conocen, y tu justicia á los rectos de corazón."
+            },
+            {
+              "cita": "Cant. 3:4",
+              "Pasaje": "4. Pasando de ellos un poco, hallé luego al que mi alma ama: trabé de él, y no lo dejé, hasta que lo metí en casa de mi madre, y en la cámara de la que me engendró."
+            },
+            {
+              "cita": "1 Crón. 29:18",
+              "Pasaje": "18. Jehová, Dios de Abraham, de Isaac, y de Israel, nuestros padres, conserva perpetuamente esta voluntad del corazón de tu pueblo, y encamina su corazón á ti."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "1 Cor. 10:3-5,12",
+              "Pasaje": "3. Y todos comieron la misma vianda espiritual;\n4. Y todos bebieron la misma bebida espiritual; porque bebían de la piedra espiritual que los seguía, y la piedra era Cristo:\n5. Mas de muchos de ellos no se agradó Dios; por lo cual fueron postrados en el desierto.\n12. Así que, el que piensa estar [firme], mire no caiga."
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "Sal. 50:14",
+              "Pasaje": "14. Sacrifica á Dios alabanza, y paga tus votos al Altísimo."
+            }
+          ]
+        },
+        {
+          "inciso": "e",
+          "citas": [
+            {
+              "cita": "1 Cor. 11:25-26",
+              "Pasaje": "25. Asimismo [tomó] también la copa, después de haber cenado, diciendo: Esta copa es el nuevo pacto en mi sangre: haced esto todas las veces que bebiereis, en memoria de mí.\n26. Porque todas las veces que comiereis este pan, y bebiereis esta copa, la muerte del Señor anunciáis hasta que venga."
+            },
+            {
+              "cita": "Hech. 2:42,46",
+              "Pasaje": "42. Y perseveraban en la doctrina de los apóstoles, y en la comunión, y en el partimiento del pan, y en las oraciones.\n46. Y perseverando unánimes cada día en el templo, y partiendo el pan en las casas, comían juntos con alegría y con sencillez de corazón,"
+            }
+          ]
+        },
+        {
+          "inciso": "f",
+          "citas": [
+            {
+              "cita": "Cant. 5:1-6",
+              "Pasaje": "1. YO vine á mi huerto, oh hermana, esposa [mía]: cogido he mi mirra y mis aromas; he comido mi panal y mi miel, mi vino y mi leche he bebido. Comed, amigos; bebed, amados, y embriagaos.\n2. Yo dormía, pero mi corazón velaba: la voz de mi amado que llamaba: Abreme, hermana mía, amiga mía, paloma mía, perfecta mía; porque mi cabeza está llena de rocío, mis cabellos de las gotas de la noche.\n3. Heme desnudado mi ropa; ¿cómo la tengo de vestir? He lavado mis pies; ¿cómo los tengo de ensuciar?\n4. Mi amado metió su mano por el agujero, y mis entrañas se conmovieron dentro de mí.\n5. Yo me levanté para abrir á mi amado, y mis manos gotearon mirra, y mis dedos mirra que corría sobre las aldabas del candado.\n6. Abrí yo á mi amado; mas mi amado se había ido, había ya pasado: y tras su hablar salió mi alma: busquélo, y no lo hallé; llamélo, y no me respondió."
+            },
+            {
+              "cita": "Ecl. 5:1-6",
+              "Pasaje": "1. CUANDO fueres á la casa de Dios, guarda tu pie; y acércate más para oir que para dar el sacrificio de los necios: porque no saben que hacen mal.\n2. No te des priesa con tu boca, ni tu corazón se apresure á proferir palabra delante de Dios; porque Dios está en el cielo, y tú sobre la tierra: por tanto, sean pocas tus palabras.\n3. Porque de la mucha ocupación viene el sueño, y de la multitud de las palabras la voz del necio.\n4. Cuando á Dios hicieres promesa, no tardes en pagarla; porque no se agrada de los insensatos. Paga lo que prometieres.\n5. Mejor es que no prometas, que no que prometas y no pagues.\n6. No sueltes tu boca para hacer pecar á tu carne; ni digas delante del ángel, que fué ignorancia. ¿Por qué [harás que] Dios se aire á causa de tu voz, y que destruya la obra de tus manos?"
+            }
+          ]
+        },
+        {
+          "inciso": "g",
+          "citas": [
+            {
+              "cita": "Sal. 123:1-2",
+              "Pasaje": "1. Cántico gradual. A TI que habitas en los cielos, alcé mis ojos.\n2. He aquí como los ojos de los siervos [miran] á la mano de sus señores, [y] como los ojos de la sierva á la mano de su señora; así nuestros ojos [miran] á Jehová nuestro Dios, hasta que haya misericordia de nosotros."
+            },
+            {
+              "cita": "Sal. 42:5,8",
+              "Pasaje": "5. ¿Por qué te abates, oh alma mía, y te conturbas en mí? Espera á Dios; porque aun le tengo de alabar por las saludes de su presencia.\n8. De día mandará Jehová su misericordia, y de noche su canción será conmigo, y oración al Dios de mi vida."
+            },
+            {
+              "cita": "Sal. 43:3-5",
+              "Pasaje": "3. Envía tu luz y tu verdad: éstas me guiarán, me conducirán al monte de tu santidad, y á tus tabernáculos.\n4. Y entraré al altar de Dios, al Dios alegría de mi gozo; y alabaréte con arpa, oh Dios, Dios mío.\n5. ¿Por qué te abates, oh alma mía, y por qué te conturbas en mí? Espera á Dios; porque aun le tengo de alabar; [es él] salvamento delante de mí, y el Dios mío."
+            }
+          ]
+        },
+        {
+          "inciso": "h",
+          "citas": [
+            {
+              "cita": "2 Crón. 30:18-19",
+              "Pasaje": "18. Porque una gran multitud del pueblo de Ephraim y Manasés, y de Issachâr y Zabulón, no se habían purificado, y comieron la pascua no conforme á lo que está escrito. Mas Ezechîas oró por ellos, diciendo: Jehová, que es bueno, sea propicio á todo aquel que ha apercibido su corazón para buscar á Dios,\n19. A Jehová el Dios de sus padres, aunque no [esté purificado] según la purificación del santuario."
+            },
+            {
+              "cita": "2 Cor. 7:11",
+              "Pasaje": "11. Porque he aquí, esto mismo que según Dios fuisteis contristados, cuánta solicitud ha obrado en vosotros, y aun defensa, y aun enojo, y aun temor, y aun gran deseo, y aun celo, y aun vindicación. En todo os habéis mostrado limpios en el negocio."
+            },
+            {
+              "cita": "1 Crón. 15:12-14",
+              "Pasaje": "12. Y díjoles: Vosotros que sois los principales de padres entre los Levitas, santificaos, vosotros y vuestros hermanos, y pasad el arca de Jehová Dios de Israel al [lugar] que le he preparado;\n13. Pues por no [haberlo hecho así] vosotros la primera vez, Jehová nuestro Dios hizo en nosotros rotura, por cuanto no le buscamos según la ordenanza.\n14. Así los sacerdotes y los Levitas se santificaron para traer el arca de Jehová Dios de Israel."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 176,
+      "pregunta": "¿En qué concuerdan los sacramentos del bautismo y de la Cena del Señor?",
+      "respuesta": "Los sacramentos del bautismo y de la Cena del Señor concuerdan en que el autor de ambos es Dios; la parte espiritual de ambos es Cristo y sus beneficios; ambos son sellos del mismo pacto, han de ser administrados por ministros del evangelio y por ningún otro, y han de continuar en la iglesia de Cristo hasta su segunda venida.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Mat. 28:19",
+              "Pasaje": "19. Por tanto, id, y doctrinad á todos los Gentiles, bautizándolos en el nombre del Padre, y del Hijo, y del Espíritu Santo:"
+            },
+            {
+              "cita": "1 Cor. 11:23",
+              "Pasaje": "23. Porque yo recibí del Señor lo que también os he enseñado: Que el Señor Jesús, la noche que fué entregado, tomó pan;"
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Rom. 6:3-4",
+              "Pasaje": "3. ¿O no sabéis que todos los que somos bautizados en Cristo Jesús, somos bautizados en su muerte?\n4. Porque somos sepultados juntamente con él á muerte por el bautismo; para que como Cristo resucitó de los muertos por la gloria del Padre, así también nosotros andemos en novedad de vida."
+            },
+            {
+              "cita": "1 Cor. 10:16",
+              "Pasaje": "16. La copa de bendición que bendecimos, ¿no es la comunión de la sangre de Cristo? El pan que partimos, ¿no es la comunión del cuerpo de Cristo?"
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Rom. 4:11",
+              "Pasaje": "11. Y recibió la circuncisión por señal, por sello de la justicia de la fe que tuvo en la incircuncisión: para que fuese padre de todos los creyentes no circuncidados, para que también á ellos les sea contado por justicia;"
+            },
+            {
+              "cita": "Col. 2:12",
+              "Pasaje": "12. Sepultados juntamente con él en el bautismo, en el cual también resucitasteis con él, por la fe de la operación de Dios que le levantó de los muertos."
+            },
+            {
+              "cita": "Mat. 26:27-28",
+              "Pasaje": "27. Y tomando el vaso, y hechas gracias, les dió, diciendo: Bebed de él todos;\n28. Porque esto es mi sangre del nuevo pacto, la cual es derramada por muchos para remisión de los pecados."
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "Jn. 1:33",
+              "Pasaje": "33. Y yo no le conocía; mas el que me envió á bautizar con agua, aquél me dijo: Sobre quien vieres descender el Espíritu, y que reposa sobre él, éste es el que bautiza con Espíritu Santo."
+            },
+            {
+              "cita": "Mat. 28:19",
+              "Pasaje": "19. Por tanto, id, y doctrinad á todos los Gentiles, bautizándolos en el nombre del Padre, y del Hijo, y del Espíritu Santo:"
+            },
+            {
+              "cita": "1 Cor. 11:23",
+              "Pasaje": "23. Porque yo recibí del Señor lo que también os he enseñado: Que el Señor Jesús, la noche que fué entregado, tomó pan;"
+            },
+            {
+              "cita": "1 Cor. 4:1",
+              "Pasaje": "1. TÉNGANNOS los hombres por ministros de Cristo, y dispensadores de los misterios de Dios."
+            },
+            {
+              "cita": "Heb. 5:4",
+              "Pasaje": "4. Ni nadie toma para sí la honra, sino el que es llamado de Dios, como Aarón."
+            }
+          ]
+        },
+        {
+          "inciso": "e",
+          "citas": [
+            {
+              "cita": "Mat. 28:19-20",
+              "Pasaje": "19. Por tanto, id, y doctrinad á todos los Gentiles, bautizándolos en el nombre del Padre, y del Hijo, y del Espíritu Santo:\n20. Enseñándoles que guarden todas las cosas que os he mandado: y he aquí, yo estoy con vosotros todos los días, hasta el fin del mundo. Amén."
+            },
+            {
+              "cita": "1 Cor. 11:26",
+              "Pasaje": "26. Porque todas las veces que comiereis este pan, y bebiereis esta copa, la muerte del Señor anunciáis hasta que venga."
             }
           ]
         }
