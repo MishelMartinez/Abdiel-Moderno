@@ -49,6 +49,15 @@ Los ajustes de lectura se guardan en el dispositivo.
 - `npm run mayor` genera `data/catecismo-mayor-westminster.json` con los pasajes de la Reina-Valera 1909 (`fuentes/rv1909/`) y el reporte `docs/catecismo-mayor/reporte-validacion-catecismo-mayor.md`. Falla si una referencia no existe en la RV1909.
 - Fuentes y licencias: `docs/catecismo-mayor/fuentes-y-licencias.md`.
 
+## Catecismo de Heidelberg
+
+- `fuentes/heidelberg/original-de-1563.json`: texto alemán de 1563 (fuente primaria de la traducción).
+- `fuentes/heidelberg/referencias-en.json`: las referencias bíblicas de las 129 preguntas, tomadas de reformededucation.org.
+- `fuentes/heidelberg/traduccion-*.json`: traducción propia por bloques.
+- `fuentes/heidelberg/citas-*.json`: citas cotejadas por inciso (notas al margen de 1563, el libro «La fe que confesamos» y reformededucation.org), con las fuentes de cada cita y, si hace falta, una `nota`.
+- `npm run heidelberg` genera `data/catecismo-heidelberg.json` y el reporte `docs/heidelberg/reporte-validacion-heidelberg.md`.
+- Fuentes y licencias: `docs/heidelberg/fuentes-y-licencias.md`.
+
 ## Cómo agregar catecismos y confesiones
 
 1. Coloca el JSON en `data/` (por ejemplo `data/heidelberg.json`). Puede ser un arreglo de preguntas o un objeto `{ "titulo", "preguntas": [...] }`. Cada pregunta lleva `numero`, `pregunta`, `respuesta` y `referenciasBiblicas: [{ "inciso", "citas": [{ "cita", "Pasaje" }] }]`. Son opcionales: `pagina`/`paginas`, `numeroNotaBiblica`, `completa`, `observacion(es)`, y en cada cita `estadoPasaje`, `observacionPasaje`, `referenciaComparativa` y `pasajeComparativo`. En el documento: `presentacion` (textos introductorios, `[{ "titulo", "parrafos": [...], "firma" }]`, todos opcionales salvo `parrafos`), `paginas`, `totalPreguntas`, `preguntasCompletas`, `versionBiblica`, `observaciones` y `observacionesExtraccion`.

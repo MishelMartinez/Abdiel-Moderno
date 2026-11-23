@@ -259,6 +259,22 @@ test('Catecismo Mayor: se elige, muestra sus 196 preguntas y pasajes RV1909, tam
   }
 });
 
+test('Catecismo de Heidelberg: se elige y muestra sus pasajes RV1909, también sin servidor', async ({ page }) => {
+  const hc = leer('data/catecismo-heidelberg.json');
+  for (const url of ['/', pathToFileURL(new URL('../index.html', import.meta.url).pathname).href]) {
+    await page.goto(url);
+    await page.locator('#catalogo').getByRole('button', { name: /Catecismo de Heidelberg/ }).click();
+    await expect(page.locator('#tituloEstudio')).toHaveText('Catecismo de Heidelberg');
+    await expect(page.locator('#totalPreguntas')).toHaveText(`${hc.preguntas.length} preguntas`);
+    await expect(page.locator('#pregunta-1 .pregunta')).toHaveText(hc.preguntas[0].pregunta);
+    await abrirRefs(page, 1);
+    await page.locator('#pregunta-1').getByRole('button', { name: 'Ver pasaje bíblico 1 Cor. 6:19-20' }).click();
+    await expect(page.locator('#textoPasaje')).toHaveText(hc.preguntas[0].referenciasBiblicas[0].citas[0].Pasaje);
+    await expect(page.locator('#versionPasaje')).toHaveText('Versión: Reina-Valera 1909');
+    await page.keyboard.press('Escape');
+  }
+});
+
 test('un catecismo o confesión nuevo en catalogo.json aparece y se recuerda', async ({ page }) => {
   const catalogo = leer('data/catalogo.json');
   catalogo.catecismos.push({ id: 'prueba', titulo: 'Confesión de prueba', subtitulo: 'Documento de ejemplo', tipo: 'Confesión', archivo: 'data/prueba.json', activo: true });

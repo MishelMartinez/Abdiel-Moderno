@@ -1,0 +1,63 @@
+{
+  "metodo": "Incisos y capítulos de las notas al margen de 1563; versículos exactos tomados del libro «La fe que confesamos» (L) y de reformededucation.org (RE); se añaden las citas del libro, cada una en su inciso. Fuentes de cada cita: 1563, L, RE.",
+  "1": [
+    [{ "ref": "1 Corinthians 6:19-20", "fuentes": "1563, L, RE" }],
+    [{ "ref": "Romans 14:7-9", "fuentes": "1563, L, RE" }],
+    [{ "ref": "1 Corinthians 3:23", "fuentes": "1563, L, RE" }, { "ref": "Titus 2:14", "fuentes": "L, RE" }],
+    [{ "ref": "1 John 1:7", "fuentes": "1563, RE" }, { "ref": "1 Peter 1:18-19", "fuentes": "L, RE" }, { "ref": "1 John 2:2, 12", "fuentes": "L, RE" }],
+    [{ "ref": "1 John 3:8", "fuentes": "1563, L, RE" }, { "ref": "Hebrews 2:14-15", "fuentes": "L, RE" }, { "ref": "John 8:34-36", "fuentes": "L, RE" }],
+    [{ "ref": "1 Peter 1:5", "fuentes": "1563, L, RE" }, { "ref": "John 6:39-40", "fuentes": "1563, L, RE" }, { "ref": "John 10:27-30", "fuentes": "L, RE" }, { "ref": "2 Thessalonians 3:3", "fuentes": "L, RE" }],
+    [{ "ref": "Matthew 10:29-31", "fuentes": "1563, L, RE" }, { "ref": "Luke 21:16-18", "fuentes": "1563, L, RE" }],
+    [{ "ref": "Romans 8:28", "fuentes": "1563, L, RE" }],
+    [{ "ref": "2 Corinthians 1:21-22", "fuentes": "1563, L, RE" }, { "ref": "Ephesians 1:13-14", "fuentes": "1563, L, RE" }, { "ref": "Romans 8:15-16", "fuentes": "1563, L, RE" }, { "ref": "2 Corinthians 5:5", "fuentes": "L, RE" }],
+    [{ "ref": "Romans 8:14", "fuentes": "1563, L, RE" }, { "ref": "1 John 3:3", "fuentes": "L" }]
+  ],
+  "2": [
+    [{ "ref": "Luke 24:46-47", "fuentes": "1563", "nota": "La edición de 1563 indica solo «Luc. 24»; los versículos (anuncio del arrepentimiento y del perdón de pecados) los eligió el editor y deben revisarse." },
+     { "ref": "1 Corinthians 6:9-11", "fuentes": "1563", "nota": "La edición de 1563 indica solo «1 Cor. 6»; los versículos (lo que éramos, cómo fuimos lavados y cómo debemos vivir) los eligió el editor y deben revisarse." },
+     { "ref": "Titus 3:3-8", "fuentes": "1563", "nota": "La edición de 1563 indica solo «Tit. 3»; los versículos (miseria, salvación y buenas obras) los eligió el editor y deben revisarse." },
+     { "ref": "Matthew 11:28-30", "fuentes": "L" }, { "ref": "Ephesians 5:8", "fuentes": "L" }],
+    [{ "ref": "John 9:41", "fuentes": "1563, L" },
+     { "ref": "John 15:22", "fuentes": "1563", "nota": "La edición de 1563 indica solo «Juan 15»; el versículo lo eligió el editor y debe revisarse." },
+     { "ref": "Matthew 9:12", "fuentes": "L" }, { "ref": "Romans 3:10", "fuentes": "L, RE" },
+     { "ref": "1 John 1:9-10", "fuentes": "L, RE", "nota": "El libro dice «Jn. 1:9-10»; por el contenido y por reformededucation.org (1 Jn. 1:10) es 1 Juan." }],
+    [{ "ref": "John 17:3", "fuentes": "1563, L, RE" }, { "ref": "Acts 10:43", "fuentes": "L, RE" }, { "ref": "Acts 4:12", "fuentes": "L, RE" }],
+    [{ "ref": "Ephesians 5:8-10", "fuentes": "1563, L, RE" }, { "ref": "Psalm 50:14", "fuentes": "L" }, { "ref": "Matthew 5:16", "fuentes": "L, RE" }, { "ref": "1 Peter 2:12", "fuentes": "L" }, { "ref": "Romans 6:13", "fuentes": "L, RE" }, { "ref": "2 Timothy 2:15", "fuentes": "L" }]
+  ],
+  "3": [
+    [{ "ref": "Romans 3:20", "fuentes": "1563, L, RE" }]
+  ],
+  "4": [
+    [{ "ref": "Deuteronomy 6:5", "fuentes": "L, RE" }, { "ref": "Leviticus 19:18", "fuentes": "L, RE" }, { "ref": "Mark 12:30", "fuentes": "L" }, { "ref": "Luke 10:27", "fuentes": "L" }]
+  ],
+  "5": [
+    [{ "ref": "Romans 3:10, 20, 23", "fuentes": "1563, L, RE" }, { "ref": "1 John 1:8, 10", "fuentes": "1563, L, RE" }],
+    [{ "ref": "Romans 8:7", "fuentes": "1563, L, RE" }, { "ref": "Ephesians 2:3", "fuentes": "1563, L, RE" }, { "ref": "Titus 3:3", "fuentes": "L, RE" }, { "ref": "Genesis 6:5", "fuentes": "L, RE" }, { "ref": "Genesis 8:21", "fuentes": "L, RE" }, { "ref": "Jeremiah 17:9", "fuentes": "L, RE" }, { "ref": "Romans 7:23", "fuentes": "L, RE" }]
+  ],
+  "6": [
+    [{ "ref": "Genesis 1:31", "fuentes": "1563, L, RE" }],
+    [{ "ref": "Genesis 1:26-27", "fuentes": "1563, L, RE" }],
+    [{ "ref": "Ephesians 4:24", "fuentes": "1563, L, RE" }, { "ref": "Colossians 3:10", "fuentes": "1563, L, RE" }, { "ref": "2 Corinthians 3:18", "fuentes": "1563, L" }]
+  ],
+  "7": [
+    [{ "ref": "Genesis 3", "fuentes": "1563, L, RE" }, { "ref": "Romans 5:12, 18, 19", "fuentes": "1563, L, RE" }],
+    [{ "ref": "Psalm 51:5", "fuentes": "1563, L, RE" }, { "ref": "Genesis 5:3", "fuentes": "L" }]
+  ],
+  "8": [
+    [{ "ref": "Genesis 8:21", "fuentes": "L, RE" }, { "ref": "Genesis 6:5", "fuentes": "L, RE" }, { "ref": "Job 14:4", "fuentes": "1563, L, RE" }, { "ref": "Job 15:14", "fuentes": "1563, L" },
+     { "ref": "Job 15:35", "fuentes": "1563, L", "nota": "El libro dice «Job 16:35», que no existe (Job 16 tiene 22 versículos); la edición de 1563 cita Job 15. Se usa Job 15:35." },
+     { "ref": "John 3:6", "fuentes": "1563, L" },
+     { "ref": "Isaiah 53:6", "fuentes": "1563, L, RE", "nota": "El margen de 1563 dice «Habac. 53», errata de imprenta: Habacuc tiene 3 capítulos; es Isaías 53." }],
+    [{ "ref": "John 3:3-5", "fuentes": "1563, L, RE" }, { "ref": "1 Corinthians 12:3", "fuentes": "L" }, { "ref": "2 Corinthians 3:5", "fuentes": "L" }]
+  ],
+  "9": [
+    [{ "ref": "Ephesians 4:24", "fuentes": "1563, L" }],
+    [{ "ref": "Genesis 3:13", "fuentes": "L, RE" }, { "ref": "1 Timothy 2:13-14", "fuentes": "L, RE" }],
+    [{ "ref": "Genesis 3:6", "fuentes": "L, RE" }, { "ref": "Romans 5:12", "fuentes": "L, RE" }]
+  ],
+  "10": [
+    [{ "ref": "Romans 5:12", "fuentes": "1563, L, RE" }, { "ref": "Hebrews 9:27", "fuentes": "1563, RE" }, { "ref": "Genesis 2:17", "fuentes": "L" }],
+    [{ "ref": "Psalm 50:21", "fuentes": "L" }, { "ref": "Psalm 5:5", "fuentes": "L, RE" }, { "ref": "Nahum 1:2", "fuentes": "L, RE" }, { "ref": "Exodus 34:7", "fuentes": "L, RE" }, { "ref": "Romans 1:18", "fuentes": "L, RE" }, { "ref": "Ephesians 5:6", "fuentes": "L, RE" }],
+    [{ "ref": "Deuteronomy 27:26", "fuentes": "1563, L, RE" }, { "ref": "Galatians 3:10", "fuentes": "1563, L" }]
+  ]
+}

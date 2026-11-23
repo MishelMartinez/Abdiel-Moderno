@@ -16,6 +16,14 @@
       "tipo": "Catecismo",
       "archivo": "data/catecismo-mayor-westminster.json",
       "activo": true
+    },
+    {
+      "id": "heidelberg",
+      "titulo": "Catecismo de Heidelberg",
+      "subtitulo": "129 preguntas y respuestas con pasajes de la Reina-Valera 1909",
+      "tipo": "Catecismo",
+      "archivo": "data/catecismo-heidelberg.json",
+      "activo": true
     }
   ]
 }
