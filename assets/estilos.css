@@ -225,6 +225,7 @@ details[open] > summary .flecha svg { transform: rotate(180deg); }
 .ventana-acciones { display: flex; flex-wrap: wrap; gap: 10px; justify-content: flex-end; }
 .ventana-acciones .boton { flex: 1 1 160px; }
 .ventana-interior > .boton.ancho[data-cerrar] { position: sticky; bottom: 12px; z-index: 1; box-shadow: 0 -10px 18px 6px var(--superficie); }
+.ventana:has(.ventana-interior > .boton.ancho[data-cerrar]) { scroll-padding-bottom: calc(3.6em + 24px); }
 .nota-pequena { margin: 0; font-size: .75em; color: var(--suave); }
 .opciones { border: 0; padding: 0; margin: 0; display: grid; gap: 10px; }
 .opciones legend { font-weight: 800; margin-bottom: 8px; padding: 0; }
