@@ -42,6 +42,12 @@ Los ajustes de lectura se guardan en el dispositivo.
 - **En internet (GitHub Pages):** Settings > Pages > Deploy from a branch > `main` > `/ (root)`.
 - **Servidor local:** `npm start` y abre http://localhost:8080.
 
+## Catecismo Mayor de Westminster (en construcción)
+
+- `fuentes/catecismo-mayor/preguntas.json`: texto original en inglés, traducción propia y referencias por inciso. Opcionales por pregunta: `correcciones` y `equivalencias` (numeración española de versículos).
+- `npm run mayor` genera `data/catecismo-mayor-westminster.json` con los pasajes de la Reina-Valera 1909 (`fuentes/rv1909/`) y el reporte `docs/catecismo-mayor/reporte-validacion-catecismo-mayor.md`. Falla si una referencia no existe en la RV1909.
+- Fuentes y licencias: `docs/catecismo-mayor/fuentes-y-licencias.md`.
+
 ## Cómo agregar catecismos y confesiones
 
 1. Coloca el JSON en `data/` (por ejemplo `data/heidelberg.json`). Puede ser un arreglo de preguntas o un objeto `{ "titulo", "preguntas": [...] }`. Cada pregunta lleva `numero`, `pregunta`, `respuesta` y `referenciasBiblicas: [{ "inciso", "citas": [{ "cita", "Pasaje" }] }]`. Son opcionales: `pagina`/`paginas`, `numeroNotaBiblica`, `completa`, `observacion(es)`, y en cada cita `estadoPasaje`, `observacionPasaje`, `referenciaComparativa` y `pasajeComparativo`. En el documento: `presentacion` (textos introductorios, `[{ "titulo", "parrafos": [...], "firma" }]`, todos opcionales salvo `parrafos`), `paginas`, `totalPreguntas`, `preguntasCompletas`, `versionBiblica`, `observaciones` y `observacionesExtraccion`.

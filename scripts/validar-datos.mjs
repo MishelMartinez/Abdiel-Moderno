@@ -27,7 +27,8 @@ for (const c of catalogo.catecismos) {
     for (const s of datos.presentacion) assert.ok([s.parrafos].flat().some((p) => p?.trim()), `${c.archivo}: sección de presentación sin párrafos`);
   }
   assert.ok(Array.isArray(preguntas) && preguntas.length, `${c.archivo}: sin preguntas`);
-  if (datos.totalPreguntas != null) assert.equal(preguntas.length, datos.totalPreguntas, `${c.archivo}: totalPreguntas no coincide`);
+  if (datos.totalPreguntas != null) assert.ok(preguntas.length <= datos.totalPreguntas, `${c.archivo}: hay más preguntas que totalPreguntas`);
+  if (datos.preguntasCompletas == null || datos.preguntasCompletas === datos.totalPreguntas) assert.equal(preguntas.length, datos.totalPreguntas ?? preguntas.length, `${c.archivo}: totalPreguntas no coincide`);
   const numeros = preguntas.map((q) => q.numero);
   assert.equal(new Set(numeros).size, numeros.length, `${c.archivo}: números de pregunta repetidos`);
   let citas = 0;
