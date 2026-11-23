@@ -1,6 +1,8 @@
 // Genera data/catecismo-heidelberg.json a partir de fuentes/heidelberg/original-de-1563.json (texto alemán de 1563),
-// fuentes/heidelberg/traduccion-*.json (traducción propia e incisos), fuentes/heidelberg/referencias-en.json
-// (referencias bíblicas de reformededucation.org) y la Reina-Valera 1909. También escribe el reporte de validación.
+// fuentes/heidelberg/traduccion-*.json (traducción propia), fuentes/heidelberg/citas-*.json (citas cotejadas con las
+// notas al margen de 1563, el libro «La fe que confesamos» y reformededucation.org), fuentes/heidelberg/referencias-en.json
+// (referencias de reformededucation.org, para las preguntas aún sin cotejar) y la Reina-Valera 1909.
+// También escribe el reporte de validación.
 // Ejecutar: npm run heidelberg
 import { readdir, writeFile } from 'node:fs/promises';
 import { citaRV1909, leer, raiz } from './rv1909.mjs';
@@ -24,30 +26,61 @@ function normalizar(ref) {
 const LETRAS = 'abcdefghiklmnopqrstuvwxyz'.split('');
 const { preguntas: fuente } = JSON.parse(await leer('fuentes/heidelberg/referencias-en.json'));
 const aleman = JSON.parse(await leer('fuentes/heidelberg/original-de-1563.json'));
-const traduccion = {};
-for (const f of (await readdir(new URL('fuentes/heidelberg/', raiz))).filter((x) => /^traduccion-.*\.json$/.test(x)).sort()) {
-  Object.assign(traduccion, JSON.parse(await leer(`fuentes/heidelberg/${f}`)));
+const archivos = (await readdir(new URL('fuentes/heidelberg/', raiz))).sort();
+const traduccion = {}, cotejadas = {};
+for (const f of archivos.filter((x) => /^traduccion-.*\.json$/.test(x))) Object.assign(traduccion, JSON.parse(await leer(`fuentes/heidelberg/${f}`)));
+for (const f of archivos.filter((x) => /^citas-.*\.json$/.test(x))) {
+  const { metodo, ...resto } = JSON.parse(await leer(`fuentes/heidelberg/${f}`));
+  Object.assign(cotejadas, resto);
+}
+// Conjunto de versículos de una referencia («Romans 3:10, 20-23» → Romans 3:10, 3:20…); un capítulo completo es «Libro N:*».
+function versos(ref) {
+  const m = /^(.+?) (\d+)(?::(.+))?$/.exec(ref);
+  if (!m[3]) return new Set([`${m[1]} ${m[2]}:*`]);
+  const out = new Set();
+  for (const parte of m[3].split(',')) {
+    const [a, b = a] = parte.trim().split('-').map(Number);
+    for (let v = a; v <= b; v++) out.add(`${m[1]} ${m[2]}:${v}`);
+  }
+  return out;
 }
 const TOTAL = 129;
 if (fuente.length !== TOTAL) throw new Error(`La fuente de referencias tiene ${fuente.length} preguntas y se esperaban ${TOTAL}`);
-const incidencias = [];
+const incidencias = [], origen = [], omitidasRE = [];
 let totalCitas = 0, totalVersiculos = 0, totalIncisos = 0;
 const preguntas = [];
 for (const o of fuente) {
   const t = traduccion[o.numero];
   if (!t) break;
   if (!aleman[o.numero]) throw new Error(`Pregunta ${o.numero}: falta el texto alemán de 1563`);
-  const tam = t.incisos || [];
-  if (tam.reduce((s, n) => s + n, 0) !== o.pruebas.length) throw new Error(`Pregunta ${o.numero}: los incisos suman ${tam.reduce((s, n) => s + n, 0)} y la fuente tiene ${o.pruebas.length} referencias`);
-  let i = 0;
-  const grupos = tam.map((n, g) => ({ inciso: LETRAS[g % LETRAS.length], citas: o.pruebas.slice(i, (i += n)).map((refOriginal) => {
-    const [ref, nota] = t.correcciones?.[refOriginal] || [normalizar(refOriginal), null];
+  const resolver = (ref, nota) => {
     let r;
     try { r = citaRV1909(ref, nota); } catch (e) { throw new Error(`Pregunta ${o.numero}: ${e.message}`); }
     totalCitas++; totalVersiculos += r.versiculos;
     if (r.incidencia) incidencias.push(`Pregunta ${o.numero}, ${r.incidencia}`);
     return r.cita;
-  }) }));
+  };
+  let grupos;
+  if (cotejadas[o.numero]) {
+    grupos = cotejadas[o.numero].map((citas, g) => ({ inciso: LETRAS[g % LETRAS.length], citas: citas.map((c) => {
+      const cita = resolver(c.ref, c.nota || null);
+      origen.push(`| ${o.numero} | ${LETRAS[g % LETRAS.length]} | ${cita.cita} | ${c.fuentes} |`);
+      return cita;
+    }) }));
+    const incluidos = new Set(cotejadas[o.numero].flat().flatMap((c) => [...versos(c.ref)]));
+    for (const p of o.pruebas) {
+      const faltan = [...versos(normalizar(p))].filter((v) => !incluidos.has(v) && !incluidos.has(v.replace(/:\d+$/, ':*')));
+      if (faltan.length) omitidasRE.push(`Pregunta ${o.numero}: ${p}${faltan.length < versos(normalizar(p)).size ? ` (${faltan.length > 1 ? "versículos" : "versículo"} ${faltan.map((v) => v.split(':')[1]).join(', ')})` : ''}`);
+    }
+  } else {
+    const tam = t.incisos || [];
+    if (tam.reduce((s, n) => s + n, 0) !== o.pruebas.length) throw new Error(`Pregunta ${o.numero}: los incisos suman ${tam.reduce((s, n) => s + n, 0)} y la fuente tiene ${o.pruebas.length} referencias`);
+    let i = 0;
+    grupos = tam.map((n, g) => ({ inciso: LETRAS[g % LETRAS.length], citas: o.pruebas.slice(i, (i += n)).map((refOriginal) => {
+      const [ref, nota] = t.correcciones?.[refOriginal] || [normalizar(refOriginal), null];
+      return resolver(ref, nota);
+    }) }));
+  }
   totalIncisos += grupos.length;
   if (!o.pruebas.length) incidencias.push(`Pregunta ${o.numero}: la fuente no trae referencias bíblicas para esta pregunta.`);
   preguntas.push({ numero: o.numero, pregunta: t.pregunta, respuesta: t.respuesta, referenciasBiblicas: grupos });
@@ -63,7 +96,7 @@ const documento = {
   observaciones: [
     incluidas < TOTAL ? `Versión en revisión: incluye las preguntas 1 a ${incluidas} de ${TOTAL}.` : `Incluye las ${TOTAL} preguntas.`,
     'Traducción propia al español a partir del texto original alemán de 1563 (dominio público).',
-    'Las referencias bíblicas provienen de reformededucation.org, que las presenta sin letras: los incisos (a, b, c…) agrupan las referencias según las cláusulas de cada respuesta y deben cotejarse con una edición impresa.'
+    'Citas bíblicas cotejadas en tres fuentes: las notas al margen de la edición de 1563 (que dan las letras de los incisos y los capítulos), el libro «La fe que confesamos» y reformededucation.org (que dan los versículos exactos). Se añaden también las citas del libro, cada una en su inciso.'
   ],
   observacionesExtraccion: [
     'Pasajes tomados de la Reina-Valera 1909 de eBible.org (dominio público), conservando su ortografía histórica.',
@@ -86,17 +119,28 @@ Generado por \`npm run heidelberg\` (scripts/heidelberg.mjs).
 | Incisos | ${totalIncisos} |
 | Referencias bíblicas | ${totalCitas} |
 | Versículos con texto (RV1909) | ${totalVersiculos} |
-| Referencias de la fuente sin cita en el JSON | ${fuente.slice(0, incluidas).reduce((s, o) => s + o.pruebas.length, 0) - totalCitas} |
 | Pasajes vacíos o no encontrados | 0 |
 | Versión bíblica | Reina-Valera 1909 (eBible.org, spaRV1909) |
 
 ## Incidencias
 
 ${incidencias.length ? incidencias.map((i) => `- ${i}`).join('\n') : '- Ninguna.'}
-- La traducción se hizo desde el alemán de 1563; las referencias bíblicas son las de reformededucation.org (no las notas marginales de 1563, que son menos y solo indican capítulos).
-- La fuente de referencias las presenta sin letras de inciso. Los incisos agrupan las referencias según las cláusulas de cada respuesta; deben cotejarse con una edición impresa.
-- Los capítulos completos citados por la fuente (por ejemplo Sal. 8 y Gén. 3) se muestran completos de la RV1909, con la nota «Capítulo completo.».
-- La traducción al español es propia y requiere revisión y aprobación.
+- La traducción se hizo desde el alemán de 1563 y es propia; requiere revisión y aprobación.
+- Método de las citas: incisos y capítulos según las notas al margen de 1563; versículos exactos según el libro «La fe que confesamos» (L) y reformededucation.org (RE); se añaden las citas de L, cada una en su inciso. Las letras de 1563 vuelven a empezar en cada página del original; aquí se numeran seguidas en cada pregunta.
+- En la pregunta 1, el margen de 1563 pone 1 Jn. 3 en el inciso de «me guarda»; se ubicó junto a «me libró de todo el poder del diablo», como en L, porque 1 Jn. 3:8 trata de las obras del diablo.
+- Los capítulos completos (por ejemplo Gén. 3) se muestran completos de la RV1909, con la nota «Capítulo completo.».
+
+## Citas de reformededucation.org que no se incluyeron
+
+Ni la edición de 1563 ni el libro traen estos versículos:
+
+${omitidasRE.length ? omitidasRE.map((x) => `- ${x}`).join('\n') : '- Ninguna.'}
+
+## Origen de cada cita
+
+| Pregunta | Inciso | Cita | Fuentes |
+| --- | --- | --- | --- |
+${origen.join('\n')}
 `;
 await writeFile(new URL('docs/heidelberg/reporte-validacion-heidelberg.md', raiz), reporte);
 console.log(`Catecismo de Heidelberg: ${incluidas} preguntas, ${totalCitas} referencias, ${totalVersiculos} versículos.`);

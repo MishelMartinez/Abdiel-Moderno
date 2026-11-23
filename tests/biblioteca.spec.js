@@ -268,7 +268,7 @@ test('Catecismo de Heidelberg: se elige y muestra sus pasajes RV1909, también s
     await expect(page.locator('#totalPreguntas')).toHaveText(`${hc.preguntas.length} preguntas`);
     await expect(page.locator('#pregunta-1 .pregunta')).toHaveText(hc.preguntas[0].pregunta);
     await abrirRefs(page, 1);
-    await page.locator('#pregunta-1').getByRole('button', { name: 'Ver pasaje bíblico 1 Cor. 6:19,20' }).click();
+    await page.locator('#pregunta-1').getByRole('button', { name: 'Ver pasaje bíblico 1 Cor. 6:19-20' }).click();
     await expect(page.locator('#textoPasaje')).toHaveText(hc.preguntas[0].referenciasBiblicas[0].citas[0].Pasaje);
     await expect(page.locator('#versionPasaje')).toHaveText('Versión: Reina-Valera 1909');
     await page.keyboard.press('Escape');

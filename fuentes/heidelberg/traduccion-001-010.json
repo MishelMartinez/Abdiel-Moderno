@@ -1,100 +1,42 @@
 {
  "1": {
   "pregunta": "¿Cuál es tu único consuelo en la vida y en la muerte?",
-  "respuesta": "Que yo, con cuerpo y alma, tanto en la vida como en la muerte, no me pertenezco a mí mismo, sino a mi fiel Salvador Jesucristo, que con su preciosa sangre pagó por completo todos mis pecados y me libró de todo el poder del diablo; y me guarda de tal manera que sin la voluntad de mi Padre que está en los cielos no puede caer ni un cabello de mi cabeza; más aún, todas las cosas deben servir para mi salvación. Por eso también, por su Espíritu Santo, me asegura la vida eterna y me hace dispuesto y pronto de corazón para vivir en adelante para él.",
-  "incisos": [
-   2,
-   2,
-   3,
-   3,
-   4,
-   2,
-   1,
-   4,
-   1
-  ]
+  "respuesta": "Que yo, con cuerpo y alma, tanto en la vida como en la muerte, no me pertenezco a mí mismo, sino a mi fiel Salvador Jesucristo, que con su preciosa sangre pagó por completo todos mis pecados y me libró de todo el poder del diablo; y me guarda de tal manera que sin la voluntad de mi Padre que está en los cielos no puede caer ni un cabello de mi cabeza; más aún, todas las cosas deben servir para mi salvación. Por eso también, por su Espíritu Santo, me asegura la vida eterna y me hace dispuesto y pronto de corazón para vivir en adelante para él."
  },
  "2": {
   "pregunta": "¿Cuántas cosas necesitas saber para que puedas vivir y morir dichosamente en este consuelo?",
-  "respuesta": "Tres cosas. Primera: cuán grandes son mi pecado y mi miseria. Segunda: cómo soy librado de todos mis pecados y de mi miseria. Y tercera: cómo debo ser agradecido a Dios por tal redención.",
-  "incisos": [
-   2,
-   3,
-   4
-  ]
+  "respuesta": "Tres cosas. Primera: cuán grandes son mi pecado y mi miseria. Segunda: cómo soy librado de todos mis pecados y de mi miseria. Y tercera: cómo debo ser agradecido a Dios por tal redención."
  },
  "3": {
   "pregunta": "¿De dónde conoces tu miseria?",
-  "respuesta": "De la ley de Dios.",
-  "incisos": [
-   1
-  ]
+  "respuesta": "De la ley de Dios."
  },
  "4": {
   "pregunta": "¿Qué exige, pues, de nosotros la ley de Dios?",
-  "respuesta": "Esto nos lo enseña Cristo en resumen, en Mateo 22: Amarás al Señor tu Dios con todo tu corazón, con toda tu alma, con toda tu mente y con todas tus fuerzas. Este es el principal y el más grande mandamiento. Y el segundo es semejante a este: Amarás a tu prójimo como a ti mismo. De estos dos mandamientos dependen toda la ley y los profetas.",
-  "incisos": [
-   1,
-   1
-  ]
+  "respuesta": "Esto nos lo enseña Cristo en resumen, en Mateo 22: Amarás al Señor tu Dios con todo tu corazón, con toda tu alma, con toda tu mente y con todas tus fuerzas. Este es el principal y el más grande mandamiento. Y el segundo es semejante a este: Amarás a tu prójimo como a ti mismo. De estos dos mandamientos dependen toda la ley y los profetas."
  },
  "5": {
   "pregunta": "¿Puedes cumplir todo esto perfectamente?",
-  "respuesta": "No, porque por naturaleza estoy inclinado a aborrecer a Dios y a mi prójimo.",
-  "incisos": [
-   2,
-   7
-  ]
+  "respuesta": "No, porque por naturaleza estoy inclinado a aborrecer a Dios y a mi prójimo."
  },
  "6": {
   "pregunta": "¿Creó, pues, Dios al hombre tan malo y perverso?",
-  "respuesta": "No; sino que Dios creó al hombre bueno y a su imagen, es decir, en verdadera justicia y santidad, para que conociera rectamente a Dios, su Creador, lo amara de corazón y viviera con él en eterna bienaventuranza, para alabarlo y glorificarlo.",
-  "incisos": [
-   1,
-   1,
-   2,
-   1
-  ]
+  "respuesta": "No; sino que Dios creó al hombre bueno y a su imagen, es decir, en verdadera justicia y santidad, para que conociera rectamente a Dios, su Creador, lo amara de corazón y viviera con él en eterna bienaventuranza, para alabarlo y glorificarlo."
  },
  "7": {
   "pregunta": "¿De dónde procede, entonces, esta naturaleza corrompida del hombre?",
-  "respuesta": "De la caída y desobediencia de nuestros primeros padres, Adán y Eva, en el paraíso, donde nuestra naturaleza quedó tan envenenada que todos somos concebidos y nacidos en pecado.",
-  "incisos": [
-   1,
-   1,
-   1
-  ]
+  "respuesta": "De la caída y desobediencia de nuestros primeros padres, Adán y Eva, en el paraíso, donde nuestra naturaleza quedó tan envenenada que todos somos concebidos y nacidos en pecado."
  },
  "8": {
   "pregunta": "Pero ¿estamos tan corrompidos que somos del todo incapaces de hacer bien alguno, e inclinados a todo mal?",
-  "respuesta": "Sí, a menos que seamos regenerados por el Espíritu de Dios.",
-  "incisos": [
-   4,
-   1
-  ]
+  "respuesta": "Sí, a menos que seamos regenerados por el Espíritu de Dios."
  },
  "9": {
   "pregunta": "¿No hace Dios, pues, injusticia al hombre al exigirle en su ley lo que no puede cumplir?",
-  "respuesta": "No, porque Dios creó al hombre de tal manera que podía cumplirla; pero el hombre, por instigación del diablo y por su desobediencia voluntaria, se privó a sí mismo y a toda su descendencia de esos dones.",
-  "incisos": [
-   1,
-   3,
-   2
-  ]
+  "respuesta": "No, porque Dios creó al hombre de tal manera que podía cumplirla; pero el hombre, por instigación del diablo y por su desobediencia voluntaria, se privó a sí mismo y a toda su descendencia de esos dones."
  },
  "10": {
   "pregunta": "¿Dejará Dios sin castigo tal desobediencia y apostasía?",
-  "respuesta": "De ninguna manera; antes bien, se aíra terriblemente tanto por el pecado de origen como por los pecados actuales, y quiere castigarlos con justo juicio, temporal y eternamente, como él ha dicho: Maldito sea todo aquel que no permanece en todo lo que está escrito en el libro de la ley, para cumplirlo.",
-  "incisos": [
-   7,
-   1,
-   1
-  ],
-  "correcciones": {
-   "Ps 7:10": [
-    "Psalm 7:10",
-    "Referencia conservada como la trae la fuente. El versículo 11 del mismo salmo («Dios está airado todos los días») trata directamente de la ira de Dios; debe cotejarse con una edición impresa."
-   ]
-  }
+  "respuesta": "De ninguna manera; antes bien, se aíra terriblemente tanto por el pecado de origen como por los pecados actuales, y quiere castigarlos con justo juicio, temporal y eternamente, como él ha dicho: Maldito sea todo aquel que no permanece en todo lo que está escrito en el libro de la ley, para cumplirlo."
  }
 }
