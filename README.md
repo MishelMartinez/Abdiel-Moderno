@@ -37,6 +37,7 @@ Los ajustes de lectura se guardan en el dispositivo.
 
 ## Cómo abrirlo
 
+- **En línea:** https://mishelmartinez.github.io/Abdiel-Moderno/
 - **En tu computadora:** abre `index.html` con doble clic.
 - **En internet (GitHub Pages):** Settings > Pages > Deploy from a branch > `main` > `/ (root)`.
 - **Servidor local:** `npm start` y abre http://localhost:8080.
