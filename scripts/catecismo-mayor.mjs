@@ -34,9 +34,9 @@ for (const linea of (await leer('fuentes/rv1909/spaRV1909_vpl.txt')).split('\n')
 // Versículos que la Reina-Valera 1909 numera distinto que la versión inglesa.
 const VERSIFICACION = { '2CO 13:14': '2CO 13:13' };
 // Capítulos que la RV1909 numera desde el versículo final del capítulo anterior (versículo inglés N = N + desplazamiento).
-const DESPLAZADOS = { '1SA 24': 1, 'JON 2': 1 };
+const DESPLAZADOS = { '1SA 24': 1, 'JON 2': 1, 'HOS 12': 1 };
 // Capítulos con numeración distinta aún sin verificar: si una referencia cae en ellos, se detiene la generación.
-const POR_VERIFICAR = new Set(['NUM 13', 'NUM 30', 'HOS 12', 'JOB 39', 'JOB 40', 'JOB 41']);
+const POR_VERIFICAR = new Set(['NUM 13', 'NUM 30', 'JOB 39', 'JOB 40', 'JOB 41']);
 
 // Devuelve [{cap, v}] para «36», «24-28», «6-7, 13», «1 (entire)», «chapters 8, 9, 10 (entire)», «3:1-4:2».
 function versiculos(codigo, espec) {
@@ -144,7 +144,7 @@ const documento = {
       ? `Versión en revisión: incluye las preguntas 1 a ${incluidas} de ${fuente.totalPreguntas}.`
       : `Incluye las ${fuente.totalPreguntas} preguntas.`,
     'Traducción propia al español a partir del texto histórico en inglés (dominio público).',
-    'Las letras de los incisos siguen la edición estándar de las pruebas bíblicas; la fuente en línea las presenta sin letras.'
+    'La fuente en línea presenta las pruebas bíblicas sin letras: los incisos (a, b, c…) agrupan las referencias según las cláusulas de cada respuesta y deben cotejarse con una edición impresa.'
   ],
   observacionesExtraccion: [
     'Pasajes tomados de la Reina-Valera 1909 de eBible.org (dominio público), conservando su ortografía histórica.',
@@ -166,6 +166,7 @@ Generado por \`npm run mayor\` (scripts/catecismo-mayor.mjs).
 | Incisos | ${totalIncisos} |
 | Referencias bíblicas | ${totalCitas} |
 | Versículos con texto (RV1909) | ${totalVersiculos} |
+| Referencias de la fuente sin cita en el JSON | ${original.preguntas.slice(0, incluidas).reduce((s, o) => s + o.pruebas.length, 0) - totalCitas} |
 | Pasajes vacíos o no encontrados | 0 |
 | Versión bíblica | ${fuente.versionBiblica} (eBible.org, spaRV1909) |
 
@@ -173,7 +174,8 @@ Generado por \`npm run mayor\` (scripts/catecismo-mayor.mjs).
 
 ${incidencias.length ? incidencias.map((i) => `- ${i}`).join('\n') : '- Ninguna.'}
 - La fuente en línea (reformededucation.org) advierte que su transcripción aún no se ha cotejado con una edición estándar.
-- La fuente presenta las pruebas bíblicas sin letras de inciso; las letras se asignaron según la edición estándar y deben revisarse.
+- La fuente presenta las pruebas bíblicas sin letras de inciso. Los incisos agrupan las referencias según las cláusulas de cada respuesta (en las preguntas 1–10, según la edición estándar de 1648); deben cotejarse con una edición impresa.
+- Las correcciones de referencias se basan en las ediciones estándar de las pruebas bíblicas y conservan la referencia original en la nota de cada cita.
 - La traducción al español es propia y requiere revisión y aprobación.
 `;
 await writeFile(new URL('docs/catecismo-mayor/reporte-validacion-catecismo-mayor.md', raiz), reporte);

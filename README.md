@@ -42,9 +42,10 @@ Los ajustes de lectura se guardan en el dispositivo.
 - **En internet (GitHub Pages):** Settings > Pages > Deploy from a branch > `main` > `/ (root)`.
 - **Servidor local:** `npm start` y abre http://localhost:8080.
 
-## Catecismo Mayor de Westminster (en construcción)
+## Catecismo Mayor de Westminster
 
-- `fuentes/catecismo-mayor/preguntas.json`: texto original en inglés, traducción propia y referencias por inciso. Opcionales por pregunta: `correcciones` y `equivalencias` (numeración española de versículos).
+- `fuentes/catecismo-mayor/original-en.json`: las 196 preguntas en inglés con sus referencias, tal como las publica la fuente.
+- `fuentes/catecismo-mayor/traduccion-*.json`: traducción propia por bloques; `incisos` indica cuántas referencias (en orden) forman cada inciso, y `correcciones` reemplaza una referencia errónea de la fuente con su nota.
 - `npm run mayor` genera `data/catecismo-mayor-westminster.json` con los pasajes de la Reina-Valera 1909 (`fuentes/rv1909/`) y el reporte `docs/catecismo-mayor/reporte-validacion-catecismo-mayor.md`. Falla si una referencia no existe en la RV1909.
 - Fuentes y licencias: `docs/catecismo-mayor/fuentes-y-licencias.md`.
 

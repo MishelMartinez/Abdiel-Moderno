@@ -240,8 +240,9 @@ test('al abrir un enlace #pregunta-N la tarjeta queda visible bajo las barras fi
   expect(tope).toBeGreaterThanOrEqual(fijo);
 });
 
-test('Catecismo Mayor (etapa 1): se elige, muestra sus preguntas y pasajes RV1909, también sin servidor', async ({ page }) => {
+test('Catecismo Mayor: se elige, muestra sus 196 preguntas y pasajes RV1909, también sin servidor', async ({ page }) => {
   const mayor = leer('data/catecismo-mayor-westminster.json');
+  expect(mayor.preguntas).toHaveLength(196);
   for (const url of ['/', pathToFileURL(new URL('../index.html', import.meta.url).pathname).href]) {
     await page.goto(url);
     await page.locator('#catalogo').getByRole('button', { name: /Catecismo Mayor de Westminster/ }).click();

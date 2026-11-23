@@ -4,12 +4,13 @@ Generado por `npm run mayor` (scripts/catecismo-mayor.mjs).
 
 | Concepto | Resultado |
 | --- | --- |
-| Preguntas incluidas | 176 de 196 (1–176) |
+| Preguntas incluidas | 196 de 196 (1–196) |
 | Numeración consecutiva y sin duplicados | Sí |
 | Preguntas o respuestas vacías | 0 |
-| Incisos | 1122 |
-| Referencias bíblicas | 2092 |
-| Versículos con texto (RV1909) | 3666 |
+| Incisos | 1281 |
+| Referencias bíblicas | 2339 |
+| Versículos con texto (RV1909) | 4121 |
+| Referencias de la fuente sin cita en el JSON | 0 |
 | Pasajes vacíos o no encontrados | 0 |
 | Versión bíblica | Reina-Valera 1909 (eBible.org, spaRV1909) |
 
@@ -41,6 +42,9 @@ Generado por `npm run mayor` (scripts/catecismo-mayor.mjs).
 - Pregunta 174, Fil. 3:9: La fuente indica «Philippians 1:16»; las ediciones estándar citan Filipenses 3:9, sobre la justicia que es por la fe de Cristo.
 - Pregunta 174, Sal. 63:4-5: La fuente indica «Psalm 58:4-5»; las ediciones estándar citan Salmo 63:4-5, sobre el alma saciada que alaba con gozo.
 - Pregunta 175, 1 Cor. 11:17,30-31: La fuente indica «1 Corinthians 11:7, 30-31»; las ediciones estándar citan 1 Corintios 11:17, 30-31, sobre el examen de cómo se ha participado.
+- Pregunta 188: la fuente no trae referencias bíblicas para esta pregunta.
+- Pregunta 193, Os. 12:7: En inglés «Hosea 12:7»; en la Reina-Valera 1909 este capítulo se numera 1 versículo(s) más adelante.
 - La fuente en línea (reformededucation.org) advierte que su transcripción aún no se ha cotejado con una edición estándar.
-- La fuente presenta las pruebas bíblicas sin letras de inciso; las letras se asignaron según la edición estándar y deben revisarse.
+- La fuente presenta las pruebas bíblicas sin letras de inciso. Los incisos agrupan las referencias según las cláusulas de cada respuesta (en las preguntas 1–10, según la edición estándar de 1648); deben cotejarse con una edición impresa.
+- Las correcciones de referencias se basan en las ediciones estándar de las pruebas bíblicas y conservan la referencia original en la nota de cada cita.
 - La traducción al español es propia y requiere revisión y aprobación.

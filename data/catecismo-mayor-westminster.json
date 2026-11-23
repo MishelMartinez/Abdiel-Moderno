@@ -1,12 +1,12 @@
 {
   "titulo": "Catecismo Mayor de Westminster",
   "totalPreguntas": 196,
-  "preguntasCompletas": 176,
+  "preguntasCompletas": 196,
   "versionBiblica": "Reina-Valera 1909",
   "observaciones": [
-    "Versión en revisión: incluye las preguntas 1 a 176 de 196.",
+    "Incluye las 196 preguntas.",
     "Traducción propia al español a partir del texto histórico en inglés (dominio público).",
-    "Las letras de los incisos siguen la edición estándar de las pruebas bíblicas; la fuente en línea las presenta sin letras."
+    "La fuente en línea presenta las pruebas bíblicas sin letras: los incisos (a, b, c…) agrupan las referencias según las cláusulas de cada respuesta y deben cotejarse con una edición impresa."
   ],
   "observacionesExtraccion": [
     "Pasajes tomados de la Reina-Valera 1909 de eBible.org (dominio público), conservando su ortografía histórica.",
@@ -15247,6 +15247,1933 @@
             {
               "cita": "1 Cor. 11:26",
               "Pasaje": "26. Porque todas las veces que comiereis este pan, y bebiereis esta copa, la muerte del Señor anunciáis hasta que venga."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 177,
+      "pregunta": "¿En qué difieren los sacramentos del bautismo y de la Cena del Señor?",
+      "respuesta": "Los sacramentos del bautismo y de la Cena del Señor difieren en que el bautismo ha de administrarse una sola vez, con agua, para ser señal y sello de nuestra regeneración y de nuestra unión con Cristo, y esto aun a los niños; mientras que la Cena del Señor ha de administrarse con frecuencia, en los elementos del pan y del vino, para representar y presentar a Cristo como alimento espiritual del alma, y para confirmar nuestra permanencia y crecimiento en él, y esto solamente a los que tienen la edad y la capacidad para examinarse a sí mismos.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Mat. 3:11",
+              "Pasaje": "11. Yo á la verdad os bautizo en agua para arrepentimiento; mas el que viene tras mí, más poderoso es que yo; los zapatos del cual yo no soy digno de llevar; él os bautizará en Espíritu Santo y [en] fuego."
+            },
+            {
+              "cita": "Tit. 3:5",
+              "Pasaje": "5. No por obras de justicia que nosotros habíamos hecho, mas por su misericordia nos salvó, por el lavacro de la regeneración, y de la renovación del Espíritu Santo;"
+            },
+            {
+              "cita": "Gál. 3:27",
+              "Pasaje": "27. Porque todos los que habéis sido bautizados en Cristo, de Cristo estáis vestidos."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Gén. 17:7,9",
+              "Pasaje": "7. Y estableceré mi pacto entre mí y ti, y tu simiente después de ti en sus generaciones, por alianza perpetua, para serte á ti por Dios, y á tu simiente después de ti.\n9. Dijo de nuevo Dios á Abraham: Tú empero guardarás mi pacto, tú y tu simiente después de ti por sus generaciones."
+            },
+            {
+              "cita": "Hech. 2:38-39",
+              "Pasaje": "38. Y Pedro les dice: Arrepentíos, y bautícese cada uno de vosotros en el nombre de Jesucristo para perdón de los pecados; y recibiréis el don del Espíritu Santo.\n39. Porque para vosotros es la promesa, y para vuestros hijos, y para todos los que están lejos; [para] cuantos el Señor nuestro Dios llamare."
+            },
+            {
+              "cita": "1 Cor. 7:14",
+              "Pasaje": "14. Porque el marido infiel es santificado en la mujer, y la mujer infiel en el marido: pues de otra manera vuestros hijos serían inmundos; empero ahora son santos."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "1 Cor. 11:23-26",
+              "Pasaje": "23. Porque yo recibí del Señor lo que también os he enseñado: Que el Señor Jesús, la noche que fué entregado, tomó pan;\n24. Y habiendo dado gracias, lo partió, y dijo: Tomad, comed: esto es mi cuerpo que por vosotros es partido: haced esto en memoria de mí.\n25. Asimismo [tomó] también la copa, después de haber cenado, diciendo: Esta copa es el nuevo pacto en mi sangre: haced esto todas las veces que bebiereis, en memoria de mí.\n26. Porque todas las veces que comiereis este pan, y bebiereis esta copa, la muerte del Señor anunciáis hasta que venga."
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "1 Cor. 10:16",
+              "Pasaje": "16. La copa de bendición que bendecimos, ¿no es la comunión de la sangre de Cristo? El pan que partimos, ¿no es la comunión del cuerpo de Cristo?"
+            }
+          ]
+        },
+        {
+          "inciso": "e",
+          "citas": [
+            {
+              "cita": "1 Cor. 11:28-29",
+              "Pasaje": "28. Por tanto, pruébese cada uno á sí mismo, y coma así de aquel pan, y beba de aquella copa.\n29. Porque el que come y bebe indignamente, juicio come y bebe para sí, no discerniendo el cuerpo del Señor."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 178,
+      "pregunta": "¿Qué es la oración?",
+      "respuesta": "La oración es ofrecer nuestros deseos a Dios, en el nombre de Cristo, con la ayuda de su Espíritu, con confesión de nuestros pecados y agradecido reconocimiento de sus misericordias.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Sal. 62:8",
+              "Pasaje": "8. Esperad en él en todo tiempo, oh pueblos; derramad delante de él vuestro corazón: Dios es nuestro amparo. (Selah.)"
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Jn. 16:23",
+              "Pasaje": "23. Y aquel día no me preguntaréis nada. De cierto, de cierto os digo, que todo cuanto pidiereis al Padre en mi nombre, os [lo] dará."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Rom. 8:26",
+              "Pasaje": "26. Y asimismo también el Espíritu ayuda nuestra flaqueza: porque qué hemos de pedir como conviene, no lo sabemos; sino que el mismo Espíritu pide por nosotros con gemidos indecibles."
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "Sal. 32:5-6",
+              "Pasaje": "5. Mi pecado te declaré, y no encubrí mi iniquidad. Confesaré, dije, contra mí mis rebeliones á Jehová; y tú perdonaste la maldad de mi pecado. (Selah.)\n6. Por esto orará á ti todo santo en el tiempo de poder hallarte: ciertamente en la inundación de muchas aguas no llegarán éstas á él."
+            },
+            {
+              "cita": "Dan. 9:4",
+              "Pasaje": "4. Y oré á Jehová mi Dios, y confesé, y dije: Ahora Señor, Dios grande, digno de ser temido, que guardas el pacto y la misericordia con los que te aman y guardan tus mandamientos;"
+            }
+          ]
+        },
+        {
+          "inciso": "e",
+          "citas": [
+            {
+              "cita": "Fil. 4:6",
+              "Pasaje": "6. Por nada estéis afanosos; sino sean notorias vuestras peticiones delante de Dios en toda oración y ruego, con hacimiento de gracias."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 179,
+      "pregunta": "¿Hemos de orar solamente a Dios?",
+      "respuesta": "Siendo solamente Dios capaz de escudriñar los corazones, oír las peticiones, perdonar los pecados y cumplir los deseos de todos; y siendo solamente él aquel en quien se ha de creer y a quien se ha de adorar con culto religioso, la oración, que es una parte especial de ese culto, ha de ser hecha por todos a él solo, y a ningún otro.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "1 Rey. 8:39",
+              "Pasaje": "39. Tú oirás en los cielos, en la habitación de tu morada, y perdonarás, y obrarás, y darás á cada uno conforme á sus caminos, cuyo corazón tú conoces; (porque sólo tú conoces el corazón de todos los hijos de los hombres;)"
+            },
+            {
+              "cita": "Hech. 1:24",
+              "Pasaje": "24. Y orando, dijeron: Tú, Señor, que conoces los corazones de todos, muestra cuál escoges de estos dos,"
+            },
+            {
+              "cita": "Rom. 8:27",
+              "Pasaje": "27. Mas el que escudriña los corazones, sabe cuál es el intento del Espíritu, porque conforme á [la voluntad de] Dios, demanda por los santos."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Sal. 65:2",
+              "Pasaje": "2. Tú oyes la oración: á ti vendrá toda carne."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Miq. 7:18",
+              "Pasaje": "18. ¿Qué Dios como tú, que perdonas la maldad, y olvidas el pecado del resto de su heredad? No retuvo para siempre su enojo, porque es amador de misericordia."
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "Sal. 145:18",
+              "Pasaje": "18. Cercano está Jehová á todos los que le invocan, á todos los que le invocan de veras."
+            }
+          ]
+        },
+        {
+          "inciso": "e",
+          "citas": [
+            {
+              "cita": "Rom. 10:14",
+              "Pasaje": "14. ¿Cómo, pues invocarán á aquel en el cual no han creído? ¿y cómo creerán á aquel de quien no han oído? ¿y cómo oirán sin [haber] quien [les] predique?"
+            }
+          ]
+        },
+        {
+          "inciso": "f",
+          "citas": [
+            {
+              "cita": "Mat. 4:10",
+              "Pasaje": "10. Entonces Jesús le dice: Vete, Satanás, que escrito está: Al Señor tu Dios adorarás y á él solo servirás."
+            }
+          ]
+        },
+        {
+          "inciso": "g",
+          "citas": [
+            {
+              "cita": "1 Cor. 1:2",
+              "Pasaje": "2. A la iglesia de Dios que está en Corinto, santificados en Cristo Jesús, llamados santos, y á todos los que invocan el nombre de nuestro Señor Jesucristo en cualquier lugar, [Señor] de ellos y nuestro:"
+            }
+          ]
+        },
+        {
+          "inciso": "h",
+          "citas": [
+            {
+              "cita": "Sal. 50:15",
+              "Pasaje": "15. E invócame en el día de la angustia: te libraré, y tú me honrarás."
+            }
+          ]
+        },
+        {
+          "inciso": "i",
+          "citas": [
+            {
+              "cita": "Rom. 10:14",
+              "Pasaje": "14. ¿Cómo, pues invocarán á aquel en el cual no han creído? ¿y cómo creerán á aquel de quien no han oído? ¿y cómo oirán sin [haber] quien [les] predique?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 180,
+      "pregunta": "¿Qué es orar en el nombre de Cristo?",
+      "respuesta": "Orar en el nombre de Cristo es, en obediencia a su mandamiento y confiando en sus promesas, pedir misericordia por amor de él; no por la mera mención de su nombre, sino tomando de Cristo y de su mediación nuestro ánimo para orar, y nuestra confianza, fuerza y esperanza de ser aceptados en la oración.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Jn. 14:13-14",
+              "Pasaje": "13. Y todo lo que pidiereis al Padre en mi nombre, esto haré, para que el Padre sea glorificado en el Hijo.\n14. Si algo pidiereis en mi nombre, yo lo haré."
+            },
+            {
+              "cita": "Jn. 16:24",
+              "Pasaje": "24. Hasta ahora nada habéis pedido en mi nombre: pedid, y recibiréis, para que vuestro gozo sea cumplido."
+            },
+            {
+              "cita": "Dan. 9:17",
+              "Pasaje": "17. Ahora pues, Dios nuestro, oye la oración de tu siervo, y sus ruegos, y haz que tu rostro resplandezca sobre tu santuario asolado, por amor del Señor."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Mat. 7:21",
+              "Pasaje": "21. No todo el que me dice: Señor, Señor, entrará en el reino de los cielos: mas el que hiciere la voluntad de mi Padre que está en los cielos."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Heb. 4:14-16",
+              "Pasaje": "14. Por tanto, teniendo un gran Pontífice, que penetró los cielos, Jesús el Hijo de Dios, retengamos nuestra profesión.\n15. Porque no tenemos un Pontífice que no se pueda compadecer de nuestras flaquezas; mas tentado en todo según [nuestra] semejanza, [pero] sin pecado.\n16. Lleguémonos pues confiadamente al trono de la gracia, para alcanzar misericordia, y hallar gracia para el oportuno socorro."
+            },
+            {
+              "cita": "1 Jn. 5:13-15",
+              "Pasaje": "13. Estas cosas he escrito á vosotros que creéis en el nombre del Hijo de Dios, para que sepáis que tenéis vida eterna, y para que creáis en el nombre del Hijo de Dios.\n14. Y esta es la confianza que tenemos en él, que si demandáremos alguna cosa conforme á su voluntad, él nos oye.\n15. Y si sabemos que él nos oye en cualquiera cosa que demandáremos, sabemos que tenemos las peticiones que le hubiéremos demandado."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 181,
+      "pregunta": "¿Por qué hemos de orar en el nombre de Cristo?",
+      "respuesta": "Siendo tan grande la pecaminosidad del hombre, y su alejamiento de Dios a causa de ella, que no podemos tener acceso a su presencia sin un mediador; y no habiendo ninguno en el cielo ni en la tierra señalado para esa gloriosa obra, ni apto para ella, sino solamente Cristo, no hemos de orar en ningún otro nombre sino solamente en el suyo.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Jn. 14:6",
+              "Pasaje": "6. Jesús le dice: Yo soy el camino, y la verdad, y la vida: nadie viene al Padre, sino por mí."
+            },
+            {
+              "cita": "Isa. 59:2",
+              "Pasaje": "2. Mas vuestras iniquidades han hecho división entre vosotros y vuestro Dios, y vuestros pecados han hecho ocultar su rostro de vosotros, para no oir."
+            },
+            {
+              "cita": "Ef. 3:12",
+              "Pasaje": "12. En el cual tenemos seguridad y entrada con confianza por la fe de él."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Jn. 6:27",
+              "Pasaje": "27. Trabajad no por la comida que perece, mas por la comida que á vida eterna permanece, la cual el Hijo del hombre os dará: porque á éste señaló el Padre, [que es] Dios."
+            },
+            {
+              "cita": "Heb. 7:25-27",
+              "Pasaje": "25. Por lo cual puede también salvar eternamente á los que por él se allegan á Dios, viviendo siempre para interceder por ellos.\n26. Porque tal pontífice nos convenía: santo, inocente, limpio, apartado de los pecadores, y hecho más sublime que los cielos;\n27. Que no tiene necesidad cada día, como los [otros] sacerdotes, de ofrecer primero sacrificios por sus pecados, y luego por los del pueblo: porque esto [lo] hizo una sola vez, ofreciéndose á sí mismo."
+            },
+            {
+              "cita": "1 Tim. 2:5",
+              "Pasaje": "5. Porque hay un Dios, asimismo un mediador entre Dios y los hombres, Jesucristo hombre;"
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Col. 3:17",
+              "Pasaje": "17. Y todo lo que hacéis, sea de palabra, ó de hecho, [hacedlo] todo en el nombre del Señor Jesús, dando gracias á Dios Padre por él."
+            },
+            {
+              "cita": "Heb. 13:15",
+              "Pasaje": "15. Así que, ofrezcamos por medio de él á Dios siempre sacrificio de alabanza, es á saber, fruto de labios que confiesen á su nombre."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 182,
+      "pregunta": "¿Cómo nos ayuda el Espíritu a orar?",
+      "respuesta": "No sabiendo nosotros qué hemos de pedir como conviene, el Espíritu ayuda nuestra flaqueza capacitándonos para entender por quiénes, qué y cómo se ha de orar; y obrando y avivando en nuestros corazones (aunque no en todas las personas, ni en todo tiempo, en la misma medida) aquellas percepciones, afectos y gracias que son necesarios para el debido cumplimiento de ese deber.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Rom. 8:26-27",
+              "Pasaje": "26. Y asimismo también el Espíritu ayuda nuestra flaqueza: porque qué hemos de pedir como conviene, no lo sabemos; sino que el mismo Espíritu pide por nosotros con gemidos indecibles.\n27. Mas el que escudriña los corazones, sabe cuál es el intento del Espíritu, porque conforme á [la voluntad de] Dios, demanda por los santos."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Sal. 10:17",
+              "Pasaje": "17. El deseo de los humildes oíste, oh Jehová: tú dispones su corazón, y haces atento tu oído;"
+            },
+            {
+              "cita": "Zac. 12:10",
+              "Pasaje": "10. Y derramaré sobre la casa de David, y sobre los moradores de Jerusalem, espíritu de gracia y de oración; y mirarán á mí, á quien traspasaron, y harán llanto sobre él, como llanto sobre unigénito, afligiéndose sobre él como quien se aflige sobre primogénito."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 183,
+      "pregunta": "¿Por quiénes hemos de orar?",
+      "respuesta": "Hemos de orar por toda la iglesia de Cristo en la tierra; por los magistrados y los ministros; por nosotros mismos, por nuestros hermanos, y aun por nuestros enemigos; y por toda clase de hombres que viven o que vivirán en el futuro; pero no por los muertos, ni por aquellos de quienes se sabe que han cometido el pecado de muerte.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Ef. 6:18",
+              "Pasaje": "18. Orando en todo tiempo con toda deprecación y súplica en el Espíritu, y velando en ello con toda instancia y suplicación por todos los santos,"
+            },
+            {
+              "cita": "Sal. 28:9",
+              "Pasaje": "9. Salva á tu pueblo, y bendice á tu heredad; y pastoréalos y ensálzalos para siempre."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "1 Tim. 2:1-2",
+              "Pasaje": "1. AMONESTO pues, ante todas cosas, que se hagan rogativas, oraciones, peticiones, hacimientos de gracias, por todos los hombres;\n2. Por los reyes y por todos los que están en eminencia, para que vivamos quieta y reposadamente en toda piedad y honestidad."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Col. 4:3",
+              "Pasaje": "3. Orando también juntamente por nosotros, que el Señor nos abra la puerta de la palabra, para hablar el misterio de Cristo, por el cual aun estoy preso,"
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "Gén. 32:11",
+              "Pasaje": "11. Líbrame ahora de la mano de mi hermano, de la mano de Esaú, porque le temo; no venga quizá, y me hiera la madre con los hijos."
+            }
+          ]
+        },
+        {
+          "inciso": "e",
+          "citas": [
+            {
+              "cita": "Sant. 5:16",
+              "Pasaje": "16. Confesaos vuestras faltas unos á otros, y rogad los unos por los otros, para que seáis sanos; la oración del justo, obrando eficazmente, puede mucho."
+            }
+          ]
+        },
+        {
+          "inciso": "f",
+          "citas": [
+            {
+              "cita": "Mat. 5:44",
+              "Pasaje": "44. Mas yo os digo: Amad á vuestros enemigos, bendecid á los que os maldicen, haced bien á los que os aborrecen, y orad por los que os ultrajan y os persiguen;"
+            }
+          ]
+        },
+        {
+          "inciso": "g",
+          "citas": [
+            {
+              "cita": "1 Tim. 2:1-2",
+              "Pasaje": "1. AMONESTO pues, ante todas cosas, que se hagan rogativas, oraciones, peticiones, hacimientos de gracias, por todos los hombres;\n2. Por los reyes y por todos los que están en eminencia, para que vivamos quieta y reposadamente en toda piedad y honestidad."
+            }
+          ]
+        },
+        {
+          "inciso": "h",
+          "citas": [
+            {
+              "cita": "Jn. 17:20",
+              "Pasaje": "20. Mas no ruego solamente por éstos, sino también por los que han de creer en mí por la palabra de ellos."
+            },
+            {
+              "cita": "2 Sam. 7:29",
+              "Pasaje": "29. Tenlo pues ahora á bien, y bendice la casa de tu siervo, para que perpetuamente permanezca delante de ti: pues que tú, Jehová Dios, lo has dicho, y con tu bendición será bendita la casa de tu siervo para siempre."
+            }
+          ]
+        },
+        {
+          "inciso": "i",
+          "citas": [
+            {
+              "cita": "2 Sam. 12:21-23",
+              "Pasaje": "21. Y dijéronle sus siervos: ¿Qué es esto que has hecho? Por el niño, viviendo aún, ayunabas y llorabas; y él muerto, levantástete y comiste pan.\n22. Y él respondió: Viviendo aún el niño, yo ayunaba y lloraba, diciendo: ¿Quién sabe si Dios tendrá compasión de mí, por manera que viva el niño?\n23. Mas ahora que ya es muerto, ¿para qué tengo de ayunar? ¿podré yo hacerle volver? Yo voy á él, mas él no volverá á mí."
+            }
+          ]
+        },
+        {
+          "inciso": "k",
+          "citas": [
+            {
+              "cita": "1 Jn. 5:16",
+              "Pasaje": "16. Si alguno viere cometer á su hermano pecado no de muerte, demandará, y se le dará vida; [digo] á los que pecan no de muerte. Hay pecado de muerte, por el cual yo no digo que ruegue."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 184,
+      "pregunta": "¿Por qué cosas hemos de orar?",
+      "respuesta": "Hemos de orar por todas las cosas que tienden a la gloria de Dios, al bienestar de la iglesia, y a nuestro propio bien o al de otros; pero no por cosa alguna que sea ilícita.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Mat. 6:9",
+              "Pasaje": "9. Vosotros pues, oraréis así: Padre nuestro que estás en los cielos, santificado sea tu nombre."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Sal. 51:18",
+              "Pasaje": "18. Haz bien con tu benevolencia á Sión: edifica los muros de Jerusalem."
+            },
+            {
+              "cita": "Sal. 122:6",
+              "Pasaje": "6. Pedid la paz de Jerusalem: sean prosperados los que te aman."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Mat. 7:11",
+              "Pasaje": "11. Pues si vosotros, siendo malos, sabéis dar buenas dádivas á vuestros hijos, ¿cuánto más vuestro Padre que está en los cielos, dará buenas cosas á los que le piden?"
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "Sal. 125:4",
+              "Pasaje": "4. Haz bien, oh Jehová, á los buenos, y á los que son rectos en sus corazones."
+            }
+          ]
+        },
+        {
+          "inciso": "e",
+          "citas": [
+            {
+              "cita": "1 Jn. 5:14",
+              "Pasaje": "14. Y esta es la confianza que tenemos en él, que si demandáremos alguna cosa conforme á su voluntad, él nos oye."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 185,
+      "pregunta": "¿Cómo hemos de orar?",
+      "respuesta": "Hemos de orar con una reverente percepción de la majestad de Dios, y un profundo sentimiento de nuestra propia indignidad, necesidades y pecados; con corazones arrepentidos, agradecidos y abiertos; con entendimiento, fe, sinceridad, fervor, amor y perseverancia, esperando en él con humilde sumisión a su voluntad.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Ecl. 5:1",
+              "Pasaje": "1. CUANDO fueres á la casa de Dios, guarda tu pie; y acércate más para oir que para dar el sacrificio de los necios: porque no saben que hacen mal."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Gén. 18:27",
+              "Pasaje": "27. Y Abraham replicó y dijo: He aquí ahora que he comenzado á hablar á mi Señor, aunque soy polvo y ceniza:"
+            },
+            {
+              "cita": "Gén. 32:10",
+              "Pasaje": "10. Menor soy que todas las misericordias, y que toda la verdad que has usado para con tu siervo; que con mi bordón pasé este Jordán, y ahora estoy sobre dos cuadrillas."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Luc. 15:17-19",
+              "Pasaje": "17. Y volviendo en sí, dijo: ¡Cuántos jornaleros en casa de mi padre tienen abundancia de pan, y yo aquí perezco de hambre!\n18. Me levantaré, é iré á mi padre, y le diré: Padre, he pecado contra el cielo, y contra ti;\n19. Ya no soy digno de ser llamado tu hijo; hazme como á uno de tus jornaleros."
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "Luc. 18:13-14",
+              "Pasaje": "13. Mas el publicano estando lejos no quería ni aun alzar los ojos al cielo, sino que hería su pecho, diciendo: Dios, sé propicio á mí pecador.\n14. Os digo que éste descendió á su casa justificado antes que el otro; porque cualquiera que se ensalza, será humillado; y el que se humilla, será ensalzado."
+            }
+          ]
+        },
+        {
+          "inciso": "e",
+          "citas": [
+            {
+              "cita": "Sal. 51:17",
+              "Pasaje": "17. Los sacrificios de Dios son el espíritu quebrantado: al corazón contrito y humillado no despreciarás tú, oh Dios."
+            }
+          ]
+        },
+        {
+          "inciso": "f",
+          "citas": [
+            {
+              "cita": "Fil. 4:6",
+              "Pasaje": "6. Por nada estéis afanosos; sino sean notorias vuestras peticiones delante de Dios en toda oración y ruego, con hacimiento de gracias."
+            }
+          ]
+        },
+        {
+          "inciso": "g",
+          "citas": [
+            {
+              "cita": "1 Sam. 1:15",
+              "Pasaje": "15. Y Anna le respondió, diciendo: No, señor mío: mas yo soy una mujer trabajada de espíritu: no he bebido vino ni sidra, sino que he derramado mi alma delante de Jehová."
+            },
+            {
+              "cita": "1 Sam. 2:1",
+              "Pasaje": "1. Y ANNA oró y dijo: mi corazón se regocija en Jehová, mi cuerno es ensalzado en Jehová; mi boca se ensanchó sobre mis enemigos, por cuanto me alegré en tu salud."
+            }
+          ]
+        },
+        {
+          "inciso": "h",
+          "citas": [
+            {
+              "cita": "1 Cor. 14:15",
+              "Pasaje": "15. ¿Qué pues? Oraré con el espíritu, mas oraré también con entendimiento; cantaré con el espíritu, mas cantaré también con entendimiento."
+            }
+          ]
+        },
+        {
+          "inciso": "i",
+          "citas": [
+            {
+              "cita": "Mar. 11:24",
+              "Pasaje": "24. Por tanto, os digo que todo lo que orando pidiereis, creed que lo recibiréis, y os vendrá."
+            },
+            {
+              "cita": "Sant. 1:6",
+              "Pasaje": "6. Pero pida en fe, no dudando nada: porque el que duda es semejante á la onda de la mar, que es movida del viento, y echada de una parte á otra."
+            }
+          ]
+        },
+        {
+          "inciso": "k",
+          "citas": [
+            {
+              "cita": "Sal. 145:18",
+              "Pasaje": "18. Cercano está Jehová á todos los que le invocan, á todos los que le invocan de veras."
+            },
+            {
+              "cita": "Sal. 17:1",
+              "Pasaje": "1. Oración de David. OYE, oh Jehová, justicia; está atento á mi clamor; escucha mi oración hecha sin labios de engaño."
+            }
+          ]
+        },
+        {
+          "inciso": "l",
+          "citas": [
+            {
+              "cita": "Sant. 5:16",
+              "Pasaje": "16. Confesaos vuestras faltas unos á otros, y rogad los unos por los otros, para que seáis sanos; la oración del justo, obrando eficazmente, puede mucho."
+            }
+          ]
+        },
+        {
+          "inciso": "m",
+          "citas": [
+            {
+              "cita": "1 Tim. 2:8",
+              "Pasaje": "8. Quiero, pues, que los hombres oren en todo lugar, levantando manos limpias, sin ira ni contienda."
+            }
+          ]
+        },
+        {
+          "inciso": "n",
+          "citas": [
+            {
+              "cita": "Ef. 6:18",
+              "Pasaje": "18. Orando en todo tiempo con toda deprecación y súplica en el Espíritu, y velando en ello con toda instancia y suplicación por todos los santos,"
+            }
+          ]
+        },
+        {
+          "inciso": "o",
+          "citas": [
+            {
+              "cita": "Miq. 7:7",
+              "Pasaje": "7. Yo empero á Jehová esperaré, esperaré al Dios de mi salud: el Dios mío me oirá."
+            }
+          ]
+        },
+        {
+          "inciso": "p",
+          "citas": [
+            {
+              "cita": "Mat. 26:39",
+              "Pasaje": "39. Y yéndose un poco más adelante, se postró sobre su rostro, orando, y diciendo: Padre mío, si es posible, pase de mí este vaso; empero no como yo quiero, sino como tú."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 186,
+      "pregunta": "¿Qué regla nos ha dado Dios para dirigirnos en el deber de la oración?",
+      "respuesta": "Toda la Palabra de Dios es útil para dirigirnos en el deber de la oración; pero la regla especial de dirección es aquella forma de oración que nuestro Salvador Cristo enseñó a sus discípulos, comúnmente llamada el Padrenuestro.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "1 Jn. 5:14",
+              "Pasaje": "14. Y esta es la confianza que tenemos en él, que si demandáremos alguna cosa conforme á su voluntad, él nos oye."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Mat. 6:9-13",
+              "Pasaje": "9. Vosotros pues, oraréis así: Padre nuestro que estás en los cielos, santificado sea tu nombre.\n10. Venga tu reino. Sea hecha tu voluntad, como en el cielo, así también en la tierra.\n11. Danos hoy nuestro pan cotidiano.\n12. Y perdónanos nuestras deudas, como también nosotros perdonamos á nuestros deudores.\n13. Y no nos metas en tentación, mas líbranos del mal: porque tuyo es el reino, y el poder, y la gloria, por todos los siglos. Amén."
+            },
+            {
+              "cita": "Luc. 11:2-4",
+              "Pasaje": "2. Y les dijo: Cuando orareis, decid: Padre nuestro que estás en los cielos; sea tu nombre santificado. Venga tu reino. Sea hecha tu voluntad, como en el cielo, así también en la tierra.\n3. El pan nuestro de cada día, dános[lo] hoy.\n4. Y perdónanos nuestros pecados, porque también nosotros perdonamos á todos los que nos deben. Y no nos metas en tentación, mas líbranos del malo."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 187,
+      "pregunta": "¿Cómo se ha de usar el Padrenuestro?",
+      "respuesta": "El Padrenuestro no solo sirve de dirección, como modelo conforme al cual hemos de hacer otras oraciones, sino que también puede usarse como oración, con tal que se haga con entendimiento, fe, reverencia y las demás gracias necesarias para el debido cumplimiento del deber de la oración.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Mat. 6:9",
+              "Pasaje": "9. Vosotros pues, oraréis así: Padre nuestro que estás en los cielos, santificado sea tu nombre."
+            },
+            {
+              "cita": "Luc. 11:2",
+              "Pasaje": "2. Y les dijo: Cuando orareis, decid: Padre nuestro que estás en los cielos; sea tu nombre santificado. Venga tu reino. Sea hecha tu voluntad, como en el cielo, así también en la tierra."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 188,
+      "pregunta": "¿De cuántas partes consta el Padrenuestro?",
+      "respuesta": "El Padrenuestro consta de tres partes: un prefacio, peticiones y una conclusión.",
+      "referenciasBiblicas": []
+    },
+    {
+      "numero": 189,
+      "pregunta": "¿Qué nos enseña el prefacio del Padrenuestro?",
+      "respuesta": "El prefacio del Padrenuestro (contenido en estas palabras: Padre nuestro que estás en los cielos) nos enseña, cuando oramos, a acercarnos a Dios con confianza en su bondad paternal y en nuestra parte en ella; con reverencia y todas las demás disposiciones filiales, afectos celestiales y debidas percepciones de su poder soberano, su majestad y su condescendencia llena de gracia; y también a orar con otros y por otros.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Mat. 6:9",
+              "Pasaje": "9. Vosotros pues, oraréis así: Padre nuestro que estás en los cielos, santificado sea tu nombre."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Luc. 11:13",
+              "Pasaje": "13. Pues si vosotros, siendo malos, sabéis dar buenas dádivas á vuestros hijos, ¿cuánto más vuestro Padre celestial dará el Espíritu Santo á los que lo pidieren de él?"
+            },
+            {
+              "cita": "Rom. 8:15",
+              "Pasaje": "15. Porque no habéis recibido el espíritu de servidumbre para [estar] otra vez en temor; mas habéis recibido el espíritu de adopción, por el cual clamamos, Abba, Padre."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Isa. 64:9",
+              "Pasaje": "9. No te aires, oh Jehová, sobremanera, ni tengas perpetua memoria de la iniquidad: he aquí mira ahora, pueblo tuyo [somos] todos nosotros."
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "Sal. 123:1",
+              "Pasaje": "1. Cántico gradual. A TI que habitas en los cielos, alcé mis ojos."
+            },
+            {
+              "cita": "Lam. 3:41",
+              "Pasaje": "41. Levantemos nuestros corazones con las manos á Dios en los cielos."
+            }
+          ]
+        },
+        {
+          "inciso": "e",
+          "citas": [
+            {
+              "cita": "Isa. 63:15-16",
+              "Pasaje": "15. Mira desde el cielo, y contempla desde la morada de tu santidad y de tu gloria: ¿dónde está tu celo, y tu fortaleza, la conmoción de tus entrañas y de tus miseraciones para conmigo? ¿hanse estrechado?\n16. Tú empero eres nuestro padre, si bien Abraham nos ignora, é Israel no nos conoce: tú, oh Jehová, eres nuestro padre; nuestro Redentor perpetuo [es] tu nombre."
+            },
+            {
+              "cita": "Neh. 1:4-6",
+              "Pasaje": "4. Y fué que, como yo oí estas palabras, sentéme y lloré, y enlutéme por algunos días, y ayuné y oré delante del Dios de los cielos.\n5. Y dije: Ruégote, oh Jehová, Dios de los cielos, fuerte, grande, y terrible, que guarda el pacto y la misericordia á los que le aman y guardan sus mandamientos;\n6. Esté ahora atento tu oído, y tus ojos abiertos, para oir la oración de tu siervo, que yo hago ahora delante de ti día y noche, por los hijos de Israel tus siervos; y confieso los pecados de los hijos de Israel que hemos contra ti cometido; sí, yo y la casa de mi padre hemos pecado."
+            }
+          ]
+        },
+        {
+          "inciso": "f",
+          "citas": [
+            {
+              "cita": "Hech. 12:5",
+              "Pasaje": "5. Así que, Pedro era guardado en la cárcel; y la iglesia hacía sin cesar oración á Dios por él."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 190,
+      "pregunta": "¿Qué pedimos en la primera petición?",
+      "respuesta": "En la primera petición (que es: Santificado sea tu nombre), reconociendo la completa incapacidad e indisposición que hay en nosotros y en todos los hombres para honrar a Dios como es debido, pedimos que Dios, por su gracia, nos capacite e incline a nosotros y a otros a conocerle, reconocerle y estimarle altamente a él, sus títulos, atributos, ordenanzas, Palabra, obras y todo aquello por lo cual le place darse a conocer; y a glorificarle en pensamiento, palabra y obra; que él impida y quite el ateísmo, la ignorancia, la idolatría, la profanidad y todo lo que le deshonra; y que, por su providencia soberana, dirija y disponga todas las cosas para su propia gloria.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Mat. 6:9",
+              "Pasaje": "9. Vosotros pues, oraréis así: Padre nuestro que estás en los cielos, santificado sea tu nombre."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "2 Cor. 3:5",
+              "Pasaje": "5. No que seamos suficientes de nosotros mismos para pensar algo como de nosotros mismos, sino que nuestra suficiencia es de Dios;"
+            },
+            {
+              "cita": "Sal. 51:15",
+              "Pasaje": "15. Señor, abre mis labios; y publicará mi boca tu alabanza."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Sal. 67:2-3",
+              "Pasaje": "2. Para que sea conocido en la tierra tu camino, en todas las gentes tu salud.\n3. Alábente los pueblos, oh Dios; alábente los pueblos todos."
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "Sal. 83:18",
+              "Pasaje": "18. Y conozcan que tu nombre es JEHOVÁ; tú solo Altísimo sobre toda la tierra."
+            }
+          ]
+        },
+        {
+          "inciso": "e",
+          "citas": [
+            {
+              "cita": "Sal. 86:10-13,15",
+              "Pasaje": "10. Porque tú eres grande, y hacedor de maravillas: tú solo eres Dios.\n11. Enséñame, oh Jehová, tu camino; caminaré yo en tu verdad: consolida mi corazón para que tema tu nombre.\n12. Te alabaré, oh Jehová Dios mío, con todo mi corazón; y glorificaré tu nombre para siempre.\n13. Porque tu misericordia es grande para conmigo; y has librado mi alma del hoyo profundo.\n15. Mas tú, Señor, Dios misericordioso y clemente, lento para la ira, y grande en misericordia y verdad;"
+            }
+          ]
+        },
+        {
+          "inciso": "f",
+          "citas": [
+            {
+              "cita": "2 Tes. 3:1",
+              "Pasaje": "1. RESTA, hermanos, que oréis por nosotros, que la palabra del Señor corra y sea glorificada así como entre vosotros:"
+            },
+            {
+              "cita": "Sal. 147:19-20",
+              "Pasaje": "19. El denuncia sus palabras á Jacob, sus estatutos y sus juicios á Israel.\n20. No ha hecho esto con toda gente; y no conocieron sus juicios. Aleluya."
+            },
+            {
+              "cita": "Sal. 138:1-3",
+              "Pasaje": "1. Salmo de David. ALABARTE he con todo mi corazón: delante de los dioses te cantaré salmos.\n2. Encorvaréme al templo de tu santuario, y alabaré tu nombre por tu misericordia y tu verdad: porque has hecho magnífico tu nombre, y tu dicho sobre todas las cosas.\n3. En el día que clamé, me respondiste; esforzásteme con fortaleza en mi alma."
+            },
+            {
+              "cita": "2 Cor. 2:14-15",
+              "Pasaje": "14. Mas á Dios gracias, el cual hace que siempre triunfemos en Cristo Jesús, y manifiesta el olor de su conocimiento por nosotros en todo lugar.\n15. Porque para Dios somos buen olor de Cristo en los que se salvan, y en los que se pierden:"
+            }
+          ]
+        },
+        {
+          "inciso": "g",
+          "citas": [
+            {
+              "cita": "Sal. 145",
+              "Pasaje": "1. Salmo de alabanza: de David. ENSALZARTE he, mi Dios, mi Rey; y bendeciré tu nombre por siglo y para siempre.\n2. Cada día te bendeciré, y alabaré tu nombre por siglo y para siempre.\n3. Grande es Jehová y digno de suprema alabanza: y su grandeza es inescrutable.\n4. Generación á generación narrará tus obras, y anunciarán tus valentías.\n5. La hermosura de la gloria de tu magnificencia, y tus hechos maravillosos, hablaré.\n6. Y la terribilidad de tus valentías dirán los hombres; y yo recontaré tu grandeza.\n7. Reproducirán la memoria de la muchedumbre de tu bondad, y cantarán tu justicia.\n8. Clemente y misericordioso es Jehová, lento para la ira, y grande en misericordia.\n9. Bueno es Jehová para con todos; y sus misericordias sobre todas sus obras.\n10. Alábente, oh Jehová, todas tus obras; y tus santos te bendigan.\n11. La gloria de tu reino digan, y hablen de tu fortaleza;\n12. Para notificar á los hijos de los hombres sus valentías, y la gloria de la magnificencia de su reino.\n13. Tu reino es reino de todos los siglos, y tu señorío en toda generación y generación.\n14. Sostiene Jehová á todos los que caen, y levanta á todos los oprimidos.\n15. Los ojos de todos esperan en ti, y tú les das su comida en su tiempo.\n16. Abres tu mano, y colmas de bendición á todo viviente.\n17. Justo es Jehová en todos sus caminos, y misericordioso en todas sus obras.\n18. Cercano está Jehová á todos los que le invocan, á todos los que le invocan de veras.\n19. Cumplirá el deseo de los que le temen; oirá asimismo el clamor de ellos, y los salvará.\n20. Jehová guarda á todos los que le aman; empero destruirá á todos los impíos.\n21. La alabanza de Jehová hablará mi boca; y bendiga toda carne su santo nombre por siglo y para siempre.",
+              "observacionPasaje": "Capítulo completo."
+            },
+            {
+              "cita": "Sal. 8",
+              "Pasaje": "1. Al Músico principal: sobre Gittith: Salmo de David. OH Jehová, Señor nuestro, ¡cuán grande es tu nombre en toda la tierra, que has puesto tu gloria sobre los cielos!\n2. De la boca de los chiquitos y de los que maman, fundaste la fortaleza, á causa de tus enemigos, para hacer cesar al enemigo, y al que se venga.\n3. Cuando veo tus cielos, obra de tus dedos, la luna y las estrellas que tú formaste:\n4. [Digo]: ¿Qué es el hombre, para que tengas de él memoria, y el hijo del hombre, que lo visites?\n5. Pues le has hecho poco menor que los ángeles, y coronástelo de gloria y de lustre.\n6. Hicístelo enseñorear de las obras de tus manos; todo lo pusiste debajo de sus pies:\n7. Ovejas, y bueyes, todo ello; y asimismo las bestias del campo;\n8. Las aves de los cielos, y los peces de la mar; todo cuanto pasa por los senderos de la mar.\n9. Oh Jehová, Señor nuestro, ¡cuán grande es tu nombre en toda la tierra!",
+              "observacionPasaje": "Capítulo completo."
+            }
+          ]
+        },
+        {
+          "inciso": "h",
+          "citas": [
+            {
+              "cita": "Sal. 103:1",
+              "Pasaje": "1. Salmo de David. BENDICE, alma mía, á Jehová; y [bendigan] todas mis entrañas su santo nombre."
+            },
+            {
+              "cita": "Sal. 19:14",
+              "Pasaje": "14. Sean gratos los dichos de mi boca y la meditación de mi corazón delante de ti, oh Jehová, roca mía, y redentor mío."
+            }
+          ]
+        },
+        {
+          "inciso": "i",
+          "citas": [
+            {
+              "cita": "Fil. 1:9,11",
+              "Pasaje": "9. Y esto ruego, que vuestro amor abunde aun más y más en ciencia y en todo conocimiento,\n11. Llenos de frutos de justicia, que son por Jesucristo, á gloria y loor de Dios."
+            }
+          ]
+        },
+        {
+          "inciso": "k",
+          "citas": [
+            {
+              "cita": "Sal. 67:1-4",
+              "Pasaje": "1. Al Músico principal: en Neginoth: Salmo: Cántico. DIOS tenga misericordia de nosotros, y nos bendiga; haga resplandecer su rostro sobre nosotros (Selah);\n2. Para que sea conocido en la tierra tu camino, en todas las gentes tu salud.\n3. Alábente los pueblos, oh Dios; alábente los pueblos todos.\n4. Alégrense y gócense las gentes; porque juzgarás los pueblos con equidad, y pastorearás las naciones en la tierra. (Selah.)"
+            }
+          ]
+        },
+        {
+          "inciso": "l",
+          "citas": [
+            {
+              "cita": "Ef. 1:17-18",
+              "Pasaje": "17. Que el Dios del Señor nuestro Jesucristo, el Padre de gloria, os dé espíritu de sabiduría y de revelación para su conocimiento;\n18. Alumbrando los ojos de vuestro entendimiento, para que sepáis cuál sea la esperanza de su vocación, y cuáles las riquezas de la gloria de su herencia en los santos,"
+            }
+          ]
+        },
+        {
+          "inciso": "m",
+          "citas": [
+            {
+              "cita": "Sal. 97:7",
+              "Pasaje": "7. Avergüéncense todos los que sirven á las imágenes de talla, los que se alaban de los ídolos: los dioses todos á él se encorven."
+            }
+          ]
+        },
+        {
+          "inciso": "n",
+          "citas": [
+            {
+              "cita": "Sal. 74:18,22-23",
+              "Pasaje": "18. Acuérdate de esto: que el enemigo ha dicho afrentas á Jehová, y que el pueblo insensato ha blasfemado tu nombre.\n22. Levántate, oh Dios, aboga tu causa: acuérdate de cómo el insensato te injuria cada día.\n23. No olvides las voces de tus enemigos: el alboroto de los que se levantan contra ti sube continuamente."
+            }
+          ]
+        },
+        {
+          "inciso": "o",
+          "citas": [
+            {
+              "cita": "2 Rey. 19:15-16",
+              "Pasaje": "15. Y oró Ezechîas delante de Jehová, diciendo: Jehová Dios de Israel, que habitas entre los querubines, tú solo eres Dios de todos los reinos de la tierra; tú hiciste el cielo y la tierra.\n16. Inclina, oh Jehová, tu oído, y oye; abre, oh Jehová, tus ojos, y mira: y oye las palabras de Sennachêrib, que ha enviado á blasfemar al Dios viviente."
+            }
+          ]
+        },
+        {
+          "inciso": "p",
+          "citas": [
+            {
+              "cita": "2 Crón. 20:6,10-12",
+              "Pasaje": "6. Y dijo: Jehová Dios de nuestros padres, ¿no eres tú Dios en los cielos, y te enseñoreas en todos los reinos de las Gentes? ¿no está en tu mano tal fuerza y potencia, que no hay quien te resista?\n10. Ahora pues, he aquí los hijos de Ammón y de Moab, y [los del] monte de Seir, á [la tierra de] los cuales no quisiste que pasase Israel cuando venían de la tierra de Egipto, sino que se apartasen de ellos, y no los destruyesen;\n11. He aquí ellos nos dan el pago, viniendo á echarnos de tu heredad, que tú nos diste á poseer.\n12. ¡Oh Dios nuestro! ¿no los juzgarás tú? porque en nosotros no hay fuerza contra tan grande multitud que viene contra nosotros: no sabemos lo que hemos de hacer, mas á ti [volvemos] nuestros ojos."
+            },
+            {
+              "cita": "Sal. 83",
+              "Pasaje": "1. Canción: Salmo de Asaph. OH Dios, no tengas silencio: no calles, oh Dios, ni te estés quieto.\n2. Porque he aquí que braman tus enemigos; y tus aborrecedores han alzado cabeza.\n3. Sobre tu pueblo han consultado astuta y secretamente, y han entrado en consejo contra tus escondidos.\n4. Han dicho: Venid, y cortémoslos de ser pueblo, y no haya más memoria del nombre de Israel.\n5. Por esto han conspirado de corazón á una, contra ti han hecho liga;\n6. Los pabellones de los Idumeos y de los Ismaelitas, Moab y los Agarenos;\n7. Gebal, y Ammón, y Amalec; los Filisteos con los habitadores de Tiro.\n8. También el Assur se ha juntado con ellos: son por brazo á los hijos de Lot. (Selah.)\n9. Hazles como á Madián; como á Sísara, como á Jabín en el arroyo de Cisón;\n10. Que perecieron en Endor, fueron hechos muladar de la tierra.\n11. Pon á ellos y á sus capitanes como á Oreb y como á Zeeb; y como á Zeba y como á Zalmunna, á todos sus príncipes;\n12. Que han dicho: Heredemos para nosotros las moradas de Dios.\n13. Dios mío, ponlos como á torbellinos; como á hojarascas delante del viento.\n14. Como fuego que quema el monte, como llama que abrasa las breñas.\n15. Persíguelos así con tu tempestad, y asómbralos con tu torbellino.\n16. Llena sus rostros de vergüenza; y busquen tu nombre, oh Jehová.\n17. Sean afrentados y turbados para siempre; y sean deshonrados, y perezcan.\n18. Y conozcan que tu nombre es JEHOVÁ; tú solo Altísimo sobre toda la tierra.",
+              "observacionPasaje": "Capítulo completo."
+            },
+            {
+              "cita": "Sal. 140:4,8",
+              "Pasaje": "4. Guárdame, oh Jehová, de manos del impío, presérvame del hombre injurioso; que han pensado de trastornar mis pasos.\n8. No des, oh Jehová, al impío sus deseos; no saques adelante su pensamiento, [que no] se ensoberbezca. (Selah.)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 191,
+      "pregunta": "¿Qué pedimos en la segunda petición?",
+      "respuesta": "En la segunda petición (que es: Venga tu reino), reconociendo que nosotros y todo el género humano estamos por naturaleza bajo el dominio del pecado y de Satanás, pedimos que el reino del pecado y de Satanás sea destruido, que el evangelio sea propagado por todo el mundo, que los judíos sean llamados y que entre la plenitud de los gentiles; que la iglesia sea provista de todos los oficiales y ordenanzas del evangelio, purificada de la corrupción, favorecida y sostenida por el magistrado civil; que las ordenanzas de Cristo sean administradas con pureza y hechas eficaces para la conversión de los que todavía están en sus pecados, y para la confirmación, el consuelo y la edificación de los que ya están convertidos; que Cristo reine en nuestros corazones aquí, y apresure el tiempo de su segunda venida y de nuestro reinado con él para siempre; y que le plazca ejercer el reino de su poder en todo el mundo de la manera que mejor conduzca a estos fines.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Mat. 6:10",
+              "Pasaje": "10. Venga tu reino. Sea hecha tu voluntad, como en el cielo, así también en la tierra."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Ef. 2:2-3",
+              "Pasaje": "2. En que en otro tiempo anduvisteis conforme á la condición de este mundo, conforme al príncipe de la potestad del aire, el espíritu que ahora obra en los hijos de desobediencia:\n3. Entre los cuales todos nosotros también vivimos en otro tiempo en los deseos de nuestra carne, haciendo la voluntad de la carne y de los pensamientos; y éramos por naturaleza hijos de ira, también como los demás."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Sal. 68:1",
+              "Pasaje": "1. Al Músico principal: Salmo de David: Canción. LEVÁNTESE Dios, sean esparcidos sus enemigos, y huyan de su presencia los que le aborrecen."
+            },
+            {
+              "cita": "Apoc. 12:10-11",
+              "Pasaje": "10. Y oí una grande voz en el cielo que decía: Ahora ha venido la salvación, y la virtud, y el reino de nuestro Dios, y el poder de su Cristo; porque el acusador de nuestros hermanos ha sido arrojado, el cual los acusaba delante de nuestro Dios día y noche.\n11. Y ellos le han vencido por la sangre del Cordero, y por la palabra de su testimonio; y no han amado sus vidas hasta la muerte."
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "2 Tes. 3:1",
+              "Pasaje": "1. RESTA, hermanos, que oréis por nosotros, que la palabra del Señor corra y sea glorificada así como entre vosotros:"
+            }
+          ]
+        },
+        {
+          "inciso": "e",
+          "citas": [
+            {
+              "cita": "Rom. 10:1",
+              "Pasaje": "1. HERMANOS, ciertamente la voluntad de mi corazón y mi oración á Dios sobre Israel, es para salud."
+            }
+          ]
+        },
+        {
+          "inciso": "f",
+          "citas": [
+            {
+              "cita": "Jn. 17:9,20",
+              "Pasaje": "9. Yo ruego por ellos: no ruego por el mundo, sino por los que me diste; porque tuyos son:\n20. Mas no ruego solamente por éstos, sino también por los que han de creer en mí por la palabra de ellos."
+            },
+            {
+              "cita": "Rom. 11:25-26",
+              "Pasaje": "25. Porque no quiero, hermanos, que ignoréis este misterio, para que no seáis acerca de vosotros mismos arrogantes: que el endurecimiento en parte ha acontecido en Israel, hasta que haya entrado la plenitud de los Gentiles;\n26. Y luego todo Israel será salvo; como está escrito: Vendrá de Sión el Libertador, que quitará de Jacob la impiedad;"
+            },
+            {
+              "cita": "Sal. 67",
+              "Pasaje": "1. Al Músico principal: en Neginoth: Salmo: Cántico. DIOS tenga misericordia de nosotros, y nos bendiga; haga resplandecer su rostro sobre nosotros (Selah);\n2. Para que sea conocido en la tierra tu camino, en todas las gentes tu salud.\n3. Alábente los pueblos, oh Dios; alábente los pueblos todos.\n4. Alégrense y gócense las gentes; porque juzgarás los pueblos con equidad, y pastorearás las naciones en la tierra. (Selah.)\n5. Alábente los pueblos, oh Dios: todos los pueblos te alaben.\n6. La tierra dará su fruto: nos bendecirá Dios, el Dios nuestro.\n7. Bendíganos Dios, y témanlo todos los fines de la tierra.",
+              "observacionPasaje": "Capítulo completo."
+            }
+          ]
+        },
+        {
+          "inciso": "g",
+          "citas": [
+            {
+              "cita": "Mat. 9:38",
+              "Pasaje": "38. Rogad, pues, al Señor de la mies, que envíe obreros á su mies."
+            },
+            {
+              "cita": "2 Tes. 3:1",
+              "Pasaje": "1. RESTA, hermanos, que oréis por nosotros, que la palabra del Señor corra y sea glorificada así como entre vosotros:"
+            }
+          ]
+        },
+        {
+          "inciso": "h",
+          "citas": [
+            {
+              "cita": "Mal. 1:11",
+              "Pasaje": "11. Porque desde donde el sol nace hasta donde se pone, es grande mi nombre entre las gentes; y en todo lugar se ofrece á mi nombre perfume, y presente limpio: porque grande es mi nombre entre las gentes, dice Jehová de los ejércitos."
+            },
+            {
+              "cita": "Sof. 3:9",
+              "Pasaje": "9. Por entonces volveré yo á los pueblos el labio limpio, para que todos invoquen el nombre de Jehová, para que de un consentimiento le sirvan."
+            }
+          ]
+        },
+        {
+          "inciso": "i",
+          "citas": [
+            {
+              "cita": "1 Tim. 2:1-2",
+              "Pasaje": "1. AMONESTO pues, ante todas cosas, que se hagan rogativas, oraciones, peticiones, hacimientos de gracias, por todos los hombres;\n2. Por los reyes y por todos los que están en eminencia, para que vivamos quieta y reposadamente en toda piedad y honestidad."
+            }
+          ]
+        },
+        {
+          "inciso": "k",
+          "citas": [
+            {
+              "cita": "Hech. 4:29-30",
+              "Pasaje": "29. Y ahora, Señor, mira sus amenazas, y da á tus siervos que con toda confianza hablen tu palabra;\n30. Que extiendas tu mano á que sanidades, y milagros, y prodigios sean hechos por el nombre de tu santo Hijo Jesús."
+            },
+            {
+              "cita": "Ef. 6:18-20",
+              "Pasaje": "18. Orando en todo tiempo con toda deprecación y súplica en el Espíritu, y velando en ello con toda instancia y suplicación por todos los santos,\n19. Y por mí, para que me sea dada palabra en el abrir de mi boca con confianza, para hacer notorio el misterio del evangelio,\n20. Por el cual soy embajador en cadenas; que resueltamente hable de él, como debo hablar."
+            },
+            {
+              "cita": "Rom. 15:29-30,32",
+              "Pasaje": "29. Y sé que cuando llegue á vosotros, llegaré con abundancia de la bendición del evangelio de Cristo.\n30. Ruégoos empero, hermanos, por el Señor nuestro Jesucristo, y por la caridad del Espíritu, que me ayudéis con oraciones por mí á Dios,\n32. Para que con gozo llegue á vosotros por la voluntad de Dios, y que sea recreado juntamente con vosotros."
+            },
+            {
+              "cita": "2 Tes. 1:11",
+              "Pasaje": "11. Por lo cual, asimismo oramos siempre por vosotros, que nuestro Dios os tenga por dignos de [su] vocación, é hincha de bondad todo buen intento, y [toda] obra de fe con potencia,"
+            },
+            {
+              "cita": "2 Tes. 2:16-17",
+              "Pasaje": "16. Y el mismo Señor nuestro Jesucristo, y Dios y Padre nuestro, el cual nos amó, y nos dió consolación eterna, y buena esperanza por gracia,\n17. Consuele vuestros corazones, y os confirme en toda buena palabra y obra."
+            }
+          ]
+        },
+        {
+          "inciso": "l",
+          "citas": [
+            {
+              "cita": "Ef. 3:14-20",
+              "Pasaje": "14. Por esta causa doblo mis rodillas al Padre de nuestro Señor Jesucristo,\n15. Del cual es nombrada toda la parentela en los cielos y en la tierra,\n16. Que os dé, conforme á las riquezas de su gloria, el ser corroborados con potencia en el hombre interior por su Espíritu.\n17. Que habite Cristo por la fe en vuestros corazones; para que, arraigados y fundados en amor,\n18. Podáis bien comprender con todos los santos cuál sea la anchura y la longura y la profundidad y la altura,\n19. Y conocer el amor de Cristo, que excede á todo conocimiento, para que seáis llenos de toda la plenitud de Dios.\n20. Y á Aquel que es poderoso para hacer todas las cosas mucho más abundantemente de lo que pedimos ó entendemos, por la potencia que obra en nosotros,"
+            }
+          ]
+        },
+        {
+          "inciso": "m",
+          "citas": [
+            {
+              "cita": "Apoc. 22:20",
+              "Pasaje": "20. El que da testimonio de estas cosas, dice: Ciertamente, vengo en breve. Amén, sea así. Ven, Señor Jesús."
+            }
+          ]
+        },
+        {
+          "inciso": "n",
+          "citas": [
+            {
+              "cita": "Isa. 64:1-2",
+              "Pasaje": "1. ¡OH si rompieses los cielos, [y] descendieras, [y] á tu presencia se escurriesen los montes,\n2. Como fuego abrasador de fundiciones, fuego que hace hervir las aguas, para que hicieras notorio tu nombre á tus enemigos, y las gentes temblasen á tu presencia!"
+            },
+            {
+              "cita": "Apoc. 4:8-11",
+              "Pasaje": "8. Y los cuatro animales tenían cada uno por sí seis alas alrededor, y de dentro estaban llenos de ojos; y no tenían reposo día ni noche, diciendo: Santo, santo, santo el Señor Dios Todopoderoso, que era, y que es, y que ha de venir.\n9. Y cuando aquellos animales daban gloria y honra y alabanza al que estaba sentado en el trono, al que vive para siempre jamás,\n10. Los veinticuatro ancianos se postraban delante del que estaba sentado en el trono, y adoraban al que vive para siempre jamás, y echaban sus coronas delante del trono, diciendo:\n11. Señor, digno eres de recibir gloria y honra y virtud: porque tú criaste todas las cosas, y por tu voluntad tienen ser y fueron criadas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 192,
+      "pregunta": "¿Qué pedimos en la tercera petición?",
+      "respuesta": "En la tercera petición (que es: Hágase tu voluntad, como en el cielo, así también en la tierra), reconociendo que por naturaleza nosotros y todos los hombres no solo somos completamente incapaces de conocer y hacer la voluntad de Dios, y no estamos dispuestos a ello, sino que somos propensos a rebelarnos contra su Palabra, a quejarnos y murmurar contra su providencia, y estamos enteramente inclinados a hacer la voluntad de la carne y del diablo, pedimos que Dios, por su Espíritu, quite de nosotros y de otros toda ceguera, debilidad, indisposición y perversidad de corazón; y que, por su gracia, nos haga capaces y dispuestos a conocer, hacer y someternos a su voluntad en todas las cosas, con la misma humildad, alegría, fidelidad, diligencia, celo, sinceridad y constancia con que lo hacen los ángeles en el cielo.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Mat. 6:10",
+              "Pasaje": "10. Venga tu reino. Sea hecha tu voluntad, como en el cielo, así también en la tierra."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Rom. 7:18",
+              "Pasaje": "18. Y yo sé que en mí (es á saber, en mi carne) no mora el bien: porque tengo el querer, mas efectuar el bien no lo alcanzo."
+            },
+            {
+              "cita": "Job 21:14",
+              "Pasaje": "14. Dicen pues á Dios: Apártate de nosotros, que no queremos el conocimiento de tus caminos."
+            },
+            {
+              "cita": "1 Cor. 2:14",
+              "Pasaje": "14. Mas el hombre animal no percibe las cosas que son del Espíritu de Dios, porque le son locura: y no las puede entender, porque se han de examinar espiritualmente."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Rom. 8:7",
+              "Pasaje": "7. Por cuanto la intención de la carne es enemistad contra Dios; porque no se sujeta á la ley de Dios, ni tampoco puede."
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "Éx. 17:7",
+              "Pasaje": "7. Y llamó el nombre de aquel lugar Massah y Meribah, por la rencilla de los hijos de Israel, y porque tentaron á Jehová, diciendo: ¿Está, pues, Jehová entre nosotros, ó no?"
+            },
+            {
+              "cita": "Núm. 14:2",
+              "Pasaje": "2. Y quejáronse contra Moisés y contra Aarón todos los hijos de Israel; y díjoles toda la multitud: ¡Ojalá muriéramos en la tierra de Egipto; ó en este desierto ojalá muriéramos!"
+            }
+          ]
+        },
+        {
+          "inciso": "e",
+          "citas": [
+            {
+              "cita": "Ef. 2:2",
+              "Pasaje": "2. En que en otro tiempo anduvisteis conforme á la condición de este mundo, conforme al príncipe de la potestad del aire, el espíritu que ahora obra en los hijos de desobediencia:"
+            }
+          ]
+        },
+        {
+          "inciso": "f",
+          "citas": [
+            {
+              "cita": "Ef. 1:17-18",
+              "Pasaje": "17. Que el Dios del Señor nuestro Jesucristo, el Padre de gloria, os dé espíritu de sabiduría y de revelación para su conocimiento;\n18. Alumbrando los ojos de vuestro entendimiento, para que sepáis cuál sea la esperanza de su vocación, y cuáles las riquezas de la gloria de su herencia en los santos,"
+            }
+          ]
+        },
+        {
+          "inciso": "g",
+          "citas": [
+            {
+              "cita": "Ef. 3:16",
+              "Pasaje": "16. Que os dé, conforme á las riquezas de su gloria, el ser corroborados con potencia en el hombre interior por su Espíritu."
+            }
+          ]
+        },
+        {
+          "inciso": "h",
+          "citas": [
+            {
+              "cita": "Mat. 26:40-41",
+              "Pasaje": "40. Y vino á sus discípulos, y los halló durmiendo, y dijo á Pedro: ¿Así no habéis podido velar conmigo una hora?\n41. Velad y orad, para que no entréis en tentación: el espíritu á la verdad está presto, mas la carne enferma."
+            }
+          ]
+        },
+        {
+          "inciso": "i",
+          "citas": [
+            {
+              "cita": "Jer. 31:18-19",
+              "Pasaje": "18. Escuchando, he oído á Ephraim que se lamentaba: Azotásteme, y fuí castigado como novillo indómito: conviérteme y seré convertido; porque tú eres Jehová mi Dios.\n19. Porque después que me convertí, tuve arrepentimiento, y después que me conocí, herí el muslo: avergoncéme, y confundíme, porque llevé la afrenta de mis mocedades."
+            }
+          ]
+        },
+        {
+          "inciso": "k",
+          "citas": [
+            {
+              "cita": "Sal. 119:1,8,35-36",
+              "Pasaje": "1. ALEPH. BIENAVENTURADOS los perfectos de camino; los que andan en la ley de Jehová.\n8. Tus estatutos guardaré: no me dejes enteramente.\n35. Guíame por la senda de tus mandamientos; porque en ella tengo mi voluntad.\n36. Inclina mi corazón á tus testimonios, y no á la avaricia."
+            },
+            {
+              "cita": "Hech. 21:14",
+              "Pasaje": "14. Y como no le pudimos persuadir, desistimos, diciendo: Hágase la voluntad del Señor."
+            }
+          ]
+        },
+        {
+          "inciso": "l",
+          "citas": [
+            {
+              "cita": "Miq. 6:8",
+              "Pasaje": "8. Oh hombre, él te ha declarado qué sea lo bueno, y qué pida de ti Jehová: solamente hacer juicio, y amar misericordia, y humillarte para andar con tu Dios."
+            },
+            {
+              "cita": "Sal. 100:2",
+              "Pasaje": "2. Servid á Jehová con alegría: venid ante su acatamiento con regocijo."
+            },
+            {
+              "cita": "Job 1:21",
+              "Pasaje": "21. Y dijo: Desnudo salí del vientre de mi madre, y desnudo tornaré allá. Jehová dió, y Jehová quitó: sea el nombre de Jehová bendito."
+            },
+            {
+              "cita": "2 Sam. 15:25-26",
+              "Pasaje": "25. Pero dijo el rey á Sadoc: Vuelve el arca de Dios á la ciudad; que si yo hallare gracia en los ojos de Jehová, él me volverá, y me hará ver á ella y á su tabernáculo:\n26. Y si dijere: No me agradas: aquí estoy, haga de mí lo que bien le pareciere."
+            },
+            {
+              "cita": "Isa. 38:3",
+              "Pasaje": "3. Y dijo: Oh Jehová, ruégote te acuerdes ahora que he andado delante de ti en verdad y con íntegro corazón, y que he hecho lo que ha sido agradable delante de tus ojos. Y lloró Ezechîas con gran lloro."
+            },
+            {
+              "cita": "Sal. 119:4-5",
+              "Pasaje": "4. Tú encargaste que sean muy guardados tus mandamientos.\n5. ¡Ojalá fuesen ordenados mis caminos á observar tus estatutos!"
+            },
+            {
+              "cita": "Rom. 12:11",
+              "Pasaje": "11. En el cuidado no perezosos; ardientes en espíritu; sirviendo al Señor;"
+            },
+            {
+              "cita": "Sal. 119:80",
+              "Pasaje": "80. Sea mi corazón íntegro en tus estatutos; porque no sea yo avergonzado."
+            },
+            {
+              "cita": "Sal. 119:112",
+              "Pasaje": "112. Mi corazón incliné á poner por obra tus estatutos de continuo, hasta el fin."
+            }
+          ]
+        },
+        {
+          "inciso": "m",
+          "citas": [
+            {
+              "cita": "Isa. 6:2-3",
+              "Pasaje": "2. Y encima de él estaban serafines: cada uno tenía seis alas; con dos cubrían sus rostros, y con dos cubrían sus pies, y con dos volaban.\n3. Y el uno al otro daba voces, diciendo: Santo, santo, santo, Jehová de los ejércitos: toda la tierra está llena de su gloria."
+            },
+            {
+              "cita": "Sal. 103:20-21",
+              "Pasaje": "20. Bendecid á Jehová, vosotros sus ángeles, poderosos en fortaleza, que ejecutáis su palabra, obedeciendo á la voz de su precepto.\n21. Bendecid á Jehová, vosotros todos sus ejércitos, ministros suyos, que hacéis su voluntad."
+            },
+            {
+              "cita": "Mat. 18:10",
+              "Pasaje": "10. Mirad no tengáis en poco á alguno de estos pequeños; porque os digo que sus ángeles en los cielos ven siempre la faz de mi Padre que está en los cielos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 193,
+      "pregunta": "¿Qué pedimos en la cuarta petición?",
+      "respuesta": "En la cuarta petición (que es: El pan nuestro de cada día dánoslo hoy), reconociendo que en Adán, y por nuestro propio pecado, hemos perdido nuestro derecho a todas las bendiciones exteriores de esta vida, y merecemos ser completamente privados de ellas por Dios, y que se nos vuelvan maldición en su uso; y que ni ellas por sí mismas pueden sustentarnos, ni nosotros merecerlas ni procurarlas por nuestra propia industria, sino que somos propensos a desearlas, obtenerlas y usarlas ilícitamente, pedimos para nosotros y para otros que, tanto ellos como nosotros, esperando día tras día en la providencia de Dios en el uso de los medios lícitos, gocemos, por su don gratuito y según mejor le parezca a su sabiduría paternal, de una porción suficiente de ellas; y que nos sean continuadas y bendecidas en nuestro uso santo y provechoso de ellas, y en el contentamiento con ellas; y que seamos guardados de todas las cosas que son contrarias a nuestro sustento y bienestar temporal.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Mat. 6:11",
+              "Pasaje": "11. Danos hoy nuestro pan cotidiano."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Gén. 2:17",
+              "Pasaje": "17. Mas del árbol de ciencia del bien y del mal no comerás de él; porque el día que de él comieres, morirás."
+            },
+            {
+              "cita": "Gén. 3:17",
+              "Pasaje": "17. Y al hombre dijo: Por cuanto obedeciste á la voz de tu mujer, y comiste del árbol de que te mandé diciendo, No comerás de él; maldita será la tierra por amor de ti; con dolor comerás de ella todos los días de tu vida;"
+            },
+            {
+              "cita": "Rom. 8:20-22",
+              "Pasaje": "20. Porque las criaturas sujetas fueron á vanidad, no de grado, mas por causa del que las sujetó con esperanza,\n21. Que también las mismas criaturas serán libradas de la servidumbre de corrupción en la libertad gloriosa de los hijos de Dios.\n22. Porque sabemos que todas las criaturas gimen á una, y á una están de parto hasta ahora."
+            },
+            {
+              "cita": "Jer. 5:25",
+              "Pasaje": "25. Vuestras iniquidades han estorbado estas cosas; y vuestros pecados apartaron de vosotros el bien."
+            },
+            {
+              "cita": "Deut. 28:15-17",
+              "Pasaje": "15. Y será, si no oyeres la voz de Jehová tu Dios, para cuidar de poner por obra todos sus mandamientos y sus estatutos, que yo te intimo hoy, que vendrán sobre ti todas estas maldiciones, y te alcanzarán.\n16. Maldito serás tu en la ciudad, y maldito en el campo.\n17. Maldito tu canastillo, y tus sobras."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Deut. 8:3",
+              "Pasaje": "3. Y te afligió, é hízote tener hambre, y te sustentó con maná, [comida] que no conocías tú, ni tus padres la habían conocido; para hacerte saber que el hombre no vivirá de solo pan, mas de todo lo que sale de la boca de Jehová vivirá el hombre."
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "Gén. 32:10",
+              "Pasaje": "10. Menor soy que todas las misericordias, y que toda la verdad que has usado para con tu siervo; que con mi bordón pasé este Jordán, y ahora estoy sobre dos cuadrillas."
+            }
+          ]
+        },
+        {
+          "inciso": "e",
+          "citas": [
+            {
+              "cita": "Deut. 8:17-18",
+              "Pasaje": "17. Y digas en tu corazón: Mi poder y la fortaleza de mi mano me han traído esta riqueza.\n18. Antes acuérdate de Jehová tu Dios: porque él te da el poder para hacer las riquezas, á fin de confirmar su pacto que juró á tus padres, como en este día."
+            }
+          ]
+        },
+        {
+          "inciso": "f",
+          "citas": [
+            {
+              "cita": "Jer. 6:13",
+              "Pasaje": "13. Porque desde el más chico de ellos hasta el más grande de ellos, cada uno sigue la avaricia; y desde el profeta hasta el sacerdote, todos son engañadores."
+            },
+            {
+              "cita": "Mar. 7:21-22",
+              "Pasaje": "21. Porque de dentro, del corazón de los hombres, salen los malos pensamientos, los adulterios, las fornicaciones, los homicidios,\n22. Los hurtos, las avaricias, las maldades, el engaño, las desvergüenzas, el ojo maligno, las injurias, la soberbia, la insensatez."
+            }
+          ]
+        },
+        {
+          "inciso": "g",
+          "citas": [
+            {
+              "cita": "Os. 12:7",
+              "Pasaje": "8. [Es] mercader [que] tiene en su mano peso falso, amador de opresión.",
+              "observacionPasaje": "En inglés «Hosea 12:7»; en la Reina-Valera 1909 este capítulo se numera 1 versículo(s) más adelante."
+            }
+          ]
+        },
+        {
+          "inciso": "h",
+          "citas": [
+            {
+              "cita": "Sant. 4:3",
+              "Pasaje": "3. Pedís, y no recibís, porque pedís mal, para gastar en vuestros deleites."
+            }
+          ]
+        },
+        {
+          "inciso": "i",
+          "citas": [
+            {
+              "cita": "Gén. 43:12-14",
+              "Pasaje": "12. Y tomad en vuestras manos doblado dinero, y llevad en vuestra mano el dinero vuelto en las bocas de vuestros costales; quizá fué yerro.\n13. Tomad también á vuestro hermano, y levantaos, y volved á aquel varón.\n14. Y el Dios Omnipotente os dé misericordias delante de aquel varón, y os suelte al otro vuestro hermano, y á este Benjamín. Y si he de ser privado de mis hijos, séalo."
+            },
+            {
+              "cita": "Gén. 28:20",
+              "Pasaje": "20. E hizo Jacob voto, diciendo: Si fuere Dios conmigo, y me guardare en este viaje que voy, y me diere pan para comer y vestido para vestir,"
+            }
+          ]
+        },
+        {
+          "inciso": "k",
+          "citas": [
+            {
+              "cita": "Ef. 4:28",
+              "Pasaje": "28. El que hurtaba, no hurte más; antes trabaje, obrando con sus manos lo que es bueno, para que tenga de qué dar al que padeciere necesidad."
+            },
+            {
+              "cita": "2 Tes. 3:11-12",
+              "Pasaje": "11. Porque oímos que andan algunos entre vosotros fuera de orden, no trabajando en nada, sino ocupados en curiosear.\n12. Y á los tales requerimos y rogamos por nuestro Señor Jesucristo, que, trabajando con reposo, coman su pan."
+            },
+            {
+              "cita": "Fil. 4:6",
+              "Pasaje": "6. Por nada estéis afanosos; sino sean notorias vuestras peticiones delante de Dios en toda oración y ruego, con hacimiento de gracias."
+            }
+          ]
+        },
+        {
+          "inciso": "l",
+          "citas": [
+            {
+              "cita": "1 Tim. 4:3-5",
+              "Pasaje": "3. Que prohibirán casarse, [y mandarán] abstenerse de las viandas que Dios crió para que con hacimiento de gracias participasen de ellas los fieles, y los que han conocido la verdad.\n4. Porque todo lo que Dios crió es bueno, y nada hay que desechar, tomándose con hacimiento de gracias:\n5. Porque por la palabra de Dios y por la oración es santificado."
+            }
+          ]
+        },
+        {
+          "inciso": "m",
+          "citas": [
+            {
+              "cita": "1 Tim. 6:6-8",
+              "Pasaje": "6. Empero grande granjería es la piedad con contentamiento.\n7. Porque nada hemos traído á este mundo, y sin duda nada podremos sacar.\n8. Así que, teniendo sustento y con qué cubrirnos, seamos contentos con esto."
+            }
+          ]
+        },
+        {
+          "inciso": "n",
+          "citas": [
+            {
+              "cita": "Prov. 30:8-9",
+              "Pasaje": "8. Vanidad y palabra mentirosa aparta de mí. No me des pobreza ni riquezas; manténme del pan que he menester;\n9. No sea que me harte, y [te] niegue, y diga, ¿Quién es Jehová? ó no sea que siendo pobre, hurte, y blasfeme el nombre de mi Dios."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 194,
+      "pregunta": "¿Qué pedimos en la quinta petición?",
+      "respuesta": "En la quinta petición (que es: Perdónanos nuestras deudas, como también nosotros perdonamos a nuestros deudores), reconociendo que nosotros y todos los demás somos culpables tanto del pecado original como del actual, y por ello hemos llegado a ser deudores a la justicia de Dios, y que ni nosotros ni ninguna otra criatura podemos dar la más mínima satisfacción por esa deuda, pedimos para nosotros y para otros que Dios, por su libre gracia, mediante la obediencia y la satisfacción de Cristo, comprendidas y aplicadas por la fe, nos absuelva tanto de la culpa como del castigo del pecado, nos acepte en su Amado, nos continúe su favor y su gracia, perdone nuestras faltas diarias y nos llene de paz y gozo, dándonos cada día más seguridad del perdón; lo cual nos atrevemos a pedir con mayor confianza, y nos animamos a esperar, cuando tenemos en nosotros mismos este testimonio: que de corazón perdonamos a otros sus ofensas.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Mat. 6:12",
+              "Pasaje": "12. Y perdónanos nuestras deudas, como también nosotros perdonamos á nuestros deudores."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Rom. 3:9-22",
+              "Pasaje": "9. ¿Qué pues? ¿Somos mejores que ellos? En ninguna manera: porque ya hemos acusado á Judíos y á Gentiles, que todos están debajo de pecado.\n10. Como está escrito: No hay justo, ni aun uno;\n11. No hay quien entienda, no hay quien busque á Dios;\n12. Todos se apartaron, á una fueron hechos inútiles; no hay quien haga lo bueno, no hay ni aun uno:\n13. Sepulcro abierto es su garganta; con sus lenguas tratan engañosamente; veneno de áspides está debajo de sus labios;\n14. Cuya boca está llena de maledicencia y de amargura;\n15. Sus pies son ligeros á derramar sangre;\n16. Quebrantamiento y desventura hay en sus caminos;\n17. Y camino de paz no conocieron:\n18. No hay temor de Dios delante de sus ojos.\n19. Empero sabemos que todo lo que la ley dice, á los que están en la ley lo dice, para que toda boca se tape, y que todo el mundo se sujete á Dios:\n20. Porque por las obras de la ley ninguna carne se justificará delante de él; porque por la ley [es] el conocimiento del pecado.\n21. Mas ahora, sin la ley, la justicia de Dios se ha manifestado, testificada por la ley y por los profetas:\n22. La justicia de Dios por la fe de Jesucristo, para todos los que creen en él; porque no hay diferencia;"
+            },
+            {
+              "cita": "Mat. 18:24-25",
+              "Pasaje": "24. Y comenzando á hacer cuentas, le fué presentado uno que le debía diez mil talentos.\n25. Mas á éste, no pudiendo pagar, mandó su señor venderle, y á su mujer é hijos, con todo lo que tenía, y que se [le] pagase."
+            },
+            {
+              "cita": "Sal. 130:3-4",
+              "Pasaje": "3. JAH, si mirares á los pecados, ¿quién, oh Señor, podrá mantenerse?\n4. Empero hay perdón cerca de ti, para que seas temido."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Rom. 3:24-26",
+              "Pasaje": "24. Siendo justificados gratuitamente por su gracia, por la redención que es en Cristo Jesús;\n25. Al cual Dios ha propuesto en propiciación por la fe en su sangre, para manifestación de su justicia, atento á haber pasado por alto, en su paciencia, los pecados pasados,\n26. Con la mira de manifestar su justicia en este tiempo: para que él sea el justo, y el que justifica al que es de la fe de Jesús."
+            },
+            {
+              "cita": "Heb. 9:22",
+              "Pasaje": "22. Y casi todo es purificado según la ley con sangre; y sin derramamiento de sangre no se hace remisión."
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "Ef. 1:6-7",
+              "Pasaje": "6. Para alabanza de la gloria de su gracia, con la cual nos hizo aceptos en el Amado:\n7. En el cual tenemos redención por su sangre, la remisión de pecados por las riquezas de su gracia,"
+            }
+          ]
+        },
+        {
+          "inciso": "e",
+          "citas": [
+            {
+              "cita": "2 Ped. 1:2",
+              "Pasaje": "2. Gracia y paz os sea multiplicada en el conocimiento de Dios, y de nuestro Señor Jesús."
+            }
+          ]
+        },
+        {
+          "inciso": "f",
+          "citas": [
+            {
+              "cita": "Os. 14:2",
+              "Pasaje": "2. Tomad con vosotros palabras, y convertíos á Jehová, y decidle: Quita toda iniquidad, y acepta el bien, y daremos becerros de nuestros labios."
+            },
+            {
+              "cita": "Jer. 14:7",
+              "Pasaje": "7. Si nuestras iniquidades testifican contra nosotros, oh Jehová, haz por amor de tu nombre; porque nuestras rebeliones se han multiplicado, contra ti pecamos."
+            }
+          ]
+        },
+        {
+          "inciso": "g",
+          "citas": [
+            {
+              "cita": "Rom. 15:13",
+              "Pasaje": "13. Y el Dios de esperanza os llene de todo gozo y paz creyendo, para que abundéis en esperanza por la virtud del Espíritu Santo."
+            },
+            {
+              "cita": "Sal. 51:7-10,12",
+              "Pasaje": "7. Purifícame con hisopo, y seré limpio: lávame, y seré emblanquecido más que la nieve.\n8. Hazme oir gozo y alegría; y se recrearán los huesos que has abatido.\n9. Esconde tu rostro de mis pecados, y borra todas mis maldades.\n10. Crea en mí, oh Dios, un corazón limpio; y renueva un espíritu recto dentro de mí.\n12. Vuélveme el gozo de tu salud; y el espíritu libre me sustente."
+            }
+          ]
+        },
+        {
+          "inciso": "h",
+          "citas": [
+            {
+              "cita": "Luc. 11:4",
+              "Pasaje": "4. Y perdónanos nuestros pecados, porque también nosotros perdonamos á todos los que nos deben. Y no nos metas en tentación, mas líbranos del malo."
+            },
+            {
+              "cita": "Mat. 6:14-15",
+              "Pasaje": "14. Porque si perdonareis á los hombres sus ofensas, os perdonará también á vosotros vuestro Padre celestial.\n15. Mas si no perdonareis á los hombres sus ofensas, tampoco vuestro Padre os perdonará vuestras ofensas."
+            },
+            {
+              "cita": "Mat. 18:35",
+              "Pasaje": "35. Así también hará con vosotros mi Padre celestial, si no perdonareis de vuestros corazones cada uno á su hermano sus ofensas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 195,
+      "pregunta": "¿Qué pedimos en la sexta petición?",
+      "respuesta": "En la sexta petición (que es: Y no nos metas en tentación, mas líbranos del mal), reconociendo que el sapientísimo, justísimo y misericordiosísimo Dios, para diversos fines santos y justos, puede disponer las cosas de tal manera que seamos asaltados, vencidos y por un tiempo llevados cautivos por las tentaciones; que Satanás, el mundo y la carne están prontos para desviarnos poderosamente y enredarnos; y que nosotros, aun después del perdón de nuestros pecados, a causa de nuestra corrupción, debilidad y falta de vigilancia, no solo estamos expuestos a ser tentados y somos propensos a exponernos a las tentaciones, sino que también por nosotros mismos somos incapaces de resistirlas, de salir de ellas y de aprovecharlas, y no estamos dispuestos a ello; y que merecemos ser dejados bajo su poder, pedimos que Dios gobierne de tal manera el mundo y todo lo que hay en él, someta la carne y refrene a Satanás, ordene todas las cosas, conceda y bendiga todos los medios de gracia, y nos avive a la vigilancia en el uso de ellos, que nosotros y todo su pueblo seamos guardados por su providencia de ser tentados a pecar; o, si somos tentados, que por su Espíritu seamos poderosamente sostenidos y capacitados para estar firmes en la hora de la tentación; o, cuando hayamos caído, que seamos levantados de nuevo y restaurados, y que hagamos de ello un uso y un provecho santificados; que nuestra santificación y salvación sean perfeccionadas, Satanás sea aplastado bajo nuestros pies, y seamos completamente librados del pecado, de la tentación y de todo mal para siempre.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Mat. 6:13",
+              "Pasaje": "13. Y no nos metas en tentación, mas líbranos del mal: porque tuyo es el reino, y el poder, y la gloria, por todos los siglos. Amén."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "2 Crón. 32:31",
+              "Pasaje": "31. Empero en [lo de] los embajadores de los príncipes de Babilonia, que enviaron á él para saber del prodigio que había acaecido en aquella tierra, Dios lo dejó, para probarle, para hacer conocer todo lo que estaba en su corazón."
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "1 Crón. 21:1",
+              "Pasaje": "1. MAS Satanás se levantó contra Israel, é incitó á David á que contase á Israel."
+            },
+            {
+              "cita": "Luc. 21:34",
+              "Pasaje": "34. Y mirad por vosotros, que vuestros corazones no sean cargados de glotonería y embriaguez, y de los cuidados de esta vida, y venga de repente sobre vosotros aquel día."
+            },
+            {
+              "cita": "Mar. 4:19",
+              "Pasaje": "19. Mas los cuidados de este siglo, y el engaño de las riquezas, y las codicias que hay en las otras cosas, entrando, ahogan la palabra, y se hace infructuosa."
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "Sant. 1:14",
+              "Pasaje": "14. Sino que cada uno es tentado, cuando de su propia concupiscencia es atraído, y cebado."
+            }
+          ]
+        },
+        {
+          "inciso": "e",
+          "citas": [
+            {
+              "cita": "Gál. 5:17",
+              "Pasaje": "17. Porque la carne codicia contra el Espíritu, y el Espíritu contra la carne: y estas cosas se oponen la una á la otra, para que no hagáis lo que quisiereis."
+            }
+          ]
+        },
+        {
+          "inciso": "f",
+          "citas": [
+            {
+              "cita": "Mat. 26:41",
+              "Pasaje": "41. Velad y orad, para que no entréis en tentación: el espíritu á la verdad está presto, mas la carne enferma."
+            }
+          ]
+        },
+        {
+          "inciso": "g",
+          "citas": [
+            {
+              "cita": "Mat. 26:69-72",
+              "Pasaje": "69. Y Pedro estaba sentado fuera en el patio: y se llegó á él una criada, diciendo: Y tú con Jesús el Galileo estabas.\n70. Mas él negó delante de todos, diciendo: No sé lo que dices.\n71. Y saliendo él á la puerta, le vió otra, y dijo á los que estaban allí: También éste estaba con Jesús Nazareno.\n72. Y negó otra vez con juramento: No conozco al hombre."
+            },
+            {
+              "cita": "Gál. 2:11-14",
+              "Pasaje": "11. Empero viniendo Pedro á Antioquía, le resistí en la cara, porque era de condenar.\n12. Porque antes que viniesen unos [de parte] de Jacobo, comía con los Gentiles; mas después que vinieron, se retraía y apartaba, teniendo miedo de los que eran de la circuncisión.\n13. Y á su disimulación consentían también los otros Judíos; de tal manera que aun Bernabé fué también llevado [de ellos] en su simulación.\n14. Mas cuando vi que no andaban derechamente conforme á la verdad del evangelio, dije á Pedro delante de todos: Si tú, siendo Judío, vives como los Gentiles y no como Judío, ¿por qué constriñes á los Gentiles á judaizar?"
+            },
+            {
+              "cita": "2 Crón. 18:3",
+              "Pasaje": "3. Y dijo Achâb rey de Israel á Josaphat rey de Judá: ¿Quieres venir conmigo á Ramoth de Galaad? Y él respondió: Como yo, así también tú; y como tu pueblo, así también mi pueblo: [iremos] contigo á la guerra."
+            },
+            {
+              "cita": "2 Crón. 19:2",
+              "Pasaje": "2. Y salióle al encuentro Jehú el vidente, hijo de Hanani, y dijo al rey Josaphat: ¿Al impío das ayuda, y amas á los que aborrecen á Jehová? Pues la ira de la presencia de Jehová será sobre ti por ello."
+            }
+          ]
+        },
+        {
+          "inciso": "h",
+          "citas": [
+            {
+              "cita": "Rom. 7:23-24",
+              "Pasaje": "23. Mas veo otra ley en mis miembros, que se rebela contra la ley de mi espíritu, y que me lleva cautivo á la ley del pecado que está en mis miembros.\n24. ¡Miserable hombre de mí! ¿quién me librará del cuerpo de esta muerte?"
+            },
+            {
+              "cita": "1 Crón. 21:1-4",
+              "Pasaje": "1. MAS Satanás se levantó contra Israel, é incitó á David á que contase á Israel.\n2. Y dijo David á Joab y á los príncipes del pueblo: Id, contad á Israel desde Beer-seba hasta Dan, y traedme el número de ellos para que yo lo sepa.\n3. Y dijo Joab: Añada Jehová á su pueblo cien veces otros tantos. Rey señor mío, ¿no son todos estos siervos de mi señor? ¿para qué procura mi señor esto, que será pernicioso á Israel?\n4. Mas el mandamiento del rey pudo más que Joab. Salió por tanto Joab, y fué por todo Israel; y volvió á Jerusalem, y dió la cuenta del número del pueblo á David."
+            },
+            {
+              "cita": "2 Crón. 16:7-10",
+              "Pasaje": "7. En aquel tiempo vino Hanani vidente á Asa rey de Judá, y díjole: Por cuanto te has apoyado en el rey de Siria, y no te apoyaste en Jehová tu Dios, por eso el ejército del rey de Siria ha escapado de tus manos.\n8. Los Etiopes y los Libios, ¿no eran un ejército numerosísimo, con carros y muy mucha gente de á caballo? con todo, porque te apoyaste en Jehová, él los entregó en tus manos.\n9. Porque los ojos de Jehová contemplan toda la tierra, para corroborar á los que tienen corazón perfecto para con él. Locamente has hecho en esto; porque de aquí adelante habrá guerra contra ti.\n10. Y enojado Asa contra el vidente, echólo en la casa de la cárcel, porque fué en extremo conmovido á causa de esto. Y oprimió Asa en aquel tiempo algunos del pueblo."
+            }
+          ]
+        },
+        {
+          "inciso": "i",
+          "citas": [
+            {
+              "cita": "Sal. 81:11-12",
+              "Pasaje": "11. Mas mi pueblo no oyó mi voz, é Israel no me quiso á mí.\n12. Dejélos por tanto á la dureza de su corazón: caminaron en sus consejos."
+            }
+          ]
+        },
+        {
+          "inciso": "k",
+          "citas": [
+            {
+              "cita": "Jn. 17:15",
+              "Pasaje": "15. No ruego que los quites del mundo, sino que los guardes del mal."
+            }
+          ]
+        },
+        {
+          "inciso": "l",
+          "citas": [
+            {
+              "cita": "Sal. 51:10",
+              "Pasaje": "10. Crea en mí, oh Dios, un corazón limpio; y renueva un espíritu recto dentro de mí."
+            },
+            {
+              "cita": "Sal. 119:133",
+              "Pasaje": "133. Ordena mis pasos con tu palabra; y ninguna iniquidad se enseñoree de mí."
+            }
+          ]
+        },
+        {
+          "inciso": "m",
+          "citas": [
+            {
+              "cita": "2 Cor. 12:7-8",
+              "Pasaje": "7. Y porque la grandeza de las revelaciones no me levante descomedidamente, me es dado un aguijón en mi carne, un mensajero de Satanás que me abofetee, para que no me enaltezca sobremanera.\n8. Por lo cual tres veces he rogado al Señor, que se quite de mí."
+            }
+          ]
+        },
+        {
+          "inciso": "n",
+          "citas": [
+            {
+              "cita": "1 Cor. 10:12-13",
+              "Pasaje": "12. Así que, el que piensa estar [firme], mire no caiga.\n13. No os ha tomado tentación, sino humana: mas fiel es Dios, que no os dejará ser tentados más de lo que podéis [llevar]; antes dará también juntamente con la tentación la salida, para que podáis aguantar."
+            }
+          ]
+        },
+        {
+          "inciso": "o",
+          "citas": [
+            {
+              "cita": "Heb. 13:20-21",
+              "Pasaje": "20. Y el Dios de paz que sacó de los muertos á nuestro Señor Jesucristo, el gran pastor de las ovejas, por la sangre del testamento eterno,\n21. Os haga aptos en toda obra buena para que hagáis su voluntad, haciendo él en vosotros lo que es agradable delante de él por Jesucristo: al cual [sea] gloria por los siglos de los siglos. Amén."
+            }
+          ]
+        },
+        {
+          "inciso": "p",
+          "citas": [
+            {
+              "cita": "Mat. 26:41",
+              "Pasaje": "41. Velad y orad, para que no entréis en tentación: el espíritu á la verdad está presto, mas la carne enferma."
+            },
+            {
+              "cita": "Sal. 19:13",
+              "Pasaje": "13. Detén asimismo á tu siervo de las soberbias; que no se enseñoreen de mí: entonces seré íntegro, y estaré limpio de gran rebelión."
+            }
+          ]
+        },
+        {
+          "inciso": "q",
+          "citas": [
+            {
+              "cita": "Ef. 3:14-17",
+              "Pasaje": "14. Por esta causa doblo mis rodillas al Padre de nuestro Señor Jesucristo,\n15. Del cual es nombrada toda la parentela en los cielos y en la tierra,\n16. Que os dé, conforme á las riquezas de su gloria, el ser corroborados con potencia en el hombre interior por su Espíritu.\n17. Que habite Cristo por la fe en vuestros corazones; para que, arraigados y fundados en amor,"
+            },
+            {
+              "cita": "1 Tes. 3:13",
+              "Pasaje": "13. Para que sean confirmados vuestros corazones en santidad, irreprensibles delante de Dios y nuestro Padre, para la venida de nuestro Señor Jesucristo con todos sus santos."
+            },
+            {
+              "cita": "Jud. 1:24",
+              "Pasaje": "24. A aquel, pues, que es poderoso para guardaros sin caída, y presentaros delante de su gloria irreprensibles, con grande alegría,"
+            }
+          ]
+        },
+        {
+          "inciso": "r",
+          "citas": [
+            {
+              "cita": "Sal. 51:12",
+              "Pasaje": "12. Vuélveme el gozo de tu salud; y el espíritu libre me sustente."
+            }
+          ]
+        },
+        {
+          "inciso": "s",
+          "citas": [
+            {
+              "cita": "1 Ped. 5:8-10",
+              "Pasaje": "8. Sed templados, y velad; porque vuestro adversario el diablo, cual león rugiente, anda alrededor buscando á quien devore:\n9. Al cual resistid firmes en la fe, sabiendo que las mismas aflicciones han de ser cumplidas en la compañía de vuestros hermanos que están en el mundo.\n10. Mas el Dios de toda gracia, que nos ha llamado á su gloria eterna por Jesucristo, después que hubiereis un poco de tiempo padecido, él mismo os perfeccione, confirme, corrobore y establezca."
+            }
+          ]
+        },
+        {
+          "inciso": "t",
+          "citas": [
+            {
+              "cita": "2 Cor. 13:7,9",
+              "Pasaje": "7. Y oramos á Dios que ninguna cosa mala hagáis; no para que nosotros seamos hallados aprobados, mas para que vosotros hagáis lo que es bueno, aunque nosotros seamos como reprobados.\n9. Por lo cual nos gozamos que seamos nosotros flacos, y que vosotros estéis fuertes; y aun deseamos vuestra perfección."
+            }
+          ]
+        },
+        {
+          "inciso": "u",
+          "citas": [
+            {
+              "cita": "Rom. 16:20",
+              "Pasaje": "20. Y el Dios de paz quebrantará presto á Satanás debajo de vuestros pies. La gracia del Señor nuestro Jesucristo [sea] con vosotros."
+            }
+          ]
+        },
+        {
+          "inciso": "v",
+          "citas": [
+            {
+              "cita": "Luc. 22:31-32",
+              "Pasaje": "31. Dijo también el Señor: Simón, Simón, he aquí Satanás os ha pedido para zarandaros como á trigo;\n32. Mas yo he rogado por ti que tu fe no falte: y tú, una vez vuelto, confirma á tus hermanos."
+            }
+          ]
+        },
+        {
+          "inciso": "w",
+          "citas": [
+            {
+              "cita": "Jn. 17:15",
+              "Pasaje": "15. No ruego que los quites del mundo, sino que los guardes del mal."
+            }
+          ]
+        },
+        {
+          "inciso": "x",
+          "citas": [
+            {
+              "cita": "1 Tes. 5:23",
+              "Pasaje": "23. Y el Dios de paz os santifique en todo; para que vuestro espíritu y alma y cuerpo sea guardado entero sin reprensión para la venida de nuestro Señor Jesucristo."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 196,
+      "pregunta": "¿Qué nos enseña la conclusión del Padrenuestro?",
+      "respuesta": "La conclusión del Padrenuestro (que es: Porque tuyo es el reino, y el poder, y la gloria, por todos los siglos. Amén) nos enseña a reforzar nuestras peticiones con argumentos, los cuales no se han de tomar de ningún mérito en nosotros mismos ni en ninguna otra criatura, sino de Dios; y a unir alabanzas a nuestras oraciones, atribuyendo solamente a Dios la soberanía eterna, la omnipotencia y la gloriosa excelencia; en vista de lo cual, así como él puede y quiere ayudarnos, así nosotros, por la fe, nos atrevemos a rogarle que lo haga, y a descansar tranquilamente en él, confiando en que cumplirá nuestras peticiones. Y, para testificar este deseo y esta seguridad nuestros, decimos: Amén.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Mat. 6:13",
+              "Pasaje": "13. Y no nos metas en tentación, mas líbranos del mal: porque tuyo es el reino, y el poder, y la gloria, por todos los siglos. Amén."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
+          "citas": [
+            {
+              "cita": "Rom. 15:30",
+              "Pasaje": "30. Ruégoos empero, hermanos, por el Señor nuestro Jesucristo, y por la caridad del Espíritu, que me ayudéis con oraciones por mí á Dios,"
+            }
+          ]
+        },
+        {
+          "inciso": "c",
+          "citas": [
+            {
+              "cita": "Dan. 9:4,7-9,16-19",
+              "Pasaje": "4. Y oré á Jehová mi Dios, y confesé, y dije: Ahora Señor, Dios grande, digno de ser temido, que guardas el pacto y la misericordia con los que te aman y guardan tus mandamientos;\n7. Tuya es, Señor, la justicia, y nuestra la confusión de rostro, como en el día de hoy á todo hombre de Judá, y á los moradores de Jerusalem, y á todo Israel, á los de cerca y á los de lejos, en todas las tierras á donde los has echado á causa de su rebelión con que contra ti se rebelaron.\n8. Oh Jehová, nuestra es la confusión de rostro, de nuestros reyes, de nuestros príncipes, y de nuestros padres; porque contra ti pecamos.\n9. De Jehová nuestro Dios es el tener misericordia, y el perdonar, aunque contra él nos hemos rebelado;\n16. Oh Señor, según todas tus justicias, apártese ahora tu ira y tu furor de sobre tu ciudad Jerusalem, tu santo monte: porque á causa de nuestros pecados, y por la maldad de nuestros padres, Jerusalem y tu pueblo dados son en oprobio á todos en derredor nuestro.\n17. Ahora pues, Dios nuestro, oye la oración de tu siervo, y sus ruegos, y haz que tu rostro resplandezca sobre tu santuario asolado, por amor del Señor.\n18. Inclina, oh Dios mío, tu oído, y oye; abre tus ojos, y mira nuestros asolamientos, y la ciudad sobre la cual es llamado tu nombre: porque no derramamos nuestros ruegos ante tu acatamiento [confiados] en nuestras justicias, sino en tus muchas miseraciones.\n19. Oye, Señor; oh Señor, perdona; presta oído, Señor, y haz; no pongas dilación, por amor de ti mismo, Dios mío: porque tu nombre es llamado sobre tu ciudad y sobre tu pueblo."
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "Fil. 4:6",
+              "Pasaje": "6. Por nada estéis afanosos; sino sean notorias vuestras peticiones delante de Dios en toda oración y ruego, con hacimiento de gracias."
+            }
+          ]
+        },
+        {
+          "inciso": "e",
+          "citas": [
+            {
+              "cita": "1 Crón. 29:10-13",
+              "Pasaje": "10. Asimismo holgóse mucho el rey David, y bendijo á Jehová delante de toda la congregación; y dijo David: Bendito seas tú, oh Jehová, Dios de Israel nuestro padre, de uno á otro siglo.\n11. Tuya es, oh Jehová, la magnificencia, y el poder, y la gloria, la victoria, y el honor; porque todas las cosas que están en los cielos y en la tierra [son tuyas]. Tuyo, oh Jehová, es el reino, y la altura sobre todos [los que están] por cabeza.\n12. Las riquezas y la gloria están delante de ti, y tú señoreas á todos: y en tu mano está la potencia y la fortaleza, y en tu mano la grandeza y fuerza de todas las cosas.\n13. Ahora pues, Dios nuestro, nosotros te confesamos, y loamos tu glorioso nombre."
+            }
+          ]
+        },
+        {
+          "inciso": "f",
+          "citas": [
+            {
+              "cita": "Ef. 3:20-21",
+              "Pasaje": "20. Y á Aquel que es poderoso para hacer todas las cosas mucho más abundantemente de lo que pedimos ó entendemos, por la potencia que obra en nosotros,\n21. A él [sea] gloria en la iglesia por Cristo Jesús, por todas edades del siglo de los siglos. Amén."
+            },
+            {
+              "cita": "Luc. 11:13",
+              "Pasaje": "13. Pues si vosotros, siendo malos, sabéis dar buenas dádivas á vuestros hijos, ¿cuánto más vuestro Padre celestial dará el Espíritu Santo á los que lo pidieren de él?"
+            }
+          ]
+        },
+        {
+          "inciso": "g",
+          "citas": [
+            {
+              "cita": "2 Crón. 20:6,11",
+              "Pasaje": "6. Y dijo: Jehová Dios de nuestros padres, ¿no eres tú Dios en los cielos, y te enseñoreas en todos los reinos de las Gentes? ¿no está en tu mano tal fuerza y potencia, que no hay quien te resista?\n11. He aquí ellos nos dan el pago, viniendo á echarnos de tu heredad, que tú nos diste á poseer."
+            }
+          ]
+        },
+        {
+          "inciso": "h",
+          "citas": [
+            {
+              "cita": "2 Crón. 14:11",
+              "Pasaje": "11. Y clamó Asa á Jehová su Dios, y dijo: Jehová, no tienes tú más con el grande que con el que ninguna fuerza tiene, para dar ayuda. Ayúdanos, oh Jehová Dios nuestro, porque en ti nos apoyamos, y en tu nombre venimos contra este ejército. Oh Jehová, tú eres nuestro Dios: no prevalezca contra ti el hombre."
+            }
+          ]
+        },
+        {
+          "inciso": "i",
+          "citas": [
+            {
+              "cita": "1 Cor. 14:16",
+              "Pasaje": "16. Porque si bendijeres con el espíritu, el que ocupa lugar de un mero particular, ¿cómo dirá amén á tu acción de gracias? pues no sabe lo que has dicho."
+            },
+            {
+              "cita": "Apoc. 22:20-21",
+              "Pasaje": "20. El que da testimonio de estas cosas, dice: Ciertamente, vengo en breve. Amén, sea así. Ven, Señor Jesús.\n21. La gracia de nuestro Señor Jesucristo sea con todos vosotros. Amén."
             }
           ]
         }
