@@ -240,6 +240,25 @@ test('al abrir un enlace #pregunta-N la tarjeta queda visible bajo las barras fi
   expect(tope).toBeGreaterThanOrEqual(fijo);
 });
 
+test('Catecismo Mayor: se elige, muestra sus 196 preguntas y pasajes RV1909, también sin servidor', async ({ page }) => {
+  const mayor = leer('data/catecismo-mayor-westminster.json');
+  expect(mayor.preguntas).toHaveLength(196);
+  for (const url of ['/', pathToFileURL(new URL('../index.html', import.meta.url).pathname).href]) {
+    await page.goto(url);
+    await page.locator('#catalogo').getByRole('button', { name: /Catecismo Mayor de Westminster/ }).click();
+    await expect(page.locator('#tituloEstudio')).toHaveText('Catecismo Mayor de Westminster');
+    await expect(page.locator('#totalPreguntas')).toHaveText(`${mayor.preguntas.length} preguntas`);
+    await expect(page.locator('#pregunta-1 .pregunta')).toHaveText(mayor.preguntas[0].pregunta);
+    await abrirRefs(page, 1);
+    await page.locator('#pregunta-1').getByRole('button', { name: 'Ver pasaje bíblico Rom. 11:36' }).click();
+    await expect(page.locator('#textoPasaje')).toHaveText(mayor.preguntas[0].referenciasBiblicas[0].citas[0].Pasaje);
+    await expect(page.locator('#versionPasaje')).toHaveText('Versión: Reina-Valera 1909');
+    await page.keyboard.press('Escape');
+    await page.locator('#selectorCatecismo').selectOption('catecismo-menor');
+    await expect(page.locator('#totalPreguntas')).toHaveText(`${N} preguntas`);
+  }
+});
+
 test('un catecismo o confesión nuevo en catalogo.json aparece y se recuerda', async ({ page }) => {
   const catalogo = leer('data/catalogo.json');
   catalogo.catecismos.push({ id: 'prueba', titulo: 'Confesión de prueba', subtitulo: 'Documento de ejemplo', tipo: 'Confesión', archivo: 'data/prueba.json', activo: true });
@@ -250,7 +269,7 @@ test('un catecismo o confesión nuevo en catalogo.json aparece y se recuerda', a
   await page.route('**/data/catalogo.json', (r) => r.fulfill({ json: catalogo }));
   await page.route('**/data/prueba.json', (r) => r.fulfill({ json: doc }));
   await page.goto('/');
-  await expect(page.locator('#catalogo .libro')).toHaveCount(2);
+  await expect(page.locator('#catalogo .libro')).toHaveCount(catalogo.catecismos.length);
   await expect(page.locator('#catalogo')).toContainText('Confesión');
   await page.locator('#catalogo').getByRole('button', { name: /Confesión de prueba/ }).click();
   await expect(page.locator('#tituloEstudio')).toHaveText('Confesión de prueba');
@@ -261,4 +280,13 @@ test('un catecismo o confesión nuevo en catalogo.json aparece y se recuerda', a
   await expect(page.locator('#pregunta-2')).toBeInViewport();
   await page.locator('#selectorCatecismo').selectOption('catecismo-menor');
   await expect(page.locator('#totalPreguntas')).toHaveText(`${N} preguntas`);
+});
+
+test('al cambiar de documento después de abrir un enlace compartido, recargar conserva el documento elegido', async ({ page }) => {
+  await page.goto('/?documento=catecismo-menor#pregunta-5');
+  await page.locator('#selectorCatecismo').selectOption('catecismo-mayor');
+  await expect(page.locator('#tituloEstudio')).toHaveText('Catecismo Mayor de Westminster');
+  expect(new URL(page.url()).search + new URL(page.url()).hash).toBe('');
+  await page.reload();
+  await expect(page.locator('#tituloEstudio')).toHaveText('Catecismo Mayor de Westminster');
 });

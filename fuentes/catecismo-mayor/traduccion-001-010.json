@@ -1,0 +1,107 @@
+{
+ "1": {
+  "pregunta": "¿Cuál es el fin principal y más elevado del hombre?",
+  "respuesta": "El fin principal y más elevado del hombre es glorificar a Dios y gozar plenamente de él para siempre.",
+  "incisos": [
+   2,
+   2
+  ]
+ },
+ "2": {
+  "pregunta": "¿Cómo se manifiesta que hay un Dios?",
+  "respuesta": "La luz misma de la naturaleza en el hombre y las obras de Dios declaran claramente que hay un Dios; pero solamente su Palabra y su Espíritu lo revelan suficiente y eficazmente a los hombres para su salvación.",
+  "incisos": [
+   3,
+   3
+  ]
+ },
+ "3": {
+  "pregunta": "¿Qué es la Palabra de Dios?",
+  "respuesta": "Las Santas Escrituras del Antiguo y del Nuevo Testamento son la Palabra de Dios, la única regla de fe y obediencia.",
+  "incisos": [
+   2,
+   6
+  ]
+ },
+ "4": {
+  "pregunta": "¿Cómo se manifiesta que las Escrituras son la Palabra de Dios?",
+  "respuesta": "Las Escrituras se manifiestan como Palabra de Dios por su majestad y pureza; por la armonía de todas sus partes y el propósito del conjunto, que es dar toda la gloria a Dios; por su luz y su poder para convencer y convertir a los pecadores, y para consolar y edificar a los creyentes para salvación; pero solamente el Espíritu de Dios, dando testimonio por medio de las Escrituras y juntamente con ellas en el corazón del hombre, puede persuadirlo plenamente de que ellas son la misma Palabra de Dios.",
+  "incisos": [
+   3,
+   2,
+   2,
+   1,
+   6,
+   3
+  ]
+ },
+ "5": {
+  "pregunta": "¿Qué enseñan principalmente las Escrituras?",
+  "respuesta": "Las Escrituras enseñan principalmente lo que el hombre debe creer acerca de Dios y el deber que Dios requiere del hombre.",
+  "incisos": [
+   1
+  ]
+ },
+ "6": {
+  "pregunta": "¿Qué dan a conocer las Escrituras acerca de Dios?",
+  "respuesta": "Las Escrituras dan a conocer lo que Dios es, las personas de la Deidad, sus decretos y la ejecución de sus decretos.",
+  "incisos": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "correcciones": {
+   "1 John 5:17": [
+    "1 John 5:7",
+    "La fuente indica «1 John 5:17», que no trata de las personas de la Deidad; las ediciones estándar citan 1 Juan 5:7 (igual que la pregunta 9)."
+   ]
+  }
+ },
+ "7": {
+  "pregunta": "¿Qué es Dios?",
+  "respuesta": "Dios es Espíritu, en sí mismo y por sí mismo infinito en ser, gloria, bienaventuranza y perfección; todo suficiente, eterno, inmutable, incomprensible, presente en todo lugar, todopoderoso, que conoce todas las cosas, sumamente sabio, sumamente santo, sumamente justo, sumamente misericordioso y clemente, paciente, y abundante en bondad y verdad.",
+  "incisos": [
+   1,
+   2,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   2,
+   1,
+   1
+  ]
+ },
+ "8": {
+  "pregunta": "¿Hay más de un Dios?",
+  "respuesta": "No hay sino uno solo, el Dios vivo y verdadero.",
+  "incisos": [
+   3
+  ]
+ },
+ "9": {
+  "pregunta": "¿Cuántas personas hay en la Deidad?",
+  "respuesta": "Hay tres personas en la Deidad: el Padre, el Hijo y el Espíritu Santo; y estas tres son un solo Dios verdadero y eterno, de la misma sustancia, iguales en poder y gloria, aunque distinguidas por sus propiedades personales.",
+  "incisos": [
+   5
+  ]
+ },
+ "10": {
+  "pregunta": "¿Cuáles son las propiedades personales de las tres personas de la Deidad?",
+  "respuesta": "Es propio del Padre engendrar al Hijo; del Hijo, ser engendrado por el Padre; y del Espíritu Santo, proceder del Padre y del Hijo desde toda la eternidad.",
+  "incisos": [
+   1,
+   1,
+   2
+  ]
+ }
+}

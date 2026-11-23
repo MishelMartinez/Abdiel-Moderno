@@ -8,6 +8,14 @@
       "archivo": "data/catecismo-menor.json",
       "pendientes": "data/catecismo-menor-pendientes.json",
       "activo": true
+    },
+    {
+      "id": "catecismo-mayor",
+      "titulo": "Catecismo Mayor de Westminster",
+      "subtitulo": "196 preguntas y respuestas con pasajes de la Reina-Valera 1909",
+      "tipo": "Catecismo",
+      "archivo": "data/catecismo-mayor-westminster.json",
+      "activo": true
     }
   ]
 }

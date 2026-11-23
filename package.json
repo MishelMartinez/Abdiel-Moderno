@@ -8,7 +8,8 @@
     "sync": "node scripts/sincronizar-datos.mjs",
     "validar": "node scripts/validar-datos.mjs",
     "start": "node scripts/servidor.mjs 8080",
-    "test": "npm run validar && playwright test"
+    "test": "npm run validar && playwright test",
+    "mayor": "node scripts/catecismo-mayor.mjs && node scripts/sincronizar-datos.mjs"
   },
   "devDependencies": {
     "@playwright/test": "1.56.1"
