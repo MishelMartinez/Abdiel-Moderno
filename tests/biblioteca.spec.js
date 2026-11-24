@@ -313,7 +313,7 @@ test('al cambiar de documento después de abrir un enlace compartido, recargar c
 });
 
 test('Lectura bíblica: cambia entre Reina-Valera 1960 y la Biblia del Oso 1569, sin audio en 1569', async ({ page }) => {
-  for (const q of ordenadas.slice(0, 100)) {
+  for (const q of ordenadas) {
     for (const c of q.referenciasBiblicas.flatMap((g) => g.citas)) expect(c.PasajeOso1569?.trim(), `P${q.numero} ${c.cita}`).toBeTruthy();
   }
   expect(cita(42, 'Mat. 22:37-40').PasajeOso1569).toMatch(/^37\. /);
@@ -359,10 +359,14 @@ test('Lectura bíblica: cambia entre Reina-Valera 1960 y la Biblia del Oso 1569,
   await rv.click();
   expect(await page.locator('#textoComparativo').textContent()).toBe(hebreos.pasajeComparativo);
   await page.keyboard.press('Escape');
-  // Sin pasaje de 1569 todavía (pregunta 101): no se muestra el selector
-  await page.goto('/#pregunta-101');
-  await abrirRefs(page, 101);
-  await page.locator('#pregunta-101').getByRole('button', { name: /^Ver pasaje bíblico/ }).first().click();
-  await expect(versiones).toBeHidden();
+  // Última pregunta (107): también tiene el texto de 1569, solo lectura
+  await page.goto('/#pregunta-107');
+  await abrirRefs(page, 107);
+  await page.locator('#pregunta-107').getByRole('button', { name: /^Ver pasaje bíblico/ }).first().click();
+  await expect(versiones).toBeVisible();
+  await oso.click();
+  await expect(page.locator('#textoPasaje')).toHaveClass(/pasaje-1569/);
+  await expect(escuchar).toBeHidden();
+  await rv.click();
   if (hayVoz) await expect(escuchar).toBeVisible();
 });
