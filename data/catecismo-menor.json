@@ -1227,11 +1227,13 @@
           "citas": [
             {
               "cita": "2 Tim. 1:9",
-              "Pasaje": "9. quien nos salvó y llamó con llamamiento santo, no conforme a nuestras obras, sino según el propósito suyo y la gracia que nos fue dada en Cristo Jesús antes de los tiempos de los siglos,"
+              "Pasaje": "9. quien nos salvó y llamó con llamamiento santo, no conforme a nuestras obras, sino según el propósito suyo y la gracia que nos fue dada en Cristo Jesús antes de los tiempos de los siglos,",
+              "PasajeOso1569": "9. Que nos ha librado, y nos llamó à la ſancta vocacion: no por nueſtras obras, mas ſegun el intento ſuyo, y por la gracia, laqual nos es dada en el Chriſto Ieſus, antes de los tiempos de los ſiglos:"
             },
             {
               "cita": "2 Tes. 2:13,14",
-              "Pasaje": "13. Pero nosotros debemos dar siempre gracias a Dios respecto a vosotros, hermanos amados por el Señor, de que Dios os haya escogido desde el principio para salvación, mediante la santificación por el Espíritu y la fe en la verdad,\n14. a lo cual os llamó mediante nuestro evangelio, para alcanzar la gloria de nuestro Señor Jesucristo."
+              "Pasaje": "13. Pero nosotros debemos dar siempre gracias a Dios respecto a vosotros, hermanos amados por el Señor, de que Dios os haya escogido desde el principio para salvación, mediante la santificación por el Espíritu y la fe en la verdad,\n14. a lo cual os llamó mediante nuestro evangelio, para alcanzar la gloria de nuestro Señor Jesucristo.",
+              "PasajeOso1569": "13. Mas noſotros deuemos hazer ſiempre gracias à Dios por voſotros, Hermanos amados del Señor, deque Dios hos aya eſcogido por primicias de ſalud, por la ſanctificacion del Eſpiritu y la fe verdadera:\n14. A loqual hos llamó por nueſtro Euãgelio para alcançar la gloria de nueſtro Señor Ieſus el Chriſto."
             }
           ]
         },
@@ -1240,7 +1242,8 @@
           "citas": [
             {
               "cita": "Hch. 2:37",
-              "Pasaje": "37. Al oír esto, se compungieron de corazón, y dijeron a Pedro y a los otros apóstoles: Varones hermanos, ¿qué haremos?"
+              "Pasaje": "37. Al oír esto, se compungieron de corazón, y dijeron a Pedro y a los otros apóstoles: Varones hermanos, ¿qué haremos?",
+              "PasajeOso1569": "37. ¶ Entonces, oydas eſtas coſas, fueron compungidos de coraçõ, y dixeron à Pedro, y à los otros Apoſtoles, Varones hermanos, que haremos."
             }
           ]
         },
@@ -1249,19 +1252,23 @@
           "citas": [
             {
               "cita": "Hch. 26:18",
-              "Pasaje": "18. para que abras sus ojos, para que se conviertan de las tinieblas a la luz, y de la potestad de Satanás a Dios; para que reciban, por la fe que es en mí, perdón de pecados y herencia entre los santificados."
+              "Pasaje": "18. para que abras sus ojos, para que se conviertan de las tinieblas a la luz, y de la potestad de Satanás a Dios; para que reciban, por la fe que es en mí, perdón de pecados y herencia entre los santificados.",
+              "PasajeOso1569": "18. Paraque abras ſus ojos: para que ſe cõuiertan de las tinieblas à la luz: y de la poteſtad de Satanas à Dios: para que reciban por la fe, que es en mi, remiſsion de peccados, y ſuerte entre los Sanctificados."
             },
             {
               "cita": "1 Cor. 2:10,12",
-              "Pasaje": "10. Pero Dios nos las reveló a nosotros por el Espíritu; porque el Espíritu todo lo escudriña, aun lo profundo de Dios.\n12. Y nosotros no hemos recibido el espíritu del mundo, sino el Espíritu que proviene de Dios, para que sepamos lo que Dios nos ha concedido,"
+              "Pasaje": "10. Pero Dios nos las reveló a nosotros por el Espíritu; porque el Espíritu todo lo escudriña, aun lo profundo de Dios.\n12. Y nosotros no hemos recibido el espíritu del mundo, sino el Espíritu que proviene de Dios, para que sepamos lo que Dios nos ha concedido,",
+              "PasajeOso1569": "10. Empero Dios nos lo reueló à noſotros por ſu Eſpiritu: por que el Eſpiritu todo lo eſcudriña, aun lo profundo de Dios.\n12. Y noſotros auemos recebido no eſpiritu del mundo: mas el Eſpiritu que es venido de Dios, paraque conozcamos loq̃ Dios nos ha dado:"
             },
             {
               "cita": "2 Cor. 4:6",
-              "Pasaje": "6. Porque Dios, que mandó que de las tinieblas resplandeciese la luz, es el que resplandeció en nuestros corazones, para iluminación del conocimiento de la gloria de Dios en la faz de Jesucristo."
+              "Pasaje": "6. Porque Dios, que mandó que de las tinieblas resplandeciese la luz, es el que resplandeció en nuestros corazones, para iluminación del conocimiento de la gloria de Dios en la faz de Jesucristo.",
+              "PasajeOso1569": "6. Porq̃ el Dios, q̃ dixo q̃ de las tinieblas reſplandecieſſe la luz, es el q̃ reſplandeció en nueſtros coraçones para illuminacion de ſciencia [de la claridad de Dios] en la faz del Chriſto IESVS."
             },
             {
               "cita": "Ef. 1:17-18",
-              "Pasaje": "17. para que el Dios de nuestro Señor Jesucristo, el Padre de gloria, os dé espíritu de sabiduría y de revelación en el conocimiento de él,\n18. alumbrando los ojos de vuestro entendimiento, para que sepáis cuál es la esperanza a que él os ha llamado, y cuáles las riquezas de la gloria de su herencia en los santos,"
+              "Pasaje": "17. para que el Dios de nuestro Señor Jesucristo, el Padre de gloria, os dé espíritu de sabiduría y de revelación en el conocimiento de él,\n18. alumbrando los ojos de vuestro entendimiento, para que sepáis cuál es la esperanza a que él os ha llamado, y cuáles las riquezas de la gloria de su herencia en los santos,",
+              "PasajeOso1569": "17. Que el Dios del Señor nueſtro Ieſus el Chriſto, Padre de gloria, hos dé Eſpiritu de ſabiduria y de reuelacion por ſu conocimiento:\n18. Alumbrãdo los ojos de vueſtro entẽdimiento, para que ſepays qual ſea la eſperança de ſu vocacion, y quales ſean las riquezas de la gloria de ſu herencia en los Sanctos:"
             }
           ]
         },
@@ -1270,27 +1277,33 @@
           "citas": [
             {
               "cita": "Deu. 30:6",
-              "Pasaje": "6. Y circuncidará Jehová tu Dios tu corazón, y el corazón de tu descendencia, para que ames a Jehová tu Dios con todo tu corazón y con toda tu alma, a fin de que vivas."
+              "Pasaje": "6. Y circuncidará Jehová tu Dios tu corazón, y el corazón de tu descendencia, para que ames a Jehová tu Dios con todo tu corazón y con toda tu alma, a fin de que vivas.",
+              "PasajeOso1569": "6. ¶ Y circũcidará Iehoua tu Dios tu coraçon, y el coraçon de tu ſimiente, paraque ames à Iehoua tu Dios contodo tu coraçõ, y con toda tu anima para tu vida."
             },
             {
               "cita": "Eze. 36:26,27",
-              "Pasaje": "26. Os daré corazón nuevo, y pondré espíritu nuevo dentro de vosotros; y quitaré de vuestra carne el corazón de piedra, y os daré un corazón de carne.\n27. Y pondré dentro de vosotros mi Espíritu, y haré que andéis en mis estatutos, y guardéis mis preceptos, y los pongáis por obra."
+              "Pasaje": "26. Os daré corazón nuevo, y pondré espíritu nuevo dentro de vosotros; y quitaré de vuestra carne el corazón de piedra, y os daré un corazón de carne.\n27. Y pondré dentro de vosotros mi Espíritu, y haré que andéis en mis estatutos, y guardéis mis preceptos, y los pongáis por obra.",
+              "PasajeOso1569": "26. Y os daré coraçõ nueuo: y põdré eſpiritu nueuo dẽtro de voſotros: y quitaré de vueſtra carne el coraçõ de piedra, y daroshé coraçon de carne.\n27. Y põdre dẽtro de voſotros mi Eſpiritu, y haré q̃ andeys en mis mandamiẽtos, y guardeys mis derechos, y los hagays."
             },
             {
               "cita": "Jn. 3:5",
-              "Pasaje": "5. Respondió Jesús: De cierto, de cierto te digo, que el que no naciere de agua y del Espíritu, no puede entrar en el reino de Dios."
+              "Pasaje": "5. Respondió Jesús: De cierto, de cierto te digo, que el que no naciere de agua y del Espíritu, no puede entrar en el reino de Dios.",
+              "PasajeOso1569": "5. Reſpondió IESVS, Decierto decierto te digo, que el que no renaciere de agua y de Eſpiritu, no puede entrar en el Reyno de Dios."
             },
             {
               "cita": "Tit. 3:5",
-              "Pasaje": "5. nos salvó, no por obras de justicia que nosotros hubiéramos hecho, sino por su misericordia, por el lavamiento de la regeneración y por la renovación en el Espíritu Santo,"
+              "Pasaje": "5. nos salvó, no por obras de justicia que nosotros hubiéramos hecho, sino por su misericordia, por el lavamiento de la regeneración y por la renovación en el Espíritu Santo,",
+              "PasajeOso1569": "5. No por las obras de juſticia que noſotros auiamos hecho, mas por ſu miſericordia, nos ſaluó por el lauamiento de la regeneracion, y de la renouacion del Eſpiritu Sancto,"
             },
             {
               "cita": "Jn. 6:44,45",
-              "Pasaje": "44. Ninguno puede venir a mí, si el Padre que me envió no le trajere; y yo le resucitaré en el día postrero.\n45. Escrito está en los profetas: Y serán todos enseñados por Dios. Así que, todo aquel que oyó al Padre, y aprendió de él, viene a mí."
+              "Pasaje": "44. Ninguno puede venir a mí, si el Padre que me envió no le trajere; y yo le resucitaré en el día postrero.\n45. Escrito está en los profetas: Y serán todos enseñados por Dios. Así que, todo aquel que oyó al Padre, y aprendió de él, viene a mí.",
+              "PasajeOso1569": "44. Ninguno puede venir à mi, ſi el Padre, que me embió, no lo truxere: y yo lo reſuſcitaré en el dia poſtrero.\n45. Eſcripto eſtá en los Prophetas, Y ſerán todos enſeñados de Dios. anſique todo aquel que oyó del Padre, y aprendió, viene à mi."
             },
             {
               "cita": "Hch. 16:14",
-              "Pasaje": "14. Entonces una mujer llamada Lidia, vendedora de púrpura, de la ciudad de Tiatira, que adoraba a Dios, estaba oyendo; y el Señor abrió el corazón de ella para que estuviese atenta a lo que Pablo decía."
+              "Pasaje": "14. Entonces una mujer llamada Lidia, vendedora de púrpura, de la ciudad de Tiatira, que adoraba a Dios, estaba oyendo; y el Señor abrió el corazón de ella para que estuviese atenta a lo que Pablo decía.",
+              "PasajeOso1569": "14. Entonces vna muger llamada Lydia que vendia purpura en la ciudad de los Thyatireos, temeroſa de Dios, oyó: el coraçon de la qual abrió el Señor paraque eſtuuieſſe attenta à loque Paulo dezia."
             }
           ]
         },
@@ -1299,15 +1312,18 @@
           "citas": [
             {
               "cita": "Isa. 45:22",
-              "Pasaje": "22. Mirad a mí, y sed salvos, todos los términos de la tierra, porque yo soy Dios, y no hay más."
+              "Pasaje": "22. Mirad a mí, y sed salvos, todos los términos de la tierra, porque yo soy Dios, y no hay más.",
+              "PasajeOso1569": "22. Mirad àmi, y ſed ſaluos todos los terminos de la tierra: porque yo ſoy Dios, y no ay mas."
             },
             {
               "cita": "Mat. 11:28-30",
-              "Pasaje": "28. Venid a mí todos los que estáis trabajados y cargados, y yo os haré descansar.\n29. Llevad mi yugo sobre vosotros, y aprended de mí, que soy manso y humilde de corazón; y hallaréis descanso para vuestras almas;\n30. porque mi yugo es fácil, y ligera mi carga. En aquel tiempo iba Jesús por los sembrados en un día de reposo; y sus discípulos tuvieron hambre, y comenzaron a arrancar espigas y a comer."
+              "Pasaje": "28. Venid a mí todos los que estáis trabajados y cargados, y yo os haré descansar.\n29. Llevad mi yugo sobre vosotros, y aprended de mí, que soy manso y humilde de corazón; y hallaréis descanso para vuestras almas;\n30. porque mi yugo es fácil, y ligera mi carga. En aquel tiempo iba Jesús por los sembrados en un día de reposo; y sus discípulos tuvieron hambre, y comenzaron a arrancar espigas y a comer.",
+              "PasajeOso1569": "28. Venid à mi todos losque eſtays trabajados, y cargados: q̃ yo hos haré deſcãſar.\n29. Lleuad mi yugo ſobre voſotros, y aprended de mi, q̃ ſoy mãſo y humilde de coraçon: y hallareys deſcanſo para vueſtras almas.\n30. Porq̃ mi yugo es facil, y ligera mi carga."
             },
             {
               "cita": "Apo. 22:17",
-              "Pasaje": "17. Y el Espíritu y la Esposa dicen: Ven. Y el que oye, diga: Ven. Y el que tiene sed, venga; y el que quiera, tome del agua de la vida gratuitamente."
+              "Pasaje": "17. Y el Espíritu y la Esposa dicen: Ven. Y el que oye, diga: Ven. Y el que tiene sed, venga; y el que quiera, tome del agua de la vida gratuitamente.",
+              "PasajeOso1569": "17. Y el Eſpiritu y la Eſpoſa dizen, Ven. Y elque oye, diga: Vẽ. elque tiene ſed, venga: y el que quiere, tome del agua de la vida debalde."
             }
           ]
         }
@@ -1327,7 +1343,8 @@
           "citas": [
             {
               "cita": "Rom. 8:30",
-              "Pasaje": "30. Y a los que predestinó, a éstos también llamó; y a los que llamó, a éstos también justificó; y a los que justificó, a éstos también glorificó."
+              "Pasaje": "30. Y a los que predestinó, a éstos también llamó; y a los que llamó, a éstos también justificó; y a los que justificó, a éstos también glorificó.",
+              "PasajeOso1569": "30. Y à losque predeſtinó, à eſtos tambiẽ llamó; y à losque llamó, à eſtos tambiẽ juſtificó: y à losque juſtificó, à eſtos tambien glorificó."
             }
           ]
         },
@@ -1336,7 +1353,8 @@
           "citas": [
             {
               "cita": "Ef. 1:5",
-              "Pasaje": "5. en amor habiéndonos predestinado para ser adoptados hijos suyos por medio de Jesucristo, según el puro afecto de su voluntad,"
+              "Pasaje": "5. en amor habiéndonos predestinado para ser adoptados hijos suyos por medio de Jesucristo, según el puro afecto de su voluntad,",
+              "PasajeOso1569": "5. El qual nos ſeñaló antes para ſer adoptados en hijos por Ieſus el Chriſto en ſi miſmo por el buen querer de ſu volũtad,"
             }
           ]
         },
@@ -1345,7 +1363,8 @@
           "citas": [
             {
               "cita": "1 Cor. 1:26,30",
-              "Pasaje": "26. Pues mirad, hermanos, vuestra vocación, que no sois muchos sabios según la carne, ni muchos poderosos, ni muchos nobles;\n30. Mas por él estáis vosotros en Cristo Jesús, el cual nos ha sido hecho por Dios sabiduría, justificación, santificación y redención;"
+              "Pasaje": "26. Pues mirad, hermanos, vuestra vocación, que no sois muchos sabios según la carne, ni muchos poderosos, ni muchos nobles;\n30. Mas por él estáis vosotros en Cristo Jesús, el cual nos ha sido hecho por Dios sabiduría, justificación, santificación y redención;",
+              "PasajeOso1569": "26. Porque mirad, Hermanos, vueſtra vocacion: que no ſoys muchos ſabios ſegun la carne: no muchos poderoſos, no muchos nobles.\n30. Deel empero ſoys voſotros renacidos en el Chriſto Ieſus, el qual es hecho para noſotros de Dios ſabiduria, y juſticia, y ſanctificacion, y redempcion:"
             }
           ]
         }
@@ -1364,11 +1383,13 @@
           "citas": [
             {
               "cita": "Rom. 3:24,25",
-              "Pasaje": "24. pecaron, y están destituidos de la gloria de Dios, siendo justificados gratuitamente por su gracia, mediante la redención\n25. que es en Cristo Jesús, a quien Dios puso como propiciación por medio de la fe en su sangre, para manifestar su justicia, a causa de haber pasado por alto, en su paciencia, los pecados"
+              "Pasaje": "24. pecaron, y están destituidos de la gloria de Dios, siendo justificados gratuitamente por su gracia, mediante la redención\n25. que es en Cristo Jesús, a quien Dios puso como propiciación por medio de la fe en su sangre, para manifestar su justicia, a causa de haber pasado por alto, en su paciencia, los pecados",
+              "PasajeOso1569": "24. Iuſtificados gracioſamente por ſu gracia por la redẽciõ q̃ es en Ieſus el Chriſto.\n25. Al qual Dios ha propueſto por aplacaciõ por la fe en ſu ſangre para manifeſtacion de ſu juſticia para la remiſsion de los peccados paſſados:"
             },
             {
               "cita": "Rom. 4:6-8",
-              "Pasaje": "6. Como también David habla de la bienaventuranza del hombre a quien Dios atribuye justicia sin obras, diciendo:\n7. Bienaventurados aquellos cuyas iniquidades son perdonadas, Y cuyos pecados son cubiertos.\n8. Bienaventurado el varón a quien el Señor no inculpa de pecado."
+              "Pasaje": "6. Como también David habla de la bienaventuranza del hombre a quien Dios atribuye justicia sin obras, diciendo:\n7. Bienaventurados aquellos cuyas iniquidades son perdonadas, Y cuyos pecados son cubiertos.\n8. Bienaventurado el varón a quien el Señor no inculpa de pecado.",
+              "PasajeOso1569": "6. Como tãbiẽ Dauid dize, Ser bienauẽturado el hõbre, àl qual Dios atribuye juſticia ſin las obras, Diziẽdo,\n7. Bienauenturados aquellos cuyas iniquidades ſon perdonadas, y cuyos peccados ſon cubiertos.\n8. Bienauenturado el varon àl qual el Señor no imputó peccado."
             }
           ]
         },
@@ -1377,7 +1398,8 @@
           "citas": [
             {
               "cita": "2 Cor. 5:19,21",
-              "Pasaje": "19. y nos dio el ministerio de la reconciliación; que Dios estaba en Cristo reconciliando consigo al mundo, no tomándoles en cuenta a los hombres sus pecados, y nos encargó a nosotros la palabra de la reconciliación.\n21. Al que no conoció pecado, por nosotros lo hizo pecado, para que nosotros fuésemos hechos justicia de Dios en él."
+              "Pasaje": "19. y nos dio el ministerio de la reconciliación; que Dios estaba en Cristo reconciliando consigo al mundo, no tomándoles en cuenta a los hombres sus pecados, y nos encargó a nosotros la palabra de la reconciliación.\n21. Al que no conoció pecado, por nosotros lo hizo pecado, para que nosotros fuésemos hechos justicia de Dios en él.",
+              "PasajeOso1569": "19. Porq̃ ciertamente Dios eſtaua en el Chriſto recõciliando el mundo à ſi, No imputandoles ſus peccados: y puſo en noſotros la palabra de la Recõciliaciõ:\n21. Alque no conoció peccado, hizo peccado por noſotros, paraque noſotros fueſſemos hechos juſticia de Dios enel."
             }
           ]
         },
@@ -1386,7 +1408,8 @@
           "citas": [
             {
               "cita": "Rom. 5:17-19",
-              "Pasaje": "17. Pues si por la transgresión de uno solo reinó la muerte, mucho más reinarán en vida por uno solo, Jesucristo, los que reciben la abundancia de la gracia y del don de la justicia.\n18. Así que, como por la transgresión de uno vino la condenación a todos los hombres, de la misma manera por la justicia de uno vino a todos los hombres la justificación de vida.\n19. Porque así como por la desobediencia de un hombre los muchos fueron constituidos pecadores, así también por la obediencia de uno, los muchos serán constituidos justos."
+              "Pasaje": "17. Pues si por la transgresión de uno solo reinó la muerte, mucho más reinarán en vida por uno solo, Jesucristo, los que reciben la abundancia de la gracia y del don de la justicia.\n18. Así que, como por la transgresión de uno vino la condenación a todos los hombres, de la misma manera por la justicia de uno vino a todos los hombres la justificación de vida.\n19. Porque así como por la desobediencia de un hombre los muchos fueron constituidos pecadores, así también por la obediencia de uno, los muchos serán constituidos justos.",
+              "PasajeOso1569": "17. Porque ſi por vn delicto reynó la muerte por cauſa de vno, losque reciben la abundancia de la gracia, y de la merced, y de la juſticia, mucho mas reynarán por vn Ieſus el Chriſto.\n18. Anſique de la manera que por vn delicto vino el juyzio à todos los hombres para condenacion, anſi por vna juſticia vino la gracia à todos los hombres para juſtificacion de vida.\n19. Porque como por la deſobediẽcia de vn hombre muchos fuéron hechos peccadores, anſi por la obediencia de vno muchos ſerán hechos juſtos."
             }
           ]
         },
@@ -1395,11 +1418,13 @@
           "citas": [
             {
               "cita": "Gál. 2:16",
-              "Pasaje": "16. y no pecadores de entre los gentiles, sabiendo que el hombre no es justificado por las obras de la ley, sino por la fe de Jesucristo, nosotros también hemos creído en Jesucristo, para ser justificados por la fe de Cristo y no por las obras de la ley, por cuanto por las obras de la ley nadie será justificado."
+              "Pasaje": "16. y no pecadores de entre los gentiles, sabiendo que el hombre no es justificado por las obras de la ley, sino por la fe de Jesucristo, nosotros también hemos creído en Jesucristo, para ser justificados por la fe de Cristo y no por las obras de la ley, por cuanto por las obras de la ley nadie será justificado.",
+              "PasajeOso1569": "16. Sabiendo que el hõbre no es juſtificado por las obras de la Ley, ſino por la fe de Ieſus el Chriſto, noſotros tãbien auemos creydo en Ieſus el Chriſto, para q̃ fueſſemos juſtificados por la fe del Chriſto, y no por las obras de la Ley: por quanto por las obras de la Ley ningnua carne ſera juſtificada."
             },
             {
               "cita": "Fil. 3:9",
-              "Pasaje": "9. para ganar a Cristo, y ser hallado en él, no teniendo mi propia justicia, que es por la ley, sino la que es por la fe de Cristo,"
+              "Pasaje": "9. para ganar a Cristo, y ser hallado en él, no teniendo mi propia justicia, que es por la ley, sino la que es por la fe de Cristo,",
+              "PasajeOso1569": "9. Y por ſer hallado en el que no tengo mi juſticia que es por la Ley, ſino la que es por la fe del Chriſto, juſticia que es de Dios por la fe:"
             }
           ]
         }
@@ -1423,7 +1448,8 @@
           "citas": [
             {
               "cita": "1 Jn. 3:1",
-              "Pasaje": "1. Mirad cuál amor nos ha dado el Padre, para que seamos llamados hijos de Dios; por esto el mundo no nos conoce, porque no le conoció a él."
+              "Pasaje": "1. Mirad cuál amor nos ha dado el Padre, para que seamos llamados hijos de Dios; por esto el mundo no nos conoce, porque no le conoció a él.",
+              "PasajeOso1569": "1. MIrad qual charidad nos ha dado el Padre, que ſeamos llamados hijos de Dios: por eſto el mũdo no nos conoce porque no lo conoce à el."
             }
           ]
         },
@@ -1433,11 +1459,13 @@
             {
               "cita": "Jn. 1:12",
               "Pasaje": null,
-              "estadoPasaje": "No se pudo extraer el pasaje del PDF"
+              "estadoPasaje": "No se pudo extraer el pasaje del PDF",
+              "PasajeOso1569": "12. Mas à todos los q̃ lo recibieron, dioles poteſtad de ſer hechos hijos de Dios, à los que creen en ſu Nombre:"
             },
             {
               "cita": "Rom. 8:17",
-              "Pasaje": "17. Y si hijos, también herederos; herederos de Dios y coherederos con Cristo, si es que padecemos juntamente con él, para que juntamente con él seamos glorificados."
+              "Pasaje": "17. Y si hijos, también herederos; herederos de Dios y coherederos con Cristo, si es que padecemos juntamente con él, para que juntamente con él seamos glorificados.",
+              "PasajeOso1569": "17. Y ſi hijos, tambien herederos: herederos ciertamente de Dios, y juntamente herederos con el Chriſto: ſi empero padecemos juntamente conel paraq̃ juntamente conel ſeamos glorificados."
             }
           ]
         }
@@ -1456,7 +1484,8 @@
           "citas": [
             {
               "cita": "2 Tes. 2:13",
-              "Pasaje": "13. Pero nosotros debemos dar siempre gracias a Dios respecto a vosotros, hermanos amados por el Señor, de que Dios os haya escogido desde el principio para salvación, mediante la"
+              "Pasaje": "13. Pero nosotros debemos dar siempre gracias a Dios respecto a vosotros, hermanos amados por el Señor, de que Dios os haya escogido desde el principio para salvación, mediante la",
+              "PasajeOso1569": "13. Mas noſotros deuemos hazer ſiempre gracias à Dios por voſotros, Hermanos amados del Señor, deque Dios hos aya eſcogido por primicias de ſalud, por la ſanctificacion del Eſpiritu y la fe verdadera:"
             }
           ]
         },
@@ -1465,11 +1494,13 @@
           "citas": [
             {
               "cita": "Rom. 6:4,6",
-              "Pasaje": "4. Porque somos sepultados juntamente con él para muerte por el bautismo, a fin de que como Cristo resucitó de los muertos por la gloria del Padre, así también nosotros andemos en vida nueva.\n6. ción; sabiendo esto, que nuestro viejo hombre fue crucificado juntamente con él, para que el cuerpo del pecado sea destruido, a fin de que no sirvamos más al pecado."
+              "Pasaje": "4. Porque somos sepultados juntamente con él para muerte por el bautismo, a fin de que como Cristo resucitó de los muertos por la gloria del Padre, así también nosotros andemos en vida nueva.\n6. ción; sabiendo esto, que nuestro viejo hombre fue crucificado juntamente con él, para que el cuerpo del pecado sea destruido, a fin de que no sirvamos más al pecado.",
+              "PasajeOso1569": "4. Porque ſomos ſepultados juntamente con el à muerte por el Baptiſmo, paraq̃ como el Chriſto reſuſcitó de los muertos à gloria del Padre, anſi tambien noſotros andemos en nouedad de vida.\n6. Ciertos q̃ nueſtro viejo hombre juntamente fue crucificado conel, para que el cuerpo del peccado ſea deshecho, que mas no ſiruamos à peccado."
             },
             {
               "cita": "Rom. 8:1",
-              "Pasaje": "1. Ahora, pues, ninguna condenación hay para los que están en Cristo Jesús, los que no andan conforme a la carne, sino conforme al Espíritu."
+              "Pasaje": "1. Ahora, pues, ninguna condenación hay para los que están en Cristo Jesús, los que no andan conforme a la carne, sino conforme al Espíritu.",
+              "PasajeOso1569": "1. ANſique aora, ninguna condennaciõ ay para los que eſtan en el Chriſto Ieſus; que no andan conforme à la carne, mas conforme àl Eſpiritu."
             }
           ]
         }
@@ -1488,7 +1519,8 @@
           "citas": [
             {
               "cita": "Rom. 5:1,2,5",
-              "Pasaje": "1. Justificados, pues, por la fe, tenemos paz para con Dios por\n2. medio de nuestro Señor Jesucristo; por quien también tenemos entrada por la fe a esta gracia en la cual estamos firmes, y nos gloriamos en la esperanza de la gloria de Dios.\n5. prueba; y la prueba, esperanza; y la esperanza no avergüenza; porque el amor de Dios ha sido derramado en nuestros corazones por el Espíritu Santo que nos fue dado."
+              "Pasaje": "1. Justificados, pues, por la fe, tenemos paz para con Dios por\n2. medio de nuestro Señor Jesucristo; por quien también tenemos entrada por la fe a esta gracia en la cual estamos firmes, y nos gloriamos en la esperanza de la gloria de Dios.\n5. prueba; y la prueba, esperanza; y la esperanza no avergüenza; porque el amor de Dios ha sido derramado en nuestros corazones por el Espíritu Santo que nos fue dado.",
+              "PasajeOso1569": "1. IVſtificados pues por la fe tenemos paz para con Dios por el Señor nueſtro Ieſus el Chriſto:\n2. Por el qual tambien tenemos entrada por la fe à eſta gracia en la qual eſtamos firmes, y nos gloriamos en la eſperança de la gloria [de los hijos] de Dios.\n5. Y la eſperança no ſerá auergonçada: porque el amor de Dios eſtá derramado en nueſtros coraçones por el Eſpiritu Sancto que nos es dado."
             }
           ]
         },
@@ -1497,7 +1529,8 @@
           "citas": [
             {
               "cita": "Rom. 14:17",
-              "Pasaje": "17. vuestro bien; porque el reino de Dios no es comida ni bebida, sino justicia, paz y gozo en el Espíritu Santo."
+              "Pasaje": "17. vuestro bien; porque el reino de Dios no es comida ni bebida, sino justicia, paz y gozo en el Espíritu Santo.",
+              "PasajeOso1569": "17. Que el Reyno de Dios no es comida ni beuida, ſino juſticia, y paz, y gozo por el Eſpiritu Sancto."
             }
           ]
         },
@@ -1506,7 +1539,9 @@
           "citas": [
             {
               "cita": "Prov. 4:18",
-              "Pasaje": "18. Mas la senda de los justos es como la luz de la aurora, Que va en aumento hasta que el día es perfecto."
+              "Pasaje": "18. Mas la senda de los justos es como la luz de la aurora, Que va en aumento hasta que el día es perfecto.",
+              "PasajeOso1569": "18. Mas la vereda de los juſtos es como la luz del luzero: aumẽtaſe, y alumbra haſta queel dia es perfecto.",
+              "notaOso1569": "Este versículo falta en el facsímil digital principal (faltan sus páginas 1259 y 1260); se transcribió del ejemplar de la misma edición de 1569 que conserva la Biblioteca Universitaria de Basilea."
             }
           ]
         },
@@ -1515,7 +1550,8 @@
           "citas": [
             {
               "cita": "1 Jn. 5:13",
-              "Pasaje": "13. Estas cosas os he escrito a vosotros que creéis en el nombre del Hijo de Dios, para que sepáis que tenéis vida eterna, y para que creáis en el nombre del Hijo de Dios."
+              "Pasaje": "13. Estas cosas os he escrito a vosotros que creéis en el nombre del Hijo de Dios, para que sepáis que tenéis vida eterna, y para que creáis en el nombre del Hijo de Dios.",
+              "PasajeOso1569": "13. Yo he eſcripto eſtas coſas à voſotros que creeys en el Nõbre del Hijo de Dios: paraque ſepays que teneys vida eterna, y paraq̃ creays en el Nõbre del Hijo de Dios."
             }
           ]
         }
@@ -1534,7 +1570,8 @@
           "citas": [
             {
               "cita": "Heb. 12:23",
-              "Pasaje": "23. llares de ángeles, a la congregación de los primogénitos que están inscritos en los cielos, a Dios el Juez de todos, a los"
+              "Pasaje": "23. llares de ángeles, a la congregación de los primogénitos que están inscritos en los cielos, a Dios el Juez de todos, a los",
+              "PasajeOso1569": "23. Y à la Congregacion de los Primogenitos que eſtan tomados por liſta en los cielos, y àl juez de todos Dios, y à los eſpiritus de los juſtos ya perfectos:"
             }
           ]
         },
@@ -1543,15 +1580,18 @@
           "citas": [
             {
               "cita": "2 Cor. 5:1,6,8",
-              "Pasaje": "1. Porque sabemos que si nuestra morada terrestre, este tabernáculo, se deshiciere, tenemos de Dios un edificio, una casa no hecha de manos, eterna, en los cielos.\n6. Así que vivimos confiados siempre, y sabiendo que entre tanto que estamos en el cuerpo, estamos\n8. pero confiamos, y más quisiéramos estar ausentes del cuerpo, y presentes al Señor."
+              "Pasaje": "1. Porque sabemos que si nuestra morada terrestre, este tabernáculo, se deshiciere, tenemos de Dios un edificio, una casa no hecha de manos, eterna, en los cielos.\n6. Así que vivimos confiados siempre, y sabiendo que entre tanto que estamos en el cuerpo, estamos\n8. pero confiamos, y más quisiéramos estar ausentes del cuerpo, y presentes al Señor.",
+              "PasajeOso1569": "1. POrque ſabemos que ſi la caſa terreſtre de eſta nueſtra habitacion ſe deſhiziére, que tenemos de Dios edificio, caſa, no hecha de manos, eterna, en los cielos:\n6. Anſique biuimos confiados ſiempre: y ſabiendo, que entretãto que eſtamos enel cuerpo, peregrinamos del Señor.\n8. Mas confiamos, y querriamos mas peregrinar del cuerpo, y ſer preſentes àl Señor."
             },
             {
               "cita": "Fil. 1:23",
-              "Pasaje": "23. Porque de ambas cosas estoy puesto en estrecho, teniendo deseo de"
+              "Pasaje": "23. Porque de ambas cosas estoy puesto en estrecho, teniendo deseo de",
+              "PasajeOso1569": "23. Porque de ambas coſas eſtoy pueſto en eſtrecho) teniendo deſſeo de ſer deſatado, y eſtar con el Chriſto, mucho mejor."
             },
             {
               "cita": "Luc. 23:43",
-              "Pasaje": "43. Entonces Jesús le dijo: De cierto te digo que hoy estarás conmigo en el paraíso."
+              "Pasaje": "43. Entonces Jesús le dijo: De cierto te digo que hoy estarás conmigo en el paraíso.",
+              "PasajeOso1569": "43. Entõces Ieſus le dixo, Decierto te digo, que oy ſerás cõmigo enel Parayſo."
             }
           ]
         },
@@ -1560,7 +1600,8 @@
           "citas": [
             {
               "cita": "1 Tes. 4:14",
-              "Pasaje": "14. Porque si creemos que Jesús murió y resucitó, así también traerá Dios con Jesús a los que durmieron en él."
+              "Pasaje": "14. Porque si creemos que Jesús murió y resucitó, así también traerá Dios con Jesús a los que durmieron en él.",
+              "PasajeOso1569": "14. Porque ſi creemos que Ieſus murió y reſuſcitó, anſi tambien traerá Dios conel à losque durmieron en Ieſus."
             }
           ]
         },
@@ -1569,7 +1610,8 @@
           "citas": [
             {
               "cita": "Isa. 57:2",
-              "Pasaje": "2. Entrará en la paz; descansarán en sus lechos todos los que andan delante de Dios."
+              "Pasaje": "2. Entrará en la paz; descansarán en sus lechos todos los que andan delante de Dios.",
+              "PasajeOso1569": "2. Vendrá la paz, deſcanſarán ſobre ſus camas todos los q̃ andan delante de el."
             }
           ]
         },
@@ -1578,7 +1620,8 @@
           "citas": [
             {
               "cita": "Job. 19:26,27",
-              "Pasaje": "26. Y después de deshecha esta mi piel, En mi carne he de ver a Dios;\n27. Al cual veré por mí mismo, Y mis ojos lo verán, y no otro, Aunque mi corazón desfallece dentro de mí. Mas debierais decir: ¿Por qué le perseguimos?"
+              "Pasaje": "26. Y después de deshecha esta mi piel, En mi carne he de ver a Dios;\n27. Al cual veré por mí mismo, Y mis ojos lo verán, y no otro, Aunque mi corazón desfallece dentro de mí. Mas debierais decir: ¿Por qué le perseguimos?",
+              "PasajeOso1569": "26. Y deſpues, deſde eſte mi roto cuero y deſde mi propia carne tengo de ver à Dios.\n27. Al qual yo tengo de ver por mi, y mis ojos lo han de ver, y no otro, [aunque] mis riñones ſe conſumen dentro de mi."
             }
           ]
         }
@@ -1597,7 +1640,8 @@
           "citas": [
             {
               "cita": "1 Cor. 15:43",
-              "Pasaje": "43. Se siembra en deshonra, resucitará en gloria; se siembra en debilidad, resucitará en poder."
+              "Pasaje": "43. Se siembra en deshonra, resucitará en gloria; se siembra en debilidad, resucitará en poder.",
+              "PasajeOso1569": "43. Siembraſe en verguença, leuantarſehá con gloria: ſiembraſe en flaqueza, leuantarſehá con potencia:"
             }
           ]
         },
@@ -1606,11 +1650,13 @@
           "citas": [
             {
               "cita": "Mat. 25:23",
-              "Pasaje": "23. Bien, buen siervo y fiel; sobre poco has sido fiel, sobre mucho te pondré; entra en el gozo de tu señor."
+              "Pasaje": "23. Bien, buen siervo y fiel; sobre poco has sido fiel, sobre mucho te pondré; entra en el gozo de tu señor.",
+              "PasajeOso1569": "23. Su ſeñor le dixo, Bien eſtá buen ſieruo y fiel: ſobre poco has ſido fiel, ſobre mucho te pondré: entra enel gozo de tu ſeñor."
             },
             {
               "cita": "Mat. 10:32",
-              "Pasaje": "32. A cualquiera, pues, que me confiese delante de los hombres, yo también le confesaré delante de mi Padre que está en los cielos."
+              "Pasaje": "32. A cualquiera, pues, que me confiese delante de los hombres, yo también le confesaré delante de mi Padre que está en los cielos.",
+              "PasajeOso1569": "32. Pues qualquiera que me confeſſáre delante de los hombres, confeſſarlohé tãbien yo delante de mi Padre, q̃ eſtá en los cielos."
             }
           ]
         },
@@ -1619,11 +1665,13 @@
           "citas": [
             {
               "cita": "1 Jn. 3:2",
-              "Pasaje": "2. Amados, ahora somos hijos de Dios, y aún no se ha manifestado lo que hemos de ser; pero sabemos que cuando él se manifieste, seremos semejantes a él, porque le veremos tal como él es."
+              "Pasaje": "2. Amados, ahora somos hijos de Dios, y aún no se ha manifestado lo que hemos de ser; pero sabemos que cuando él se manifieste, seremos semejantes a él, porque le veremos tal como él es.",
+              "PasajeOso1569": "2. Muy amados, aora ſomos hijos de Dios, y aun no es manifeſtado loque auemos de ſer: pero ſabemos que quando el apareciere, ſeremos ſemejantes à el, porque lo veremos como el es."
             },
             {
               "cita": "1 Cor. 13:12",
-              "Pasaje": "12. Ahora vemos por espejo, oscuramente; mas entonces veremos cara a cara. Ahora conozco en parte; pero entonces conoceré como fui conocido."
+              "Pasaje": "12. Ahora vemos por espejo, oscuramente; mas entonces veremos cara a cara. Ahora conozco en parte; pero entonces conoceré como fui conocido.",
+              "PasajeOso1569": "12. Aora vemos como por eſpejo en eſcuridad: mas entonces, veremos cara à cara. aora conozco en parte: mas entonces conoceré como ſoy conocido."
             }
           ]
         },
@@ -1632,7 +1680,8 @@
           "citas": [
             {
               "cita": "1 Tes. 4:17,18",
-              "Pasaje": "17. Luego nosotros los que vivimos, los que hayamos quedado, seremos arrebatados juntamente con ellos en las nubes para recibir al Señor en el aire, y así estaremos siempre con el Señor.\n18. Por tanto, alentaos los unos a los otros con estas palabras."
+              "Pasaje": "17. Luego nosotros los que vivimos, los que hayamos quedado, seremos arrebatados juntamente con ellos en las nubes para recibir al Señor en el aire, y así estaremos siempre con el Señor.\n18. Por tanto, alentaos los unos a los otros con estas palabras.",
+              "PasajeOso1569": "17. Luego noſotros losque biuimos, losque q̃damos: y juntamente con ellos ſeremos arrebatados en las nuues à recebir àl Señor; y anſi eſtaremos ſiẽpre cõ el Señor.\n18. Portanto conſolaos los vnos à los otros en eſtas palabras."
             }
           ]
         }
@@ -1651,11 +1700,13 @@
           "citas": [
             {
               "cita": "Mq. 6:8",
-              "Pasaje": "8. Oh hombre, él te ha declarado lo que es bueno, y qué pide Jehová de ti: solamente hacer justicia, y amar misericordia, y humillarte ante tu Dios."
+              "Pasaje": "8. Oh hombre, él te ha declarado lo que es bueno, y qué pide Jehová de ti: solamente hacer justicia, y amar misericordia, y humillarte ante tu Dios.",
+              "PasajeOso1569": "8. O hombre, declaradotehá que ſea lo bueno, y que pida de ti Iehoua: Solamente hazer juyzio, y amar miſericordia, y humillarte para andar con tu Dios."
             },
             {
               "cita": "1 S. 15:22",
-              "Pasaje": "22. ¿Se complace Jehová tanto en los holocaustos y víctimas, como en que se obedezca a las palabras de Jehová? Ciertamente el obedecer es mejor que los sacrificios, y el prestar atención que la grosura de los carneros."
+              "Pasaje": "22. ¿Se complace Jehová tanto en los holocaustos y víctimas, como en que se obedezca a las palabras de Jehová? Ciertamente el obedecer es mejor que los sacrificios, y el prestar atención que la grosura de los carneros.",
+              "PasajeOso1569": "22. Y Samuel dixo: Tiene Iehoua tanto cõtentamiento con los holocauſtos y victimas como con obedecer à la palabra de Iehoua? Ciertamente el obedecer es mejor que los ſacrificios; y el eſcuchar, que el ſeuo de los carneros."
             }
           ]
         }
@@ -1674,11 +1725,13 @@
           "citas": [
             {
               "cita": "Rom. 2:14,15",
-              "Pasaje": "14. Porque cuando los gentiles que no tienen ley, hacen por naturaleza lo que es de la ley, éstos, aunque no tengan ley, son ley para sí mismos,\n15. mostrando la obra de la ley escrita en sus corazones, dando testimonio su conciencia, y acusándoles o defendiéndoles sus"
+              "Pasaje": "14. Porque cuando los gentiles que no tienen ley, hacen por naturaleza lo que es de la ley, éstos, aunque no tengan ley, son ley para sí mismos,\n15. mostrando la obra de la ley escrita en sus corazones, dando testimonio su conciencia, y acusándoles o defendiéndoles sus",
+              "PasajeOso1569": "14. Porque las Gentes que no tienen la Ley, haziendo naturalmente lo que es de la Ley, los tales, aunque no tengan la Ley, ellos miſmos ſe ſon la Ley:\n15. Moſtrando la obra de la Ley eſcripta en ſus coraçones, dando teſtimonio juntamẽte ſus cõſciẽcias; y accuſandoſe y tãbiẽ eſcuſandoſe ſus pẽſamiẽtos vnos cõ otros."
             },
             {
               "cita": "Rom. 10:5",
-              "Pasaje": "5. Porque de la justicia que es por la ley Moisés escribe así: El hombre que haga estas cosas, vivirá por ellas. Pero la justicia que es por la fe dice así:"
+              "Pasaje": "5. Porque de la justicia que es por la ley Moisés escribe así: El hombre que haga estas cosas, vivirá por ellas. Pero la justicia que es por la fe dice así:",
+              "PasajeOso1569": "5. Porq̃ Moyſen eſcriue, Que la juſticia q̃ es por la Ley, el hombre que la hiziere, biuirá por ella."
             }
           ]
         }
