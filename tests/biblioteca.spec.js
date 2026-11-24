@@ -280,6 +280,36 @@ test('Catecismo de Heidelberg: se elige y muestra sus pasajes RV1909, también s
   await expect(page.locator('#pregunta-105')).toBeVisible();
 });
 
+test('Confesión de Fe Belga: se muestra por artículos con pasajes RV1909, también sin servidor', async ({ page }) => {
+  const cb = leer('data/confesion-belga.json');
+  expect(cb.unidad).toBe('artículo');
+  for (const q of cb.preguntas) {
+    for (const c of q.referenciasBiblicas.flatMap((g) => g.citas)) expect(c.Pasaje?.trim(), `Art. ${q.numero} ${c.cita}`).toBeTruthy();
+  }
+  for (const url of ['/', pathToFileURL(new URL('../index.html', import.meta.url).pathname).href]) {
+    await page.goto(url);
+    await page.locator('#catalogo').getByRole('button', { name: /Confesión de Fe Belga/ }).click();
+    await expect(page.locator('#tituloEstudio')).toHaveText('Confesión de Fe Belga');
+    await expect(page.locator('#totalPreguntas')).toHaveText(`${cb.preguntas.length} artículos`);
+    await expect(page.locator('#pregunta-1 .etiqueta-pregunta')).toHaveText('Artículo 1');
+    await expect(page.locator('#pregunta-1 .pregunta')).toHaveText(cb.preguntas[0].pregunta);
+    await expect(page.locator('#pregunta-1 .etiqueta-respuesta')).toHaveCount(0);
+    await expect(page.locator('#pregunta-1 .respuesta')).toContainText('una sola y simple esencia espiritual');
+    await expect(page.locator('#textoAbrirIndice')).toHaveText('Ir a un artículo');
+    await abrirRefs(page, 1);
+    await page.locator('#pregunta-1').getByRole('button', { name: 'Ver pasaje bíblico Ef. 4:6' }).click();
+    await expect(page.locator('#textoPasaje')).toHaveText(cb.preguntas[0].referenciasBiblicas[0].citas[0].Pasaje);
+    await expect(page.locator('#versionPasaje')).toHaveText('Versión: Reina-Valera 1909');
+    await page.keyboard.press('Escape');
+  }
+  await page.locator('#buscar').fill('Arrio');
+  await expect(page.locator('#pregunta-9')).toBeVisible();
+  await expect(page.locator('#resultado')).toContainText('artículo');
+  await page.locator('#selectorCatecismo').selectOption('catecismo-menor');
+  await expect(page.locator('#etiquetaBuscar')).toHaveText('Buscar preguntas');
+  await expect(page.locator('#pregunta-1 .etiqueta-respuesta')).toHaveText('Respuesta');
+});
+
 test('un catecismo o confesión nuevo en catalogo.json aparece y se recuerda', async ({ page }) => {
   const catalogo = leer('data/catalogo.json');
   catalogo.catecismos.push({ id: 'prueba', titulo: 'Confesión de prueba', subtitulo: 'Documento de ejemplo', tipo: 'Confesión', archivo: 'data/prueba.json', activo: true });

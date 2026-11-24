@@ -73,18 +73,18 @@
 
     <div class="panel herramientas">
       <label class="buscador" for="buscar">
-        <span class="visualmente-oculto">Buscar preguntas</span>
+        <span class="visualmente-oculto" id="etiquetaBuscar">Buscar preguntas</span>
         <svg aria-hidden="true" viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="m16 16 5 5"/></svg>
         <input id="buscar" type="search" inputmode="search" autocomplete="off" placeholder="Número o palabra…">
       </label>
       <button type="button" class="boton boton-suave" id="limpiar" hidden>Limpiar búsqueda</button>
       <button type="button" class="boton boton-suave" id="abrirIndice" aria-expanded="false" aria-controls="indice">
         <svg aria-hidden="true" viewBox="0 0 24 24"><rect x="3" y="3" width="7" height="7" rx="1.5"/><rect x="14" y="3" width="7" height="7" rx="1.5"/><rect x="3" y="14" width="7" height="7" rx="1.5"/><rect x="14" y="14" width="7" height="7" rx="1.5"/></svg>
-        <span>Ir a una pregunta</span>
+        <span id="textoAbrirIndice">Ir a una pregunta</span>
       </button>
     </div>
     <nav class="panel indice" id="indice" aria-label="Índice de preguntas" hidden>
-      <p>Toca el número de la pregunta que quieres leer.</p>
+      <p id="ayudaIndice">Toca el número de la pregunta que quieres leer.</p>
       <div class="indice-numeros" id="indiceNumeros"></div>
     </nav>
 

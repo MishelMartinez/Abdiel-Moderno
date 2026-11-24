@@ -11,7 +11,8 @@
     "test": "npm run validar && playwright test",
     "mayor": "node scripts/catecismo-mayor.mjs && node scripts/sincronizar-datos.mjs",
     "heidelberg": "node scripts/heidelberg.mjs && node scripts/sincronizar-datos.mjs",
-    "menor-oso": "node scripts/catecismo-menor-oso.mjs && node scripts/sincronizar-datos.mjs"
+    "menor-oso": "node scripts/catecismo-menor-oso.mjs && node scripts/sincronizar-datos.mjs",
+    "belga": "node scripts/confesion-belga.mjs && node scripts/sincronizar-datos.mjs"
   },
   "devDependencies": {
     "@playwright/test": "1.56.1"
