@@ -18,14 +18,16 @@ for (const [numero, citas] of Object.entries(fuentes)) {
   if (!q) throw new Error(`No existe la pregunta ${numero}`);
   const todas = q.referenciasBiblicas.flatMap((g) => g.citas);
   for (const [etiqueta, valor] of Object.entries(citas)) {
-    const c = todas.find((x) => x.cita === etiqueta);
-    if (!c) throw new Error(`Pregunta ${numero}: no existe la cita «${etiqueta}»`);
+    const iguales = todas.filter((x) => x.cita === etiqueta);
+    if (!iguales.length) throw new Error(`Pregunta ${numero}: no existe la cita «${etiqueta}»`);
     const { pasaje, nota, comparativo } = typeof valor === 'string' ? { pasaje: valor } : valor;
     if (!pasaje?.trim()) throw new Error(`Pregunta ${numero}, ${etiqueta}: pasaje de 1569 vacío`);
-    c.PasajeOso1569 = pasaje;
-    if (nota) c.notaOso1569 = nota;
-    if (c.pasajeComparativo && !comparativo?.trim()) throw new Error(`Pregunta ${numero}, ${etiqueta}: falta el pasaje comparativo de 1569 (${c.referenciaComparativa})`);
-    if (comparativo) c.pasajeComparativoOso1569 = comparativo;
+    for (const c of iguales) {
+      c.PasajeOso1569 = pasaje;
+      if (nota) c.notaOso1569 = nota;
+      if (c.pasajeComparativo && !comparativo?.trim()) throw new Error(`Pregunta ${numero}, ${etiqueta}: falta el pasaje comparativo de 1569 (${c.referenciaComparativa})`);
+      if (comparativo) c.pasajeComparativoOso1569 = comparativo;
+    }
     total++;
   }
   const faltan = todas.filter((c) => !c.PasajeOso1569).map((c) => c.cita);
