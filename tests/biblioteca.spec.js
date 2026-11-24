@@ -311,3 +311,44 @@ test('al cambiar de documento después de abrir un enlace compartido, recargar c
   await page.reload();
   await expect(page.locator('#tituloEstudio')).toHaveText('Catecismo Mayor de Westminster');
 });
+
+test('Lectura bíblica: cambia entre Reina-Valera 1960 y la Biblia del Oso 1569, sin audio en 1569', async ({ page }) => {
+  for (const q of ordenadas.slice(0, 10)) {
+    for (const c of q.referenciasBiblicas.flatMap((g) => g.citas)) expect(c.PasajeOso1569?.trim(), `P${q.numero} ${c.cita}`).toBeTruthy();
+  }
+  expect(datos.versionBiblica).toBe('Reina-Valera 1960');
+  await abrirRefs(page, 1);
+  await page.locator('#pregunta-1').getByRole('button', { name: 'Ver pasaje bíblico Rom. 11:36' }).click();
+  const versiones = page.locator('#versionesPasaje');
+  const rv = versiones.getByRole('button', { name: 'Reina-Valera 1960' });
+  const oso = versiones.getByRole('button', { name: 'Biblia del Oso 1569' });
+  const escuchar = page.locator('#escucharPasaje');
+  await expect(rv).toHaveAttribute('aria-pressed', 'true');
+  expect(await page.locator('#textoPasaje').textContent()).toBe(cita(1, 'Rom. 11:36').Pasaje);
+  await expect(page.locator('#versionPasaje')).toHaveText('Versión: Reina-Valera 1960');
+  const hayVoz = await page.evaluate(() => 'speechSynthesis' in window);
+  if (hayVoz) await expect(escuchar).toBeVisible();
+  await oso.click();
+  await expect(oso).toHaveAttribute('aria-pressed', 'true');
+  expect(await page.locator('#textoPasaje').textContent()).toBe(cita(1, 'Rom. 11:36').PasajeOso1569);
+  await expect(page.locator('#textoPasaje')).toContainText('ſon todas las coſas');
+  await expect(page.locator('#versionPasaje')).toContainText('Biblia del Oso, Casiodoro de Reina (Basilea, 1569)');
+  await expect(escuchar).toBeHidden();
+  await expect(page.locator('#ventanaPasaje')).not.toContainText('PDF proporcionado');
+  await page.keyboard.press('Escape');
+  // La versión elegida se mantiene al abrir otro pasaje
+  await page.locator('#pregunta-1').getByRole('button', { name: 'Ver pasaje bíblico Sal. 73:25-28' }).click();
+  expect(await page.locator('#textoPasaje').textContent()).toBe(cita(1, 'Sal. 73:25-28').PasajeOso1569);
+  await expect(escuchar).toBeHidden();
+  await rv.click();
+  expect(await page.locator('#textoPasaje').textContent()).toBe(cita(1, 'Sal. 73:25-28').Pasaje);
+  expect(cita(1, 'Sal. 73:25-28').Pasaje).not.toContain('Masquil');
+  if (hayVoz) await expect(escuchar).toBeVisible();
+  await page.keyboard.press('Escape');
+  // Sin pasaje de 1569 todavía (pregunta 11): no se muestra el selector
+  await page.goto('/#pregunta-11');
+  await abrirRefs(page, 11);
+  await page.locator('#pregunta-11').getByRole('button', { name: /^Ver pasaje bíblico/ }).first().click();
+  await expect(versiones).toBeHidden();
+  if (hayVoz) await expect(escuchar).toBeVisible();
+});

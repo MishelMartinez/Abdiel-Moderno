@@ -46,6 +46,7 @@ for (const c of catalogo.catecismos) {
         const etiqueta = typeof cita === 'string' ? cita : cita.cita;
         assert.ok(etiqueta?.trim(), `${donde}, inciso ${g.inciso}: cita vacía`);
         if (datos.versionBiblica === 'Reina-Valera 1909') assert.ok(cita.Pasaje?.trim(), `${donde}, ${etiqueta}: pasaje vacío`);
+        if (typeof cita === 'object' && 'PasajeOso1569' in cita) assert.ok(String(cita.PasajeOso1569).trim(), `${donde}, ${etiqueta}: pasaje de 1569 vacío`);
         etiquetas.get(q.numero).add(etiqueta);
         citas++;
       }
