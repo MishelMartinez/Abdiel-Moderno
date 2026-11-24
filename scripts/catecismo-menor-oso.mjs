@@ -9,6 +9,9 @@ const fuentes = {};
 for (const f of (await readdir(url('fuentes/catecismo-menor'))).filter((n) => /^biblia-oso-1569-.*\.json$/.test(n)).sort()) {
   Object.assign(fuentes, JSON.parse(await readFile(url(`fuentes/catecismo-menor/${f}`), 'utf8')));
 }
+for (const c of datos.preguntas.flatMap((q) => q.referenciasBiblicas.flatMap((g) => g.citas))) {
+  if (c && typeof c === 'object') { delete c.PasajeOso1569; delete c.notaOso1569; }
+}
 let total = 0;
 for (const [numero, citas] of Object.entries(fuentes)) {
   const q = datos.preguntas.find((p) => p.numero === Number(numero));
@@ -18,6 +21,7 @@ for (const [numero, citas] of Object.entries(fuentes)) {
     const c = todas.find((x) => x.cita === etiqueta);
     if (!c) throw new Error(`Pregunta ${numero}: no existe la cita «${etiqueta}»`);
     const { pasaje, nota } = typeof valor === 'string' ? { pasaje: valor } : valor;
+    if (!pasaje?.trim()) throw new Error(`Pregunta ${numero}, ${etiqueta}: pasaje de 1569 vacío`);
     c.PasajeOso1569 = pasaje;
     if (nota) c.notaOso1569 = nota; else delete c.notaOso1569;
     total++;
