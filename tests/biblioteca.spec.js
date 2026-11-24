@@ -313,9 +313,11 @@ test('al cambiar de documento después de abrir un enlace compartido, recargar c
 });
 
 test('Lectura bíblica: cambia entre Reina-Valera 1960 y la Biblia del Oso 1569, sin audio en 1569', async ({ page }) => {
-  for (const q of ordenadas.slice(0, 10)) {
+  for (const q of ordenadas.slice(0, 100)) {
     for (const c of q.referenciasBiblicas.flatMap((g) => g.citas)) expect(c.PasajeOso1569?.trim(), `P${q.numero} ${c.cita}`).toBeTruthy();
   }
+  expect(cita(42, 'Mat. 22:37-40').PasajeOso1569).toMatch(/^37\. /);
+  expect(cita(49, 'Ex. 20:4-6').PasajeOso1569).toMatch(/^4\. /);
   expect(datos.versionBiblica).toBe('Reina-Valera 1960');
   await abrirRefs(page, 1);
   await page.locator('#pregunta-1').getByRole('button', { name: 'Ver pasaje bíblico Rom. 11:36' }).click();
@@ -345,10 +347,22 @@ test('Lectura bíblica: cambia entre Reina-Valera 1960 y la Biblia del Oso 1569,
   expect(cita(1, 'Sal. 73:25-28').Pasaje).not.toContain('Masquil');
   if (hayVoz) await expect(escuchar).toBeVisible();
   await page.keyboard.press('Escape');
-  // Sin pasaje de 1569 todavía (pregunta 11): no se muestra el selector
-  await page.goto('/#pregunta-11');
-  await abrirRefs(page, 11);
-  await page.locator('#pregunta-11').getByRole('button', { name: /^Ver pasaje bíblico/ }).first().click();
+  // El texto comparativo también se muestra en la versión de 1569
+  const hebreos = cita(23, 'Heb. 12:25 (compare con 2 Cor. 13:3)');
+  expect(hebreos.pasajeComparativoOso1569?.trim()).toBeTruthy();
+  await page.goto('/#pregunta-23');
+  await abrirRefs(page, 23);
+  await page.locator('#pregunta-23').getByRole('button', { name: /^Ver pasaje bíblico Heb\. 12:25/ }).click();
+  await oso.click();
+  await expect(page.locator('#comparativo')).toBeVisible();
+  expect(await page.locator('#textoComparativo').textContent()).toBe(hebreos.pasajeComparativoOso1569);
+  await rv.click();
+  expect(await page.locator('#textoComparativo').textContent()).toBe(hebreos.pasajeComparativo);
+  await page.keyboard.press('Escape');
+  // Sin pasaje de 1569 todavía (pregunta 101): no se muestra el selector
+  await page.goto('/#pregunta-101');
+  await abrirRefs(page, 101);
+  await page.locator('#pregunta-101').getByRole('button', { name: /^Ver pasaje bíblico/ }).first().click();
   await expect(versiones).toBeHidden();
   if (hayVoz) await expect(escuchar).toBeVisible();
 });

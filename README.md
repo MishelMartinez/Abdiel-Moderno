@@ -57,7 +57,7 @@ Los ajustes de lectura se guardan en el dispositivo.
 - `fuentes/heidelberg/traduccion-*.json`: traducción propia por bloques.
 - `fuentes/heidelberg/citas-*.json`: citas cotejadas por inciso (notas al margen de 1563, el libro «La fe que confesamos» y reformededucation.org), con las fuentes de cada cita y, si hace falta, una `nota`.
 - `npm run heidelberg` genera `data/catecismo-heidelberg.json` y el reporte `docs/heidelberg/reporte-validacion-heidelberg.md`.
-- `npm run menor-oso` añade al Catecismo Menor (`PasajeOso1569`) los pasajes de la Biblia del Oso (Casiodoro de Reina, 1569) transcritos con su ortografía original desde `fuentes/catecismo-menor/biblia-oso-1569-*.json`. En la Lectura bíblica se elige la versión; la de 1569 es solo lectura (sin «Escuchar»).
+- `npm run menor-oso` añade al Catecismo Menor (`PasajeOso1569`) los pasajes de la Biblia del Oso (Casiodoro de Reina, 1569) transcritos con su ortografía original desde `fuentes/catecismo-menor/biblia-oso-1569-*.json`. En la Lectura bíblica se elige la versión; la de 1569 es solo lectura (sin «Escuchar»). Cada cita es un texto o un objeto `{ "pasaje", "nota", "comparativo" }`; si la cita tiene `pasajeComparativo`, el `comparativo` de 1569 es obligatorio (se guarda en `pasajeComparativoOso1569`).
 - Fuentes y licencias: `docs/heidelberg/fuentes-y-licencias.md`.
 
 ## Cómo agregar catecismos y confesiones
