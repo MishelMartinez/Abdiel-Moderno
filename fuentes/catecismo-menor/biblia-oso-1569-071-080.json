@@ -33,7 +33,10 @@
   "Ex. 20:16": "16. No hablarás contra tu proximo falſo teſtimonio."
  },
  "77": {
-  "Zab. 8:16": "16. ¶ Eſtas ſon las coſas que hareys, Hablad verdad cada qual cõ ſu proximo; juzgad en vueſtras puertas verdad y juyzio de paz:",
+  "Zab. 8:16": {
+   "pasaje": "16. ¶ Eſtas ſon las coſas que hareys, Hablad verdad cada qual cõ ſu proximo; juzgad en vueſtras puertas verdad y juyzio de paz:",
+   "nota": "«Zab.» es una errata del Catecismo por «Zac.»: se muestra Zacarías 8:16."
+  },
   "3 Jn. 12": "12. Todos dan teſtimonio de Demetrio, y aun la miſma verdad: pero tambien noſotros damos teſtimonio, y voſotros aueys conocido que nueſtro teſtimonio es verdadero.",
   "Prov. 14:5,25": "5. El teſtigo verdadero, no mentirá; mas el teſtigo falſo hablará mentiras.\n25. El teſtigo verdadero libra las animas; mas el engañoſo hablará mentiras."
  },
