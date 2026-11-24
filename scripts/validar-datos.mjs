@@ -47,6 +47,7 @@ for (const c of catalogo.catecismos) {
         assert.ok(etiqueta?.trim(), `${donde}, inciso ${g.inciso}: cita vacía`);
         if (datos.versionBiblica === 'Reina-Valera 1909') assert.ok(cita.Pasaje?.trim(), `${donde}, ${etiqueta}: pasaje vacío`);
         if (typeof cita === 'object' && 'PasajeOso1569' in cita) assert.ok(String(cita.PasajeOso1569).trim(), `${donde}, ${etiqueta}: pasaje de 1569 vacío`);
+        if (typeof cita === 'object' && 'PasajeOso1569' in cita && cita.pasajeComparativo) assert.ok(String(cita.pasajeComparativoOso1569 ?? '').trim(), `${donde}, ${etiqueta}: falta el pasaje comparativo de 1569`);
         etiquetas.get(q.numero).add(etiqueta);
         citas++;
       }

@@ -506,10 +506,11 @@ function pintarVersion(cita, etiqueta, oso) {
   $('notaPasaje').hidden = !nota;
   $('notaPasajeTexto').textContent = nota ? `Nota: ${nota}` : '';
   $('versionPasaje').textContent = `Versión: ${enOso ? VERSION_OSO : estado.documento?.versionBiblica || 'Reina-Valera 1960'}`;
-  const comp = enOso ? '' : cita?.pasajeComparativo;
+  const comp = enOso ? cita?.pasajeComparativoOso1569 : cita?.pasajeComparativo;
   $('comparativo').hidden = !comp;
   $('tituloComparativo').textContent = cita?.referenciaComparativa || '';
   $('textoComparativo').textContent = comp || '';
+  $('textoComparativo').classList.toggle('pasaje-1569', enOso);
   const escuchar = $('escucharPasaje');
   escuchar.hidden = !voz || !pasaje || enOso;
   escuchar.onclick = enOso ? null : () => alternarVoz(`${etiqueta}. ${pasaje}${comp ? ` Compare con ${cita.referenciaComparativa || ''}. ${comp}` : ''}`, escuchar, { sinNumerosDeVersiculo: true });

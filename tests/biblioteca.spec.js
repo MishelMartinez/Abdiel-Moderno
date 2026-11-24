@@ -345,7 +345,19 @@ test('Lectura bíblica: cambia entre Reina-Valera 1960 y la Biblia del Oso 1569,
   expect(cita(1, 'Sal. 73:25-28').Pasaje).not.toContain('Masquil');
   if (hayVoz) await expect(escuchar).toBeVisible();
   await page.keyboard.press('Escape');
-  // Sin pasaje de 1569 todavía (pregunta 21): no se muestra el selector
+  // El texto comparativo también se muestra en la versión de 1569
+  const hebreos = cita(23, 'Heb. 12:25 (compare con 2 Cor. 13:3)');
+  expect(hebreos.pasajeComparativoOso1569?.trim()).toBeTruthy();
+  await page.goto('/#pregunta-23');
+  await abrirRefs(page, 23);
+  await page.locator('#pregunta-23').getByRole('button', { name: /^Ver pasaje bíblico Heb\. 12:25/ }).click();
+  await oso.click();
+  await expect(page.locator('#comparativo')).toBeVisible();
+  expect(await page.locator('#textoComparativo').textContent()).toBe(hebreos.pasajeComparativoOso1569);
+  await rv.click();
+  expect(await page.locator('#textoComparativo').textContent()).toBe(hebreos.pasajeComparativo);
+  await page.keyboard.press('Escape');
+  // Sin pasaje de 1569 todavía (pregunta 31): no se muestra el selector
   await page.goto('/#pregunta-31');
   await abrirRefs(page, 31);
   await page.locator('#pregunta-31').getByRole('button', { name: /^Ver pasaje bíblico/ }).first().click();
