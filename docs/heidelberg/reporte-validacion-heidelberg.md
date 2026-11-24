@@ -8,9 +8,9 @@ Generado por `npm run heidelberg` (scripts/heidelberg.mjs).
 | Numeración consecutiva y sin duplicados | Sí |
 | Preguntas o respuestas vacías | 0 |
 | Texto alemán de 1563 disponible para cada pregunta incluida | Sí |
-| Incisos | 373 |
-| Referencias bíblicas | 1021 |
-| Versículos con texto (RV1909) | 2344 |
+| Incisos | 379 |
+| Referencias bíblicas | 1096 |
+| Versículos con texto (RV1909) | 2423 |
 | Pasajes vacíos o no encontrados | 0 |
 | Versión bíblica | Reina-Valera 1909 (eBible.org, spaRV1909) |
 
@@ -47,16 +47,25 @@ Generado por `npm run heidelberg` (scripts/heidelberg.mjs).
 - Pregunta 76, Jn. 6:35,40,47,48,50-56: El libro dice «1 Jn. 6:35,40,47»; 1 Juan tiene 5 capítulos: es Juan 6.
 - Pregunta 78, 1 Ped. 3:21: En el margen de 1563 parece leerse «1 Pet. 4»; se toma 1 Ped. 3:21, como el libro.
 - Pregunta 85, 2 Tes. 3:14,15: El margen de 1563 dice «1 Thess. 3»; se toma 2 Tes. 3, como reformededucation.org.
-- Pregunta 86, 1 Ped. 1: La edición de 1563 indica solo el capítulo y ninguna de las ediciones cotejadas precisa los versículos: se muestra el capítulo completo.
-- Pregunta 92: ninguna de las fuentes trae citas bíblicas para esta pregunta.
-- Pregunta 94, 1 Ped. 3: La edición de 1563 indica solo el capítulo y ninguna de las ediciones cotejadas precisa los versículos: se muestra el capítulo completo.
+- Pregunta 86, 2 Ped. 1:10,11: El margen de 1563 dice «1 Pet. 1»; se toma 2 Ped. 1:10, como el libro y la edición alemana.
+- Pregunta 94, Lev. 19:31: El libro dice «Lev. 10:31», que no existe (Levítico 10 tiene 20 versículos); se usa Lev. 19:31, el capítulo que cita la edición de 1563.
+- Pregunta 94, 1 Ped. 5:5,6: El margen de 1563 dice «1 Pet. 3»; se toma 1 Ped. 5:5, como el libro, la edición alemana y reformededucation.org.
+- Pregunta 96, Hech. 17:29: El libro dice «Hch 17:20»; el versículo sobre no representar a la Divinidad con oro, plata o piedra es Hech. 17:29, como la edición alemana.
 - Pregunta 98, 2 Tim. 3:16,17: El margen de 1563 dice «2 Tit. 3», errata de imprenta: es 2 Tim. 3.
+- Pregunta 99, Prov. 29:24: El libro dice «Prov. 29:34», que no existe (Proverbios 29 tiene 27 versículos); se usa Prov. 29:24, que el libro cita en la pregunta 100.
+- Pregunta 101, Jos. 9:15: El margen de 1563 dice «Esai. 9» (y la edición alemana, «Jes 9, 15»); se toma Jos. 9:15, el juramento de Josué a los gabaonitas, como el libro y reformededucation.org.
 - Pregunta 101, 1 Sam. 24:21: Se muestra el juramento que David hace a Saúl (1 Sam. 24:22 en la Reina-Valera 1909). En inglés «1 Samuel 24:21»; en la Reina-Valera 1909 este capítulo se numera 1 versículo(s) más adelante.
+- Pregunta 101, 2 Sam. 3:35: El libro dice «2 Sal. 3:35»: es 2 Samuel 3:35, como la edición de 1563.
 - Pregunta 103, Hech. 2:42-47: En el margen de 1563 parece leerse «Act. 3»; se toma Hech. 2, como la edición alemana.
 - Pregunta 105: la edición de 1563 cita «Syr. 3» (Eclesiástico), libro deuterocanónico que no forma parte de la Reina-Valera 1909; se muestra como «Dato curioso» con el texto de la Biblia de Casiodoro de Reina (1569).
+- Pregunta 105, Rom. 13:4,11-14: El libro dice «Rom. 13:14», repetido del inciso c; el versículo sobre la espada del magistrado es Rom. 13:4, como la edición alemana.
 - Pregunta 106, Sant. 2: La edición de 1563 indica solo el capítulo y ninguna de las ediciones cotejadas precisa los versículos: se muestra el capítulo completo.
 - Pregunta 108, Lev. 18:27-30: En el margen de 1563 parece leerse «Deut. 18»; se toma Lev. 18, como la edición alemana.
+- Pregunta 114, 1 Jn. 1:8-10: El libro dice «Jn. 1:8»: es 1 Juan 1:8, como la edición de 1563.
+- Pregunta 114, Rom. 7:14,15: El libro dice «Rom. 7:4,15»; se usa Rom. 7:14,15, como la edición alemana.
+- Pregunta 116, Sal. 50:14,15: El libro dice «Sal. 50:4»; el versículo sobre ofrecer a Dios alabanza es Sal. 50:14, como la edición alemana.
 - Pregunta 116, Mat. 7:7,8: En el margen de 1563 parece leerse «Matt. 2»; se toma Mat. 7.
+- Pregunta 125, Deut. 8:3: El libro dice «Deu. 8:13»; el versículo sobre que no solo de pan vivirá el hombre es Deu. 8:3, como la edición alemana.
 - La traducción se hizo desde el alemán de 1563 y es propia; requiere revisión y aprobación.
 - Método de las citas: incisos y capítulos según las notas al margen de 1563; versículos exactos según el libro «La fe que confesamos» (L), la edición alemana con versículos de heidelberger-katechismus.net (DE) y reformededucation.org (RE); se añaden las citas de L, cada una en su inciso. Las preguntas 1–10 se cotejaron a mano (fuentes/heidelberg/citas-001-010.json); las 11–129 se combinan con scripts/heidelberg-fuentes.mjs a partir de las transcripciones de fuentes/heidelberg/ y los ajustes de fuentes/heidelberg/ajustes.json.
 - Preguntas sin notas en 1563 (4, 23, 24, 68, 75, 80, 83 y 92): se usan las citas del libro; si no hay, las de la edición alemana. La pregunta 80 no figura en la primera edición de 1563; su texto y las partes entre corchetes son de la segunda y la tercera edición. Las letras de 1563 vuelven a empezar en cada página del original; aquí se numeran seguidas en cada pregunta.
@@ -165,53 +174,22 @@ Citas de reformededucation.org (preguntas 1–129) y de la edición alemana con 
 - Pregunta 85: 1 Corinthians 12
 - Pregunta 85: 1 Corinthians 13
 - Pregunta 85: Luke 15:20-24
-- Pregunta 85: 2 Corinthians 2:6-11
-- Pregunta 86: 2 Peter 1:10
-- Pregunta 86: 2 Peter 1:10, 11
 - Pregunta 87: Galatians 5:19-21
 - Pregunta 88: 2 Corinthians 5:17
 - Pregunta 89: Psalm 51:3, 4, 17
 - Pregunta 89: 2 Corinthians 7:10
-- Pregunta 90: Isaiah 57:15
 - Pregunta 90: Psalm 51:8, 12
 - Pregunta 91: Deuteronomy 13:1
 - Pregunta 91: John 15:5
 - Pregunta 91: Hebrews 11:6
-- Pregunta 91: Leviticus 18:4
-- Pregunta 92: Exodus 20:1-17
-- Pregunta 92: Deuteronomy 5:6-21
-- Pregunta 93: Deuteronomy 10:3, 4
-- Pregunta 94: Revelation 22:8, 9
-- Pregunta 94: 1 Peter 5:5, 6
-- Pregunta 94: Psalm 104:27-30
-- Pregunta 94: Isaiah 45:7
-- Pregunta 94: James 1:17
-- Pregunta 94: Proverbs 9:10
-- Pregunta 94: Deuteronomy 10:20
-- Pregunta 94: Matthew 5:29, 30
-- Pregunta 94: 1 John 5:21
-- Pregunta 94: Psalm 104:27, 28
 - Pregunta 94: 1 Peter 1:17
-- Pregunta 95: John 5:23
-- Pregunta 96: Matthew 15:9
 - Pregunta 96: Leviticus 10:1-7
 - Pregunta 96: John 4:23, 24
-- Pregunta 97: Exodus 34:13, 14
 - Pregunta 97: Deuteronomy 12:3
 - Pregunta 97: Deuteronomy 16:22
-- Pregunta 97: Exodus 34:13, 14, 17
-- Pregunta 97: Isaiah 40:25
-- Pregunta 98: Romans 10:14, 15, 17
-- Pregunta 99: Leviticus 5:1
-- Pregunta 99: Proverbs 29:24
 - Pregunta 99: Psalm 99:1-5
-- Pregunta 99: Jeremiah 4:2
-- Pregunta 99: Romans 10:9, 10
-- Pregunta 99: Psalm 50:14, 15
-- Pregunta 101: Deuteronomy 10:20
+- Pregunta 101: Isaiah 9:15
 - Pregunta 101: Jeremiah 4:1, 2
-- Pregunta 101: Joshua 9:15
-- Pregunta 102: Romans 9:1
 - Pregunta 102: Matthew 23:16-22
 - Pregunta 103: Deuteronomy 6:4-9
 - Pregunta 103: Deuteronomy 20
@@ -228,61 +206,32 @@ Citas de reformededucation.org (preguntas 1–129) y de la edición alemana con 
 - Pregunta 103: 2 Corinthians 8
 - Pregunta 103: 2 Corinthians 9
 - Pregunta 103: Hebrews 4:9-11
-- Pregunta 104: Proverbs 4:1
-- Pregunta 104: Proverbs 15:20
-- Pregunta 104: Proverbs 20:20
-- Pregunta 104: 1 Peter 2:18
-- Pregunta 104: Matthew 22:21
-- Pregunta 105: Matthew 18:35
-- Pregunta 105: Exodus 21:14
 - Pregunta 105: Leviticus 19:17, 18
 - Pregunta 105: Proverbs 25:21, 22
-- Pregunta 106: James 1:20
-- Pregunta 106: Proverbs 14:30
 - Pregunta 106: Romans 12:19
-- Pregunta 107: Galatians 6:1, 2
-- Pregunta 107: Luke 6:36
-- Pregunta 107: Colossians 3:12
-- Pregunta 107: 1 Peter 3:8
 - Pregunta 108: Ephesians 5:3-5
-- Pregunta 110: Proverbs 16:11
-- Pregunta 110: Psalm 15:5
-- Pregunta 110: Luke 6:35
 - Pregunta 110: Exodus 22:1
 - Pregunta 110: Proverbs 12:22
 - Pregunta 110: Micah 6:9-11
 - Pregunta 110: James 5:1-6
 - Pregunta 110: Luke 12:15
 - Pregunta 110: Ephesians 5:5
-- Pregunta 110: Proverbs 21:20
-- Pregunta 110: Proverbs 23:20, 21
 - Pregunta 110: Luke 16:10-13
 - Pregunta 111: Isaiah 58:5-10
 - Pregunta 111: Galatians 6:9, 10
-- Pregunta 112: Proverbs 21:28
-- Pregunta 112: Proverbs 13:5
 - Pregunta 112: Leviticus 19:11, 12
 - Pregunta 112: Revelation 21:8
 - Pregunta 112: 1 Peter 3:8, 9
 - Pregunta 113: Psalm 19:7-14
 - Pregunta 113: Psalm 139:23, 24
-- Pregunta 114: 1 Corinthians 13:9
-- Pregunta 114: Psalm 1:1, 2
 - Pregunta 114: Philippians 3:12-16
-- Pregunta 115: Romans 3:19-26
 - Pregunta 115: 1 John 3:1-3
 - Pregunta 116: Psalm 116:12-19
-- Pregunta 116: 1 Thessalonians 5:16-18
-- Pregunta 117: Psalm 145:18-20
-- Pregunta 117: Revelation 19:10
 - Pregunta 117: 2 Chronicles 7:14
 - Pregunta 117: Psalm 62:8
 - Pregunta 117: Revelation 4
-- Pregunta 117: John 16:23
 - Pregunta 121: Matthew 6:25-34
 - Pregunta 121: Romans 8:31, 32
-- Pregunta 122: Jeremiah 9:23, 24
-- Pregunta 122: Jeremiah 31:33, 34
 - Pregunta 122: Exodus 34:5-8
 - Pregunta 122: Psalm 145
 - Pregunta 122: Jeremiah 32:16-20
@@ -291,23 +240,13 @@ Citas de reformededucation.org (preguntas 1–129) y de la edición alemana con 
 - Pregunta 123: Matthew 16:18
 - Pregunta 123: Acts 2:42-47
 - Pregunta 124: Matthew 7:21
-- Pregunta 124: Romans 12:1, 2
 - Pregunta 124: Ephesians 6:5-9
-- Pregunta 125: James 1:17
-- Pregunta 125: Psalm 127:1, 2
-- Pregunta 125: Psalm 146
-- Pregunta 125: Jeremiah 17:5-8
 - Pregunta 125: Hebrews 13:5, 6
-- Pregunta 126: Romans 8:1
 - Pregunta 126: Matthew 18:21-35
-- Pregunta 127: 1 Thessalonians 5:23, 24
 - Pregunta 127: 2 Corinthians 11:14
 - Pregunta 127: Matthew 10:19, 20
 - Pregunta 127: Romans 5:3-5
 - Pregunta 127: 1 Corinthians 10:13
-- Pregunta 127: 1 Thessalonians 5:23
-- Pregunta 128: Psalm 115:1
-- Pregunta 128: Jeremiah 33:8, 9
 - Pregunta 129: Isaiah 65:24
 
 ## Para revisar
@@ -337,12 +276,10 @@ Citas de reformededucation.org (preguntas 1–129) y de la edición alemana con 
 - Pregunta 74: Genesis 17 aparece en 2 incisos de 1563: los versículos se repartieron según su lugar en cada edición; revisar.
 - Pregunta 76: John 6 aparece en 3 incisos de 1563: los versículos se repartieron según su lugar en cada edición; revisar.
 - Pregunta 78: 1 Corinthians 10 aparece en 2 incisos de 1563: los versículos se repartieron según su lugar en cada edición; revisar.
-- Pregunta 80: Hebrews 9 aparece en 2 incisos de 1563: los versículos se repartieron según su lugar en cada edición; revisar.
 - Pregunta 80: Hebrews 10 aparece en 2 incisos de 1563: los versículos se repartieron según su lugar en cada edición; revisar.
+- Pregunta 80: Colossians 3 aparece en 2 incisos de 1563: los versículos se repartieron según su lugar en cada edición; revisar.
 - Pregunta 86: 1 Peter 2 aparece en 2 incisos de 1563: los versículos se repartieron según su lugar en cada edición; revisar.
-- Pregunta 86: 1 Peter 1: capítulo completo.
 - Pregunta 94: Matthew 4 aparece en 2 incisos de 1563: los versículos se repartieron según su lugar en cada edición; revisar.
-- Pregunta 94: 1 Peter 3: capítulo completo.
 - Pregunta 94: Acts 5 aparece en 2 incisos de 1563: los versículos se repartieron según su lugar en cada edición; revisar.
 - Pregunta 103: 1 Corinthians 14 aparece en 2 incisos de 1563: los versículos se repartieron según su lugar en cada edición; revisar.
 - Pregunta 104: Ephesians 6 aparece en 2 incisos de 1563: los versículos se repartieron según su lugar en cada edición; revisar.
@@ -357,9 +294,9 @@ Citas de reformededucation.org (preguntas 1–129) y de la edición alemana con 
 - Pregunta 122: Psalm 119 aparece en 2 incisos de 1563: los versículos se repartieron según su lugar en cada edición; revisar.
 - Pregunta 127: John 15 aparece en 2 incisos de 1563: los versículos se repartieron según su lugar en cada edición; revisar.
 
-## Preguntas sin cotejar con el libro
+## Preguntas sin citas en el libro
 
-Faltan las fotos del libro «La fe que confesamos» para las preguntas 23–129 (55 preguntas). Sus citas siguen la edición de 1563, con los versículos de la edición alemana y de reformededucation.org.
+El libro «La fe que confesamos» no trae citas para las preguntas 23, 24, 28, 68, 83. Sus citas siguen la edición de 1563, con los versículos de la edición alemana y de reformededucation.org.
 
 ## Origen de cada cita
 
@@ -519,23 +456,23 @@ Faltan las fotos del libro «La fe que confesamos» para las preguntas 23–129 
 | 18 | b | Mat. 1:21-23 | 1563, DE, RE |
 | 18 | b | Rom. 1:3 | 1563, L |
 | 18 | b | 1 Tim. 3:16 | 1563, L, DE, RE |
-| 18 | c | Luc. 2:6,7,11 | 1563, L, DE, RE |
-| 18 | c | 1 Cor. 1:30 | 1563, L, DE |
-| 18 | c | Luc. 1:42 | L |
-| 18 | c | Rom. 9:5 | L |
-| 18 | c | Fil. 2:7 | L |
-| 18 | c | Heb. 2:14,16,17 | L |
+| 18 | b | Luc. 1:42 | L |
+| 18 | b | Rom. 9:5 | L |
+| 18 | b | Fil. 2:7 | L |
+| 18 | b | Heb. 2:14,16,17 | L |
+| 18 | b | Heb. 4:15 | L |
+| 18 | c | Isa. 53:9,11 | L |
+| 18 | c | Jer. 23:5 | L |
+| 18 | c | Luc. 1:35 | L |
+| 18 | c | Jn. 8:46 | L |
 | 18 | c | Heb. 4:15 | L |
-| 18 | c | Heb. 2:9 | L |
-| 18 | d | Isa. 53:9,11 | L |
-| 18 | d | Jer. 23:5 | L |
-| 18 | d | Luc. 1:35 | L |
-| 18 | d | Jn. 8:46 | L |
-| 18 | d | Heb. 4:15 | L |
-| 18 | d | Heb. 7:26 | L |
-| 18 | d | 1 Ped. 1:19 | L |
-| 18 | d | 1 Ped. 2:22 | L |
-| 18 | d | 1 Ped. 3:18 | L |
+| 18 | c | Heb. 7:26 | L |
+| 18 | c | 1 Ped. 1:19 | L |
+| 18 | c | 1 Ped. 2:22 | L |
+| 18 | c | 1 Ped. 3:18 | L |
+| 18 | d | Luc. 2:6,7,11 | 1563, L, DE, RE |
+| 18 | d | 1 Cor. 1:30 | 1563, L, DE |
+| 18 | d | Heb. 2:9 | L |
 | 19 | a | Gén. 3:15 | 1563, L, DE, RE |
 | 19 | b | Gén. 22:18 | 1563, L, DE, RE |
 | 19 | b | Rom. 1:2 | 1563, L, DE |
@@ -581,6 +518,11 @@ Faltan las fotos del libro «La fe que confesamos» para las preguntas 23–129 
 | 21 | b | Heb. 4:16 | L, RE |
 | 21 | b | Sant. 1:6 | L, DE |
 | 21 | c | 2 Cor. 4:13 | 1563, L, DE |
+| 21 | c | Gál. 5:22 | L |
+| 21 | c | Mat. 16:17 | L, DE |
+| 21 | c | Jn. 6:29 | L |
+| 21 | c | Fil. 1:19 | L, DE |
+| 21 | c | Hech. 16:14 | L, RE |
 | 21 | d | Rom. 1:7,16,17 | 1563, L, DE, RE |
 | 21 | d | Rom. 10:17 | L, DE, RE |
 | 21 | d | 1 Cor. 1:21 | L, RE |
@@ -590,11 +532,6 @@ Faltan las fotos del libro «La fe que confesamos» para las preguntas 23–129 
 | 21 | e | Gál. 3:11 | L |
 | 21 | e | Heb. 10:10,38 | L, RE |
 | 21 | f | Ef. 2:7-10 | 1563, L, DE, RE |
-| 21 | f | Gál. 5:22 | L |
-| 21 | f | Mat. 16:17 | L, DE |
-| 21 | f | Jn. 6:29 | L |
-| 21 | f | Fil. 1:19 | L, DE |
-| 21 | f | Hech. 16:14 | L, RE |
 | 21 | f | Rom. 3:24 | L, DE, RE |
 | 21 | f | Rom. 5:19 | L, DE, RE |
 | 21 | f | Luc. 1:77,78 | L |
@@ -837,13 +774,13 @@ Faltan las fotos del libro «La fe que confesamos» para las preguntas 23–129 
 | 46 | c | Mat. 24:30 | 1563, L, DE, RE |
 | 47 | a | Mat. 28:20 | 1563, L, DE, RE |
 | 47 | b | Mat. 26:11 | 1563, L, DE, RE |
+| 47 | b | Heb. 8:4 | L, RE |
+| 47 | b | Jn. 17:11 | L, DE, RE |
+| 47 | b | Hech. 3:21 | L, DE, RE |
 | 47 | c | Jn. 14:16-20 | 1563, DE, RE |
 | 47 | c | Jn. 16:13,28 | 1563, L, DE, RE |
 | 47 | c | Mat. 28:18-20 | 1563, L, DE, RE |
 | 47 | c | Ef. 4:8 | 1563, DE |
-| 47 | c | Heb. 8:4 | L, RE |
-| 47 | c | Jn. 17:11 | L, DE, RE |
-| 47 | c | Hech. 3:21 | L, DE, RE |
 | 47 | c | Jn. 4:18 | L |
 | 48 | a | Hech. 7:48,49 | 1563, L, DE, RE |
 | 48 | a | Jer. 23:24 | L, DE, RE |
@@ -869,10 +806,10 @@ Faltan las fotos del libro «La fe que confesamos» para las preguntas 23–129 
 | 50 | b | Mat. 28:18 | 1563, L, DE, RE |
 | 50 | b | Jn. 5:22,23 | 1563, L, DE, RE |
 | 51 | a | Ef. 4:7-12 | 1563, L, DE, RE |
+| 51 | a | Hech. 2:33 | L, RE |
 | 51 | b | Sal. 2:9 | 1563, L, DE, RE |
 | 51 | b | Jn. 10:27-30 | 1563, L, DE, RE |
 | 51 | b | Ef. 4:8 | 1563, L, DE |
-| 51 | b | Hech. 2:33 | L, RE |
 | 51 | b | Sal. 110:1,2 | L, RE |
 | 52 | a | Luc. 21:28 | 1563, L, DE, RE |
 | 52 | a | Rom. 8:22-25 | 1563, L, DE, RE |
@@ -914,22 +851,22 @@ Faltan las fotos del libro «La fe que confesamos» para las preguntas 23–129 
 | 54 | e | Gén. 26:4 | L, DE, RE |
 | 54 | e | Apoc. 5:9 | L, RE |
 | 54 | f | Ef. 5:26 | 1563, L, DE, RE |
+| 54 | f | Hech. 20:28 | L, RE |
+| 54 | f | Ef. 4:11-13 | L, DE, RE |
 | 54 | g | Mat. 16:18 | 1563, L, DE, RE |
 | 54 | g | Jn. 10:11,27-30 | 1563, L, DE, RE |
 | 54 | g | 1 Cor. 1:4-9 | 1563, L, DE, RE |
-| 54 | g | Hech. 20:28 | L, RE |
-| 54 | g | Ef. 4:11-13 | L, DE, RE |
 | 54 | g | Sal. 129:1-5 | L, RE |
 | 54 | g | Sal. 23:6 | L, RE |
 | 54 | g | 1 Jn. 2:19 | L, DE |
 | 54 | g | 1 Ped. 1:5 | L, RE |
 | 55 | a | 1 Jn. 1:3 | 1563, L, DE, RE |
 | 55 | a | 1 Cor. 1:9 | 1563, DE |
+| 55 | a | Rom. 8:32 | L, DE, RE |
+| 55 | a | 1 Cor. 6:17 | L, RE |
 | 55 | b | 1 Cor. 12:4-7,12,13,20-27 | 1563, L, DE, RE |
 | 55 | b | 1 Cor. 13:1-7 | 1563, L, DE, RE |
 | 55 | b | Fil. 2:4-8 | 1563, L, DE, RE |
-| 55 | b | Rom. 8:32 | L, DE, RE |
-| 55 | b | 1 Cor. 6:17 | L, RE |
 | 56 | a | 2 Cor. 5:18-21 | 1563, L, DE, RE |
 | 56 | a | Jer. 31:34 | 1563, L, DE |
 | 56 | a | Sal. 103:3,4,10,12 | 1563, L, DE, RE |
@@ -1077,312 +1014,387 @@ Faltan las fotos del libro «La fe que confesamos» para las preguntas 23–129 
 | 78 | c | 1 Cor. 10:1-4 | 1563, L, DE, RE |
 | 78 | c | Ef. 5:26 | L, RE |
 | 78 | c | Éx. 13:9 | L |
-| 79 | a | Jn. 6:51,55 | 1563, DE, RE |
-| 79 | b | 1 Cor. 10:16,17 | 1563, DE, RE |
-| 80 | a | Heb. 7:27 | DE, RE |
-| 80 | a | Heb. 9:12,25-28 | DE, RE |
-| 80 | a | Heb. 10:10-18 | DE, RE |
-| 80 | a | Jn. 19:30 | DE, RE |
-| 80 | a | Mat. 26:28 | DE, RE |
-| 80 | a | Luc. 22:19,20 | DE |
-| 80 | b | 1 Cor. 6:17 | DE, RE |
-| 80 | b | 1 Cor. 10:16,17 | DE, RE |
-| 80 | c | Heb. 1:3 | DE, RE |
-| 80 | c | Heb. 8:1 | DE, RE |
-| 80 | c | Jn. 4:21-24 | DE, RE |
-| 80 | c | Jn. 20:17 | DE, RE |
-| 80 | c | Luc. 24:52 | DE |
-| 80 | c | Hech. 7:55,56 | DE, RE |
-| 80 | d | Col. 3:1 | DE, RE |
-| 80 | d | Fil. 3:20,21 | DE, RE |
-| 80 | d | 1 Tes. 1:9,10 | DE, RE |
-| 80 | e | Heb. 9:26 | DE |
-| 80 | e | Heb. 10:12,14 | DE |
-| 81 | a | 1 Cor. 10:19-22 | 1563, DE, RE |
-| 81 | a | 1 Cor. 11:26-32 | 1563, DE, RE |
-| 82 | a | 1 Cor. 11:17-34 | 1563, DE, RE |
-| 82 | a | Isa. 1:11-17 | 1563, DE, RE |
-| 82 | a | Isa. 66:3 | 1563, DE |
-| 82 | a | Jer. 7:21-23 | 1563, DE |
-| 82 | a | Sal. 50:16,17 | 1563, DE, RE |
+| 79 | a | Jn. 6:51,55 | 1563, L, DE, RE |
+| 79 | b | 1 Cor. 10:16,17 | 1563, L, DE, RE |
+| 80 | a | Heb. 10:10-18 | L, DE, RE |
+| 80 | a | Heb. 7:26,27 | L, DE, RE |
+| 80 | a | Heb. 9:12,25-28 | L, DE, RE |
+| 80 | a | Jn. 19:30 | L, DE, RE |
+| 80 | a | Mat. 26:28 | L, DE, RE |
+| 80 | a | Luc. 22:19,20 | L, DE |
+| 80 | b | 1 Cor. 10:16,17 | L, DE, RE |
+| 80 | b | 1 Cor. 6:17 | L, DE, RE |
+| 80 | c | Jn. 20:17 | L, DE, RE |
+| 80 | c | Col. 3:1 | L |
+| 80 | c | Heb. 1:3 | L, DE, RE |
+| 80 | c | Heb. 8:1 | L, DE, RE |
+| 80 | d | Mat. 6:20,21 | L |
+| 80 | d | Jn. 4:21-24 | L, DE, RE |
+| 80 | d | Luc. 24:52 | L, DE |
+| 80 | d | Hech. 7:55,56 | L, DE, RE |
+| 80 | d | Col. 3:1 | L, DE, RE |
+| 80 | d | Fil. 3:20,21 | L, DE, RE |
+| 80 | d | 1 Tes. 1:9,10 | L, DE, RE |
+| 80 | e | Heb. 10:12,14 | L, DE |
+| 81 | a | 1 Cor. 10:19-22 | 1563, L, DE, RE |
+| 81 | a | 1 Cor. 11:26-32 | 1563, L, DE, RE |
+| 82 | a | 1 Cor. 11:17-34 | 1563, L, DE, RE |
+| 82 | a | Isa. 1:11-17 | 1563, L, DE, RE |
+| 82 | a | Isa. 66:3 | 1563, L, DE |
+| 82 | a | Jer. 7:21-23 | 1563, L, DE |
+| 82 | a | Sal. 50:16,17 | 1563, L, DE, RE |
 | 83 | a | Mat. 16:18,19 | DE, RE |
 | 83 | a | Mat. 18:18 | DE |
-| 84 | a | Jn. 20:21-23 | 1563, DE, RE |
-| 84 | a | Mat. 16:19 | 1563, DE, RE |
-| 85 | a | Mat. 18:15-20 | 1563, DE, RE |
-| 85 | a | 1 Cor. 5:3-5,11 | 1563, DE, RE |
+| 84 | a | Jn. 20:21-23 | 1563, L, DE, RE |
+| 84 | a | Mat. 16:19 | 1563, L, DE, RE |
+| 85 | a | Mat. 18:15-20 | 1563, L, DE, RE |
+| 85 | a | 1 Cor. 5:3-5,11 | 1563, L, DE, RE |
 | 85 | a | 2 Tes. 3:14,15 | 1563, DE, RE |
 | 85 | a | 2 Jn. 1:10,11 | 1563, DE |
-| 86 | a | Rom. 6:13 | 1563, DE, RE |
-| 86 | a | Rom. 12:1,2 | 1563, DE, RE |
-| 86 | a | 1 Ped. 2:5-12 | 1563, DE, RE |
-| 86 | a | 1 Cor. 6:19,20 | 1563, DE, RE |
-| 86 | b | Mat. 5:14-16 | 1563, DE, RE |
-| 86 | b | 1 Ped. 2:12 | 1563, RE |
-| 86 | c | 1 Ped. 1 | 1563 |
-| 86 | c | Mat. 7:17,18 | 1563, DE, RE |
-| 86 | c | Gál. 5:6,22-24 | 1563, DE, RE |
-| 86 | d | 1 Ped. 3:1,2 | 1563, DE, RE |
-| 86 | d | Rom. 14:17-19 | 1563, DE, RE |
-| 87 | a | 1 Cor. 6:9,10 | 1563, DE, RE |
-| 87 | a | Ef. 5:5,6 | 1563, DE, RE |
-| 87 | a | 1 Jn. 3:14,15 | 1563, DE, RE |
-| 88 | a | Rom. 6:1-11 | 1563, DE, RE |
-| 88 | a | Ef. 4:22-24 | 1563, DE, RE |
-| 88 | a | Col. 3:5-10 | 1563, DE, RE |
-| 88 | a | 1 Cor. 5:7 | 1563, DE, RE |
-| 89 | a | Rom. 8:12,13 | 1563, DE, RE |
-| 89 | a | Joel 2:12,13 | 1563, DE, RE |
-| 90 | a | Rom. 5:1 | 1563, DE, RE |
-| 90 | a | Rom. 14:17 | 1563, DE, RE |
-| 90 | a | Gál. 2:20 | 1563, DE, RE |
-| 90 | b | Rom. 6:10,11 | 1563, DE, RE |
-| 91 | a | Rom. 14:23 | 1563, DE, RE |
-| 91 | b | 1 Sam. 15:22 | 1563, DE, RE |
-| 91 | b | Ef. 2:10 | 1563, DE, RE |
-| 91 | c | 1 Cor. 10:31 | 1563, DE, RE |
+| 85 | a | 2 Cor. 2:6-8 | L, RE |
+| 86 | a | Rom. 6:13 | 1563, L, DE, RE |
+| 86 | a | Rom. 12:1,2 | 1563, L, DE, RE |
+| 86 | a | 1 Ped. 2:5-12 | 1563, L, DE, RE |
+| 86 | a | 1 Cor. 6:19,20 | 1563, L, DE, RE |
+| 86 | b | Mat. 5:14-16 | 1563, L, DE, RE |
+| 86 | b | 1 Ped. 2:12 | 1563, L, RE |
+| 86 | c | 2 Ped. 1:10,11 | 1563, L, DE, RE |
+| 86 | c | Mat. 7:17,18 | 1563, L, DE, RE |
+| 86 | c | Gál. 5:6,22-24 | 1563, L, DE, RE |
+| 86 | d | 1 Ped. 3:1,2 | 1563, L, DE, RE |
+| 86 | d | Rom. 14:17-19 | 1563, L, DE, RE |
+| 87 | a | 1 Cor. 6:9,10 | 1563, L, DE, RE |
+| 87 | a | Ef. 5:5,6 | 1563, L, DE, RE |
+| 87 | a | 1 Jn. 3:14,15 | 1563, L, DE, RE |
+| 88 | a | Rom. 6:1-11 | 1563, L, DE, RE |
+| 88 | a | Ef. 4:22-24 | 1563, L, DE, RE |
+| 88 | a | Col. 3:5-10 | 1563, L, DE, RE |
+| 88 | a | 1 Cor. 5:7 | 1563, L, DE, RE |
+| 88 | a | 2 Cor. 7:10 | L |
+| 89 | a | Rom. 8:12,13 | 1563, L, DE, RE |
+| 89 | a | Joel 2:12,13 | 1563, L, DE, RE |
+| 89 | a | Os. 6:1 | L |
+| 90 | a | Rom. 5:1 | 1563, L, DE, RE |
+| 90 | a | Rom. 14:17 | 1563, L, DE, RE |
+| 90 | a | Gál. 2:20 | 1563, L, DE, RE |
+| 90 | a | Isa. 57:15 | L, DE, RE |
+| 90 | b | Rom. 6:10,11 | 1563, L, DE, RE |
+| 91 | a | Rom. 14:23 | 1563, L, DE, RE |
+| 91 | b | 1 Sam. 15:22 | 1563, L, DE, RE |
+| 91 | b | Ef. 2:10 | 1563, L, DE, RE |
+| 91 | b | Lev. 18:4 | L, RE |
+| 91 | c | 1 Cor. 10:31 | 1563, L, DE, RE |
 | 91 | d | Deut. 12:32 | 1563, RE |
-| 91 | d | Ez. 20:18,19 | 1563, DE, RE |
-| 91 | d | Isa. 29:13 | 1563, DE, RE |
-| 91 | d | Mat. 15:7-9 | 1563, DE, RE |
-| 93 | a | Éx. 34:28 | 1563, DE |
-| 93 | a | Deut. 4:13 | 1563, DE |
-| 93 | b | Mat. 22:37-40 | 1563, DE, RE |
-| 94 | a | 1 Cor. 6:9,10 | 1563, DE, RE |
-| 94 | b | Lev. 19:31 | 1563, DE, RE |
-| 94 | b | Deut. 18:9-12 | 1563, DE, RE |
-| 94 | c | Mat. 4:10 | 1563, DE, RE |
-| 94 | c | Apoc. 19:10 | 1563, DE, RE |
-| 94 | d | Jn. 17:3 | 1563, DE, RE |
-| 94 | e | Jer. 17:5,7 | 1563, DE, RE |
-| 94 | f | 1 Ped. 3 | 1563 |
-| 94 | g | Heb. 10:36 | 1563, DE, RE |
-| 94 | g | Col. 1:11 | 1563, DE, RE |
-| 94 | g | Rom. 5:3,4 | 1563, DE, RE |
-| 94 | g | 1 Cor. 10:5-14 | 1563, DE, RE |
-| 94 | g | Fil. 2:14 | 1563, DE, RE |
-| 94 | h | Deut. 6:2,5,13 | 1563, DE, RE |
-| 94 | h | Mat. 22:37 | 1563, DE, RE |
-| 94 | h | Sal. 111:10 | 1563, DE, RE |
-| 94 | h | Prov. 1:7 | 1563, DE, RE |
-| 94 | h | Mat. 10:28,37-39 | 1563, DE, RE |
-| 94 | h | Hech. 5:29 | 1563, DE, RE |
-| 94 | i | Mat. 4:10 | 1563, DE, RE |
-| 94 | i | Hech. 5:29 | 1563, DE, RE |
-| 95 | a | Ef. 5:5 | 1563, DE, RE |
-| 95 | a | 1 Crón. 16:26 | 1563, DE, RE |
-| 95 | a | Fil. 3:19 | 1563, DE, RE |
-| 95 | a | Gál. 4:8,9 | 1563, DE, RE |
-| 95 | a | Ef. 2:12 | 1563, DE |
-| 95 | a | 1 Jn. 2:23 | 1563, DE |
-| 95 | a | 2 Jn. 1:5,6,9 | 1563, DE |
-| 96 | a | Deut. 4:15-19 | 1563, DE, RE |
-| 96 | a | Isa. 40:18-25 | 1563, DE, RE |
-| 96 | a | Rom. 1:23,24 | 1563, DE, RE |
-| 96 | a | Hech. 17:29 | 1563, DE, RE |
-| 96 | b | 1 Sam. 15:22,23 | 1563, DE, RE |
-| 96 | b | Deut. 12:30-32 | 1563, DE, RE |
-| 97 | a | Éx. 23:24 | 1563, DE |
-| 97 | a | Núm. 33:52 | 1563, DE, RE |
-| 97 | a | Deut. 7:5 | 1563, DE |
-| 97 | a | 2 Rey. 18:4,5 | 1563, DE, RE |
-| 98 | a | Jer. 10:8 | 1563, DE, RE |
-| 98 | a | Hab. 2:18-20 | 1563, DE, RE |
-| 98 | b | 2 Ped. 1:19 | 1563, DE, RE |
-| 98 | b | 2 Tim. 3:16,17 | 1563, DE, RE |
-| 99 | a | Lev. 24:10-17 | 1563, DE, RE |
-| 99 | b | Lev. 19:12 | 1563, DE, RE |
-| 99 | c | Mat. 5:37 | 1563, DE, RE |
-| 99 | c | Sant. 5:12 | 1563, DE, RE |
-| 99 | d | Isa. 45:23 | 1563, DE, RE |
-| 99 | e | Mat. 10:32,33 | 1563, DE, RE |
-| 99 | f | 1 Tim. 2:8 | 1563, DE, RE |
-| 99 | g | Rom. 2:24 | 1563, DE, RE |
-| 99 | g | 1 Tim. 6:1 | 1563, DE, RE |
-| 99 | g | Col. 3:16,17 | 1563, DE, RE |
-| 100 | a | Lev. 5:1 | 1563, DE, RE |
-| 100 | b | Lev. 24:15,16 | 1563, DE, RE |
-| 101 | a | Deut. 6:13 | 1563, DE, RE |
-| 101 | a | Isa. 48:1 | 1563, DE |
-| 101 | a | Heb. 6:16 | 1563, DE, RE |
-| 101 | b | Gén. 21:24 | 1563, DE, RE |
-| 101 | b | Gén. 31:53,54 | 1563, DE, RE |
-| 101 | b | Isa. 9:15 | 1563, DE |
-| 101 | b | 1 Sam. 24:22 | 1563, DE, RE |
-| 101 | b | 2 Sam. 3:35 | 1563, DE |
-| 101 | b | 1 Rey. 1:29,30 | 1563, DE, RE |
-| 101 | b | Rom. 1:9 | 1563, DE, RE |
-| 101 | b | 2 Cor. 1:23 | 1563, DE, RE |
-| 102 | a | 2 Cor. 1:23 | 1563, DE, RE |
-| 102 | b | Mat. 5:34-37 | 1563, DE, RE |
-| 102 | b | Sant. 5:12 | 1563, DE, RE |
-| 103 | a | Tit. 1:5 | 1563, DE, RE |
+| 91 | d | Ez. 20:18,19 | 1563, L, DE, RE |
+| 91 | d | Isa. 29:13 | 1563, L, DE, RE |
+| 91 | d | Mat. 15:7-9 | 1563, L, DE, RE |
+| 92 | a | Éx. 20:1-17 | L, RE |
+| 92 | a | Deut. 5:6-21 | L, RE |
+| 93 | a | Éx. 34:28 | 1563, L, DE |
+| 93 | a | Deut. 4:13 | 1563, L, DE |
+| 93 | a | Deut. 10:3,4 | L, DE |
+| 93 | b | Mat. 22:37-40 | 1563, L, DE, RE |
+| 94 | a | 1 Cor. 6:9,10 | 1563, L, DE, RE |
+| 94 | a | 1 Jn. 5:21 | L, RE |
+| 94 | b | Lev. 19:31 | 1563, L, DE, RE |
+| 94 | b | Deut. 18:9-12 | 1563, L, DE, RE |
+| 94 | c | Mat. 4:10 | 1563, L, DE, RE |
+| 94 | c | Apoc. 19:10 | 1563, L, DE, RE |
+| 94 | c | Apoc. 22:8,9 | L, DE, RE |
+| 94 | d | Jn. 17:3 | 1563, L, DE, RE |
+| 94 | e | Jer. 17:5,7 | 1563, L, DE, RE |
+| 94 | f | 1 Ped. 5:5,6 | 1563, L, DE, RE |
+| 94 | g | Heb. 10:36 | 1563, L, DE, RE |
+| 94 | g | Col. 1:11 | 1563, L, DE, RE |
+| 94 | g | Rom. 5:3,4 | 1563, L, DE, RE |
+| 94 | g | 1 Cor. 10:5-14 | 1563, L, DE, RE |
+| 94 | g | Fil. 2:14 | 1563, L, DE, RE |
+| 94 | h | Sal. 104:27 | L, DE, RE |
+| 94 | h | Isa. 45:7 | L, DE, RE |
+| 94 | h | Sant. 1:17 | L, DE, RE |
+| 94 | i | Deut. 6:2,5,13 | 1563, L, DE, RE |
+| 94 | i | Mat. 22:37 | 1563, L, DE, RE |
+| 94 | i | Sal. 111:10 | 1563, L, DE, RE |
+| 94 | i | Prov. 1:7 | 1563, L, DE, RE |
+| 94 | i | Mat. 10:28,37-39 | 1563, L, DE, RE |
+| 94 | i | Hech. 5:29 | 1563, L, DE, RE |
+| 94 | i | Prov. 9:10 | L, DE, RE |
+| 94 | i | Mat. 5:29 | L, DE, RE |
+| 94 | k | Mat. 4:10 | 1563, L, DE, RE |
+| 94 | k | Hech. 5:29 | 1563, L, DE, RE |
+| 94 | k | Deut. 10:20 | L, DE, RE |
+| 95 | a | Ef. 5:5 | 1563, L, DE, RE |
+| 95 | a | 1 Crón. 16:26 | 1563, L, DE, RE |
+| 95 | a | Fil. 3:19 | 1563, L, DE, RE |
+| 95 | a | Gál. 4:8,9 | 1563, L, DE, RE |
+| 95 | a | Ef. 2:12 | 1563, L, DE |
+| 95 | a | 1 Jn. 2:23 | 1563, L, DE |
+| 95 | a | 2 Jn. 1:5,6,9 | 1563, L, DE |
+| 95 | a | Jn. 5:23 | L, DE |
+| 96 | a | Deut. 4:15-19 | 1563, L, DE, RE |
+| 96 | a | Isa. 40:18-25 | 1563, L, DE, RE |
+| 96 | a | Rom. 1:23,24 | 1563, L, DE, RE |
+| 96 | a | Hech. 17:29 | 1563, L, DE, RE |
+| 96 | b | 1 Sam. 15:22,23 | 1563, L, DE, RE |
+| 96 | b | Deut. 12:30-32 | 1563, L, DE, RE |
+| 96 | b | Mat. 15:9 | L, DE, RE |
+| 97 | a | Isa. 40:25 | L, RE |
+| 97 | b | Éx. 23:24 | 1563, L, DE |
+| 97 | b | Núm. 33:52 | 1563, L, DE, RE |
+| 97 | b | Deut. 7:5 | 1563, DE |
+| 97 | b | 2 Rey. 18:4,5 | 1563, DE, RE |
+| 97 | b | Éx. 34:17 | L, DE, RE |
+| 97 | b | Éx. 34:13 | L, DE, RE |
+| 98 | a | Jer. 10:8 | 1563, L, DE, RE |
+| 98 | a | Hab. 2:18-20 | 1563, L, DE, RE |
+| 98 | b | 2 Ped. 1:19 | 1563, L, DE, RE |
+| 98 | b | 2 Tim. 3:16,17 | 1563, L, DE, RE |
+| 98 | b | Rom. 10:14,15,17 | L, RE |
+| 99 | a | Lev. 24:10-17 | 1563, L, DE, RE |
+| 99 | b | Lev. 19:12 | 1563, L, DE, RE |
+| 99 | c | Mat. 5:37 | 1563, L, DE, RE |
+| 99 | c | Sant. 5:12 | 1563, L, DE, RE |
+| 99 | d | Lev. 5:1 | L, RE |
+| 99 | d | Prov. 29:24 | L, RE |
+| 99 | e | Isa. 45:23 | 1563, L, DE, RE |
+| 99 | e | Jer. 4:2 | L, RE |
+| 99 | f | Mat. 10:32,33 | 1563, L, DE, RE |
+| 99 | f | Rom. 10:9,10 | L, RE |
+| 99 | g | 1 Tim. 2:8 | 1563, L, DE, RE |
+| 99 | g | Sal. 50:15 | L, RE |
+| 99 | h | Rom. 2:24 | 1563, L, DE, RE |
+| 99 | h | 1 Tim. 6:1 | 1563, L, DE, RE |
+| 99 | h | Col. 3:16,17 | 1563, L, DE, RE |
+| 100 | a | Lev. 5:1 | 1563, L, DE, RE |
+| 100 | a | Prov. 29:24 | L |
+| 100 | b | Lev. 24:15,16 | 1563, L, DE, RE |
+| 101 | a | Deut. 6:13 | 1563, L, DE, RE |
+| 101 | a | Isa. 48:1 | 1563, L, DE |
+| 101 | a | Heb. 6:16 | 1563, L, DE, RE |
+| 101 | a | Deut. 10:20 | L, DE, RE |
+| 101 | b | Gén. 21:24 | 1563, L, DE, RE |
+| 101 | b | Gén. 31:53,54 | 1563, L, DE, RE |
+| 101 | b | Jos. 9:15 | 1563, L, RE |
+| 101 | b | 1 Sam. 24:22 | 1563, L, DE, RE |
+| 101 | b | 2 Sam. 3:35 | 1563, L, DE |
+| 101 | b | 1 Rey. 1:29,30 | 1563, L, DE, RE |
+| 101 | b | Rom. 1:9 | 1563, L, DE, RE |
+| 101 | b | 2 Cor. 1:23 | 1563, L, DE, RE |
+| 101 | b | Rom. 9:1 | L |
+| 102 | a | 2 Cor. 1:23 | 1563, L, DE, RE |
+| 102 | a | Rom. 9:1 | L, RE |
+| 102 | b | Mat. 5:34-37 | 1563, L, DE, RE |
+| 102 | b | Sant. 5:12 | 1563, L, DE, RE |
+| 103 | a | Tit. 1:5 | 1563, L, DE, RE |
 | 103 | a | 1 Tim. 3:14,15 | 1563, DE |
-| 103 | a | 1 Tim. 4:13-16 | 1563, DE, RE |
+| 103 | a | 1 Tim. 4:13-16 | 1563, L, DE, RE |
 | 103 | a | 1 Tim. 5:17 | 1563, DE |
-| 103 | a | 1 Cor. 9:11-14 | 1563, DE, RE |
-| 103 | a | 2 Tim. 2:2 | 1563, DE, RE |
-| 103 | a | 2 Tim. 3:13-17 | 1563, DE, RE |
-| 103 | b | Sal. 40:9,10 | 1563, DE, RE |
-| 103 | b | Sal. 68:26 | 1563, DE, RE |
-| 103 | b | Hech. 2:42-47 | 1563, DE, RE |
-| 103 | c | 1 Cor. 14:19,29-31 | 1563, DE |
-| 103 | d | 1 Cor. 11:23,24,33 | 1563, DE, RE |
-| 103 | e | 1 Tim. 2:1-3,8-10 | 1563, DE, RE |
-| 103 | e | 1 Cor. 14:16,26-33 | 1563, DE, RE |
-| 103 | f | 1 Cor. 16:2 | 1563, DE, RE |
-| 103 | g | Isa. 66:23 | 1563, DE, RE |
-| 104 | a | Ef. 6:1-9 | 1563, DE, RE |
-| 104 | a | Col. 3:18,20-24 | 1563, DE, RE |
-| 104 | a | Ef. 5:21,22 | 1563, DE, RE |
-| 104 | a | Prov. 1:8 | 1563, DE, RE |
-| 104 | a | Éx. 21:17 | 1563, DE, RE |
-| 104 | b | Prov. 23:22 | 1563, DE, RE |
-| 104 | b | Gén. 9:24,25 | 1563, DE |
-| 104 | c | Ef. 6:1-9 | 1563, DE, RE |
-| 104 | c | Col. 3:18-21 | 1563, DE, RE |
-| 104 | c | Rom. 13:1-8 | 1563, DE, RE |
-| 105 | a | Mat. 5:21,22 | 1563, DE, RE |
-| 105 | a | Mat. 26:52 | 1563, DE, RE |
-| 105 | a | Gén. 9:6 | 1563, DE, RE |
-| 105 | b | Ef. 4:26 | 1563, DE, RE |
-| 105 | b | Rom. 12:19 | 1563, DE, RE |
-| 105 | b | Mat. 5:25 | 1563, DE |
-| 105 | c | Rom. 13:4,11-14 | 1563, DE, RE |
-| 105 | c | Col. 2:23 | 1563, DE |
-| 105 | c | Mat. 4:7 | 1563, DE, RE |
-| 106 | a | Rom. 1:28-32 | 1563, DE, RE |
-| 106 | b | 1 Jn. 2:9-11 | 1563, DE, RE |
+| 103 | a | 1 Cor. 9:11-14 | 1563, L, DE, RE |
+| 103 | a | 2 Tim. 2:2 | 1563, L, DE, RE |
+| 103 | a | 2 Tim. 3:13-17 | 1563, L, DE, RE |
+| 103 | b | Sal. 40:9,10 | 1563, L, DE, RE |
+| 103 | b | Sal. 68:26 | 1563, L, DE, RE |
+| 103 | b | Hech. 2:42-47 | 1563, L, DE, RE |
+| 103 | c | 1 Cor. 14:19,29-31 | 1563, L, DE |
+| 103 | d | 1 Cor. 11:23,24,33 | 1563, L, DE, RE |
+| 103 | e | 1 Tim. 2:1-3,8-10 | 1563, L, DE, RE |
+| 103 | e | 1 Cor. 14:16,26-33 | 1563, L, DE, RE |
+| 103 | f | 1 Cor. 16:2 | 1563, L, DE, RE |
+| 103 | g | Isa. 66:23 | 1563, L, DE, RE |
+| 104 | a | Ef. 6:1-9 | 1563, L, DE, RE |
+| 104 | a | Col. 3:18,20-24 | 1563, L, DE, RE |
+| 104 | a | Ef. 5:21,22 | 1563, L, DE, RE |
+| 104 | a | Prov. 1:8 | 1563, L, DE, RE |
+| 104 | a | Éx. 21:17 | 1563, L, DE, RE |
+| 104 | a | Prov. 4:1 | L, DE, RE |
+| 104 | a | Prov. 15:20 | L, DE |
+| 104 | a | Prov. 20:20 | L, DE, RE |
+| 104 | b | Prov. 23:22 | 1563, L, DE, RE |
+| 104 | b | Gén. 9:24,25 | 1563, L, DE |
+| 104 | b | 1 Ped. 2:18 | L, DE, RE |
+| 104 | c | Ef. 6:1-9 | 1563, L, DE, RE |
+| 104 | c | Col. 3:18-21 | 1563, L, DE, RE |
+| 104 | c | Rom. 13:1-8 | 1563, L, DE, RE |
+| 104 | c | Mat. 22:21 | L, DE, RE |
+| 105 | a | Mat. 5:21,22 | 1563, L, DE, RE |
+| 105 | a | Mat. 26:52 | 1563, L, DE, RE |
+| 105 | a | Gén. 9:6 | 1563, L, DE, RE |
+| 105 | a | Éx. 21:14 | L, DE, RE |
+| 105 | b | Ef. 4:26 | 1563, L, DE, RE |
+| 105 | b | Rom. 12:19 | 1563, L, DE, RE |
+| 105 | b | Mat. 5:25 | 1563, L, DE |
+| 105 | b | Mat. 18:35 | L, DE, RE |
+| 105 | c | Rom. 13:4,11-14 | 1563, L, DE, RE |
+| 105 | c | Col. 2:23 | 1563, L, DE |
+| 105 | c | Mat. 4:7 | 1563, L, DE, RE |
+| 106 | a | Rom. 1:28-32 | 1563, L, DE, RE |
+| 106 | a | Prov. 14:30 | L, RE |
+| 106 | b | 1 Jn. 2:9-11 | 1563, L, DE, RE |
 | 106 | c | Sant. 2 | 1563 |
-| 106 | c | Gál. 5:19-21 | 1563, DE, RE |
-| 106 | d | 1 Jn. 3:15 | 1563, DE, RE |
-| 107 | a | Mat. 22:39 | 1563, DE, RE |
-| 107 | a | Mat. 7:12 | 1563, DE, RE |
-| 107 | b | Ef. 4:2 | 1563, DE, RE |
-| 107 | c | Mat. 5:5,7 | 1563, DE, RE |
-| 107 | c | Rom. 12:10,18 | 1563, RE |
-| 107 | d | Mat. 5:5,7,44,45 | 1563, DE, RE |
+| 106 | c | Gál. 5:19-21 | 1563, L, DE, RE |
+| 106 | c | Sant. 1:20 | L, DE, RE |
+| 106 | d | 1 Jn. 3:15 | 1563, L, DE, RE |
+| 107 | a | Mat. 22:39 | 1563, L, DE, RE |
+| 107 | a | Mat. 7:12 | 1563, L, DE, RE |
+| 107 | b | Ef. 4:2 | 1563, L, DE, RE |
+| 107 | c | Mat. 5:5,7 | 1563, L, DE, RE |
+| 107 | c | Rom. 12:10,18 | 1563, L, RE |
+| 107 | c | Gál. 6:1,2 | L, DE, RE |
+| 107 | c | Luc. 6:36 | L, DE, RE |
+| 107 | c | 1 Ped. 3:8 | L, RE |
+| 107 | c | Col. 3:12 | L, RE |
+| 107 | d | Mat. 5:5,7,44,45 | 1563, L, DE, RE |
 | 107 | e | Rom. 12:10,18 | 1563, DE |
-| 107 | f | Éx. 23:4,5 | 1563, DE, RE |
-| 107 | g | Mat. 5:44,45 | 1563, DE, RE |
-| 107 | g | Rom. 12:20,21 | 1563, DE, RE |
-| 108 | a | Lev. 18:27-30 | 1563, DE, RE |
-| 108 | b | Jud. 1:22,23 | 1563, DE, RE |
-| 108 | c | 1 Tes. 4:3-8 | 1563, DE, RE |
-| 108 | d | Heb. 13:4 | 1563, DE, RE |
-| 108 | d | 1 Cor. 7:1-9 | 1563, DE, RE |
-| 109 | a | Ef. 5:3,4 | 1563, DE, RE |
-| 109 | a | 1 Cor. 6:18-20 | 1563, DE, RE |
-| 109 | b | Mat. 5:27-29 | 1563, DE, RE |
-| 109 | c | Ef. 5:18 | 1563, DE, RE |
-| 109 | c | 1 Cor. 15:33 | 1563, DE, RE |
-| 110 | a | 1 Cor. 6:9,10 | 1563, DE, RE |
-| 110 | b | 1 Cor. 5:9,10 | 1563, DE, RE |
-| 110 | c | Luc. 3:14 | 1563, DE, RE |
-| 110 | c | 1 Tes. 4:6 | 1563, DE |
-| 110 | d | Prov. 11:1 | 1563, DE, RE |
-| 110 | e | Ez. 45:9-12 | 1563, DE, RE |
-| 110 | e | Deut. 25:13-16 | 1563, DE, RE |
-| 110 | f | 1 Cor. 6:10 | 1563, DE |
-| 110 | g | Prov. 5:16 | 1563, DE |
-| 111 | a | Mat. 7:12 | 1563, DE, RE |
-| 111 | b | Ef. 4:28 | 1563, DE, RE |
-| 112 | a | Prov. 19:5,9 | 1563, DE, RE |
-| 112 | b | Sal. 15:3 | 1563, DE, RE |
-| 112 | c | Rom. 1:28-32 | 1563, DE, RE |
-| 112 | d | Mat. 7:1,2 | 1563, DE, RE |
-| 112 | d | Luc. 6:37 | 1563, DE, RE |
-| 112 | e | Jn. 8:44 | 1563, DE, RE |
-| 112 | f | Prov. 12:22 | 1563, DE, RE |
-| 112 | g | 1 Cor. 13:6 | 1563, DE, RE |
-| 112 | g | Ef. 4:25 | 1563, DE, RE |
-| 112 | h | 1 Ped. 4:8 | 1563, DE, RE |
-| 113 | a | Rom. 7:7,8 | 1563, DE, RE |
-| 114 | a | 1 Jn. 1:8-10 | 1563, DE, RE |
-| 114 | a | Rom. 7:14,15 | 1563, DE, RE |
-| 114 | a | Ecl. 7:20 | 1563, DE, RE |
-| 114 | b | Rom. 7:22-25 | 1563, DE, RE |
+| 107 | f | Éx. 23:4,5 | 1563, L, DE, RE |
+| 107 | g | Mat. 5:44,45 | 1563, L, DE, RE |
+| 107 | g | Rom. 12:20,21 | 1563, L, DE, RE |
+| 108 | a | Lev. 18:27-30 | 1563, L, DE, RE |
+| 108 | b | Jud. 1:22,23 | 1563, L, DE, RE |
+| 108 | c | 1 Tes. 4:3-8 | 1563, L, DE, RE |
+| 108 | d | Heb. 13:4 | 1563, L, DE, RE |
+| 108 | d | 1 Cor. 7:1-9 | 1563, L, DE, RE |
+| 109 | a | Ef. 5:3,4 | 1563, L, DE, RE |
+| 109 | a | 1 Cor. 6:18-20 | 1563, L, DE, RE |
+| 109 | b | Mat. 5:27-29 | 1563, L, DE, RE |
+| 109 | c | Ef. 5:18 | 1563, L, DE, RE |
+| 109 | c | 1 Cor. 15:33 | 1563, L, DE, RE |
+| 110 | a | 1 Cor. 6:9,10 | 1563, L, DE, RE |
+| 110 | b | 1 Cor. 5:9,10 | 1563, L, DE, RE |
+| 110 | b | Isa. 33:1 | L |
+| 110 | c | Luc. 3:14 | 1563, L, DE, RE |
+| 110 | c | 1 Tes. 4:6 | 1563, L, DE |
+| 110 | d | Prov. 11:1 | 1563, L, DE, RE |
+| 110 | e | Ez. 45:9-12 | 1563, L, DE, RE |
+| 110 | e | Deut. 25:13-16 | 1563, L, DE, RE |
+| 110 | e | Prov. 16:11 | L, DE |
+| 110 | f | Sal. 15:5 | L, DE, RE |
+| 110 | f | Luc. 6:35 | L, DE, RE |
+| 110 | g | 1 Cor. 6:10 | 1563, L, DE |
+| 110 | h | Prov. 23:20,21 | L, RE |
+| 110 | h | Prov. 21:20 | L, RE |
+| 110 | i | Prov. 5:16 | 1563, DE |
+| 111 | a | Mat. 7:12 | 1563, L, DE, RE |
+| 111 | b | Ef. 4:28 | 1563, L, DE, RE |
+| 112 | a | Prov. 19:5,9 | 1563, L, DE, RE |
+| 112 | a | Prov. 21:28 | L, DE, RE |
+| 112 | b | Sal. 15:3 | 1563, L, DE, RE |
+| 112 | b | Sal. 50:19,20 | L |
+| 112 | c | Rom. 1:28-32 | 1563, L, DE, RE |
+| 112 | d | Mat. 7:1,2 | 1563, L, DE, RE |
+| 112 | d | Luc. 6:37 | 1563, L, DE, RE |
+| 112 | e | Jn. 8:44 | 1563, L, DE, RE |
+| 112 | f | Prov. 12:22 | 1563, L, DE, RE |
+| 112 | f | Prov. 13:5 | L, DE, RE |
+| 112 | g | 1 Cor. 13:6 | 1563, L, DE, RE |
+| 112 | g | Ef. 4:25 | 1563, L, DE, RE |
+| 112 | h | 1 Ped. 4:8 | 1563, L, DE, RE |
+| 113 | a | Rom. 7:7,8 | 1563, L, DE, RE |
+| 114 | a | 1 Jn. 1:8-10 | 1563, L, DE, RE |
+| 114 | a | Rom. 7:14,15 | 1563, L, DE, RE |
+| 114 | a | Ecl. 7:20 | 1563, L, DE, RE |
+| 114 | a | 1 Cor. 13:9 | L, RE |
+| 114 | b | Rom. 7:22-25 | 1563, L, DE, RE |
 | 114 | b | Sant. 2:10,11 | 1563, DE |
-| 115 | a | 1 Jn. 1:9 | 1563, DE, RE |
-| 115 | a | Sal. 32:5 | 1563, DE, RE |
-| 115 | b | Rom. 7:7,24,25 | 1563, DE, RE |
-| 115 | c | 1 Cor. 9:24,25 | 1563, DE, RE |
-| 115 | c | Fil. 3:11-14 | 1563, DE, RE |
-| 116 | a | Sal. 50:14,15 | 1563, DE, RE |
-| 116 | b | Mat. 7:7,8 | 1563, DE, RE |
-| 116 | b | Luc. 11:9-13 | 1563, DE, RE |
+| 114 | b | Sal. 1:2 | L, RE |
+| 115 | a | 1 Jn. 1:9 | 1563, L, DE, RE |
+| 115 | a | Sal. 32:5 | 1563, L, DE, RE |
+| 115 | a | Rom. 3:20 | L, RE |
+| 115 | b | Rom. 7:7,24,25 | 1563, L, DE, RE |
+| 115 | b | Mat. 5:6 | L |
+| 115 | c | 1 Cor. 9:24,25 | 1563, L, DE, RE |
+| 115 | c | Fil. 3:11-14 | 1563, L, DE, RE |
+| 116 | a | Sal. 50:14,15 | 1563, L, DE, RE |
+| 116 | b | Mat. 7:7,8 | 1563, L, DE, RE |
+| 116 | b | Luc. 11:9-13 | 1563, L, DE, RE |
 | 116 | b | Mat. 13:12 | 1563, DE |
-| 117 | a | Jn. 4:22-24 | 1563, DE, RE |
-| 117 | b | Rom. 8:26,27 | 1563, DE, RE |
-| 117 | b | 1 Jn. 5:14,15 | 1563, DE, RE |
-| 117 | c | 2 Crón. 20:12 | 1563, DE, RE |
-| 117 | d | Sal. 2:11 | 1563, DE, RE |
-| 117 | d | Isa. 66:2 | 1563, DE, RE |
-| 117 | d | Sal. 34:18 | 1563, DE, RE |
-| 117 | e | Rom. 10:13,14 | 1563, DE, RE |
-| 117 | e | Sant. 1:5,6 | 1563, DE, RE |
-| 117 | f | Jn. 14:13-16 | 1563, DE, RE |
-| 117 | f | Dan. 9:17-19 | 1563, DE, RE |
-| 117 | g | Mat. 7:8 | 1563, DE, RE |
+| 116 | b | 1 Tes. 5:17 | L, RE |
+| 117 | a | Jn. 4:22-24 | 1563, L, DE, RE |
+| 117 | a | Sal. 145:18 | L, RE |
+| 117 | a | Apoc. 19:10 | L, RE |
+| 117 | b | Rom. 8:26,27 | 1563, L, DE, RE |
+| 117 | b | 1 Jn. 5:14,15 | 1563, L, DE, RE |
+| 117 | c | 2 Crón. 20:12 | 1563, L, DE, RE |
+| 117 | d | Sal. 2:11 | 1563, L, DE, RE |
+| 117 | d | Isa. 66:2 | 1563, L, DE, RE |
+| 117 | d | Sal. 34:18 | 1563, L, DE, RE |
+| 117 | e | Rom. 10:13,14 | 1563, L, DE, RE |
+| 117 | e | Sant. 1:5,6 | 1563, L, DE, RE |
+| 117 | f | Jn. 14:13-16 | 1563, L, DE, RE |
+| 117 | f | Dan. 9:17-19 | 1563, L, DE, RE |
+| 117 | f | Jn. 16:23 | L, RE |
+| 117 | g | Mat. 7:8 | 1563, L, DE, RE |
 | 117 | g | Sal. 143:1 | 1563, DE |
-| 118 | a | Sant. 1:17 | 1563, DE, RE |
-| 118 | a | Mat. 6:33 | 1563, DE, RE |
-| 119 | a | Mat. 6:9-13 | 1563, DE, RE |
-| 119 | a | Luc. 11:2-4 | 1563, DE, RE |
-| 120 | a | Mat. 7:9-11 | 1563, DE, RE |
-| 120 | a | Luc. 11:11-13 | 1563, DE, RE |
-| 121 | a | Jer. 23:23,24 | 1563, DE, RE |
-| 121 | a | Hech. 17:24-27 | 1563, DE, RE |
-| 121 | b | Rom. 10:12 | 1563, DE |
-| 122 | a | Jn. 17:3 | 1563, DE, RE |
+| 117 | g | Sal. 27:8 | L |
+| 118 | a | Sant. 1:17 | 1563, L, DE, RE |
+| 118 | a | Mat. 6:33 | 1563, L, DE, RE |
+| 119 | a | Mat. 6:9-13 | 1563, L, DE, RE |
+| 119 | a | Luc. 11:2-4 | 1563, L, DE, RE |
+| 120 | a | Mat. 7:9-11 | 1563, L, DE, RE |
+| 120 | a | Luc. 11:11-13 | 1563, L, DE, RE |
+| 121 | a | Jer. 23:23,24 | 1563, L, DE, RE |
+| 121 | a | Hech. 17:24-27 | 1563, L, DE, RE |
+| 121 | b | Rom. 10:12 | 1563, L, DE |
+| 122 | a | Jn. 17:3 | 1563, L, DE, RE |
 | 122 | a | Mat. 16:17 | 1563, DE, RE |
 | 122 | a | Sant. 1:5 | 1563, DE |
 | 122 | a | Sal. 119:105,137 | 1563, DE |
+| 122 | a | Jer. 9:24 | L, RE |
+| 122 | a | Jer. 31:33,34 | L, RE |
 | 122 | b | Sal. 119:105,137 | 1563, DE |
 | 122 | b | Rom. 11:22,33-36 | 1563, DE, RE |
 | 122 | c | Sal. 115:1 | 1563, DE, RE |
 | 122 | c | Sal. 71:8 | 1563, DE |
-| 123 | a | Mat. 6:33 | 1563, DE, RE |
+| 123 | a | Mat. 6:33 | 1563, L, DE, RE |
 | 123 | a | Sal. 119:5,105 | 1563, DE, RE |
 | 123 | a | Sal. 143:10 | 1563, DE, RE |
-| 123 | b | Sal. 51:18 | 1563, DE, RE |
-| 123 | b | Sal. 122:6-9 | 1563, DE, RE |
-| 123 | c | 1 Jn. 3:8 | 1563, DE, RE |
-| 123 | c | Rom. 16:20 | 1563, DE, RE |
-| 123 | d | Apoc. 22:17,20 | 1563, RE |
-| 123 | d | Rom. 8:22,23 | 1563, RE |
-| 123 | e | 1 Cor. 15:28 | 1563, RE |
-| 124 | a | Mat. 16:24-26 | 1563, DE, RE |
-| 124 | a | Tit. 2:11,12 | 1563, DE, RE |
-| 124 | b | Luc. 22:42 | 1563, DE, RE |
-| 124 | c | 1 Cor. 7:17-24 | 1563, DE, RE |
-| 124 | d | Sal. 103:20,21 | 1563, DE, RE |
-| 125 | a | Sal. 104:27-30 | 1563, DE, RE |
-| 125 | a | Sal. 145:15,16 | 1563, DE, RE |
-| 125 | a | Mat. 6:25-34 | 1563, DE, RE |
-| 125 | b | Hech. 14:17 | 1563, DE, RE |
-| 125 | b | Hech. 17:25,27,28 | 1563, DE, RE |
-| 125 | c | 1 Cor. 15:58 | 1563, DE, RE |
-| 125 | c | Deut. 8:3 | 1563, DE, RE |
-| 125 | c | Sal. 37:16,17 | 1563, DE, RE |
-| 125 | d | Sal. 55:22 | 1563, DE, RE |
-| 125 | d | Sal. 62:10 | 1563, DE, RE |
-| 126 | a | Sal. 51:1-7 | 1563, DE, RE |
-| 126 | a | Sal. 143:2 | 1563, DE, RE |
-| 126 | a | 1 Jn. 2:1,2 | 1563, DE, RE |
-| 126 | b | Mat. 6:14,15 | 1563, DE, RE |
-| 127 | a | Jn. 15:1-5 | 1563, DE, RE |
-| 127 | a | Sal. 103:14-16 | 1563, DE, RE |
-| 127 | b | 1 Ped. 5:8 | 1563, DE, RE |
-| 127 | b | Ef. 6:10-13 | 1563, DE, RE |
-| 127 | c | Jn. 15:18-21 | 1563, DE, RE |
-| 127 | d | Rom. 7:23 | 1563, DE, RE |
-| 127 | d | Gál. 5:17 | 1563, DE, RE |
-| 127 | e | Mat. 26:41 | 1563, DE, RE |
-| 127 | e | Mar. 13:33 | 1563, DE, RE |
-| 127 | f | 1 Tes. 3:13 | 1563, DE, RE |
-| 128 | a | Rom. 10:11-13 | 1563, DE, RE |
-| 128 | a | 2 Ped. 2:9 | 1563, DE, RE |
-| 128 | b | Jn. 14:13 | 1563, DE, RE |
-| 129 | a | 2 Cor. 1:20 | 1563, DE, RE |
-| 129 | a | 2 Tim. 2:13 | 1563, DE, RE |
+| 123 | b | Sal. 51:18 | 1563, L, DE, RE |
+| 123 | b | Sal. 122:6-9 | 1563, L, DE, RE |
+| 123 | c | 1 Jn. 3:8 | 1563, L, DE, RE |
+| 123 | c | Rom. 16:20 | 1563, L, DE, RE |
+| 123 | d | Apoc. 22:17,20 | 1563, L, RE |
+| 123 | d | Rom. 8:22,23 | 1563, L, RE |
+| 123 | e | 1 Cor. 15:28 | 1563, L, RE |
+| 124 | a | Mat. 16:24-26 | 1563, L, DE, RE |
+| 124 | a | Tit. 2:11,12 | 1563, L, DE, RE |
+| 124 | b | Luc. 22:42 | 1563, L, DE, RE |
+| 124 | b | Ef. 5:10 | L |
+| 124 | b | Rom. 12:2 | L, RE |
+| 124 | c | 1 Cor. 7:17-24 | 1563, L, DE, RE |
+| 124 | d | Sal. 103:20,21 | 1563, L, DE, RE |
+| 125 | a | Sal. 104:27-30 | 1563, L, DE, RE |
+| 125 | a | Sal. 145:15,16 | 1563, L, DE, RE |
+| 125 | a | Mat. 6:25-34 | 1563, L, DE, RE |
+| 125 | b | Hech. 14:17 | 1563, L, DE, RE |
+| 125 | b | Hech. 17:25,27,28 | 1563, L, DE, RE |
+| 125 | b | Sant. 1:17 | L, RE |
+| 125 | c | 1 Cor. 15:58 | 1563, L, DE, RE |
+| 125 | c | Deut. 8:3 | 1563, L, DE, RE |
+| 125 | c | Sal. 37:16,17 | 1563, L, DE, RE |
+| 125 | c | Sal. 127:1,2 | L, RE |
+| 125 | d | Sal. 55:22 | 1563, L, DE, RE |
+| 125 | d | Sal. 62:10 | 1563, L, DE, RE |
+| 125 | d | Sal. 146:3 | L, RE |
+| 125 | d | Jer. 17:5,7 | L, RE |
+| 126 | a | Sal. 51:1-7 | 1563, L, DE, RE |
+| 126 | a | Sal. 143:2 | 1563, L, DE, RE |
+| 126 | a | 1 Jn. 2:1,2 | 1563, L, DE, RE |
+| 126 | a | Rom. 8:1 | L, RE |
+| 126 | b | Mat. 6:14,15 | 1563, L, DE, RE |
+| 127 | a | Jn. 15:1-5 | 1563, L, DE, RE |
+| 127 | a | Sal. 103:14-16 | 1563, L, DE, RE |
+| 127 | b | 1 Ped. 5:8 | 1563, L, DE, RE |
+| 127 | b | Ef. 6:10-13 | 1563, L, DE, RE |
+| 127 | c | Jn. 15:18-21 | 1563, L, DE, RE |
+| 127 | d | Rom. 7:23 | 1563, L, DE, RE |
+| 127 | d | Gál. 5:17 | 1563, L, DE, RE |
+| 127 | e | Mat. 26:41 | 1563, L, DE, RE |
+| 127 | e | Mar. 13:33 | 1563, L, DE, RE |
+| 127 | f | 1 Tes. 3:13 | 1563, L, DE, RE |
+| 127 | f | 1 Tes. 5:23 | L, DE, RE |
+| 128 | a | Rom. 10:11-13 | 1563, L, DE, RE |
+| 128 | a | 2 Ped. 2:9 | 1563, L, DE, RE |
+| 128 | b | Jn. 14:13 | 1563, L, DE, RE |
+| 128 | b | Jer. 33:8,9 | L, RE |
+| 128 | b | Sal. 115:1 | L, DE, RE |
+| 129 | a | 2 Cor. 1:20 | 1563, L, DE, RE |
+| 129 | a | 2 Tim. 2:13 | 1563, L, DE, RE |

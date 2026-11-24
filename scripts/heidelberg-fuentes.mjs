@@ -5,17 +5,17 @@ import { leer } from './rv1909.mjs';
 
 const NOMBRES = {
   Genesis: ['gen', 'gén', '1 mose'], Exodus: ['exo', 'exod', 'ex', 'éx', '2 mose'], Leviticus: ['leui', 'leuit', 'lev', '3 mose'], Numbers: ['num', 'núm', '4 mose'],
-  Deuteronomy: ['deut', 'deu', '5 mose'], Joshua: ['jos', 'josh'], '1 Samuel': ['1 sam'], '2 Samuel': ['2 sam'], '1 Kings': ['1 reg', '1 rey', '1 kön', '1 kings'],
-  '2 Kings': ['2 reg', '2 rey', '2 kön', '2 kings'], '1 Chronicles': ['1 par', '1 chr', '1 chron', '1 cron', '1 crón'], '2 Chronicles': ['2 par', '2 pa', '2 chr', '2 chron', '2 crón'],
+  Deuteronomy: ['deut', 'deu', 'dt', '5 mose'], Joshua: ['jos', 'josh', 'js'], '1 Samuel': ['1 sam'], '2 Samuel': ['2 sam'], '1 Kings': ['1 reg', '1 rey', '1 r', '1 kön', '1 kings'],
+  '2 Kings': ['2 reg', '2 rey', '2 kön', '2 kings'], '1 Chronicles': ['1 par', '1 chr', '1 chron', '1 cron', '1 crón', '1 cr'], '2 Chronicles': ['2 par', '2 pa', '2 chr', '2 chron', '2 crón', '2 cr'],
   Job: ['job', 'iob', 'hiob'], Psalm: ['psal', 'psa', 'psalm', 'sal', 'ps'], Proverbs: ['prou', 'prov', 'spr'], Ecclesiastes: ['eccl', 'ecl', 'eccles', 'pred'],
-  Isaiah: ['esai', 'isai', 'isa', 'is', 'jes'], Jeremiah: ['iere', 'ierem', 'jer'], Ezekiel: ['ezech', 'eze', 'ez', 'ezek', 'hes'], Daniel: ['dan'], Hosea: ['os', 'hos'],
-  Joel: ['ioel', 'joel'], Micah: ['mq', 'miq', 'mic', 'mi'], Nahum: ['nah'], Habakkuk: ['hab', 'habac'], Zechariah: ['zach', 'zac', 'zech', 'sach'], Malachi: ['ml', 'mal'],
+  Isaiah: ['esai', 'isai', 'isa', 'is', 'jes'], Jeremiah: ['iere', 'ierem', 'jer'], Ezekiel: ['ezech', 'eze', 'ez', 'ezek', 'hes'], Daniel: ['dan', 'dn'], Hosea: ['os', 'hos'],
+  Joel: ['ioel', 'joel', 'jl'], Micah: ['mq', 'miq', 'mic', 'mi'], Nahum: ['nah'], Habakkuk: ['hab', 'habac'], Zechariah: ['zach', 'zac', 'zech', 'sach'], Malachi: ['ml', 'mal'],
   Matthew: ['matt', 'matth', 'mat', 'mt'], Mark: ['mar', 'marc', 'mc', 'mk', 'mark'], Luke: ['luc', 'lc', 'lk', 'luke'], John: ['ioan', 'iohan', 'ioha', 'ioh', 'joh', 'jn', 'john'],
   Acts: ['act', 'hch', 'hech', 'apg', 'acts'], Romans: ['rom', 'röm'], '1 Corinthians': ['1 cor', '1 kor'], '2 Corinthians': ['2 cor', '2 kor'],
   Galatians: ['gal', 'gala', 'galat', 'gál'], Ephesians: ['ephes', 'eph', 'ef'], Philippians: ['phil', 'fil'], Colossians: ['coloss', 'col', 'kol'],
   '1 Thessalonians': ['1 thess', '1 tes'], '2 Thessalonians': ['2 thess', '2 tes'], '1 Timothy': ['1 tim', '1 ti'], '2 Timothy': ['2 tim', '2 ti'], Titus: ['tit'],
   Hebrews: ['heb', 'hebr'], James: ['iacob', 'iac', 'stg', 'sant', 'jak', 'james'], '1 Peter': ['1 pet', '1 ped', '1 petr', '1 peter'], '2 Peter': ['2 pet', '2 ped', '2 petr'],
-  '1 John': ['1 ioan', '1 ioh', '1 joh', '1 jn', '1 john'], '2 John': ['2 ioan', '2 iohan', '2 joh', '2 john'], Jude: ['iudae', 'jud', 'jude', 'judas'],
+  '1 John': ['1 ioan', '1 ioh', '1 joh', '1 jn', '1 john'], '2 John': ['2 ioan', '2 iohan', '2 joh', '2 jn', '2 john'], Jude: ['iudae', 'jud', 'jude', 'judas', 'jds'],
   Revelation: ['apoc', 'apo', 'offb', 'rev'], Sirach: ['syr', 'sir']
 };
 // Salmos cuyo título ocupa versículos propios en la numeración hebrea (la que usa la edición alemana):
@@ -170,9 +170,15 @@ export function combinar({ m = [], l = [], de = [], re = [], ajustes = {}, numer
   // Citas del libro fuera de los capítulos de 1563: van al inciso con más capítulos en común, o a uno nuevo.
   const enM = new Set(m.flatMap((i) => i.refs.map(clave)));
   let ultimo = -1;
-  for (const li of m[0]?.sin1563 ? [] : l) {
-    let d = -1, mejor = 0;
-    m.forEach((mi, n) => { const c = mi.refs.filter((r) => li.refs.some((x) => clave(x) === clave(r))).length; if (c && c >= mejor) { mejor = c; d = n; } });
+  for (const [j, li] of (m[0]?.sin1563 ? [] : l).entries()) {
+    let d = -1, mejor = 0, dist = Infinity;
+    const pl = posicion(j, l.length);
+    // Empate: el inciso de 1563 más cercano al lugar de la cita en el libro.
+    m.forEach((mi, n) => {
+      const c = mi.refs.filter((r) => li.refs.some((x) => clave(x) === clave(r))).length;
+      const dn = Math.abs(posicion(n, m.length) - pl);
+      if (c && (c > mejor || (c === mejor && dn <= dist))) { mejor = c; d = n; dist = dn; }
+    });
     const extra = li.refs.filter((x) => !enM.has(clave(x)));
     if (d < 0 && extra.length) { d = ultimo + 1; incisos.splice(d, 0, { ancla: li.ancla, citas: [] }); m.splice(d, 0, { refs: [] }); }
     if (d >= 0) ultimo = d;

@@ -86,7 +86,7 @@ P82 | b «gereitzet»: 1 Cor. 11; Esai. 1 & 66; Ierem. 7; Psal. 50
 P83 | sin notas
 P84 | a «bekeren»: Ioan. 20; Matt. 16
 P85 | a «erzeigen»: Matt. 18; 1 Cor. 5; 2 Thess. 3 [en el margen «1 Thess. 3»]; 2 Iohan.
-P86 | a «erzeigen»: Rom. 6 & 12; 1 Pet. 2; 1 Cor. 6 | b «gepriesen werde»: Matt. 5; 1 Pet. 2 | c «gewiß sein»: 1 Pet. 1; Matt. 7; Galat. 5 | d «gewinnen»: 1 Pet. 3; Rom. 14
+P86 | a «erzeigen»: Rom. 6 & 12; 1 Pet. 2; 1 Cor. 6 | b «gepriesen werde»: Matt. 5; 1 Pet. 2 | c «gewiß sein»: 2 Pet. 1 [en el margen «1 Pet. 1»]; Matt. 7; Galat. 5 | d «gewinnen»: 1 Pet. 3; Rom. 14
 P87 | e «erben»: 1 Cor. 6; Ephes. 5; 1 Ioan. 3
 P88 | a «des alten»: Rom. 6; Ephes. 4; Coloss. 3; 1 Cor. 5
 P89 | b «fliehen»: Rom. 8; Ioel 2
@@ -95,14 +95,14 @@ P91 | a «glauben»: Rom. 14 | b «Gottes»: 1 Sam. 15; Ephes. 2 | c «geschehen
 P92 | sin notas (texto de los Diez Mandamientos)
 P93 | a «Tafeln»: Exo. 34; Deut. 4 | b «schuldig seind»: Matt. 22
 P94 | c «abgötterey»: 1 Cor. 6 | d «segen»: Leuit. 19; Deut. 18 | e «Creaturen»: Matt. 4; Apoc. 19 | f «erkennen»: Ioan. 17
-P94 (cont.) | a «vertrawen»: Iere. 17 | b «demut»: 1 Pet. 3 | c «gedult»: Hebr. 10; Coloss. 1; Rom. 5; 1 Cor. 10; Phil. 2 | d «gewarten»: Deut. 6; Matt. 22; Psal. 111; Prou. 1; Matt. 10; Act. 5 | e «ehren»: Matt. 4; Act. 5
+P94 (cont.) | a «vertrawen»: Iere. 17 | b «demut»: 1 Pet. 5 [en el margen «1 Pet. 3»] | c «gedult»: Hebr. 10; Coloss. 1; Rom. 5; 1 Cor. 10; Phil. 2 | d «gewarten»: Deut. 6; Matt. 22; Psal. 111; Prou. 1; Matt. 10; Act. 5 | e «ehren»: Matt. 4; Act. 5
 P95 | f «vertrawen setzt»: Ephes. 5; 1 Par. 16; Phil. 3; Gala. 4; Ephes. 2; 1 Ioan. 2; 2 Ioan. 6 & 5
 P96 | g «verbilden»: Deut. 4; Esai. 40; Rom. 1; Act. 17 | h «verehren sollen»: 1 Sam. 15; Deu. 12
 P97 | a «damit diene»: Exo. 23; Num. 33; Deut. 7; 2 Reg. 18
 P98 | b «götzen»: Iere. 10; Habac. 2 | c «vnderwiesen haben»: 2 Pet. 1; 2 Tim. 3 [El margen de 1563 dice «2 Tit. 3», errata de imprenta: es 2 Tim. 3.]
 P99 | d «fluchen»: Leui. 24 | e «ayd»: Leuit. 19 | f «schweren»: Matt. 5; Iac. 5 | a «gebrauchen»: Esai. 45 | b «bekent»: Matt. 10 | c «angeruffen»: 1 Tim. 2 | d «wercken»: Rom. 2; 1 Tim. 6; Coloss. 3
 P100 | e «Ja freylich»: Leuit. 5 | f «befohlen hat»: Leui. 24
-P101 | a «gegründet»: Deut. 6; Esai. 48; Heb. 6 | b «gebraucht worden»: Gen. 21 & 31; Esai. 9; 1 Sam. 24; 2 Sam. 3; 1 Reg. 1; Rom. 1; 2 Cor. 1
+P101 | a «gegründet»: Deut. 6; Esai. 48; Heb. 6 | b «gebraucht worden»: Gen. 21 & 31; Jos. 9 [en el margen «Esai. 9»]; 1 Sam. 24; 2 Sam. 3; 1 Reg. 1; Rom. 1; 2 Cor. 1
 P102 | c «falsch schwere»: 2 Cor. 1 | d «gebüret»: Matt. 5; Iacob. 5
 P103 | a «erhalten werden»: Tit. 1; 1 Tim. 3; 1 Tim. 4; 1 Tim. 5; 1 Cor. 9; 2 Tim. 2; 2 Tim. 3 | b «kome»: Psal. 40 & 68; Act. 2 [en el margen parece «Act. 3»] | c «zulernen»: 1 Cor. 14 | d «zugebrauchen»: 1 Cor. 11 | e «anzuruffen»: 1 Tim. 2; 1 Cor. 14 | f «zugeben»: 1 Cor. 16 | g «anfang»: Esai. 66
 P104 | h «vnderwerffen»: Ephes. 6; Coloss. 3; Ephes. 5; Prou. 1; Exo. 21 | a «gedult haben sol»: Prou. 23; Gen. 9 | b «regieren wil»: Ephes. 6; Coloss. 3; Rom. 13

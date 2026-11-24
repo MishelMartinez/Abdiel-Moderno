@@ -1,4 +1,4 @@
-Citas bíblicas del libro «La fe que confesamos» (ejemplar de Mishel; transcritas de fotos de las págs. 41–56).
+Citas bíblicas del libro «La fe que confesamos» (ejemplar de Mishel; transcritas de fotos de las págs. 41–67).
 Formato: P<n> | letra «palabras donde va la letra en el libro»: citas tal como aparecen | …
 Las citas se transcriben tal cual, con sus posibles erratas; las correcciones se hacen en citas-*.json con nota.
 [ilegible] = no se ve en la foto.
@@ -81,5 +81,56 @@ P75 | a «promesa»: Mat. 26:26-28; Mc. 14:22-24; Luc. 22:19,20; 1 Cor. 10:16,17
 P76 | a «vida eterna»: Jn. 6:35,40,47 [El libro dice «1 Jn. 6:35,40,47»; 1 Juan tiene 5 capítulos: es Juan 6.]; Jn. 6:48,50,51; 6:53,54 | b «Espíritu Santo»: Jn. 6:55,56 | c «en el cielo»: Col. 3:1; Hch 3:21; 1 Cor. 11:26 | d «sus huesos»: Ef. 5:29,30; 3:16; 1 Cor. 6:15; 1 Jn. 3:24; 4:13 | e «un solo espíritu»: Jn. 6:57; 15:1-6; Ef. 4:15,16
 P77 | a «fueron»: Mat. 26:26-28; Mc.14:22-24: Luc. 22:9,20 | b «que él venga»: 1 Cor. 11:23-26 | c «pan»: 1 Cor. 10:16,17
 P78 | a «De ninguna manera»: Mat. 26:29 | b «Bautismo»: Ef. 5:26; Tit. 3:5 | c «cuerpo»: 1 Cor. 11:26 | d «sacramentos»: Gén. 17:10,11; Ex. 12:11,13; 13:9; 1 Ped. 3:21; 1Cor. 10:3,4
-P79 | letras a «vida eterna», b «cuerpo»; notas en la página siguiente [falta foto]
-Faltan: nota 102 (P28), posible final de 103 (P29), final de 140 (P66) y desde la nota 152 (P79 en adelante, págs. 57+).
+P79 | a «vida eterna»: Jn. 6:55 | b «cuerpo»: 1 Cor. 10:16
+P80 | a «una sola vez»: Heb. 10:10,12; 7:26,27; 9:12,25; Jn. 19:30; Mat. 26:28; Luc. 22:19 | b «incorporados en Cristo»: 1 Cor. 10:16,17; 6:17 | c «su Padre»: Jn. 20:17; Col. 3:1; Heb. 1:3; 8:1 | d «adorado por nosotros»: Mat. 6:20,21; Jn. 4:21; Luc. 24:52; Hch 7:55; Col. 3:1; Fil. 3:20; 1 Tes. 1:10 | e «idolatría maldita»: Heb. 10:12,14
+P81 | a «juicio para sí»: 1 Cor. 11:28; 10:19-22
+P82 | a «toda la congregación»: 1 Cor. 11:20,34; Isa. 1:11; 66:3; Jer. 7:21; Sal. 50:16
+P83 | sin citas
+P84 | a «en su maldad»: Jn. 20:21-23; Mat. 16:19
+P85 | a «la demuestren»: Mat. 18:15-17; 1 Cor. 5:4,5,11; 2 Cor. 2:6-8
+P86 | a «tantos beneficios»: Rom. 6:13; 12:1,2; 1 Ped. 2:5,9; 1 Cor. 6:20 | b «glorificado por nosotros»: Mat. 5:16; 1 Ped. 2:12 | c «por sus frutos»: 2 Ped. 1:10; Mat. 7:17; Gál. 5:6,22 | d «Cristo»: 1 Ped. 3:1,2; Rom. 14:19
+P87 | a «los maldicientes»: 1 Cor. 6:9,10; Ef. 5:5,6; 1 Jn. 3:14
+P88 | a «del nuevo»: Rom. 6:1,4-6; Ef. 4:22-24; Col. 3:5,6,8-10; 1 Cor. 5:7; 2 Cor. 7:10
+P89 | a «evitándolos»: Rom. 8:13; Jl. 2:13; Os. 6:1
+P90 | a «por Cristo»: Rom. 5:1; 14:17; Isa. 57:15 | b «buena obra»: Rom. 6:10; Gál. 2:20
+P91 | a «fe verdadera»: Rom. 14:23 | b «Ley de Dios»: Lev. 18:4; 1 Sam. 15:22; Ef. 2:10 | c «su gloria»: 1 Cor. 10:31 | d «instituciones humanas»: Eze. 20:18,19; Isa. 29:13; Mat. 15:7-9
+P92 | a «diciendo» (citas en el texto, sin letra): Ex. 20:1-17; Dt. 5:6-21
+P93 | a «En dos tablas»: Deu. 4:13; 10:3,4; Ex. 34:28 | b «nuestro prójimo»: Mat. 22:37-40
+P94 | a «idolatría»: 1 Jn. 5:21; 1 Cor. 6:10; 10:7,14 | b «superstición»: Lev. 19:31 [El libro dice «Lev. 10:31», que no existe (Levítico 10 tiene 20 versículos); se usa Lev. 19:31, el capítulo que cita la edición de 1563.]; Deu. 18:9,10 | c «otras criaturas»: Mat. 4:10; Apo. 19:10; 22:8,9 | d «Dios verdadero»: Jn. 17:3 | e «confíe»: Jer. 17:5,7 | f «humildad»: 1 Ped. 5:5 | g «paciencia»: Heb. 10:36; Col. 1:11; Rom. 5:3,4; 1 Cor. 10:10; Fil. 2:14 | h «todo bien»: Sal. 104:27; Isa. 45:7; Stg. 1:17 | i «le ame»: Deu. 6:5; Mat. 22:37 | j «tema»: Deu. 6:2; Sal. 111:10; Prov. 1:7; 9:10; Mat. 10:28 | k «reverencie»: Mat. 4:10; Deu. 10:20 | l «su voluntad»: Mat. 5:29; 10:37; Hch 5:29
+P95 | a «su confianza»: Ef. 5:5; 1 Cr. 16:26; Fil. 3:19; Gál. 4:8; Ef. 2:12; 1 Jn. 2:23; 2 Jn. 1:9; Jn. 5:23
+P96 | a «imagen o figura»: Isa. 40:18,19,25; Deu. 4:15,16; Rom. 1:23; Hch 17:29 [El libro dice «Hch 17:20»; el versículo sobre no representar a la Divinidad con oro, plata o piedra es Hech. 17:29, como la edición alemana.] | b «en su Palabra»: 1 Sam. 15:23; Deu. 12:30; Mat. 15:9
+P97 | a «de ninguna manera»: Isa. 40:25 | b «Su servicio»: Ex. 34:17; 23:24; 34:13; Núm. 33:52
+P98 | a «imágenes mudas»: Jer. 10:8; Hab. 2:18,19 | b «Su Palabra»: Rom. 10:14,15,17; 2 Ped. 1:19; 2 Tim. 3:16,17
+P99 | a «blasfemar»: Lev. 24:15,16 | b «falsos juramentos»: Lev. 19:12 | c «maldiciones»: Mat. 5:37; Stg. 5:12 | d «los oigamos»: Lev. 5:1; Prov. 29:24 [El libro dice «Prov. 29:34», que no existe (Proverbios 29 tiene 27 versículos); se usa Prov. 29:24, que el libro cita en la pregunta 100.] | e «temor y veneración»: Jer. 4:2; Isa. 45:23 | f «confesado»: Mat. 10:32; Rom. 10:9,10 | g «invocado»: Sal. 50:15; 1 Tim. 2:8 | h «palabras y hechos»: Col. 3:17; Rom. 2:24; 1 Tim. 6:1
+P100 | a «Sí»: Prov. 29:24; Lev. 5:1 | b «la muerte»: Lev. 24:16
+P101 | a «palabra de Dios»: Deu. 6:13; 10:20; Isa. 48:1; Heb. 6:16 | b «Nuevo Testamento»: Gén. 21:24; 31:53; Js. 9:15; 1 Sam. 24:23; 2 Sam. 3:35 [El libro dice «2 Sal. 3:35»: es 2 Samuel 3:35, como la edición de 1563.]; 1 R. 1:29; Rom. 1:9; Rom. 9:1; 2 Cor. 1:23
+P102 | a «es falso»: 2 Cor. 1:23; Rom. 9:1 | b «a Él»: Mat. 5:34-36; Stg. 5:12
+P103 | a «mantenidos»: Tit. 1:5; 2 Tim. 3:14; 1 Cor. 9:13,14; 2 Tim. 2:2; 3:15 | b «congregación de Dios»: Sal. 40:9,10; 68:26; Hch 2:42 | c «Palabra de Dios»: 1 Tim. 4:13; 1 Cor. 14:29 | d «santos sacramentos»: 1 Cor. 11:33 | e «al Señor»: 1 Tim. 2:1; 1 Cor. 14:16 | f «necesitados»: 1 Cor. 16:2 | g «sabbath eterno»: Isa. 66:23
+P104 | a «castigos»: Ef. 6:1,2,5; Col. 3:18,20,22; Ef. 5:22; Prov. 1:8; 4:1; 15:20; 20:20; Ex. 21:17; Rom. 13:1 | b «flaquezas»: Prov. 23:22; Gén. 9:24; 1 Ped. 2:18 | c «de ellos»: Ef. 6:4,9; Col. 3:20; Rom. 13:2,3; Mat. 22:21
+P105 | a «mi prójimo»: Mat. 5:21,22; 26:52; Gén. 9:6 | b «venganza»: Ef. 4:26; Rom. 12:19; Mat. 18:35; 5:25 | c «peligro»: Rom. 13:14; Col. 2:23; Mat. 4:7 | d «la espada»: Gén. 9:6; Ex. 21:14; Mat. 26:52; Rom. 13:4 [El libro dice «Rom. 13:14», repetido del inciso c; el versículo sobre la espada del magistrado es Rom. 13:4, como la edición alemana.]
+P106 | a «envidia»: Prov. 14:30; Rom. 1:29 | b «odio»: 1 Jn. 2:11 | c «ira»: Stg. 1:20; Gál. 5:19-21 | d «homicidio»: 1 Jn. 3:15
+P107 | a «nosotros mismos»: Mat. 22:39; 7:12; Rom. 12:10 | b «misericordia»: Ef. 4:2; Gál. 6:1,2; Mat. 5:5; Rom. 12:18; Luc. 6:36; Mat. 5:7; 1 Ped. 3:8; Col. 3:12 | c «sobrevenir»: Ex. 23:5 | d «enemigos»: Mat. 5:44,45; Rom. 12:20
+P108 | a «deshonestidad»: Lev. 18:28 | b «de todo corazón»: Jds. 23 | c «sobriamente»: 1 Tes. 4:3-5 | d «otro estado»: Heb. 13:4; 1 Cor. 7:7
+P109 | a «palabras»: Ef. 5:3,4; 1 Cor. 6:18,19 | b «deseos»: Mat. 5:27,28 | c «a ello»: Ef. 5:18; 1 Cor. 15:33
+P110 | a «robo»: 1 Cor. 6:10 | b «rapiña»: 1 Cor. 5:10; Isa. 33:1 | c «nuestro prójimo»: Luc. 3:14; 1 Tes. 4:6 | d «mercadería»: Prov. 11:1; 16:11; Eze. 45:9,10; Deu. 25:13 | e «usura»: Sal. 15:5; Luc. 6:35 | f «avaricia»: 1 Cor. 6:10 | g «sus dones»: Prov. 23:20,21; 21:20
+P111 | a «conmigo»: Mat. 7:12 | b «su pobreza»: Ef. 4:28
+P112 | a «contra nadie»: Prov. 19:5,9; 21:28 | b «de los demás»: Sal. 15:3; 50:19,20 | c «calumniador»: Rom. 1:30 | d «escuchado»: Mat. 7:1; Luc. 6:37 | e «del diablo»: Jn. 8:44 | f «ira de Dios»: Prov. 12:22; 13:5 | g «sinceramente»: 1 Cor. 13:6; Ef. 4:25 | h «mi prójimo»: 1 Ped. 4:8
+P113 | a «toda justicia»: Rom. 7:7
+P114 | a «esta obediencia»: 1 Jn. 1:8 [El libro dice «Jn. 1:8»: es 1 Juan 1:8, como la edición de 1563.]; Rom. 7:14,15 [El libro dice «Rom. 7:4,15»; se usa Rom. 7:14,15, como la edición alemana.]; Ecl. 7:20; 1 Cor. 13:9 | b «mandamientos de Dios»: Rom. 7:22; Sal. 1:2
+P115 | a «a pecar»: Rom. 3:20; 1 Jn. 1:9; Sal. 32:5 | b «Cristo»: Mat. 5:6; Rom. 7:24,25 | c «propuesta»: 1 Cor. 9:24; Fil. 3:12-14
+P116 | a «de nosotros»: Sal. 50:14 [El libro dice «Sal. 50:4»; el versículo sobre ofrecer a Dios alabanza es Sal. 50:14, como la edición alemana.] | b «gracias»: Mat. 7:7; Luc. 11:9,13; 1 Tes. 5:17
+P117 | a «de todo corazón»: Jn. 4:24; Sal. 145:18 | b «en su Palabra»: Apo. 19:10; Jn. 4:22-24 | c «pidamos»: Rom. 8:26; 1 Jn. 5:14; Stg. 1:5 | d «miseria»: 2 Cr. 20:12 | e «majestad»: Sal. 2:11; 34:18; Isa. 66:2 | f «fundamento»: Rom. 10:14; Stg. 1:6 | g «Señor Jesucristo»: Jn. 14:13; 16:23; Dn. 9:18 | h «en su Palabra» (al final): Mat. 7:8; Sal. 27:8
+P118 | a «el cuerpo»: Stg. 1:17; Mat. 6:33
+P119 | a «Amén»: Mat. 6:9-13; Luc. 11:2-4
+P120 | a «cosas terrenales»: Mat. 7:9-11; Luc. 11:11-13
+P121 | a «de Dios»: Jer. 23:23,24; Hch 17:24,25,27 | b «nuestra alma»: Rom. 10:12
+Notas 193–195 del libro (preguntas 122–124): la nota 193 junta citas de la pregunta 122 (Jn. 17:3; Jer. 9:24; 31:33,34) con las de la 123 (Mat. 6:33 y los incisos b–e); la nota 194 repite la 195 (pregunta 124). Se reparten así; el libro no trae los incisos b y c de la pregunta 122.
+P122 | a «conozcamos rectamente»: Jn. 17:3; Jer. 9:24; 31:33,34
+P123 | a «a Ti»: Mat. 6:33 | b «aumenta tu iglesia»: Sal. 51:18; 122:6 | c «tu Palabra»: 1 Jn. 3:8; Rom. 16:20 | d «tu reino venga»: Apo. 22:20; Rom. 8:22,23 | e «todo en todos»: 1 Cor. 15:28
+P124 | a «propia voluntad»: Mat. 16:24; Tit. 2:11,12 | b «la única buena»: Luc. 22:42; Ef. 5:10; Rom. 12:2 | c «gozosamente»: 1 Cor. 7:24 | d «en el cielo»: Sal. 103:20,21
+P125 | a «para el cuerpo»: Sal. 145:15; 104:27; Mat. 6:26 | b «todo bien»: Stg. 1:17; Hch. 14:17; 17:27 | c «tu bendición»: 1 Cor. 15:58; Deu. 8:3 [El libro dice «Deu. 8:13»; el versículo sobre que no solo de pan vivirá el hombre es Deu. 8:3, como la edición alemana.]; Sal. 37:16; 127:1,2 | d «solo en Ti»: Sal. 55:22; 62:10; 146:3; Jer. 17:5,7
+P126 | a «en nosotros»: Sal. 51:1; 143:2; 1 Jn. 2:1; Rom. 8:1 | b «nuestro prójimo»: Mat. 6:14
+P127 | a «instante»: Jn. 15:5; Sal. 103:14 | b «Satanás»: 1 Ped. 5:8; Ef. 6:12 | c «el mundo»: Jn. 15:19 | d «propia carne»: Rom. 7:23; Gál. 5:17 | e «combate espiritual»: Mat. 26:41; Mc. 13:33 | f «la victoria»: 1 Tes. 3:13; 5:23
+P128 | a «toda clase de bien»: Rom. 10:12; 2 Ped. 2:9 | b «gloria»: Jn. 14:13; Jer. 33:8,9; Sal. 115:1
+P129 | a «de Él»: 2 Cor. 1:20; 2 Tim. 2:13 [lectura difícil: la nota está cortada en el borde de la foto]
+Faltan: nota 102 (P28), posible final de 103 (P29) y final de 140 (P66).

@@ -1018,19 +1018,6 @@
             {
               "cita": "1 Tim. 3:16",
               "Pasaje": "16. Y sin contradicción, grande es el misterio de la piedad: Dios ha sido manifestado en carne; ha sido justificado con el Espíritu; ha sido visto de los ángeles; ha sido predicado á los Gentiles; ha sido creído en el mundo; ha sido recibido en gloria."
-            }
-          ]
-        },
-        {
-          "inciso": "c",
-          "citas": [
-            {
-              "cita": "Luc. 2:6,7,11",
-              "Pasaje": "6. Y aconteció que estando ellos allí, se cumplieron los días en que ella había de parir.\n7. Y parió á su hijo primogénito, y le envolvió en pañales, y acostóle en un pesebre, porque no había lugar para ellos en el mesón.\n11. Que os ha nacido hoy, en la ciudad de David, un Salvador, que es CRISTO el Señor."
-            },
-            {
-              "cita": "1 Cor. 1:30",
-              "Pasaje": "30. Mas de él sois vosotros en Cristo Jesús, el cual nos ha sido hecho por Dios sabiduría, y justificación, y santificación, y redención:"
             },
             {
               "cita": "Luc. 1:42",
@@ -1051,15 +1038,11 @@
             {
               "cita": "Heb. 4:15",
               "Pasaje": "15. Porque no tenemos un Pontífice que no se pueda compadecer de nuestras flaquezas; mas tentado en todo según [nuestra] semejanza, [pero] sin pecado."
-            },
-            {
-              "cita": "Heb. 2:9",
-              "Pasaje": "9. Empero vemos coronado de gloria y de honra, por el padecimiento de muerte, á aquel Jesús que es hecho un poco menor que los ángeles, para que por gracia de Dios gustase la muerte por todos."
             }
           ]
         },
         {
-          "inciso": "d",
+          "inciso": "c",
           "citas": [
             {
               "cita": "Isa. 53:9,11",
@@ -1096,6 +1079,23 @@
             {
               "cita": "1 Ped. 3:18",
               "Pasaje": "18. Porque también Cristo padeció una vez por los pecados, el justo por los injustos, para llevarnos á Dios, siendo á la verdad muerto en la carne, pero vivificado en espíritu;"
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "Luc. 2:6,7,11",
+              "Pasaje": "6. Y aconteció que estando ellos allí, se cumplieron los días en que ella había de parir.\n7. Y parió á su hijo primogénito, y le envolvió en pañales, y acostóle en un pesebre, porque no había lugar para ellos en el mesón.\n11. Que os ha nacido hoy, en la ciudad de David, un Salvador, que es CRISTO el Señor."
+            },
+            {
+              "cita": "1 Cor. 1:30",
+              "Pasaje": "30. Mas de él sois vosotros en Cristo Jesús, el cual nos ha sido hecho por Dios sabiduría, y justificación, y santificación, y redención:"
+            },
+            {
+              "cita": "Heb. 2:9",
+              "Pasaje": "9. Empero vemos coronado de gloria y de honra, por el padecimiento de muerte, á aquel Jesús que es hecho un poco menor que los ángeles, para que por gracia de Dios gustase la muerte por todos."
             }
           ]
         }
@@ -1344,6 +1344,26 @@
               "cita": "2 Cor. 4:13",
               "Pasaje": "13. Empero teniendo el mismo espíritu de fe, conforme á lo que está escrito: Creí, por lo cual también hablé: nosotros también creemos, por lo cual también hablamos;",
               "observacionPasaje": "En el margen de 1563 parece leerse «1 Cor. 4»; se toma 2 Cor. 4:13, como el libro."
+            },
+            {
+              "cita": "Gál. 5:22",
+              "Pasaje": "22. Mas el fruto del Espíritu es: caridad, gozo, paz, tolerancia, benignidad, bondad, fe,"
+            },
+            {
+              "cita": "Mat. 16:17",
+              "Pasaje": "17. Entonces, respondiendo Jesús, le dijo: Bienaventurado eres, Simón, hijo de Jonás; porque no te lo reveló carne ni sangre, mas mi Padre que está en los cielos."
+            },
+            {
+              "cita": "Jn. 6:29",
+              "Pasaje": "29. Respondió Jesús, y díjoles: Esta es la obra de Dios, que creáis en el que él ha enviado."
+            },
+            {
+              "cita": "Fil. 1:19",
+              "Pasaje": "19. Porque sé que esto se me tornará á salud, por vuestra oración, y por la suministración del Espíritu de Jesucristo;"
+            },
+            {
+              "cita": "Hech. 16:14",
+              "Pasaje": "14. Entonces una mujer llamada Lidia, que vendía púrpura en la ciudad de Tiatira, temerosa de Dios, estaba oyendo; el corazón de la cual abrió el Señor para que estuviese atenta á lo que Pablo decía."
             }
           ]
         },
@@ -1395,26 +1415,6 @@
             {
               "cita": "Ef. 2:7-10",
               "Pasaje": "7. Para mostrar en los siglos venideros las abundantes riquezas de su gracia en [su] bondad para con nosotros en Cristo Jesús.\n8. Porque por gracia sois salvos por la fe; y esto no de vosotros, [pues es] don de Dios:\n9. No por obras, para que nadie se gloríe.\n10. Porque somos hechura suya, criados en Cristo Jesús para buenas obras, las cuales Dios preparó para que anduviésemos en ellas."
-            },
-            {
-              "cita": "Gál. 5:22",
-              "Pasaje": "22. Mas el fruto del Espíritu es: caridad, gozo, paz, tolerancia, benignidad, bondad, fe,"
-            },
-            {
-              "cita": "Mat. 16:17",
-              "Pasaje": "17. Entonces, respondiendo Jesús, le dijo: Bienaventurado eres, Simón, hijo de Jonás; porque no te lo reveló carne ni sangre, mas mi Padre que está en los cielos."
-            },
-            {
-              "cita": "Jn. 6:29",
-              "Pasaje": "29. Respondió Jesús, y díjoles: Esta es la obra de Dios, que creáis en el que él ha enviado."
-            },
-            {
-              "cita": "Fil. 1:19",
-              "Pasaje": "19. Porque sé que esto se me tornará á salud, por vuestra oración, y por la suministración del Espíritu de Jesucristo;"
-            },
-            {
-              "cita": "Hech. 16:14",
-              "Pasaje": "14. Entonces una mujer llamada Lidia, que vendía púrpura en la ciudad de Tiatira, temerosa de Dios, estaba oyendo; el corazón de la cual abrió el Señor para que estuviese atenta á lo que Pablo decía."
             },
             {
               "cita": "Rom. 3:24",
@@ -2944,6 +2944,18 @@
             {
               "cita": "Mat. 26:11",
               "Pasaje": "11. Porque siempre tendréis pobres con vosotros, mas á mí no siempre me tendréis."
+            },
+            {
+              "cita": "Heb. 8:4",
+              "Pasaje": "4. Así que, si estuviese sobre la tierra, ni aun sería sacerdote, habiendo aún los sacerdotes que ofrecen los presentes según la ley;"
+            },
+            {
+              "cita": "Jn. 17:11",
+              "Pasaje": "11. Y ya no estoy en el mundo; mas éstos están en el mundo, y yo á ti vengo. Padre santo, á los que me has dado, guárdalos por tu nombre, para que sean una cosa, como también nosotros."
+            },
+            {
+              "cita": "Hech. 3:21",
+              "Pasaje": "21. Al cual de cierto es menester que el cielo tenga hasta los tiempos de la restauración de todas las cosas, que habló Dios por boca de sus santos profetas que han sido desde el siglo."
             }
           ]
         },
@@ -2965,18 +2977,6 @@
             {
               "cita": "Ef. 4:8",
               "Pasaje": "8. Por lo cual dice: Subiendo á lo alto, llevó cautiva la cautividad, y dió dones á los hombres."
-            },
-            {
-              "cita": "Heb. 8:4",
-              "Pasaje": "4. Así que, si estuviese sobre la tierra, ni aun sería sacerdote, habiendo aún los sacerdotes que ofrecen los presentes según la ley;"
-            },
-            {
-              "cita": "Jn. 17:11",
-              "Pasaje": "11. Y ya no estoy en el mundo; mas éstos están en el mundo, y yo á ti vengo. Padre santo, á los que me has dado, guárdalos por tu nombre, para que sean una cosa, como también nosotros."
-            },
-            {
-              "cita": "Hech. 3:21",
-              "Pasaje": "21. Al cual de cierto es menester que el cielo tenga hasta los tiempos de la restauración de todas las cosas, que habló Dios por boca de sus santos profetas que han sido desde el siglo."
             },
             {
               "cita": "Jn. 4:18",
@@ -3150,6 +3150,10 @@
             {
               "cita": "Ef. 4:7-12",
               "Pasaje": "7. Empero á cada uno de nosotros es dada la gracia conforme á la medida del don de Cristo.\n8. Por lo cual dice: Subiendo á lo alto, llevó cautiva la cautividad, y dió dones á los hombres.\n9. (Y que subió, ¿qué es, sino que también había descendido primero á las partes más bajas de la tierra?\n10. El que descendió, él mismo es el que también subió sobre todos los cielos para cumplir todas las cosas.)\n11. Y él mismo dió unos, ciertamente apóstoles; y otros, profetas; y otros, evangelistas; y otros, pastores y doctores;\n12. Para perfección de los santos, para la obra del ministerio, para edificación del cuerpo de Cristo;"
+            },
+            {
+              "cita": "Hech. 2:33",
+              "Pasaje": "33. Así que, levantado por la diestra de Dios, y recibiendo del Padre la promesa del Espíritu Santo, ha derramado esto que vosotros veis y oís."
             }
           ]
         },
@@ -3167,10 +3171,6 @@
             {
               "cita": "Ef. 4:8",
               "Pasaje": "8. Por lo cual dice: Subiendo á lo alto, llevó cautiva la cautividad, y dió dones á los hombres."
-            },
-            {
-              "cita": "Hech. 2:33",
-              "Pasaje": "33. Así que, levantado por la diestra de Dios, y recibiendo del Padre la promesa del Espíritu Santo, ha derramado esto que vosotros veis y oís."
             },
             {
               "cita": "Sal. 110:1,2",
@@ -3427,6 +3427,14 @@
             {
               "cita": "Ef. 5:26",
               "Pasaje": "26. Para santificarla limpiándola en el lavacro del agua por la palabra,"
+            },
+            {
+              "cita": "Hech. 20:28",
+              "Pasaje": "28. Por tanto mirad por vosotros, y por todo el rebaño en que el Espíritu Santo os ha puesto por obispos, para apacentar la iglesia del Señor, la cual ganó por su sangre."
+            },
+            {
+              "cita": "Ef. 4:11-13",
+              "Pasaje": "11. Y él mismo dió unos, ciertamente apóstoles; y otros, profetas; y otros, evangelistas; y otros, pastores y doctores;\n12. Para perfección de los santos, para la obra del ministerio, para edificación del cuerpo de Cristo;\n13. Hasta que todos lleguemos á la unidad de la fe y del conocimiento del Hijo de Dios, á un varón perfecto, á la medida de la edad de la plenitud de Cristo:"
             }
           ]
         },
@@ -3444,14 +3452,6 @@
             {
               "cita": "1 Cor. 1:4-9",
               "Pasaje": "4. Gracias doy á mi Dios siempre por vosotros, por la gracia de Dios que os es dada en Cristo Jesús;\n5. Que en todas las cosas sois enriquecidos en él, en toda lengua y en toda ciencia;\n6. Así como el testimonio de Cristo ha sido confirmado en vosotros:\n7. De tal manera que nada os falte en ningún don, esperando la manifestación de nuestro Señor Jesucristo:\n8. El cual también os confirmará hasta el fin, [para que seáis] sin falta en el día de nuestro Señor Jesucristo.\n9. Fiel es Dios, por el cual sois llamados á la participación de su Hijo Jesucristo nuestro Señor."
-            },
-            {
-              "cita": "Hech. 20:28",
-              "Pasaje": "28. Por tanto mirad por vosotros, y por todo el rebaño en que el Espíritu Santo os ha puesto por obispos, para apacentar la iglesia del Señor, la cual ganó por su sangre."
-            },
-            {
-              "cita": "Ef. 4:11-13",
-              "Pasaje": "11. Y él mismo dió unos, ciertamente apóstoles; y otros, profetas; y otros, evangelistas; y otros, pastores y doctores;\n12. Para perfección de los santos, para la obra del ministerio, para edificación del cuerpo de Cristo;\n13. Hasta que todos lleguemos á la unidad de la fe y del conocimiento del Hijo de Dios, á un varón perfecto, á la medida de la edad de la plenitud de Cristo:"
             },
             {
               "cita": "Sal. 129:1-5",
@@ -3488,6 +3488,14 @@
             {
               "cita": "1 Cor. 1:9",
               "Pasaje": "9. Fiel es Dios, por el cual sois llamados á la participación de su Hijo Jesucristo nuestro Señor."
+            },
+            {
+              "cita": "Rom. 8:32",
+              "Pasaje": "32. El que aun á su propio Hijo no perdonó, antes le entregó por todos nosotros, ¿cómo no nos dará también con él todas las cosas?"
+            },
+            {
+              "cita": "1 Cor. 6:17",
+              "Pasaje": "17. Empero el que se junta con el Señor, un espíritu es."
             }
           ]
         },
@@ -3505,14 +3513,6 @@
             {
               "cita": "Fil. 2:4-8",
               "Pasaje": "4. No mirando cada uno á lo suyo propio, sino cada cual también á lo de los otros.\n5. Haya, pues, en vosotros este sentir que hubo también en Cristo Jesús:\n6. El cual, siendo en forma de Dios, no tuvo por usurpación ser igual á Dios:\n7. Sin embargo, se anonadó á sí mismo, tomando forma de siervo, hecho semejante á los hombres;\n8. Y hallado en la condición como hombre, se humilló á sí mismo, hecho obediente hasta la muerte, y muerte de cruz."
-            },
-            {
-              "cita": "Rom. 8:32",
-              "Pasaje": "32. El que aun á su propio Hijo no perdonó, antes le entregó por todos nosotros, ¿cómo no nos dará también con él todas las cosas?"
-            },
-            {
-              "cita": "1 Cor. 6:17",
-              "Pasaje": "17. Empero el que se junta con el Señor, un espíritu es."
             }
           ]
         }
@@ -4586,16 +4586,16 @@
           "inciso": "a",
           "citas": [
             {
-              "cita": "Heb. 7:27",
-              "Pasaje": "27. Que no tiene necesidad cada día, como los [otros] sacerdotes, de ofrecer primero sacrificios por sus pecados, y luego por los del pueblo: porque esto [lo] hizo una sola vez, ofreciéndose á sí mismo."
+              "cita": "Heb. 10:10-18",
+              "Pasaje": "10. En la cual voluntad somos santificados por la ofrenda del cuerpo de Jesucristo [hecha] una sola vez.\n11. Así que, todo sacerdote se presenta cada día ministrando y ofreciendo muchas veces los mismos sacrificios, que nunca pueden quitar los pecados:\n12. Pero éste, habiendo ofrecido por los pecados un [solo] sacrificio para siempre, está sentado á la diestra de Dios,\n13. Esperando lo que resta, hasta que sus enemigos sean puestos por estrado de sus pies.\n14. Porque con una sola ofrenda hizo perfectos para siempre á los santificados.\n15. Y atestíguanos lo mismo el Espíritu Santo; que después que dijo:\n16. Y este es el pacto que haré con ellos después de aquellos días, dice el Señor: Daré mis leyes en sus corazones, y en sus almas las escribiré;\n17. [Añade]: Y nunca más me acordaré de sus pecados é iniquidades.\n18. Pues donde hay remisión de éstos, no hay más ofrenda por pecado."
+            },
+            {
+              "cita": "Heb. 7:26,27",
+              "Pasaje": "26. Porque tal pontífice nos convenía: santo, inocente, limpio, apartado de los pecadores, y hecho más sublime que los cielos;\n27. Que no tiene necesidad cada día, como los [otros] sacerdotes, de ofrecer primero sacrificios por sus pecados, y luego por los del pueblo: porque esto [lo] hizo una sola vez, ofreciéndose á sí mismo."
             },
             {
               "cita": "Heb. 9:12,25-28",
               "Pasaje": "12. Y no por sangre de machos cabríos ni de becerros, mas por su propia sangre, entró una sola vez en el santuario, habiendo obtenido eterna redención.\n25. Y no para ofrecerse muchas veces á sí mismo, como entra el pontífice en el santuario cada año con sangre ajena;\n26. De otra manera fuera necesario que hubiera padecido muchas veces desde el principio del mundo: mas ahora una vez en la consumación de los siglos, para deshacimiento del pecado se presentó por el sacrificio de sí mismo.\n27. Y de la manera que está establecido á los hombres que mueran una vez, y después el juicio;\n28. Así también Cristo fué ofrecido una vez para agotar los pecados de muchos; y la segunda vez, sin pecado, será visto de los que le esperan para salud."
-            },
-            {
-              "cita": "Heb. 10:10-18",
-              "Pasaje": "10. En la cual voluntad somos santificados por la ofrenda del cuerpo de Jesucristo [hecha] una sola vez.\n11. Así que, todo sacerdote se presenta cada día ministrando y ofreciendo muchas veces los mismos sacrificios, que nunca pueden quitar los pecados:\n12. Pero éste, habiendo ofrecido por los pecados un [solo] sacrificio para siempre, está sentado á la diestra de Dios,\n13. Esperando lo que resta, hasta que sus enemigos sean puestos por estrado de sus pies.\n14. Porque con una sola ofrenda hizo perfectos para siempre á los santificados.\n15. Y atestíguanos lo mismo el Espíritu Santo; que después que dijo:\n16. Y este es el pacto que haré con ellos después de aquellos días, dice el Señor: Daré mis leyes en sus corazones, y en sus almas las escribiré;\n17. [Añade]: Y nunca más me acordaré de sus pecados é iniquidades.\n18. Pues donde hay remisión de éstos, no hay más ofrenda por pecado."
             },
             {
               "cita": "Jn. 19:30",
@@ -4615,12 +4615,12 @@
           "inciso": "b",
           "citas": [
             {
-              "cita": "1 Cor. 6:17",
-              "Pasaje": "17. Empero el que se junta con el Señor, un espíritu es."
-            },
-            {
               "cita": "1 Cor. 10:16,17",
               "Pasaje": "16. La copa de bendición que bendecimos, ¿no es la comunión de la sangre de Cristo? El pan que partimos, ¿no es la comunión del cuerpo de Cristo?\n17. Porque un pan, [es que] muchos somos un cuerpo; pues todos participamos de aquel un pan."
+            },
+            {
+              "cita": "1 Cor. 6:17",
+              "Pasaje": "17. Empero el que se junta con el Señor, un espíritu es."
             }
           ]
         },
@@ -4628,20 +4628,33 @@
           "inciso": "c",
           "citas": [
             {
+              "cita": "Jn. 20:17",
+              "Pasaje": "17. Dícele Jesús: No me toques: porque aun no he subido á mi Padre: mas ve á mis hermanos, y diles: Subo á mi Padre y á vuestro Padre, á mi Dios y á vuestro Dios."
+            },
+            {
+              "cita": "Col. 3:1",
+              "Pasaje": "1. SI habéis pues resucitado con Cristo, buscad las cosas de arriba, donde está Cristo sentado á la diestra de Dios."
+            },
+            {
               "cita": "Heb. 1:3",
               "Pasaje": "3. El cual siendo el resplandor de su gloria, y la misma imagen de su sustancia, y sustentando todas las cosas con la palabra de su potencia, habiendo hecho la purgación de nuestros pecados por sí mismo, se sentó á la diestra de la Majestad en las alturas,"
             },
             {
               "cita": "Heb. 8:1",
               "Pasaje": "1. ASÍ que, la suma acerca de lo dicho [es]: Tenemos tal pontífice que se asentó á la diestra del trono de la Majestad en los cielos;"
+            }
+          ]
+        },
+        {
+          "inciso": "d",
+          "citas": [
+            {
+              "cita": "Mat. 6:20,21",
+              "Pasaje": "20. Mas haceos tesoros en el cielo, donde ni polilla ni orín corrompe, y donde ladrones no minan ni hurtan:\n21. Porque donde estuviere vuestro tesoro, allí estará vuestro corazón."
             },
             {
               "cita": "Jn. 4:21-24",
               "Pasaje": "21. Dícele Jesús: Mujer, créeme, que la hora viene, cuando ni en este monte, ni en Jerusalem adoraréis al Padre.\n22. Vosotros adoráis lo que no sabéis; nosotros adoramos lo que sabemos: porque la salud viene de los Judíos.\n23. Mas la hora viene, y ahora es, cuando los verdaderos adoradores adorarán al Padre en espíritu y en verdad; porque también el Padre tales adoradores busca que le adoren.\n24. Dios es Espíritu; y los que le adoran, en espíritu y en verdad es necesario que adoren."
-            },
-            {
-              "cita": "Jn. 20:17",
-              "Pasaje": "17. Dícele Jesús: No me toques: porque aun no he subido á mi Padre: mas ve á mis hermanos, y diles: Subo á mi Padre y á vuestro Padre, á mi Dios y á vuestro Dios."
             },
             {
               "cita": "Luc. 24:52",
@@ -4650,12 +4663,7 @@
             {
               "cita": "Hech. 7:55,56",
               "Pasaje": "55. Mas él, estando lleno de Espíritu Santo, puestos los ojos en el cielo, vió la gloria de Dios, y á Jesús que estaba á la diestra de Dios,\n56. Y dijo: He aquí, veo los cielos abiertos, y al Hijo del hombre que está á la diestra de Dios."
-            }
-          ]
-        },
-        {
-          "inciso": "d",
-          "citas": [
+            },
             {
               "cita": "Col. 3:1",
               "Pasaje": "1. SI habéis pues resucitado con Cristo, buscad las cosas de arriba, donde está Cristo sentado á la diestra de Dios."
@@ -4673,10 +4681,6 @@
         {
           "inciso": "e",
           "citas": [
-            {
-              "cita": "Heb. 9:26",
-              "Pasaje": "26. De otra manera fuera necesario que hubiera padecido muchas veces desde el principio del mundo: mas ahora una vez en la consumación de los siglos, para deshacimiento del pecado se presentó por el sacrificio de sí mismo."
-            },
             {
               "cita": "Heb. 10:12,14",
               "Pasaje": "12. Pero éste, habiendo ofrecido por los pecados un [solo] sacrificio para siempre, está sentado á la diestra de Dios,\n14. Porque con una sola ofrenda hizo perfectos para siempre á los santificados."
@@ -4801,6 +4805,10 @@
             {
               "cita": "2 Jn. 1:10,11",
               "Pasaje": "10. Si alguno viene á vosotros, y no trae esta doctrina, no lo recibáis en casa, ni le digáis: ¡bienvenido!\n11. Porque el que le dice bienvenido, comunica con sus malas obras."
+            },
+            {
+              "cita": "2 Cor. 2:6-8",
+              "Pasaje": "6. Bástale al tal esta reprensión [hecha] de muchos;\n7. Así que, al contrario, vosotros más bien lo perdonéis y consoléis, porque no sea el tal consumido de demasiada tristeza.\n8. Por lo cual os ruego que confirméis el amor para con él."
             }
           ]
         }
@@ -4849,9 +4857,9 @@
           "inciso": "c",
           "citas": [
             {
-              "cita": "1 Ped. 1",
-              "Pasaje": "1. PEDRO, apóstol de Jesucristo, á los extranjeros esparcidos en Ponto, en Galacia, en Capadocia, en Asia, y en Bithinia,\n2. Elegidos según la presciencia de Dios Padre en santificación del Espíritu, para obedecer y ser rociados con la sangre de Jesucristo: Gracia y paz os sea multiplicada.\n3. Bendito el Dios y Padre de nuestro Señor Jesucristo, que según su grande misericordia nos ha regenerado en esperanza viva, por la resurrección de Jesucristo de los muertos,\n4. Para una herencia incorruptible, y que no puede contaminarse, ni marchitarse, reservada en los cielos\n5. Para nosotros que somos guardados en la virtud de Dios por fe, para alcanzar la salud que está aparejada para ser manifestada en el postrimero tiempo.\n6. En lo cual vosotros os alegráis, estando al presente un poco de tiempo afligidos en diversas tentaciones, si es necesario,\n7. Para que la prueba de vuestra fe, mucho más preciosa que el oro, el cual perece, bien que sea probado con fuego, sea hallada en alabanza, gloria y honra, cuando Jesucristo fuere manifestado:\n8. Al cual, no habiendo visto, le amáis; en el cual creyendo, aunque al presente no lo veáis, os alegráis con gozo inefable y glorificado;\n9. Obteniendo el fin de vuestra fe, [que es] la salud de [vuestras] almas.\n10. De la cual salud los profetas que profetizaron de la gracia que había de venir á vosotros, han inquirido y diligentemente buscado,\n11. Escudriñando cuándo y en qué punto de tiempo significaba el Espíritu de Cristo que estaba en ellos, el cual prenunciaba las aflicciones que habían de venir á Cristo, y las glorias después de ellas.\n12. A los cuales fué revelado, que no para sí mismos, sino para nosotros administraban las cosas que ahora os son anunciadas de los que os han predicado el evangelio por el Espíritu Santo enviado del cielo; en las cuales desean mirar los ángeles.\n13. Por lo cual, teniendo los lomos de vuestro entendimiento ceñidos, con templanza, esperad perfectamente en la gracia que os es presentada cuando Jesucristo os es manifestado:\n14. Como hijos obedientes, no conformándoos con los deseos que antes teníais estando en vuestra ignorancia;\n15. Sino como aquel que os ha llamado es santo, sed también vosotros santos en toda conversación:\n16. Porque escrito está: Sed santos, porque yo soy santo.\n17. Y si invocáis por Padre á aquel que sin acepción de personas juzga según la obra de cada uno, conversad en temor todo el tiempo de vuestra peregrinación:\n18. Sabiendo que habéis sido rescatados de vuestra vana conversación, la cual recibisteis de vuestros padres, no con cosas corruptibles, [como] oro ó plata;\n19. Sino con la sangre preciosa de Cristo, como de un cordero sin mancha y sin contaminación:\n20. Ya ordenado de antes de la fundación del mundo, pero manifestado en los postrimeros tiempos por amor de vosotros,\n21. Que por él creéis á Dios, el cual le resucitó de los muertos, y le ha dado gloria, para que vuestra fe y esperanza sea en Dios.\n22. Habiendo purificado vuestra almas en la obediencia de la verdad, por el Espíritu, en caridad hermanable sin fingimiento, amaos unos á otros entrañablemente de corazón puro:\n23. Siendo renacidos, no de simiente corruptible, sino de incorruptible, por la palabra de Dios, que vive y permanece para siempre.\n24. Porque Toda carne es como la hierba, y toda la gloria del hombre como la flor de la hierba: secóse la hierba, y la flor se cayó;\n25. Mas la palabra del Señor permanece perpetuamente. Y esta es la palabra que por el evangelio os ha sido anunciada.",
-              "observacionPasaje": "Capítulo completo. La edición de 1563 indica solo el capítulo y ninguna de las ediciones cotejadas precisa los versículos: se muestra el capítulo completo."
+              "cita": "2 Ped. 1:10,11",
+              "Pasaje": "10. Por lo cual, hermanos, procurad tanto más de hacer firme vuestra vocación y elección; porque haciendo estas cosas, no caeréis jamás.\n11. Porque de esta manera os será abundantemente administrada la entrada en el reino eterno de nuestro Señor y Salvador Jesucristo.",
+              "observacionPasaje": "El margen de 1563 dice «1 Pet. 1»; se toma 2 Ped. 1:10, como el libro y la edición alemana."
             },
             {
               "cita": "Mat. 7:17,18",
@@ -4925,6 +4933,10 @@
             {
               "cita": "1 Cor. 5:7",
               "Pasaje": "7. Limpiad pues la vieja levadura, para que seáis nueva masa, como sois sin levadura: porque nuestra pascua, [que es] Cristo, fué sacrificada por nosotros."
+            },
+            {
+              "cita": "2 Cor. 7:10",
+              "Pasaje": "10. Porque el dolor que es según Dios, obra arrepentimiento saludable, de que no hay que arrepentirse; mas el dolor del siglo obra muerte."
             }
           ]
         }
@@ -4945,6 +4957,10 @@
             {
               "cita": "Joel 2:12,13",
               "Pasaje": "12. Por eso pues ahora, dice Jehová, convertíos á mí con todo vuestro corazón, con ayuno y lloro y llanto.\n13. Y lacerad vuestro corazón, y no vuestros vestidos; y convertíos á Jehová vuestro Dios; porque misericordioso es y clemente, tardo para la ira, y grande en misericordia, y que se arrepiente del castigo."
+            },
+            {
+              "cita": "Os. 6:1",
+              "Pasaje": "1. VENID y volvámonos á Jehová: que él arrebató, y nos curará; hirió, y nos vendará."
             }
           ]
         }
@@ -4969,6 +4985,10 @@
             {
               "cita": "Gál. 2:20",
               "Pasaje": "20. Con Cristo estoy juntamente crucificado, y vivo, no ya yo, mas vive Cristo en mí: y lo que ahora vivo en la carne, [lo] vivo en la fe del Hijo de Dios, el cual me amó, y se entregó á sí mismo por mí."
+            },
+            {
+              "cita": "Isa. 57:15",
+              "Pasaje": "15. Porque así dijo el Alto y Sublime, el que habita la eternidad, y cuyo nombre es el Santo: Yo habito en la altura y la santidad, y con el quebrantado y humilde de espíritu, para hacer vivir el espíritu de los humildes, y para vivificar el corazón de los quebrantados."
             }
           ]
         },
@@ -5007,6 +5027,10 @@
             {
               "cita": "Ef. 2:10",
               "Pasaje": "10. Porque somos hechura suya, criados en Cristo Jesús para buenas obras, las cuales Dios preparó para que anduviésemos en ellas."
+            },
+            {
+              "cita": "Lev. 18:4",
+              "Pasaje": "4. Mis derechos pondréis por obra, y mis estatutos guardaréis, andando en ellos: Yo Jehová vuestro Dios."
             }
           ]
         },
@@ -5046,7 +5070,21 @@
       "numero": 92,
       "pregunta": "¿Cómo dice la ley del Señor?",
       "respuesta": "Dios habló todas estas palabras: Primer mandamiento. Yo soy el Señor tu Dios, que te saqué de la tierra de Egipto, de casa de servidumbre. No tendrás dioses ajenos delante de mí. Segundo mandamiento. No te harás imagen ni ninguna semejanza de lo que está arriba en el cielo, ni abajo en la tierra, ni en las aguas debajo de la tierra; no te inclinarás a ellas ni las servirás. Porque yo, el Señor tu Dios, soy Dios fuerte y celoso, que visito la maldad de los padres sobre los hijos hasta la tercera y cuarta generación de los que me aborrecen, y hago misericordia a millares de los que me aman y guardan mis mandamientos. Tercer mandamiento. No tomarás el nombre del Señor tu Dios en vano; porque el Señor no dará por inocente al que tome su nombre en vano. Cuarto mandamiento. Acuérdate del día de reposo para santificarlo. Seis días trabajarás y harás toda tu obra; pero el séptimo día es reposo para el Señor tu Dios; no harás en él obra alguna, tú, ni tu hijo, ni tu hija, ni tu siervo, ni tu criada, ni tu bestia, ni el extranjero que está dentro de tus puertas. Porque en seis días hizo el Señor los cielos y la tierra, el mar y todas las cosas que en ellos hay, y reposó en el séptimo día; por tanto, el Señor bendijo el día de reposo y lo santificó. Quinto mandamiento. Honra a tu padre y a tu madre, para que tus días se alarguen en la tierra que el Señor tu Dios te da. Sexto mandamiento. No matarás. Séptimo mandamiento. No cometerás adulterio. Octavo mandamiento. No hurtarás. Noveno mandamiento. No hablarás falso testimonio contra tu prójimo. Décimo mandamiento. No codiciarás la casa de tu prójimo; no codiciarás la mujer de tu prójimo, ni su siervo, ni su criada, ni su buey, ni su asno, ni cosa alguna de tu prójimo.",
-      "referenciasBiblicas": []
+      "referenciasBiblicas": [
+        {
+          "inciso": "a",
+          "citas": [
+            {
+              "cita": "Éx. 20:1-17",
+              "Pasaje": "1. Y HABLÓ Dios todas estas palabras, diciendo:\n2. Yo soy JEHOVÁ tu Dios, que te saqué de la tierra de Egipto, de casa de siervos.\n3. No tendrás dioses ajenos delante de mí.\n4. No te harás imagen, ni ninguna semejanza [de cosa] que esté arriba en el cielo, ni abajo en la tierra, ni en las aguas debajo de la tierra:\n5. No te inclinarás á ellas, ni las honrarás; porque yo soy Jehová tu Dios, fuerte, celoso, que visito la maldad de los padres sobre los hijos, sobre los terceros y sobre los cuartos, á los que me aborrecen,\n6. Y que hago misericordia en millares á los que me aman, y guardan mis mandamientos.\n7. No tomarás el nombre de Jehová tu Dios en vano; porque no dará por inocente Jehová al que tomare su nombre en vano.\n8. Acordarte has del día del reposo, para santificarlo:\n9. Seis días trabajarás, y harás toda tu obra;\n10. Mas el séptimo día será reposo para Jehová tu Dios: no hagas [en él] obra alguna, tú, ni tu hijo, ni tu hija, ni tu siervo, ni tu criada ni tu bestia, ni tu extranjero que está dentro de tus puertas:\n11. Porque en seis días hizo Jehová los cielos y la tierra, la mar y todas las cosas que en ellos hay, y reposó en el séptimo día: por tanto Jehová bendijo el día del reposo y lo santificó.\n12. Honra á tu padre y á tu madre, porque tus días se alarguen en la tierra que Jehová tu Dios te da.\n13. No matarás.\n14. No cometerás adulterio.\n15. No hurtarás.\n16. No hablarás contra tu prójimo falso testimonio.\n17. No codiciarás la casa de tu prójimo, no codiciarás la mujer de tu prójimo, ni su siervo, ni su criada, ni su buey, ni su asno, ni cosa alguna de tu prójimo."
+            },
+            {
+              "cita": "Deut. 5:6-21",
+              "Pasaje": "6. Yo soy Jehová tu Dios, que te saqué de tierra de Egipto, de casa de siervos.\n7. No tendrás dioses extraños delante de mí.\n8. No harás para ti escultura, [ni] imagen alguna [de cosa] que está arriba en los cielos, ó abajo en la tierra, ó en las aguas debajo de la tierra:\n9. No te inclinarás á ellas ni les servirás: porque yo soy Jehová tu Dios, fuerte, celoso, que visito la iniquidad de los padres sobre los hijos, y sobre los terceros, y sobre los cuartos, á los que me aborrecen,\n10. Y que hago misericordia á millares á los que me aman, y guardan mis mandamientos.\n11. No tomarás en vano el nombre de Jehová tu Dios; porque Jehová no dará por inocente al que tomare en vano su nombre.\n12. Guardarás el día del reposo para santificarlo, como Jehová tu Dios te ha mandado.\n13. Seis días trabajarás y harás toda tu obra:\n14. Mas el séptimo es reposo á Jehová tu Dios: ninguna obra harás tú, ni tu hijo, ni tu hija, ni tu siervo, ni tu sierva, ni tu buey, ni tu asno, ni ningún animal tuyo, ni tu peregrino que está dentro de tus puertas: porque descanse tu siervo y tu sierva como tú.\n15. Y acuérdate que fuiste siervo en tierra de Egipto, y que Jehová tu Dios te sacó de allá con mano fuerte y brazo extendido: por lo cual Jehová tu Dios te ha mandado que guardes el día del reposo.\n16. Honra á tu padre y á tu madre, como Jehová tu Dios te ha mandado, para que sean prolongados tus días, y para que te vaya bien sobre la tierra que Jehová tu Dios te da.\n17. No matarás.\n18. No adulterarás.\n19. No hurtarás.\n20. No dirás falso testimonio contra tu prójimo.\n21. No codiciarás la mujer de tu prójimo, ni desearás la casa de tu prójimo, ni su tierra, ni su siervo, ni su sierva, ni su buey, ni su asno, ni ninguna cosa que sea de tu prójimo."
+            }
+          ]
+        }
+      ]
     },
     {
       "numero": 93,
@@ -5063,6 +5101,10 @@
             {
               "cita": "Deut. 4:13",
               "Pasaje": "13. Y él os anunció su pacto, el cual os mandó poner por obra, las diez palabras; y escribiólas en dos tablas de piedra."
+            },
+            {
+              "cita": "Deut. 10:3,4",
+              "Pasaje": "3. E hice un arca de madera de Sittim, y labré dos tablas de piedra como las primeras, y subí al monte con las dos tablas en mi mano.\n4. Y escribió en las tablas conforme á la primera escritura, las diez palabras que Jehová os había hablado en el monte de en medio del fuego, el día de la asamblea; y diómelas Jehová."
             }
           ]
         },
@@ -5088,6 +5130,10 @@
             {
               "cita": "1 Cor. 6:9,10",
               "Pasaje": "9. ¿No sabéis que los injustos no poseerán el reino de Dios? No erréis, que ni los fornicarios, ni los idólatras, ni los adúlteros, ni los afeminados, ni los que se echan con varones,\n10. Ni los ladrones, ni los avaros, ni los borrachos, ni los maldicientes, ni los robadores, heredarán el reino de Dios."
+            },
+            {
+              "cita": "1 Jn. 5:21",
+              "Pasaje": "21. Hijitos, guardaos de los ídolos. Amén."
             }
           ]
         },
@@ -5096,7 +5142,8 @@
           "citas": [
             {
               "cita": "Lev. 19:31",
-              "Pasaje": "31. No os volváis á los encantadores y á los adivinos: no los consultéis ensuciándoos con ellos: Yo Jehová vuestro Dios."
+              "Pasaje": "31. No os volváis á los encantadores y á los adivinos: no los consultéis ensuciándoos con ellos: Yo Jehová vuestro Dios.",
+              "observacionPasaje": "El libro dice «Lev. 10:31», que no existe (Levítico 10 tiene 20 versículos); se usa Lev. 19:31, el capítulo que cita la edición de 1563."
             },
             {
               "cita": "Deut. 18:9-12",
@@ -5114,6 +5161,10 @@
             {
               "cita": "Apoc. 19:10",
               "Pasaje": "10. Y yo me eché á sus pies para adorarle. Y él me dijo: Mira que no lo hagas: yo soy siervo contigo, y con tus hermanos que tienen el testimonio de Jesús: adora á Dios; porque el testimonio de Jesús es el espíritu de la profecía."
+            },
+            {
+              "cita": "Apoc. 22:8,9",
+              "Pasaje": "8. Yo Juan soy el que ha oído y visto estas cosas. Y después que hube oído y visto, me postré para adorar delante de los pies del ángel que me mostraba estas cosas.\n9. Y él me dijo: Mira que no lo hagas: porque yo soy siervo contigo, y con tus hermanos los profetas, y con los que guardan las palabras de este libro. Adora á Dios."
             }
           ]
         },
@@ -5139,9 +5190,9 @@
           "inciso": "f",
           "citas": [
             {
-              "cita": "1 Ped. 3",
-              "Pasaje": "1. ASIMISMO vosotras, mujeres, [sed] sujetas á vuestros maridos; para que también los que no creen á la palabra, sean ganados sin palabra por la conversación de sus mujeres,\n2. Considerando vuestra casta conversación, que es en temor.\n3. El adorno de las cuales no sea exterior con encrespamiento del cabello, y atavío de oro, ni en compostura de ropas;\n4. Sino el hombre del corazón que está encubierto, en incorruptible [ornato] de espíritu agradable y pacífico, lo cual es de grande estima delante de Dios.\n5. Porque así también se ataviaban en el tiempo antiguo aquellas santas mujeres que esperaban en Dios, siendo sujetas á sus maridos:\n6. Como Sara obedecía á Abraham, llamándole señor; de la cual vosotras sois hechas hijas, haciendo bien, y no sois espantadas de ningún pavor.\n7. Vosotros maridos, semejantemente, habitad con ellas según ciencia, dando honor á la mujer como á vaso más frágil, y como á herederas juntamente de la gracia de la vida; para que vuestras oraciones no sean impedidas.\n8. Y finalmente, sed todos de un mismo corazón, compasivos, amándoos fraternalmente, misericordiosos, amigables;\n9. No volviendo mal por mal, ni maldición por maldición, sino antes por el contrario, bendiciendo; sabiendo que vosotros sois llamados para que poseáis bendición en herencia.\n10. Porque el que quiere amar la vida, y ver días buenos, refrene su lengua de mal, y sus labios no hablen engaño;\n11. Apártase del mal, y haga bien; busque la paz, y sígala.\n12. Porque los ojos del Señor están sobre los justos, y sus oídos [atentos] á sus oraciones: pero el rostro del Señor está sobre aquellos que hacen mal.\n13. ¿Y quién es aquel que os podrá dañar, si vosotros seguís el bien?\n14. Mas también si alguna cosa padecéis por hacer bien, [sois] bienaventurados. Por tanto, no temáis por el temor de ellos, ni seáis turbados;\n15. Sino santificad al Señor Dios en vuestros corazones, y [estad] siempre aparejados para responder con mansedumbre y reverencia á cada uno que os demande razón de la esperanza que hay en vosotros:\n16. Teniendo buena conciencia, para que en lo que murmuran de vosotros como de malhechores, sean confundidos los que blasfeman vuestra buena conversación en Cristo.\n17. Porque mejor es que padezcáis haciendo bien, si la voluntad de Dios así lo quiere, que haciendo mal.\n18. Porque también Cristo padeció una vez por los pecados, el justo por los injustos, para llevarnos á Dios, siendo á la verdad muerto en la carne, pero vivificado en espíritu;\n19. En el cual también fué y predicó á los espíritus encarcelados;\n20. Los cuales en otro tiempo fueron desobedientes, cuando una vez esperaba la paciencia de Dios en los días de Noé, cuando se aparejaba el arca; en la cual pocas, es á saber, ocho personas fueron salvas por agua.\n21. A la figura de la cual el bautismo que ahora corresponde nos salva (no quitando las inmundicias de la carne, sino [como] demanda de una buena conciencia delante de Dios,) por la resurrección de Jesucristo:\n22. El cual está á la diestra de Dios, habiendo subido al cielo; estando á él sujetos los ángeles, y las potestades, y virtudes.",
-              "observacionPasaje": "Capítulo completo. La edición de 1563 indica solo el capítulo y ninguna de las ediciones cotejadas precisa los versículos: se muestra el capítulo completo."
+              "cita": "1 Ped. 5:5,6",
+              "Pasaje": "5. Igualmente, mancebos, sed sujetos á los ancianos; y todos sumisos unos á otros, revestíos de humildad; porque Dios resiste á los soberbios, y da gracia á los humildes.\n6. Humillaos pues bajo la poderosa mano de Dios, para que él os ensalce cuando fuere tiempo;",
+              "observacionPasaje": "El margen de 1563 dice «1 Pet. 3»; se toma 1 Ped. 5:5, como el libro, la edición alemana y reformededucation.org."
             }
           ]
         },
@@ -5174,6 +5225,23 @@
           "inciso": "h",
           "citas": [
             {
+              "cita": "Sal. 104:27",
+              "Pasaje": "27. Todos ellos esperan en ti, para que les des su comida á su tiempo."
+            },
+            {
+              "cita": "Isa. 45:7",
+              "Pasaje": "7. Que formo la luz y crío las tinieblas, que hago la paz y crío el mal. Yo Jehová que hago todo esto."
+            },
+            {
+              "cita": "Sant. 1:17",
+              "Pasaje": "17. Toda buena dádiva y todo don perfecto es de lo alto, que desciende del Padre de las luces, en el cual no hay mudanza, ni sombra de variación."
+            }
+          ]
+        },
+        {
+          "inciso": "i",
+          "citas": [
+            {
               "cita": "Deut. 6:2,5,13",
               "Pasaje": "2. Para que temas á Jehová tu Dios, guardando todos sus estatutos y sus mandamientos que yo te mando, tú, y tu hijo, y el hijo de tu hijo, todos los días de tu vida, y que tus días sean prolongados.\n5. Y amarás á Jehová tu Dios de todo tu corazón, y de toda tu alma, y con todo tu poder.\n13. A Jehová tu Dios temerás, y á él servirás, y por su nombre jurarás."
             },
@@ -5196,11 +5264,19 @@
             {
               "cita": "Hech. 5:29",
               "Pasaje": "29. Y respondiendo Pedro y los apóstoles, dijeron: Es menester obedecer á Dios antes que á los hombres."
+            },
+            {
+              "cita": "Prov. 9:10",
+              "Pasaje": "10. El temor de Jehová es el principio de la sabiduría; y la ciencia de los santos es inteligencia."
+            },
+            {
+              "cita": "Mat. 5:29",
+              "Pasaje": "29. Por tanto, si tu ojo derecho te fuere ocasión de caer, sácalo, y échalo de ti: que mejor te es que se pierda uno de tus miembros, que no que todo tu cuerpo sea echado al infierno."
             }
           ]
         },
         {
-          "inciso": "i",
+          "inciso": "k",
           "citas": [
             {
               "cita": "Mat. 4:10",
@@ -5209,6 +5285,10 @@
             {
               "cita": "Hech. 5:29",
               "Pasaje": "29. Y respondiendo Pedro y los apóstoles, dijeron: Es menester obedecer á Dios antes que á los hombres."
+            },
+            {
+              "cita": "Deut. 10:20",
+              "Pasaje": "20. A Jehová tu Dios temerás, á él servirás, á él te allegarás, y por su nombre jurarás."
             }
           ]
         }
@@ -5249,6 +5329,10 @@
             {
               "cita": "2 Jn. 1:5,6,9",
               "Pasaje": "5. Y ahora te ruego, señora, no como escribiéndote un nuevo mandamiento, sino aquel que nosotros hemos tenido desde el principio, que nos amemos unos á otros.\n6. Y este es amor, que andemos según sus mandamientos. Este es el mandamiento: Que andéis en él, como vosotros habéis oído desde el principio.\n9. Cualquiera que se rebela, y no persevera en la doctrina de Cristo, no tiene á Dios: el que persevera en la doctrina de Cristo, el tal tiene al Padre y al Hijo."
+            },
+            {
+              "cita": "Jn. 5:23",
+              "Pasaje": "23. Para que todos honren al Hijo como honran al Padre. El que no honra al Hijo, no honra al Padre que le envió."
             }
           ]
         }
@@ -5276,7 +5360,8 @@
             },
             {
               "cita": "Hech. 17:29",
-              "Pasaje": "29. Siendo pues linaje de Dios, no hemos de estimar la Divinidad ser semejante á oro, ó á plata, ó á piedra, escultura de artificio ó de imaginación de hombres."
+              "Pasaje": "29. Siendo pues linaje de Dios, no hemos de estimar la Divinidad ser semejante á oro, ó á plata, ó á piedra, escultura de artificio ó de imaginación de hombres.",
+              "observacionPasaje": "El libro dice «Hch 17:20»; el versículo sobre no representar a la Divinidad con oro, plata o piedra es Hech. 17:29, como la edición alemana."
             }
           ]
         },
@@ -5290,6 +5375,10 @@
             {
               "cita": "Deut. 12:30-32",
               "Pasaje": "30. Guárdate que no tropieces en pos de ellas, después que fueren destruídas delante de ti: no preguntes acerca de sus dioses, diciendo: De la manera que servían aquellas gentes á sus dioses, así haré yo también.\n31. No harás así á Jehová tu Dios; porque todo lo que Jehová aborrece, hicieron ellos á sus dioses; pues aun á sus hijos é hijas quemaban en el fuego á sus dioses.\n32. Cuidaréis de hacer todo lo que yo os mando: no añadirás á ello, ni quitarás de ello."
+            },
+            {
+              "cita": "Mat. 15:9",
+              "Pasaje": "9. Mas en vano me honran, enseñando doctrinas [y] mandamientos de hombres."
             }
           ]
         }
@@ -5302,6 +5391,15 @@
       "referenciasBiblicas": [
         {
           "inciso": "a",
+          "citas": [
+            {
+              "cita": "Isa. 40:25",
+              "Pasaje": "25. ¿A qué pues me haréis semejante, ó seré asimilado? dice el Santo."
+            }
+          ]
+        },
+        {
+          "inciso": "b",
           "citas": [
             {
               "cita": "Éx. 23:24",
@@ -5318,6 +5416,14 @@
             {
               "cita": "2 Rey. 18:4,5",
               "Pasaje": "4. El quitó los altos, y quebró las imágenes, y taló los bosques, é hizo pedazos la serpiente de bronce que había hecho Moisés, porque hasta entonces le quemaban perfumes los hijos de Israel; y llamóle por nombre Nehustán.\n5. En Jehová Dios de Israel puso su esperanza: después ni antes de él no hubo otro como él en todos los reyes de Judá."
+            },
+            {
+              "cita": "Éx. 34:17",
+              "Pasaje": "17. No harás dioses de fundición para ti."
+            },
+            {
+              "cita": "Éx. 34:13",
+              "Pasaje": "13. Mas derribaréis sus altares, y quebraréis sus estatuas, y talaréis sus bosques:"
             }
           ]
         }
@@ -5352,6 +5458,10 @@
               "cita": "2 Tim. 3:16,17",
               "Pasaje": "16. Toda Escritura [es] inspirada divinamente y útil para enseñar, para redargüir, para corregir, para instituir en justicia,\n17. Para que el hombre de Dios sea perfecto, enteramente instruído para toda buena obra.",
               "observacionPasaje": "El margen de 1563 dice «2 Tit. 3», errata de imprenta: es 2 Tim. 3."
+            },
+            {
+              "cita": "Rom. 10:14,15,17",
+              "Pasaje": "14. ¿Cómo, pues invocarán á aquel en el cual no han creído? ¿y cómo creerán á aquel de quien no han oído? ¿y cómo oirán sin [haber] quien [les] predique?\n15. ¿Y cómo predicarán si no fueren enviados? Como está escrito: ¡Cuán hermosos son los pies de los que anuncian el evangelio de la paz, de los que anuncian el evangelio de los bienes!\n17. Luego la fe es por el oir; y el oir por la palabra de Dios."
             }
           ]
         }
@@ -5397,8 +5507,13 @@
           "inciso": "d",
           "citas": [
             {
-              "cita": "Isa. 45:23",
-              "Pasaje": "23. Por mí hice juramento, de mi boca salió palabra en justicia, y no será revocada: Que á mí se doblará toda rodilla, jurará toda lengua."
+              "cita": "Lev. 5:1",
+              "Pasaje": "1. Y CUANDO alguna persona pecare, que hubiere oído la voz del que juró, y él fuere testigo que vió, ó supo, si no lo denunciare, él llevará su pecado."
+            },
+            {
+              "cita": "Prov. 29:24",
+              "Pasaje": "24. El aparcero del ladrón aborrece su vida; oirá maldiciones, y no [lo] denunciará.",
+              "observacionPasaje": "El libro dice «Prov. 29:34», que no existe (Proverbios 29 tiene 27 versículos); se usa Prov. 29:24, que el libro cita en la pregunta 100."
             }
           ]
         },
@@ -5406,8 +5521,12 @@
           "inciso": "e",
           "citas": [
             {
-              "cita": "Mat. 10:32,33",
-              "Pasaje": "32. Cualquiera pues, que me confesare delante de los hombres, le confesaré yo también delante de mi Padre que está en los cielos.\n33. Y cualquiera que me negare delante de los hombres, le negaré yo también delante de mi Padre que está en los cielos."
+              "cita": "Isa. 45:23",
+              "Pasaje": "23. Por mí hice juramento, de mi boca salió palabra en justicia, y no será revocada: Que á mí se doblará toda rodilla, jurará toda lengua."
+            },
+            {
+              "cita": "Jer. 4:2",
+              "Pasaje": "2. Y jurarás, [diciendo], Vive Jehová, con verdad, con juicio, y con justicia: y bendecirse han en él las gentes, y en él se gloriarán."
             }
           ]
         },
@@ -5415,13 +5534,30 @@
           "inciso": "f",
           "citas": [
             {
-              "cita": "1 Tim. 2:8",
-              "Pasaje": "8. Quiero, pues, que los hombres oren en todo lugar, levantando manos limpias, sin ira ni contienda."
+              "cita": "Mat. 10:32,33",
+              "Pasaje": "32. Cualquiera pues, que me confesare delante de los hombres, le confesaré yo también delante de mi Padre que está en los cielos.\n33. Y cualquiera que me negare delante de los hombres, le negaré yo también delante de mi Padre que está en los cielos."
+            },
+            {
+              "cita": "Rom. 10:9,10",
+              "Pasaje": "9. Que si confesares con tu boca al Señor Jesús, y creyeres en tu corazón que Dios le levantó de los muertos, serás salvo.\n10. Porque con el corazón se cree para justicia; mas con la boca se hace confesión para salud."
             }
           ]
         },
         {
           "inciso": "g",
+          "citas": [
+            {
+              "cita": "1 Tim. 2:8",
+              "Pasaje": "8. Quiero, pues, que los hombres oren en todo lugar, levantando manos limpias, sin ira ni contienda."
+            },
+            {
+              "cita": "Sal. 50:15",
+              "Pasaje": "15. E invócame en el día de la angustia: te libraré, y tú me honrarás."
+            }
+          ]
+        },
+        {
+          "inciso": "h",
           "citas": [
             {
               "cita": "Rom. 2:24",
@@ -5450,6 +5586,10 @@
             {
               "cita": "Lev. 5:1",
               "Pasaje": "1. Y CUANDO alguna persona pecare, que hubiere oído la voz del que juró, y él fuere testigo que vió, ó supo, si no lo denunciare, él llevará su pecado."
+            },
+            {
+              "cita": "Prov. 29:24",
+              "Pasaje": "24. El aparcero del ladrón aborrece su vida; oirá maldiciones, y no [lo] denunciará."
             }
           ]
         },
@@ -5483,6 +5623,10 @@
             {
               "cita": "Heb. 6:16",
               "Pasaje": "16. Porque los hombres ciertamente por el mayor [que ellos] juran: y el fin de todas sus controversias es el juramento para confirmación."
+            },
+            {
+              "cita": "Deut. 10:20",
+              "Pasaje": "20. A Jehová tu Dios temerás, á él servirás, á él te allegarás, y por su nombre jurarás."
             }
           ]
         },
@@ -5498,8 +5642,9 @@
               "Pasaje": "53. El Dios de Abraham, y el Dios de Nachôr juzgue entre nosotros, el Dios de sus padres. Y Jacob juró por el temor de Isaac su padre.\n54. Entonces Jacob inmoló víctimas en el monte, y llamó á sus hermanos á comer pan: y comieron pan, y durmieron aquella noche en el monte."
             },
             {
-              "cita": "Isa. 9:15",
-              "Pasaje": "15. El viejo y venerable de rostro [es] la cabeza: el profeta que enseña mentira, este [es] cola."
+              "cita": "Jos. 9:15",
+              "Pasaje": "15. Y Josué hizo paz con ellos, y concertó con ellos que les dejaría la vida: también los príncipes de la congregación les juraron.",
+              "observacionPasaje": "El margen de 1563 dice «Esai. 9» (y la edición alemana, «Jes 9, 15»); se toma Jos. 9:15, el juramento de Josué a los gabaonitas, como el libro y reformededucation.org."
             },
             {
               "cita": "1 Sam. 24:22",
@@ -5508,7 +5653,8 @@
             },
             {
               "cita": "2 Sam. 3:35",
-              "Pasaje": "35. Y como todo el pueblo viniese á dar de comer pan á David siendo aún de día, David juró, diciendo: Así me haga Dios y así me añada, si antes que se ponga el sol gustare yo pan, ú otra cualquier cosa."
+              "Pasaje": "35. Y como todo el pueblo viniese á dar de comer pan á David siendo aún de día, David juró, diciendo: Así me haga Dios y así me añada, si antes que se ponga el sol gustare yo pan, ú otra cualquier cosa.",
+              "observacionPasaje": "El libro dice «2 Sal. 3:35»: es 2 Samuel 3:35, como la edición de 1563."
             },
             {
               "cita": "1 Rey. 1:29,30",
@@ -5521,6 +5667,10 @@
             {
               "cita": "2 Cor. 1:23",
               "Pasaje": "23. Mas yo llamo á Dios por testigo sobre mi alma, que por ser indulgente con vosotros no he pasado todavía á Corinto."
+            },
+            {
+              "cita": "Rom. 9:1",
+              "Pasaje": "1. VERDAD digo en Cristo, no miento, dándome testimonio mi conciencia en el Espíritu Santo,"
             }
           ]
         }
@@ -5537,6 +5687,10 @@
             {
               "cita": "2 Cor. 1:23",
               "Pasaje": "23. Mas yo llamo á Dios por testigo sobre mi alma, que por ser indulgente con vosotros no he pasado todavía á Corinto."
+            },
+            {
+              "cita": "Rom. 9:1",
+              "Pasaje": "1. VERDAD digo en Cristo, no miento, dándome testimonio mi conciencia en el Espíritu Santo,"
             }
           ]
         },
@@ -5689,6 +5843,18 @@
             {
               "cita": "Éx. 21:17",
               "Pasaje": "17. Igualmente el que maldijere á su padre ó á su madre, morirá."
+            },
+            {
+              "cita": "Prov. 4:1",
+              "Pasaje": "1. OID, hijos, la doctrina de un padre, y estad atentos para que conozcáis cordura."
+            },
+            {
+              "cita": "Prov. 15:20",
+              "Pasaje": "20. El hijo sabio alegra al padre: mas el hombre necio menosprecia á su madre."
+            },
+            {
+              "cita": "Prov. 20:20",
+              "Pasaje": "20. El que maldice á su padre ó á su madre, su lámpara será apagada en oscuridad tenebrosa."
             }
           ]
         },
@@ -5702,6 +5868,10 @@
             {
               "cita": "Gén. 9:24,25",
               "Pasaje": "24. Y despertó Noé de su vino, y supo lo que había hecho con él su hijo el más joven;\n25. Y dijo: Maldito sea Canaán; siervo de siervos será á sus hermanos."
+            },
+            {
+              "cita": "1 Ped. 2:18",
+              "Pasaje": "18. Siervos, sed sujetos con todo temor á vuestros amos; no solamente á los buenos y humanos, sino también á los rigurosos."
             }
           ]
         },
@@ -5719,6 +5889,10 @@
             {
               "cita": "Rom. 13:1-8",
               "Pasaje": "1. TODA alma se someta á las potestades superiores; porque no hay potestad sino de Dios; y las que son, de Dios son ordenadas.\n2. Así que, el que se opone á la potestad, á la ordenación de Dios resiste: y los que resisten, ellos mismos ganan condenación para sí.\n3. Porque los magistrados no son para temor al que bien hace, sino al malo. ¿Quieres pues no temer la potestad? haz lo bueno, y tendrás alabanza de ella;\n4. Porque es ministro de Dios para tu bien. Mas si hicieres lo malo, teme: porque no en vano lleva el cuchillo; porque es ministro de Dios, vengador para castigo al que hace lo malo.\n5. Por lo cual es necesario que [le] estéis sujetos, no solamente por la ira, mas aun por la conciencia.\n6. Porque por esto pagáis también los tributos; porque son ministros de Dios que sirven á esto mismo.\n7. Pagad á todos lo que debéis: al que tributo, tributo; al que pecho, pecho; al que temor, temor; al que honra, honra.\n8. No debáis á nadie nada, sino amaros unos á otros; porque el que ama al prójimo, cumplió la ley."
+            },
+            {
+              "cita": "Mat. 22:21",
+              "Pasaje": "21. Dícenle: De César. Y díceles: Pagad pues á César lo que es de César, y á Dios lo que es de Dios."
             }
           ]
         }
@@ -5743,6 +5917,10 @@
             {
               "cita": "Gén. 9:6",
               "Pasaje": "6. El que derramare sangre del hombre, por el hombre su sangre será derramada; porque á imagen de Dios es hecho el hombre."
+            },
+            {
+              "cita": "Éx. 21:14",
+              "Pasaje": "14. Además, si alguno se ensoberbeciere contra su prójimo, y lo matare con alevosía, de mi altar lo quitarás para que muera."
             }
           ]
         },
@@ -5760,6 +5938,10 @@
             {
               "cita": "Mat. 5:25",
               "Pasaje": "25. Concíliate con tu adversario presto, entre tanto que estás con él en el camino; porque no acontezca que el adversario te entregue al juez, y el juez te entregue al alguacil, y seas echado en prisión."
+            },
+            {
+              "cita": "Mat. 18:35",
+              "Pasaje": "35. Así también hará con vosotros mi Padre celestial, si no perdonareis de vuestros corazones cada uno á su hermano sus ofensas."
             }
           ]
         },
@@ -5768,7 +5950,8 @@
           "citas": [
             {
               "cita": "Rom. 13:4,11-14",
-              "Pasaje": "4. Porque es ministro de Dios para tu bien. Mas si hicieres lo malo, teme: porque no en vano lleva el cuchillo; porque es ministro de Dios, vengador para castigo al que hace lo malo.\n11. Y esto, conociendo el tiempo, que es ya hora de levantarnos del sueño; porque ahora nos está más cerca nuestra salud que cuando creímos.\n12. La noche ha pasado, y ha llegado el día: echemos, pues, las obras de las tinieblas, y vistámonos las armas de luz.\n13. Andemos como de día, honestamente: no en glotonerías y borracheras, no en lechos y disoluciones, no en pedencias y envidia:\n14. Mas vestíos del Señor Jesucristo, y no hagáis caso de la carne en [sus] deseos."
+              "Pasaje": "4. Porque es ministro de Dios para tu bien. Mas si hicieres lo malo, teme: porque no en vano lleva el cuchillo; porque es ministro de Dios, vengador para castigo al que hace lo malo.\n11. Y esto, conociendo el tiempo, que es ya hora de levantarnos del sueño; porque ahora nos está más cerca nuestra salud que cuando creímos.\n12. La noche ha pasado, y ha llegado el día: echemos, pues, las obras de las tinieblas, y vistámonos las armas de luz.\n13. Andemos como de día, honestamente: no en glotonerías y borracheras, no en lechos y disoluciones, no en pedencias y envidia:\n14. Mas vestíos del Señor Jesucristo, y no hagáis caso de la carne en [sus] deseos.",
+              "observacionPasaje": "El libro dice «Rom. 13:14», repetido del inciso c; el versículo sobre la espada del magistrado es Rom. 13:4, como la edición alemana."
             },
             {
               "cita": "Col. 2:23",
@@ -5800,6 +5983,10 @@
             {
               "cita": "Rom. 1:28-32",
               "Pasaje": "28. Y como á ellos no les pareció tener á Dios en [su] noticia, Dios los entregó á una mente depravada, para hacer lo que no conviene,\n29. Estando atestados de toda iniquidad, de fornicación, de malicia, de avaricia, de maldad; llenos de envidia, de homicidios, de contiendas, de engaños, de malignidades;\n30. Murmuradores, detractores, aborrecedores de Dios, injuriosos, soberbios, altivos, inventores de males, desobedientes á los padres,\n31. Necios, desleales, sin afecto natural, implacables, sin misericordia:\n32. Que, habiendo entendido el juicio de Dios que los que hacen tales cosas son dignos de muerte, no sólo las hacen, mas aun consienten á los que las hacen."
+            },
+            {
+              "cita": "Prov. 14:30",
+              "Pasaje": "30. El corazón apacible es vida de las carnes: mas la envidia, pudrimiento de huesos."
             }
           ]
         },
@@ -5823,6 +6010,10 @@
             {
               "cita": "Gál. 5:19-21",
               "Pasaje": "19. Y manifiestas son las obras de la carne, que son: adulterio, fornicación, inmundicia, disolución,\n20. Idolatría, hechicerías, enemistades, pleitos, celos, iras, contiendas, disensiones, herejías,\n21. Envidias, homicidios, borracheras, banqueteos, y cosas semejantes á éstas: de las cuales os denuncio, como ya os he anunciado, que los que hacen tales cosas no heredarán el reino de Dios."
+            },
+            {
+              "cita": "Sant. 1:20",
+              "Pasaje": "20. Porque la ira del hombre no obra la justicia de Dios."
             }
           ]
         },
@@ -5874,6 +6065,22 @@
             {
               "cita": "Rom. 12:10,18",
               "Pasaje": "10. Amándoos los unos á los otros con caridad fraternal; previniéndoos con honra los unos á los otros;\n18. Si se puede hacer, cuanto está en vosotros, tened paz con todos los hombres."
+            },
+            {
+              "cita": "Gál. 6:1,2",
+              "Pasaje": "1. HERMANOS, si alguno fuere tomado en alguna falta, vosotros que sois espirituales, restaurad al tal con el espíritu de mansedumbre; considerándote á ti mismo, porque tú no seas también tentado.\n2. Sobrellevad los unos las cargas de los otros; y cumplid así la ley de Cristo."
+            },
+            {
+              "cita": "Luc. 6:36",
+              "Pasaje": "36. Sed pues misericordiosos, como también vuestro Padre es misericordioso."
+            },
+            {
+              "cita": "1 Ped. 3:8",
+              "Pasaje": "8. Y finalmente, sed todos de un mismo corazón, compasivos, amándoos fraternalmente, misericordiosos, amigables;"
+            },
+            {
+              "cita": "Col. 3:12",
+              "Pasaje": "12. Vestíos pues, como escogidos de Dios, santos y amados, de entrañas de misericordia, de benignidad, de humildad, de mansedumbre, de tolerancia;"
             }
           ]
         },
@@ -6029,6 +6236,10 @@
             {
               "cita": "1 Cor. 5:9,10",
               "Pasaje": "9. Os he escrito por carta, que no os envolváis con los fornicarios:\n10. No absolutamente con los fornicarios de este mundo, ó con los avaros, ó con los ladrones, ó con los idólatras; pues en tal caso os sería menester salir del mundo."
+            },
+            {
+              "cita": "Isa. 33:1",
+              "Pasaje": "1. ¡AY de ti, el que saqueas, y nunca fuiste saqueado; el que haces deslealtad, bien que nadie contra ti la hizo! Cuando acabares de saquear, serás tú saqueado; y cuando acabares de hacer deslealtad, haráse contra ti."
             }
           ]
         },
@@ -6064,11 +6275,28 @@
             {
               "cita": "Deut. 25:13-16",
               "Pasaje": "13. No tendrás en tu bolsa pesa grande y pesa chica.\n14. No tendrás en tu casa epha grande y epha pequeño.\n15. Pesas cumplidas y justas tendrás; epha cabal y justo tendrás: para que tus días sean prolongados sobre la tierra que Jehová tu Dios te da.\n16. Porque abominación es á Jehová tu Dios cualquiera que hace esto, cualquiera que hace agravio."
+            },
+            {
+              "cita": "Prov. 16:11",
+              "Pasaje": "11. Peso y balanzas justas son de Jehová: obra suya son todas las pesas de la bolsa."
             }
           ]
         },
         {
           "inciso": "f",
+          "citas": [
+            {
+              "cita": "Sal. 15:5",
+              "Pasaje": "5. Quien su dinero no dió á usura, ni contra el inocente tomó cohecho. El que hace estas cosas, no resbalará para siempre."
+            },
+            {
+              "cita": "Luc. 6:35",
+              "Pasaje": "35. Amad, pues, á vuestros enemigos, y haced bien, y prestad, no esperando de ello nada; y será vuestro galardón grande, y seréis hijos del Altísimo: porque él es benigno para con los ingratos y malos."
+            }
+          ]
+        },
+        {
+          "inciso": "g",
           "citas": [
             {
               "cita": "1 Cor. 6:10",
@@ -6077,7 +6305,20 @@
           ]
         },
         {
-          "inciso": "g",
+          "inciso": "h",
+          "citas": [
+            {
+              "cita": "Prov. 23:20,21",
+              "Pasaje": "20. No estés con los bebedores de vino, ni con los comedores de carne:\n21. Porque el bebedor y el comilón empobrecerán: y el sueño hará vestir vestidos rotos."
+            },
+            {
+              "cita": "Prov. 21:20",
+              "Pasaje": "20. Tesoro codiciable y pingüe hay en la casa del sabio; mas el hombre insensato lo disipará."
+            }
+          ]
+        },
+        {
+          "inciso": "i",
           "citas": [
             {
               "cita": "Prov. 5:16",
@@ -6123,6 +6364,10 @@
             {
               "cita": "Prov. 19:5,9",
               "Pasaje": "5. El testigo falso no quedará sin castigo; y el que habla mentiras no escapará.\n9. El testigo falso no quedará sin castigo; y el que habla mentiras, perecerá."
+            },
+            {
+              "cita": "Prov. 21:28",
+              "Pasaje": "28. El testigo mentiroso perecerá: mas el hombre que oye, permanecerá en su dicho."
             }
           ]
         },
@@ -6132,6 +6377,10 @@
             {
               "cita": "Sal. 15:3",
               "Pasaje": "3. El que no detrae con su lengua, ni hace mal á su prójimo, ni contra su prójimo acoge oprobio alguno."
+            },
+            {
+              "cita": "Sal. 50:19,20",
+              "Pasaje": "19. Tu boca metías en mal, y tu lengua componía engaño.\n20. Tomabas asiento, [y] hablabas contra tu hermano; contra el hijo de tu madre ponías infamia."
             }
           ]
         },
@@ -6172,6 +6421,10 @@
             {
               "cita": "Prov. 12:22",
               "Pasaje": "22. Los labios mentirosos son abominación á Jehová: mas los obradores de verdad su contentamiento."
+            },
+            {
+              "cita": "Prov. 13:5",
+              "Pasaje": "5. El justo aborrece la palabra de mentira: mas el impío se hace odioso é infame."
             }
           ]
         },
@@ -6225,15 +6478,21 @@
           "citas": [
             {
               "cita": "1 Jn. 1:8-10",
-              "Pasaje": "8. Si dijéremos que no tenemos pecado, nos engañamos á nosotros mismos, y no hay verdad en nosotros.\n9. Si confesamos nuestros pecados, él es fiel y justo para que nos perdone nuestros pecados, y nos limpie de toda maldad.\n10. Si dijéremos que no hemos pecado, lo hacemos á él mentiroso, y su palabra no está en nosotros."
+              "Pasaje": "8. Si dijéremos que no tenemos pecado, nos engañamos á nosotros mismos, y no hay verdad en nosotros.\n9. Si confesamos nuestros pecados, él es fiel y justo para que nos perdone nuestros pecados, y nos limpie de toda maldad.\n10. Si dijéremos que no hemos pecado, lo hacemos á él mentiroso, y su palabra no está en nosotros.",
+              "observacionPasaje": "El libro dice «Jn. 1:8»: es 1 Juan 1:8, como la edición de 1563."
             },
             {
               "cita": "Rom. 7:14,15",
-              "Pasaje": "14. Porque sabemos que la ley es espiritual; mas yo soy carnal, vendido á sujeción del pecado.\n15. Porque lo que hago, no lo entiendo; ni lo que quiero, hago; antes lo que aborrezco, aquello hago."
+              "Pasaje": "14. Porque sabemos que la ley es espiritual; mas yo soy carnal, vendido á sujeción del pecado.\n15. Porque lo que hago, no lo entiendo; ni lo que quiero, hago; antes lo que aborrezco, aquello hago.",
+              "observacionPasaje": "El libro dice «Rom. 7:4,15»; se usa Rom. 7:14,15, como la edición alemana."
             },
             {
               "cita": "Ecl. 7:20",
               "Pasaje": "20. Ciertamente no hay hombre justo en la tierra, que haga bien y nunca peque."
+            },
+            {
+              "cita": "1 Cor. 13:9",
+              "Pasaje": "9. Porque en parte conocemos, y en parte profetizamos;"
             }
           ]
         },
@@ -6247,6 +6506,10 @@
             {
               "cita": "Sant. 2:10,11",
               "Pasaje": "10. Porque cualquiera que hubiere guardado toda la ley, y ofendiere en un [punto], es hecho culpado de todos.\n11. Porque el que dijo: No cometerás adulterio, también ha dicho: No matarás. Ahora bien, si no hubieres cometido adulterio, pero hubieres matado, ya eres hecho transgresor de la ley."
+            },
+            {
+              "cita": "Sal. 1:2",
+              "Pasaje": "2. Antes en la ley de Jehová está su delicia, y en su ley medita de día y de noche."
             }
           ]
         }
@@ -6267,6 +6530,10 @@
             {
               "cita": "Sal. 32:5",
               "Pasaje": "5. Mi pecado te declaré, y no encubrí mi iniquidad. Confesaré, dije, contra mí mis rebeliones á Jehová; y tú perdonaste la maldad de mi pecado. (Selah.)"
+            },
+            {
+              "cita": "Rom. 3:20",
+              "Pasaje": "20. Porque por las obras de la ley ninguna carne se justificará delante de él; porque por la ley [es] el conocimiento del pecado."
             }
           ]
         },
@@ -6276,6 +6543,10 @@
             {
               "cita": "Rom. 7:7,24,25",
               "Pasaje": "7. ¿Qué pues diremos? ¿La ley es pecado? En ninguna manera. Empero yo no conocí el pecado sino por la ley: porque tampoco conociera la concupiscencia, si la ley no dijera: No codiciarás.\n24. ¡Miserable hombre de mí! ¿quién me librará del cuerpo de esta muerte?\n25. Gracias doy á Dios, por Jesucristo Señor nuestro. Así que, yo mismo con la mente sirvo á la ley de Dios, mas con la carne á la ley del pecado."
+            },
+            {
+              "cita": "Mat. 5:6",
+              "Pasaje": "6. Bienaventurados los que tienen hambre y sed de justicia: porque ellos serán hartos."
             }
           ]
         },
@@ -6304,7 +6575,8 @@
           "citas": [
             {
               "cita": "Sal. 50:14,15",
-              "Pasaje": "14. Sacrifica á Dios alabanza, y paga tus votos al Altísimo.\n15. E invócame en el día de la angustia: te libraré, y tú me honrarás."
+              "Pasaje": "14. Sacrifica á Dios alabanza, y paga tus votos al Altísimo.\n15. E invócame en el día de la angustia: te libraré, y tú me honrarás.",
+              "observacionPasaje": "El libro dice «Sal. 50:4»; el versículo sobre ofrecer a Dios alabanza es Sal. 50:14, como la edición alemana."
             }
           ]
         },
@@ -6323,6 +6595,10 @@
             {
               "cita": "Mat. 13:12",
               "Pasaje": "12. Porque á cualquiera que tiene, se le dará, y tendrá más; pero al que no tiene, aun lo que tiene le será quitado."
+            },
+            {
+              "cita": "1 Tes. 5:17",
+              "Pasaje": "17. Orad sin cesar."
             }
           ]
         }
@@ -6339,6 +6615,14 @@
             {
               "cita": "Jn. 4:22-24",
               "Pasaje": "22. Vosotros adoráis lo que no sabéis; nosotros adoramos lo que sabemos: porque la salud viene de los Judíos.\n23. Mas la hora viene, y ahora es, cuando los verdaderos adoradores adorarán al Padre en espíritu y en verdad; porque también el Padre tales adoradores busca que le adoren.\n24. Dios es Espíritu; y los que le adoran, en espíritu y en verdad es necesario que adoren."
+            },
+            {
+              "cita": "Sal. 145:18",
+              "Pasaje": "18. Cercano está Jehová á todos los que le invocan, á todos los que le invocan de veras."
+            },
+            {
+              "cita": "Apoc. 19:10",
+              "Pasaje": "10. Y yo me eché á sus pies para adorarle. Y él me dijo: Mira que no lo hagas: yo soy siervo contigo, y con tus hermanos que tienen el testimonio de Jesús: adora á Dios; porque el testimonio de Jesús es el espíritu de la profecía."
             }
           ]
         },
@@ -6404,6 +6688,10 @@
             {
               "cita": "Dan. 9:17-19",
               "Pasaje": "17. Ahora pues, Dios nuestro, oye la oración de tu siervo, y sus ruegos, y haz que tu rostro resplandezca sobre tu santuario asolado, por amor del Señor.\n18. Inclina, oh Dios mío, tu oído, y oye; abre tus ojos, y mira nuestros asolamientos, y la ciudad sobre la cual es llamado tu nombre: porque no derramamos nuestros ruegos ante tu acatamiento [confiados] en nuestras justicias, sino en tus muchas miseraciones.\n19. Oye, Señor; oh Señor, perdona; presta oído, Señor, y haz; no pongas dilación, por amor de ti mismo, Dios mío: porque tu nombre es llamado sobre tu ciudad y sobre tu pueblo."
+            },
+            {
+              "cita": "Jn. 16:23",
+              "Pasaje": "23. Y aquel día no me preguntaréis nada. De cierto, de cierto os digo, que todo cuanto pidiereis al Padre en mi nombre, os [lo] dará."
             }
           ]
         },
@@ -6417,6 +6705,10 @@
             {
               "cita": "Sal. 143:1",
               "Pasaje": "1. Salmo de David. OH Jehová, oye mi oración, escucha mis ruegos: respóndeme por tu verdad, por tu justicia."
+            },
+            {
+              "cita": "Sal. 27:8",
+              "Pasaje": "8. Mi corazón ha dicho de ti: Buscad mi rostro. Tu rostro buscaré, oh Jehová."
             }
           ]
         }
@@ -6534,6 +6826,14 @@
             {
               "cita": "Sal. 119:105,137",
               "Pasaje": "105. NUN. Lámpara es á mis pies tu palabra, y lumbrera á mi camino.\n137. TZADDI. Justo eres tú, oh Jehová, y rectos tus juicios."
+            },
+            {
+              "cita": "Jer. 9:24",
+              "Pasaje": "24. Mas alábese en esto el que se hubiere de alabar: en entenderme y conocerme, que yo soy Jehová, que hago misericordia, juicio, y justicia en la tierra: porque estas cosas quiero, dice Jehová."
+            },
+            {
+              "cita": "Jer. 31:33,34",
+              "Pasaje": "33. Mas éste es el pacto que haré con la casa de Israel después de aquellos días, dice Jehová: Daré mi ley en sus entrañas, y escribiréla en sus corazones; y seré yo á ellos por Dios, y ellos me serán por pueblo.\n34. Y no enseñará más ninguno á su prójimo, ni ninguno á su hermano, diciendo: Conoce á Jehová: porque todos me conocerán, desde el más pequeño de ellos hasta el más grande, dice Jehová: porque perdonaré la maldad de ellos, y no me acordaré más de su pecado."
             }
           ]
         },
@@ -6661,6 +6961,14 @@
             {
               "cita": "Luc. 22:42",
               "Pasaje": "42. Diciendo: Padre, si quieres, pasa este vaso de mí; empero no se haga mi voluntad, sino la tuya."
+            },
+            {
+              "cita": "Ef. 5:10",
+              "Pasaje": "10. Aprobando lo que es agradable al Señor."
+            },
+            {
+              "cita": "Rom. 12:2",
+              "Pasaje": "2. Y no os conforméis á este siglo; mas reformaos por la renovación de vuestro entendimiento, para que experimentéis cuál sea la buena voluntad de Dios, agradable y perfecta."
             }
           ]
         },
@@ -6716,6 +7024,10 @@
             {
               "cita": "Hech. 17:25,27,28",
               "Pasaje": "25. Ni es honrado con manos de hombres, necesitado de algo; pues él da á todos vida, y respiración, y todas las cosas;\n27. Para que buscasen á Dios, si en alguna manera, palpando, le hallen; aunque cierto no está lejos de cada uno de nosotros:\n28. Porque en él vivimos, y nos movemos, y somos; como también algunos de vuestros poetas dijeron: Porque linaje de éste somos también."
+            },
+            {
+              "cita": "Sant. 1:17",
+              "Pasaje": "17. Toda buena dádiva y todo don perfecto es de lo alto, que desciende del Padre de las luces, en el cual no hay mudanza, ni sombra de variación."
             }
           ]
         },
@@ -6728,11 +7040,16 @@
             },
             {
               "cita": "Deut. 8:3",
-              "Pasaje": "3. Y te afligió, é hízote tener hambre, y te sustentó con maná, [comida] que no conocías tú, ni tus padres la habían conocido; para hacerte saber que el hombre no vivirá de solo pan, mas de todo lo que sale de la boca de Jehová vivirá el hombre."
+              "Pasaje": "3. Y te afligió, é hízote tener hambre, y te sustentó con maná, [comida] que no conocías tú, ni tus padres la habían conocido; para hacerte saber que el hombre no vivirá de solo pan, mas de todo lo que sale de la boca de Jehová vivirá el hombre.",
+              "observacionPasaje": "El libro dice «Deu. 8:13»; el versículo sobre que no solo de pan vivirá el hombre es Deu. 8:3, como la edición alemana."
             },
             {
               "cita": "Sal. 37:16,17",
               "Pasaje": "16. Mejor es lo poco del justo, que las riquezas de muchos pecadores.\n17. Porque los brazos de los impíos serán quebrados: mas el que sostiene á los justos es Jehová."
+            },
+            {
+              "cita": "Sal. 127:1,2",
+              "Pasaje": "1. Cántico gradual: para Salomón. SI Jehová no edificare la casa, en vano trabajan los que la edifican: si Jehová no guardare la ciudad, en vano vela la guarda.\n2. Por demás os es el madrugar á levantaros, el veniros tarde á reposar, el comer pan de dolores: pues que á su amado dará [Dios] el sueño."
             }
           ]
         },
@@ -6746,6 +7063,14 @@
             {
               "cita": "Sal. 62:10",
               "Pasaje": "10. No confiéis en la violencia, ni en la rapiña; no os envanezcáis: si se aumentare la hacienda, no pongáis el corazón [en ella]."
+            },
+            {
+              "cita": "Sal. 146:3",
+              "Pasaje": "3. No confiéis en los príncipes, ni en hijo de hombre, porque no hay en él salud."
+            },
+            {
+              "cita": "Jer. 17:5,7",
+              "Pasaje": "5. Así ha dicho Jehová: Maldito el varón que confía en el hombre, y pone carne por su brazo, y su corazón se aparta de Jehová.\n7. Bendito el varón que se fía en Jehová, y cuya confianza es Jehová."
             }
           ]
         }
@@ -6770,6 +7095,10 @@
             {
               "cita": "1 Jn. 2:1,2",
               "Pasaje": "1. HIJITOS míos, estas cosas os escribo, para que no pequéis; y si alguno hubiere pecado, abogado tenemos para con el Padre, á Jesucristo el justo;\n2. Y él es la propiciación por nuestros pecados: y no solamente por los nuestros, sino también por los de todo el mundo."
+            },
+            {
+              "cita": "Rom. 8:1",
+              "Pasaje": "1. AHORA pues, ninguna condenación hay para los que están en Cristo Jesús, los que no andan conforme á la carne, mas conforme al espíritu."
             }
           ]
         },
@@ -6856,6 +7185,10 @@
             {
               "cita": "1 Tes. 3:13",
               "Pasaje": "13. Para que sean confirmados vuestros corazones en santidad, irreprensibles delante de Dios y nuestro Padre, para la venida de nuestro Señor Jesucristo con todos sus santos."
+            },
+            {
+              "cita": "1 Tes. 5:23",
+              "Pasaje": "23. Y el Dios de paz os santifique en todo; para que vuestro espíritu y alma y cuerpo sea guardado entero sin reprensión para la venida de nuestro Señor Jesucristo."
             }
           ]
         }
@@ -6885,6 +7218,14 @@
             {
               "cita": "Jn. 14:13",
               "Pasaje": "13. Y todo lo que pidiereis al Padre en mi nombre, esto haré, para que el Padre sea glorificado en el Hijo."
+            },
+            {
+              "cita": "Jer. 33:8,9",
+              "Pasaje": "8. Y los limpiaré de toda su maldad con que pecaron contra mí; y perdonaré todos sus pecados con que contra mí pecaron, y con que contra mí se rebelaron.\n9. Y seráme á mí por nombre de gozo, de alabanza y de gloria, entre todas las gentes de la tierra, que habrán oído todo el bien que yo les hago; y temerán y temblarán de todo el bien y de toda la paz que yo les haré."
+            },
+            {
+              "cita": "Sal. 115:1",
+              "Pasaje": "1. NO á nosotros, oh Jehová, no á nosotros, sino á tu nombre da gloria; por tu misericordia, por tu verdad."
             }
           ]
         }

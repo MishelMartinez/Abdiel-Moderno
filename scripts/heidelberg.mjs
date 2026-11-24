@@ -165,9 +165,9 @@ ${omitidasRE.length ? omitidasRE.map((x) => `- ${x}`).join('\n') : '- Ninguna.'}
 
 ${revisar.length ? revisar.map((x) => `- ${x}`).join('\n') : '- Nada.'}
 
-## Preguntas sin cotejar con el libro
+## Preguntas sin citas en el libro
 
-${sinLibro.length ? `Faltan las fotos del libro «La fe que confesamos» para las preguntas ${sinLibro[0]}–${sinLibro.at(-1)} (${sinLibro.length} preguntas). Sus citas siguen la edición de 1563, con los versículos de la edición alemana y de reformededucation.org.` : 'Ninguna.'}
+${sinLibro.length ? `El libro «La fe que confesamos» no trae citas para las preguntas ${sinLibro.join(', ')}. Sus citas siguen la edición de 1563, con los versículos de la edición alemana y de reformededucation.org.` : 'Ninguna.'}
 
 ## Origen de cada cita
 
