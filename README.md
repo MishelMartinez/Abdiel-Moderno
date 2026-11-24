@@ -49,6 +49,11 @@ Los ajustes de lectura se guardan en el dispositivo.
 - `npm run mayor` genera `data/catecismo-mayor-westminster.json` con los pasajes de la Reina-Valera 1909 (`fuentes/rv1909/`) y el reporte `docs/catecismo-mayor/reporte-validacion-catecismo-mayor.md`. Falla si una referencia no existe en la RV1909.
 - Fuentes y licencias: `docs/catecismo-mayor/fuentes-y-licencias.md`.
 
+## Confesión de Fe Belga
+
+- `fuentes/confesion-belga/articulos-*.json`: por bloques de artículos, el texto francés revisado en Dort (1619) tal como lo imprime Schaff, *The Creeds of Christendom*, vol. III (1877), su traducción propia al español y, por cada nota al pie, la cita impresa y las referencias que se muestran (con `nota` si se corrigió o renumeró).
+- `npm run belga` genera `data/confesion-belga.json`. El documento usa `"unidad": "artículo"`, así que la aplicación muestra «Artículo N» con su título y texto, sin «Respuesta».
+
 ## Catecismo de Heidelberg
 
 - `fuentes/heidelberg/original-de-1563.json`: texto alemán de 1563 (fuente primaria de la traducción).

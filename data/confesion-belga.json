@@ -1,0 +1,906 @@
+{
+  "titulo": "Confesión de Fe Belga",
+  "unidad": "artículo",
+  "totalPreguntas": 37,
+  "preguntasCompletas": 10,
+  "versionBiblica": "Reina-Valera 1909",
+  "observaciones": [
+    "Incluye los artículos 1 a 10 de 37; los demás se agregarán por etapas.",
+    "Escrita en francés por Guido de Brès en 1561 y revisada por el Sínodo de Dort en 1619.",
+    "Traducción propia al español del texto francés revisado en el Sínodo de Dort (1619), tal como lo imprime Philip Schaff, The Creeds of Christendom, vol. III (Nueva York, 1877), pp. 383-436, a partir del manuscrito auténtico de 1580 con la revisión de Dort (dominio público; archive.org: creedsofchriste03scha). Los títulos de los artículos traducen los encabezados latinos de esa edición. Cada nota al pie de Schaff es un inciso; las citas se muestran con la Reina-Valera 1909. Transcrito de las imágenes de las páginas; el OCR solo sirvió para localizar el texto."
+  ],
+  "observacionesExtraccion": [
+    "Pasajes tomados de la Reina-Valera 1909 de eBible.org (dominio público), conservando su ortografía histórica.",
+    "Las palabras entre corchetes son añadidas por los traductores de la Reina-Valera 1909 y se conservan como en la fuente."
+  ],
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "La naturaleza de Dios",
+      "respuesta": "Todos creemos con el corazón y confesamos con la boca que hay una sola y simple esencia espiritual, a la cual llamamos Dios: eterno, incomprensible, invisible, inmutable, infinito; el cual es todopoderoso, sapientísimo, justo y bueno, y fuente abundantísima de todos los bienes.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "1",
+          "citas": [
+            {
+              "cita": "Ef. 4:6",
+              "Pasaje": "6. Un Dios y Padre de todos, el cual es sobre todas las cosas, y por todas las cosas, y en todos vosotros."
+            },
+            {
+              "cita": "Deut. 6:4",
+              "Pasaje": "4. Oye, Israel: Jehová nuestro Dios, Jehová uno es:"
+            },
+            {
+              "cita": "1 Tim. 2:5",
+              "Pasaje": "5. Porque hay un Dios, asimismo un mediador entre Dios y los hombres, Jesucristo hombre;"
+            },
+            {
+              "cita": "1 Cor. 8:6",
+              "Pasaje": "6. Nosotros empero no tenemos más de un Dios, el Padre, del cual son todas las cosas, y nosotros en él: y un Señor Jesucristo, por el cual son todas las cosas, y nosotros por él."
+            }
+          ]
+        },
+        {
+          "inciso": "2",
+          "citas": [
+            {
+              "cita": "Jn. 4:24",
+              "Pasaje": "24. Dios es Espíritu; y los que le adoran, en espíritu y en verdad es necesario que adoren."
+            }
+          ]
+        },
+        {
+          "inciso": "3",
+          "citas": [
+            {
+              "cita": "Isa. 40:28",
+              "Pasaje": "28. ¿No has sabido, no has oído que el Dios del siglo es Jehová, el cual crió los términos de la tierra? No se trabaja, ni se fatiga con cansancio, y su entendimiento no hay quien lo alcance."
+            }
+          ]
+        },
+        {
+          "inciso": "4",
+          "citas": [
+            {
+              "cita": "Rom. 11:33",
+              "Pasaje": "33. ¡Oh profundidad de las riquezas de la sabiduría y de la ciencia de Dios! ¡Cuán incomprensibles son sus juicios, é inescrutables sus caminos!"
+            }
+          ]
+        },
+        {
+          "inciso": "5",
+          "citas": [
+            {
+              "cita": "Rom. 1:20",
+              "Pasaje": "20. Porque las cosas invisibles de él, su eterna potencia y divinidad, se echan de ver desde la creación del mundo, siendo entendidas por las cosas que son hechas; de modo que son inexcusables:"
+            }
+          ]
+        },
+        {
+          "inciso": "6",
+          "citas": [
+            {
+              "cita": "Mal. 3:6",
+              "Pasaje": "6. Porque yo Jehová, no me mudo; y así vosotros, hijos de Jacob, no habéis sido consumidos."
+            }
+          ]
+        },
+        {
+          "inciso": "7",
+          "citas": [
+            {
+              "cita": "Isa. 44:6",
+              "Pasaje": "6. Así dice Jehová, Rey de Israel, y su Redentor, Jehová de los ejércitos: Yo el primero, y yo el postrero, y fuera de mí no hay Dios."
+            }
+          ]
+        },
+        {
+          "inciso": "8",
+          "citas": [
+            {
+              "cita": "1 Tim. 1:17",
+              "Pasaje": "17. Por tanto, al Rey de siglos, inmortal, invisible, al solo sabio Dios [sea] honor y gloria por los siglos de los siglos. Amén."
+            }
+          ]
+        },
+        {
+          "inciso": "9",
+          "citas": [
+            {
+              "cita": "Jer. 12:1",
+              "Pasaje": "1. JUSTO eres tú, oh Jehová, aunque yo contigo dispute: hablaré empero juicios contigo. ¿Por qué es prosperado el camino de los impíos, [y] tienen bien todos los que se portan deslealmente?"
+            }
+          ]
+        },
+        {
+          "inciso": "10",
+          "citas": [
+            {
+              "cita": "Mat. 19:17",
+              "Pasaje": "17. Y él le dijo: ¿Por qué me llamas bueno? Ninguno [es] bueno sino uno, [es á saber], Dios: y si quieres entrar en la vida, guarda los mandamientos."
+            }
+          ]
+        },
+        {
+          "inciso": "11",
+          "citas": [
+            {
+              "cita": "Sant. 1:17",
+              "Pasaje": "17. Toda buena dádiva y todo don perfecto es de lo alto, que desciende del Padre de las luces, en el cual no hay mudanza, ni sombra de variación."
+            },
+            {
+              "cita": "1 Crón. 29:10-12",
+              "Pasaje": "10. Asimismo holgóse mucho el rey David, y bendijo á Jehová delante de toda la congregación; y dijo David: Bendito seas tú, oh Jehová, Dios de Israel nuestro padre, de uno á otro siglo.\n11. Tuya es, oh Jehová, la magnificencia, y el poder, y la gloria, la victoria, y el honor; porque todas las cosas que están en los cielos y en la tierra [son tuyas]. Tuyo, oh Jehová, es el reino, y la altura sobre todos [los que están] por cabeza.\n12. Las riquezas y la gloria están delante de ti, y tú señoreas á todos: y en tu mano está la potencia y la fortaleza, y en tu mano la grandeza y fuerza de todas las cosas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "pregunta": "El conocimiento de Dios",
+      "respuesta": "Lo conocemos por dos medios. Primero, por la creación, conservación y gobierno del mundo entero, ya que este es ante nuestros ojos como un hermoso libro, en el cual todas las criaturas, pequeñas y grandes, sirven de letras para hacernos contemplar las cosas invisibles de Dios, a saber, su eterno poder y su divinidad, como dice el apóstol san Pablo (Rom. 1:20). Todas estas cosas bastan para convencer a los hombres y dejarlos sin excusa.\nSegundo, se nos da a conocer más clara y evidentemente por su santa y divina Palabra, tan plenamente como nos es necesario en esta vida, para su gloria y la salvación de los suyos.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "1",
+          "citas": [
+            {
+              "cita": "Sal. 19:1",
+              "Pasaje": "1. Al Músico principal: Salmo de David. LOS cielos cuentan la gloria de Dios, y la expansión denuncia la obra de sus manos.",
+              "observacionPasaje": "En la edición francesa «Psa. xix. 2»: el título del salmo cuenta como versículo 1, así que en la Reina-Valera 1909 es el versículo 1."
+            },
+            {
+              "cita": "Ef. 4:6",
+              "Pasaje": "6. Un Dios y Padre de todos, el cual es sobre todas las cosas, y por todas las cosas, y en todos vosotros."
+            },
+            {
+              "cita": "Rom. 1:20",
+              "Pasaje": "20. Porque las cosas invisibles de él, su eterna potencia y divinidad, se echan de ver desde la creación del mundo, siendo entendidas por las cosas que son hechas; de modo que son inexcusables:",
+              "observacionPasaje": "Citado en el texto del artículo."
+            }
+          ]
+        },
+        {
+          "inciso": "2",
+          "citas": [
+            {
+              "cita": "Sal. 19:7",
+              "Pasaje": "7. La ley de Jehová es perfecta, que vuelve el alma: el testimonio de Jehová, fiel, que hace sabio al pequeño.",
+              "observacionPasaje": "En la edición francesa «Psa. xix. 8»: el título del salmo cuenta como versículo 1, así que en la Reina-Valera 1909 es el versículo 7."
+            },
+            {
+              "cita": "1 Cor. 12:6",
+              "Pasaje": "6. Y hay repartimiento de operaciones; mas el mismo Dios es el que obra todas las cosas en todos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "pregunta": "La Sagrada Escritura",
+      "respuesta": "Confesamos que esta Palabra de Dios no fue enviada ni traída por voluntad humana, sino que los santos hombres de Dios hablaron movidos por el Espíritu Santo, como dice san Pedro. Después, por el cuidado singular que nuestro Dios tiene de nosotros y de nuestra salvación, mandó a sus siervos los profetas y los apóstoles que pusieran sus oráculos por escrito; y él mismo escribió con su dedo las dos tablas de la Ley. Por esta causa llamamos a tales escritos Escrituras santas y divinas.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "1",
+          "citas": [
+            {
+              "cita": "2 Ped. 1:21",
+              "Pasaje": "21. Porque la profecía no fué en los tiempos pasados traída por voluntad humana, sino los santos hombres de Dios hablaron siendo inspirados del Espíritu Santo."
+            }
+          ]
+        },
+        {
+          "inciso": "2",
+          "citas": [
+            {
+              "cita": "Éx. 24:4",
+              "Pasaje": "4. Y Moisés escribió todas las palabras de Jehová, y levantándose de mañana edificó un altar al pie del monte, y doce columnas, según las doce tribus de Israel."
+            },
+            {
+              "cita": "Sal. 102:18",
+              "Pasaje": "18. Escribirse ha esto para la generación venidera: y el pueblo que se criará, alabará á JAH.",
+              "observacionPasaje": "En la edición francesa «Psa. cii. 19»: el título del salmo cuenta como versículo 1, así que en la Reina-Valera 1909 es el versículo 18."
+            },
+            {
+              "cita": "Hab. 2:2",
+              "Pasaje": "2. Y Jehová me respondió, y dijo: Escribe la visión, y declárala en tablas, para que corra el que leyere en ella."
+            }
+          ]
+        },
+        {
+          "inciso": "3",
+          "citas": [
+            {
+              "cita": "2 Tim. 3:16",
+              "Pasaje": "16. Toda Escritura [es] inspirada divinamente y útil para enseñar, para redargüir, para corregir, para instituir en justicia,"
+            },
+            {
+              "cita": "Apoc. 1:11",
+              "Pasaje": "11. Que decía: Yo soy el Alpha y Omega, el primero y el último. Escribe en un libro lo que ves, y envía[lo] á las siete iglesias que están en Asia; á Efeso, y á Smirna, y á Pérgamo, y á Tiatira, y á Sardis, y á Filadelfia, y á Laodicea."
+            }
+          ]
+        },
+        {
+          "inciso": "4",
+          "citas": [
+            {
+              "cita": "Éx. 31:18",
+              "Pasaje": "18. Y dió á Moisés, como acabó de hablar con él en el monte de Sinaí, dos tablas del testimonio, tablas de piedra escritas con el dedo de Dios."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "pregunta": "Los libros canónicos del Antiguo y del Nuevo Testamento",
+      "respuesta": "Comprendemos la Santa Escritura en los dos volúmenes del Antiguo y del Nuevo Testamento, que son libros canónicos, contra los cuales no hay nada que objetar. Su número en la Iglesia de Dios es el siguiente.\nEn el Antiguo Testamento: los cinco libros de Moisés; el libro de Josué, el de los Jueces y el de Rut; los dos libros de Samuel y los dos de los Reyes; los dos libros de las Crónicas, llamados Paralipómenos; el primero de Esdras, Nehemías, Ester y Job; los Salmos de David; los tres libros de Salomón, a saber, los Proverbios, el Eclesiastés y el Cantar; los cuatro profetas mayores: Isaías, Jeremías, Ezequiel y Daniel; y luego los otros doce profetas menores: Oseas, Joel, Amós, Abdías, Jonás, Miqueas, Nahúm, Habacuc, Sofonías, Hageo, Zacarías y Malaquías.\nEn el Nuevo Testamento: los cuatro evangelistas, san Mateo, san Marcos, san Lucas y san Juan; los Hechos de los Apóstoles; las catorce epístolas de san Pablo: a los Romanos, dos a los Corintios, a los Gálatas, a los Efesios, a los Filipenses, a los Colosenses, dos a los Tesalonicenses, dos a Timoteo, a Tito, a Filemón y a los Hebreos; las siete epístolas de los otros apóstoles, a saber, una de Santiago, dos de san Pedro, tres de san Juan y una de san Judas; y, por último, el Apocalipsis del apóstol san Juan.",
+      "referenciasBiblicas": []
+    },
+    {
+      "numero": 5,
+      "pregunta": "La autoridad de la Sagrada Escritura",
+      "respuesta": "Recibimos todos estos libros, y solo estos, como santos y canónicos, para regular, fundar y establecer nuestra fe; y creemos plenamente todas las cosas que contienen, no tanto porque la Iglesia los recibe y aprueba como tales, sino principalmente porque el Espíritu Santo da testimonio en nuestro corazón de que son de Dios, y también porque ellos mismos se acreditan como tales; pues aun los ciegos pueden percibir que se cumplen las cosas que en ellos están predichas.",
+      "referenciasBiblicas": []
+    },
+    {
+      "numero": 6,
+      "pregunta": "La diferencia entre los libros canónicos y los apócrifos",
+      "respuesta": "Hacemos diferencia entre estos libros santos y los libros apócrifos, que son: el tercero y el cuarto libro de Esdras, el libro de Tobías, Judit, Sabiduría, Eclesiástico, Baruc, lo que se añadió a la historia de Ester, el cántico de los tres jóvenes en el horno, la historia de Susana, la historia del ídolo Bel y del dragón, la oración de Manasés y los dos libros de los Macabeos. La Iglesia bien puede leerlos y tomar de ellos enseñanza en las cosas que concuerdan con los libros canónicos; pero no tienen tal fuerza y autoridad que por algún testimonio tomado de ellos se pueda establecer algo de la fe o de la religión cristiana; mucho menos pueden disminuir la autoridad de los otros libros santos.",
+      "referenciasBiblicas": []
+    },
+    {
+      "numero": 7,
+      "pregunta": "La perfección de la Sagrada Escritura",
+      "respuesta": "Creemos que esta Santa Escritura contiene perfectamente la voluntad de Dios, y que en ella está suficientemente enseñado todo lo que el hombre debe creer para ser salvo. Pues, ya que en ella está descrita muy extensamente toda la manera del culto que Dios requiere de nosotros, los hombres, aunque fueran apóstoles, no deben enseñar otra cosa que lo que nos ha sido enseñado por las Santas Escrituras; ni aun un ángel del cielo, como dice san Pablo. Y, ya que está prohibido añadir o quitar a la Palabra de Dios, esto demuestra bien que su doctrina es perfectísima y cumplida en todo.\nTampoco se deben comparar los escritos de los hombres, por santos que hayan sido, con los escritos divinos, ni la costumbre con la verdad de Dios (porque la verdad está por encima de todo), ni la multitud, ni la antigüedad, ni la sucesión de tiempos o de personas, ni los concilios, decretos o resoluciones; porque todos los hombres por sí mismos son mentirosos y más vanos que la vanidad misma. Por eso rechazamos de todo corazón todo lo que no concuerda con esta regla infalible, como nos lo enseñan los apóstoles cuando dicen: «Probad los espíritus si son de Dios», y también: «Si alguno viene a vosotros y no trae esta doctrina, no lo recibáis en casa».",
+      "referenciasBiblicas": [
+        {
+          "inciso": "1",
+          "citas": [
+            {
+              "cita": "Rom. 15:4",
+              "Pasaje": "4. Porque las cosas que antes fueron escritas, para nuestra enseñanza fueron escritas; para que por la paciencia, y por la consolación de las Escrituras, tengamos esperanza."
+            },
+            {
+              "cita": "Jn. 4:25",
+              "Pasaje": "25. Dícele la mujer: Sé que el Mesías ha de venir, el cual se dice el Cristo: cuando él viniere nos declarará todas las cosas."
+            },
+            {
+              "cita": "2 Tim. 3:15-17",
+              "Pasaje": "15. Y que desde la niñez has sabido las Sagradas Escrituras, las cuales te pueden hacer sabio para la salud por la fe que es en Cristo Jesús.\n16. Toda Escritura [es] inspirada divinamente y útil para enseñar, para redargüir, para corregir, para instituir en justicia,\n17. Para que el hombre de Dios sea perfecto, enteramente instruído para toda buena obra."
+            },
+            {
+              "cita": "1 Ped. 1:1",
+              "Pasaje": "1. PEDRO, apóstol de Jesucristo, á los extranjeros esparcidos en Ponto, en Galacia, en Capadocia, en Asia, y en Bithinia,"
+            },
+            {
+              "cita": "Prov. 30:5",
+              "Pasaje": "5. Toda palabra de Dios [es] limpia; es escudo á los que en él esperan."
+            },
+            {
+              "cita": "Gál. 3:15",
+              "Pasaje": "15. Hermanos, hablo como hombre: Aunque un pacto sea de hombre, con todo, siendo confirmado, nadie lo cancela, ó le añade.",
+              "observacionPasaje": "En la edición consultada se imprime «Gal. xxx. 15», que no existe porque Gálatas tiene 6 capítulos. Se muestra Gál. 3:15, sobre el pacto confirmado al que nadie añade."
+            },
+            {
+              "cita": "Apoc. 22:18",
+              "Pasaje": "18. Porque yo protesto á cualquiera que oye las palabras de la profecía de este libro: Si alguno añadiere á estas cosas, Dios pondrá sobre él las plagas que están escritas en este libro."
+            },
+            {
+              "cita": "Jn. 15:15",
+              "Pasaje": "15. Ya no os llamaré siervos, porque el siervo no sabe lo que hace su señor: mas os he llamado amigos, porque todas las cosas que oí de mi Padre, os he hecho notorias."
+            },
+            {
+              "cita": "Hech. 20:27",
+              "Pasaje": "27. Porque no he rehuído de anunciaros todo el consejo de Dios.",
+              "observacionPasaje": "En la edición consultada se imprime «Act. ii. 27», que habla de la resurrección. Se muestra Hech. 20:27, «no he rehuido anunciaros todo el consejo de Dios», que corresponde a lo que enseña el artículo."
+            }
+          ]
+        },
+        {
+          "inciso": "2",
+          "citas": [
+            {
+              "cita": "1 Ped. 4:11",
+              "Pasaje": "11. Si alguno habla, [hable] conforme á las palabras de Dios; si alguno ministra, [ministre] conforme á la virtud que Dios suministra: para que en todas cosas sea Dios glorificado por Jesucristo, al cual es gloria é imperio para siempre jamás. Amén."
+            },
+            {
+              "cita": "1 Cor. 15:2-3",
+              "Pasaje": "2. Por el cual asimismo, si retenéis la palabra que os he predicado, sois salvos, si no creísteis en vano.\n3. Porque primeramente os he enseñado lo que asimismo recibí: Que Cristo fué muerto por nuestros pecados, conforme á las Escrituras;"
+            },
+            {
+              "cita": "2 Tim. 3:14",
+              "Pasaje": "14. Empero persiste tú en lo que has aprendido y te persuadiste, sabiendo de quién has aprendido;"
+            },
+            {
+              "cita": "1 Tim. 1:3",
+              "Pasaje": "3. Como te rogué que te quedases en Efeso, cuando partí para Macedonia, para que requirieses á algunos que no enseñen diversa doctrina,"
+            },
+            {
+              "cita": "2 Jn. 1:10",
+              "Pasaje": "10. Si alguno viene á vosotros, y no trae esta doctrina, no lo recibáis en casa, ni le digáis: ¡bienvenido!"
+            }
+          ]
+        },
+        {
+          "inciso": "3",
+          "citas": [
+            {
+              "cita": "Gál. 1:8-9",
+              "Pasaje": "8. Mas aun si nosotros ó un ángel del cielo os anunciare otro evangelio del que os hemos anunciado, sea anatema.\n9. Como antes hemos dicho, también ahora decimos otra vez: Si alguno os anunciare otro evangelio del que habéis recibido, sea anatema."
+            },
+            {
+              "cita": "1 Cor. 15:2",
+              "Pasaje": "2. Por el cual asimismo, si retenéis la palabra que os he predicado, sois salvos, si no creísteis en vano."
+            },
+            {
+              "cita": "Hech. 26:22",
+              "Pasaje": "22. Mas ayudado del auxilio de Dios, persevero hasta el día de hoy, dando testimonio á pequeños y á grandes, no diciendo nada fuera de las cosas que los profetas y Moisés dijeron que habían de venir:"
+            },
+            {
+              "cita": "Rom. 15:4",
+              "Pasaje": "4. Porque las cosas que antes fueron escritas, para nuestra enseñanza fueron escritas; para que por la paciencia, y por la consolación de las Escrituras, tengamos esperanza."
+            },
+            {
+              "cita": "1 Ped. 4:11",
+              "Pasaje": "11. Si alguno habla, [hable] conforme á las palabras de Dios; si alguno ministra, [ministre] conforme á la virtud que Dios suministra: para que en todas cosas sea Dios glorificado por Jesucristo, al cual es gloria é imperio para siempre jamás. Amén."
+            },
+            {
+              "cita": "2 Tim. 3:14",
+              "Pasaje": "14. Empero persiste tú en lo que has aprendido y te persuadiste, sabiendo de quién has aprendido;"
+            }
+          ]
+        },
+        {
+          "inciso": "4",
+          "citas": [
+            {
+              "cita": "Deut. 12:32",
+              "Pasaje": "32. Cuidaréis de hacer todo lo que yo os mando: no añadirás á ello, ni quitarás de ello."
+            },
+            {
+              "cita": "Prov. 30:6",
+              "Pasaje": "6. No añadas á sus palabras, porque no te reprenda, y seas hallado mentiroso."
+            },
+            {
+              "cita": "Apoc. 22:18",
+              "Pasaje": "18. Porque yo protesto á cualquiera que oye las palabras de la profecía de este libro: Si alguno añadiere á estas cosas, Dios pondrá sobre él las plagas que están escritas en este libro."
+            },
+            {
+              "cita": "Jn. 4:25",
+              "Pasaje": "25. Dícele la mujer: Sé que el Mesías ha de venir, el cual se dice el Cristo: cuando él viniere nos declarará todas las cosas."
+            }
+          ]
+        },
+        {
+          "inciso": "5",
+          "citas": [
+            {
+              "cita": "Mat. 15:3",
+              "Pasaje": "3. Y él respondiendo, les dijo: ¿Por qué también vosotros traspasáis el mandamiento de Dios por vuestra tradición?"
+            },
+            {
+              "cita": "Mat. 17:5",
+              "Pasaje": "5. Y estando aún él hablando, he aquí una nube de luz [que] los cubrió; y he aquí una voz de la nube, que dijo: Este es mi Hijo amado, en el cual tomo contentamiento: á él oid."
+            },
+            {
+              "cita": "Mar. 7:7",
+              "Pasaje": "7. Y en vano me honran, enseñando [como] doctrinas mandamientos de hombres."
+            },
+            {
+              "cita": "Isa. 1:12",
+              "Pasaje": "12. ¿Quién demandó esto de vuestras manos, cuando vinieseis á presentaros delante de mí, para hollar mis atrios?"
+            },
+            {
+              "cita": "1 Cor. 2:4",
+              "Pasaje": "4. Y ni mi palabra ni mi predicación fué con palabras persuasivas de humana sabiduría, mas con demostración del Espíritu y de poder;"
+            }
+          ]
+        },
+        {
+          "inciso": "6",
+          "citas": [
+            {
+              "cita": "Isa. 1:12",
+              "Pasaje": "12. ¿Quién demandó esto de vuestras manos, cuando vinieseis á presentaros delante de mí, para hollar mis atrios?"
+            },
+            {
+              "cita": "Rom. 3:4",
+              "Pasaje": "4. En ninguna manera; antes bien sea Dios verdadero, mas todo hombre mentiroso; como está escrito: Para que seas justificado en tus dichos, y venzas cuando de ti se juzgare."
+            },
+            {
+              "cita": "2 Tim. 4:3-4",
+              "Pasaje": "3. Porque vendrá tiempo cuando no sufrirán la sana doctrina; antes, teniendo comezón de oir, se amontonarán maestros conforme á sus concupiscencias,\n4. Y apartarán de la verdad el oído, y se volverán á las fábulas."
+            }
+          ]
+        },
+        {
+          "inciso": "7",
+          "citas": [
+            {
+              "cita": "Sal. 62:9",
+              "Pasaje": "9. Por cierto, vanidad son los hijos de los hombres, mentira los hijos de varón: pesándolos á todos igualmente en la balanza, serán menos que la vanidad.",
+              "observacionPasaje": "En la edición francesa «Psa. lxii. 10»: el título del salmo cuenta como versículo 1, así que en la Reina-Valera 1909 es el versículo 9."
+            }
+          ]
+        },
+        {
+          "inciso": "8",
+          "citas": [
+            {
+              "cita": "Gál. 6:16",
+              "Pasaje": "16. Y todos los que anduvieren conforme á esta regla, paz sobre ellos, y misericordia, y sobre el Israel de Dios."
+            },
+            {
+              "cita": "1 Cor. 3:11",
+              "Pasaje": "11. Porque nadie puede poner otro fundamento que el que está puesto, el cual es Jesucristo."
+            },
+            {
+              "cita": "2 Tes. 2:2",
+              "Pasaje": "2. Que no os mováis fácilmente de vuestro sentimiento, ni os conturbéis ni por espíritu, ni por palabra, ni por carta como nuestra, como que el día del Señor esté cerca."
+            }
+          ]
+        },
+        {
+          "inciso": "9",
+          "citas": [
+            {
+              "cita": "1 Jn. 4:1",
+              "Pasaje": "1. AMADOS, no creáis á todo espíritu, sino probad los espíritus si son de Dios: porque muchos falsos profetas son salidos en el mundo."
+            }
+          ]
+        },
+        {
+          "inciso": "10",
+          "citas": [
+            {
+              "cita": "2 Jn. 1:10",
+              "Pasaje": "10. Si alguno viene á vosotros, y no trae esta doctrina, no lo recibáis en casa, ni le digáis: ¡bienvenido!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "pregunta": "La santísima Trinidad: tres personas en una sola esencia divina",
+      "respuesta": "Conforme a esta verdad y Palabra de Dios, creemos en un solo Dios, que es una sola esencia, en la cual hay tres personas, real, verdadera y eternamente distintas según sus propiedades incomunicables, a saber: el Padre, el Hijo y el Espíritu Santo. El Padre es causa, origen y principio de todas las cosas, tanto visibles como invisibles. El Hijo es el Verbo, la Sabiduría y la Imagen del Padre. El Espíritu Santo es la Virtud y Potencia eterna, que procede del Padre y del Hijo.\nSin embargo, esta distinción no hace que Dios esté dividido en tres, puesto que la Escritura nos enseña que el Padre, el Hijo y el Espíritu Santo tienen cada uno su persona, distinta por sus propiedades; de tal manera, no obstante, que estas tres personas no son más que un solo Dios. Es manifiesto, pues, que el Padre no es el Hijo, ni el Hijo es el Padre; y asimismo, que el Espíritu Santo no es ni el Padre ni el Hijo. Con todo, estas personas así distintas no están divididas, ni confundidas, ni mezcladas; porque ni el Padre ni el Espíritu Santo tomaron carne, sino solamente el Hijo. El Padre nunca ha estado sin su Hijo ni sin su Espíritu Santo, porque los tres son de igual eternidad en una misma esencia. No hay primero ni último, porque los tres son uno en verdad y en poder, en bondad y en misericordia.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "1",
+          "citas": [
+            {
+              "cita": "Isa. 43:10",
+              "Pasaje": "10. Vosotros sois mis testigos, dice Jehová, y mi siervo que yo escogí; para que me conozcáis y creáis, y entendáis que yo mismo soy; antes de mí no fué formado Dios, ni lo será después de mí."
+            }
+          ]
+        },
+        {
+          "inciso": "2",
+          "citas": [
+            {
+              "cita": "1 Jn. 5:7",
+              "Pasaje": "7. Porque tres son los que dan testimonio en el cielo, el Padre, el Verbo, y el Espíritu Santo: y estos tres son uno."
+            },
+            {
+              "cita": "Heb. 1:3",
+              "Pasaje": "3. El cual siendo el resplandor de su gloria, y la misma imagen de su sustancia, y sustentando todas las cosas con la palabra de su potencia, habiendo hecho la purgación de nuestros pecados por sí mismo, se sentó á la diestra de la Majestad en las alturas,"
+            }
+          ]
+        },
+        {
+          "inciso": "3",
+          "citas": [
+            {
+              "cita": "Mat. 28:19",
+              "Pasaje": "19. Por tanto, id, y doctrinad á todos los Gentiles, bautizándolos en el nombre del Padre, y del Hijo, y del Espíritu Santo:"
+            }
+          ]
+        },
+        {
+          "inciso": "4",
+          "citas": [
+            {
+              "cita": "1 Cor. 8:6",
+              "Pasaje": "6. Nosotros empero no tenemos más de un Dios, el Padre, del cual son todas las cosas, y nosotros en él: y un Señor Jesucristo, por el cual son todas las cosas, y nosotros por él."
+            },
+            {
+              "cita": "Col. 1:16",
+              "Pasaje": "16. Porque por él fueron criadas todas las cosas que [están] en los cielos, y que [están] en la tierra, visibles é invisibles; sean tronos, sean dominios, sean principados, sean potestades; todo fué criado por él y para él."
+            }
+          ]
+        },
+        {
+          "inciso": "5",
+          "citas": [
+            {
+              "cita": "Jn. 1:1-2",
+              "Pasaje": "1. EN el principio era el Verbo, y el Verbo era con Dios, y el Verbo era Dios.\n2. Este era en el principio con Dios."
+            },
+            {
+              "cita": "Apoc. 19:13",
+              "Pasaje": "13. Y estaba vestido de una ropa teñida en sangre: y su nombre es llamado EL VERBO DE DIOS."
+            },
+            {
+              "cita": "Prov. 8:12",
+              "Pasaje": "12. Yo, la sabiduría, habito con la discreción, y hallo la ciencia de los consejos."
+            }
+          ]
+        },
+        {
+          "inciso": "6",
+          "citas": [
+            {
+              "cita": "Prov. 8:12,22-31",
+              "Pasaje": "12. Yo, la sabiduría, habito con la discreción, y hallo la ciencia de los consejos.\n22. Jehová me poseía en el principio de su camino, ya de antiguo, antes de sus obras.\n23. Eternalmente tuve el principado, desde el principio, antes de la tierra.\n24. Antes de los abismos fuí engendrada; antes que fuesen las fuentes de las muchas aguas.\n25. Antes que los montes fuesen fundados, antes de los collados, era yo engendrada:\n26. No había aún hecho la tierra, ni las campiñas, ni el principio del polvo del mundo.\n27. Cuando formaba los cielos, allí estaba yo; cuando señalaba por compás la sobrefaz del abismo;\n28. Cuando afirmaba los cielos arriba, cuando afirmaba las fuentes del abismo;\n29. Cuando ponía á la mar su estatuto, y á las aguas, que no pasasen su mandamiento; cuando establecía los fundamentos de la tierra;\n30. Con él estaba yo ordenándolo todo; y fuí [su] delicia todos los días, teniendo solaz delante de él en todo tiempo.\n31. Huélgome en la parte habitable de su tierra; y mis delicias son con los hijos de los hombres.",
+              "observacionPasaje": "En la edición consultada: «Prov. viii. 12, 22, etc.»; se muestra el pasaje de la Sabiduría hasta el versículo 31."
+            }
+          ]
+        },
+        {
+          "inciso": "7",
+          "citas": [
+            {
+              "cita": "Col. 1:15",
+              "Pasaje": "15. El cual es la imagen del Dios invisible, el primogénito de toda criatura."
+            },
+            {
+              "cita": "Heb. 1:3",
+              "Pasaje": "3. El cual siendo el resplandor de su gloria, y la misma imagen de su sustancia, y sustentando todas las cosas con la palabra de su potencia, habiendo hecho la purgación de nuestros pecados por sí mismo, se sentó á la diestra de la Majestad en las alturas,"
+            }
+          ]
+        },
+        {
+          "inciso": "8",
+          "citas": [
+            {
+              "cita": "Mat. 12:28",
+              "Pasaje": "28. Y si por espíritu de Dios yo echo fuera los demonios, ciertamente ha llegado á vosotros el reino de Dios."
+            }
+          ]
+        },
+        {
+          "inciso": "9",
+          "citas": [
+            {
+              "cita": "Jn. 15:26",
+              "Pasaje": "26. Empero cuando viniere el Consolador, el cual yo os enviaré del Padre, el Espíritu de verdad, el cual procede del Padre, él dará testimonio de mí."
+            },
+            {
+              "cita": "Gál. 4:6",
+              "Pasaje": "6. Y por cuanto sois hijos, Dios envió el Espíritu de su Hijo en vuestros corazones, el cual clama: Abba, Padre."
+            }
+          ]
+        },
+        {
+          "inciso": "10",
+          "citas": [
+            {
+              "cita": "Fil. 2:6-7",
+              "Pasaje": "6. El cual, siendo en forma de Dios, no tuvo por usurpación ser igual á Dios:\n7. Sin embargo, se anonadó á sí mismo, tomando forma de siervo, hecho semejante á los hombres;"
+            },
+            {
+              "cita": "Gál. 4:4",
+              "Pasaje": "4. Mas venido el cumplimiento del tiempo, Dios envió su Hijo, hecho de mujer, hecho súbdito á la ley,"
+            },
+            {
+              "cita": "Jn. 1:14",
+              "Pasaje": "14. Y aquel Verbo fué hecho carne, y habitó entre nosotros (y vimos su gloria, gloria como del unigénito del Padre), lleno de gracia y de verdad."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "pregunta": "Testimonios de la Escritura sobre la santísima Trinidad",
+      "respuesta": "Todo esto lo sabemos tanto por los testimonios de la Santa Escritura como por sus efectos, y principalmente por los que sentimos en nosotros. Los testimonios de las Sagradas Escrituras que nos enseñan a creer esta santa Trinidad están escritos en muchos lugares del Antiguo Testamento; no hace falta enumerarlos todos, sino escogerlos con discernimiento. En el libro del Génesis dice Dios: «Hagamos al hombre a nuestra imagen, conforme a nuestra semejanza», etc. «Y creó Dios al hombre a su imagen; varón y hembra los creó». «He aquí el hombre es como uno de nosotros». Por esto se ve que hay pluralidad de personas en la Divinidad, cuando dice: «Hagamos al hombre a nuestra imagen»; y luego muestra la unidad cuando dice: «Creó Dios», etc. Es verdad que allí no dice cuántas personas hay; pero lo que nos es oscuro en el Antiguo Testamento nos es clarísimo en el Nuevo.\nPorque cuando nuestro Señor fue bautizado en el Jordán, se oyó la voz del Padre, que decía: «Este es mi Hijo amado»; el Hijo fue visto en el agua, y el Espíritu Santo apareció en forma de paloma. Asimismo, para el bautismo de todos los fieles Cristo ordenó esta fórmula: «Bautizad a todas las naciones en el nombre del Padre, y del Hijo, y del Espíritu Santo». En el Evangelio según san Lucas, el ángel Gabriel habla así a María, la madre de nuestro Señor: «El Espíritu Santo vendrá sobre ti, y el poder del Altísimo te cubrirá con su sombra; por lo cual también lo santo que nacerá de ti será llamado Hijo de Dios». Y en otro lugar se dice: «La gracia de nuestro Señor Jesucristo, y el amor de Dios, y la comunión del Espíritu Santo sean con vosotros». «Tres son los que dan testimonio en el cielo: el Padre, el Verbo y el Espíritu Santo; y estos tres son uno». En todos estos pasajes se nos enseña plenamente que hay tres personas en una sola esencia divina. Y aunque esta doctrina sobrepasa el entendimiento humano, la creemos ahora por la Palabra, esperando gozar en el cielo de su pleno conocimiento.\nAdemás, hay que notar los oficios y obras particulares de las tres personas para con nosotros. El Padre es llamado nuestro Creador por su poder. El Hijo es nuestro Salvador y Redentor por su sangre. El Espíritu Santo es nuestro Santificador por su morada en nuestros corazones.\nEsta doctrina de la santa Trinidad siempre ha sido mantenida en la verdadera Iglesia, desde el tiempo de los apóstoles hasta ahora, contra los judíos, los mahometanos y algunos falsos cristianos y herejes, como Marción, Manes, Práxeas, Sabelio, Pablo de Samosata, Arrio y otros semejantes, que con justa razón fueron condenados por los santos padres. Así, en esta materia recibimos de buena gana los tres credos: el de los Apóstoles, el de Nicea y el de Atanasio, y asimismo lo que los antiguos determinaron conforme a ellos.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "1",
+          "citas": [
+            {
+              "cita": "Gén. 1:26-27",
+              "Pasaje": "26. Y dijo Dios: Hagamos al hombre á nuestra imagen, conforme á nuestra semejanza; y señoree en los peces de la mar, y en las aves de los cielos, y en las bestias, y en toda la tierra, y en todo animal que anda arrastrando sobre la tierra.\n27. Y crió Dios al hombre á su imagen, á imagen de Dios lo crió; varón y hembra los crió."
+            }
+          ]
+        },
+        {
+          "inciso": "2",
+          "citas": [
+            {
+              "cita": "Gén. 3:22",
+              "Pasaje": "22. Y dijo Jehová Dios: He aquí el hombre es como uno de Nos sabiendo el bien y el mal: ahora, pues, porque no alargue su mano, y tome también del árbol de la vida, y coma, y viva para siempre:"
+            }
+          ]
+        },
+        {
+          "inciso": "3",
+          "citas": [
+            {
+              "cita": "Mat. 3:16-17",
+              "Pasaje": "16. Y Jesús, después que fué bautizado, subió luego del agua; y he aquí los cielos le fueron abiertos, y vió al Espíritu de Dios que descendía como paloma, y venía sobre él.\n17. Y he aquí una voz de los cielos que decía: Este es mi Hijo amado, en el cual tengo contentamiento."
+            }
+          ]
+        },
+        {
+          "inciso": "4",
+          "citas": [
+            {
+              "cita": "Mat. 28:19",
+              "Pasaje": "19. Por tanto, id, y doctrinad á todos los Gentiles, bautizándolos en el nombre del Padre, y del Hijo, y del Espíritu Santo:"
+            }
+          ]
+        },
+        {
+          "inciso": "5",
+          "citas": [
+            {
+              "cita": "Luc. 1:35",
+              "Pasaje": "35. Y respondiendo el ángel le dijo: El Espíritu Santo vendrá sobre ti, y la virtud del Altísimo te hará sombra; por lo cual también lo Santo que nacerá, será llamado Hijo de Dios."
+            }
+          ]
+        },
+        {
+          "inciso": "6",
+          "citas": [
+            {
+              "cita": "2 Cor. 13:13",
+              "Pasaje": "13. La gracia del Señor Jesucristo, y el amor de Dios, y la participación del Espíritu Santo sea con vosotros todos. Amén. La segunda [Epístola] á los Corintios fué enviada de Filipos de Macedonia con Tito y Lucas."
+            }
+          ]
+        },
+        {
+          "inciso": "7",
+          "citas": [
+            {
+              "cita": "1 Jn. 5:7",
+              "Pasaje": "7. Porque tres son los que dan testimonio en el cielo, el Padre, el Verbo, y el Espíritu Santo: y estos tres son uno.",
+              "observacionPasaje": "La edición consultada marca esta cita con «[?]» porque las palabras «en el cielo: el Padre, el Verbo y el Espíritu Santo» no están en los manuscritos griegos más antiguos."
+            }
+          ]
+        },
+        {
+          "inciso": "8",
+          "citas": [
+            {
+              "cita": "Sal. 45:7",
+              "Pasaje": "7. Amaste la justicia y aborreciste la maldad: por tanto te ungió Dios, el Dios tuyo, con óleo de gozo sobre tus compañeros.",
+              "observacionPasaje": "En la edición francesa «Psa. xlv. 8»: el título del salmo cuenta como versículo 1, así que en la Reina-Valera 1909 es el versículo 7."
+            },
+            {
+              "cita": "Isa. 61:1",
+              "Pasaje": "1. EL espíritu del Señor Jehová es sobre mí, porque me ungió Jehová; hame enviado á predicar buenas nuevas á los abatidos, á vendar á los quebrantados de corazón, á publicar libertad á los cautivos, y á los presos abertura de la cárcel;"
+            }
+          ]
+        },
+        {
+          "inciso": "9",
+          "citas": [
+            {
+              "cita": "Ecl. 12:1",
+              "Pasaje": "1. Y ACUÉRDATE de tu Criador en los días de tu juventud, antes que vengan los malos días, y lleguen los años, de los cuales digas, No tengo en ellos contentamiento;",
+              "observacionPasaje": "En la edición consultada se imprime «Eccl. xii. 3». Se muestra Ecl. 12:1, «Acuérdate de tu Criador», que corresponde a lo que enseña el artículo."
+            },
+            {
+              "cita": "Mal. 2:10",
+              "Pasaje": "10. ¿No tenemos todos un [mismo] padre? ¿No nos ha criado un [mismo] Dios? ¿Por qué menospreciaremos cada uno á su hermano, quebrantando el pacto de nuestros padres?"
+            },
+            {
+              "cita": "1 Ped. 1:2",
+              "Pasaje": "2. Elegidos según la presciencia de Dios Padre en santificación del Espíritu, para obedecer y ser rociados con la sangre de Jesucristo: Gracia y paz os sea multiplicada."
+            }
+          ]
+        },
+        {
+          "inciso": "10",
+          "citas": [
+            {
+              "cita": "1 Ped. 1:2",
+              "Pasaje": "2. Elegidos según la presciencia de Dios Padre en santificación del Espíritu, para obedecer y ser rociados con la sangre de Jesucristo: Gracia y paz os sea multiplicada."
+            },
+            {
+              "cita": "1 Jn. 1:7",
+              "Pasaje": "7. Mas si andamos en luz, como él está en luz, tenemos comunión entre nosotros, y la sangre de Jesucristo su Hijo nos limpia de todo pecado."
+            },
+            {
+              "cita": "1 Jn. 4:14",
+              "Pasaje": "14. Y nosotros hemos visto y testificamos que el Padre ha enviado al Hijo [para ser] Salvador del mundo."
+            }
+          ]
+        },
+        {
+          "inciso": "11",
+          "citas": [
+            {
+              "cita": "1 Cor. 6:11",
+              "Pasaje": "11. Y esto erais algunos: mas [ya] sois lavados, mas [ya] sois santificados, mas [ya] sois justificados en el nombre del Señor Jesús, y por el Espíritu de nuestro Dios."
+            },
+            {
+              "cita": "1 Ped. 1:2",
+              "Pasaje": "2. Elegidos según la presciencia de Dios Padre en santificación del Espíritu, para obedecer y ser rociados con la sangre de Jesucristo: Gracia y paz os sea multiplicada."
+            },
+            {
+              "cita": "Gál. 4:6",
+              "Pasaje": "6. Y por cuanto sois hijos, Dios envió el Espíritu de su Hijo en vuestros corazones, el cual clama: Abba, Padre."
+            },
+            {
+              "cita": "Tit. 3:5",
+              "Pasaje": "5. No por obras de justicia que nosotros habíamos hecho, mas por su misericordia nos salvó, por el lavacro de la regeneración, y de la renovación del Espíritu Santo;"
+            },
+            {
+              "cita": "Rom. 8:9",
+              "Pasaje": "9. Mas vosotros no estáis en la carne, sino en el espíritu, si es que el Espíritu de Dios mora en vosotros. Y si alguno no tiene el Espíritu de Cristo, el tal no es de él."
+            },
+            {
+              "cita": "Jn. 14:16",
+              "Pasaje": "16. Y yo rogaré al Padre, y os dará otro Consolador, para que esté con vosotros para siempre:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 10,
+      "pregunta": "La eterna divinidad del Hijo de Dios, nuestro Señor Jesucristo",
+      "respuesta": "Creemos que Jesucristo, según su naturaleza divina, es el Hijo unigénito de Dios, engendrado desde la eternidad, no hecho ni creado (porque entonces sería criatura), de una misma esencia con el Padre, coeterno, la imagen misma de la persona del Padre y el resplandor de su gloria, en todo semejante a él. Él es Hijo de Dios no solamente desde que tomó nuestra naturaleza, sino desde toda la eternidad, como nos enseñan estos testimonios cuando se comparan entre sí. Moisés dice que Dios creó el mundo; san Juan dice que todas las cosas fueron creadas por el Verbo, al cual llama Dios; el apóstol dice que Dios hizo los siglos por su Hijo; y san Pablo dice también que Dios creó todas las cosas por Jesucristo. Por tanto, es necesario que el que es llamado Dios, Verbo, Hijo y Jesucristo existiera ya cuando todas las cosas fueron creadas por él. Por eso dice el profeta Miqueas: «Sus salidas son desde los días de la eternidad». Y el apóstol: «No tiene principio de días ni fin de vida». Él es, pues, el verdadero Dios eterno, el Todopoderoso, a quien invocamos, adoramos y servimos.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "1",
+          "citas": [
+            {
+              "cita": "Jn. 1:18,49",
+              "Pasaje": "18. A Dios nadie le vió jamás: el unigénito Hijo, que está en el seno del Padre, él [le] declaró.\n49. Respondió Natanael, y díjole: Rabbí, tú eres el Hijo de Dios; tú eres el Rey de Israel."
+            }
+          ]
+        },
+        {
+          "inciso": "2",
+          "citas": [
+            {
+              "cita": "Jn. 1:14",
+              "Pasaje": "14. Y aquel Verbo fué hecho carne, y habitó entre nosotros (y vimos su gloria, gloria como del unigénito del Padre), lleno de gracia y de verdad."
+            },
+            {
+              "cita": "Col. 1:15",
+              "Pasaje": "15. El cual es la imagen del Dios invisible, el primogénito de toda criatura."
+            }
+          ]
+        },
+        {
+          "inciso": "3",
+          "citas": [
+            {
+              "cita": "Jn. 10:30",
+              "Pasaje": "30. Yo y el Padre una cosa somos."
+            },
+            {
+              "cita": "Fil. 2:6",
+              "Pasaje": "6. El cual, siendo en forma de Dios, no tuvo por usurpación ser igual á Dios:"
+            }
+          ]
+        },
+        {
+          "inciso": "4",
+          "citas": [
+            {
+              "cita": "Jn. 1:2",
+              "Pasaje": "2. Este era en el principio con Dios."
+            },
+            {
+              "cita": "Jn. 17:5",
+              "Pasaje": "5. Ahora pues, Padre, glorifícame tú cerca de ti mismo con aquella gloria que tuve cerca de ti antes que el mundo fuese."
+            },
+            {
+              "cita": "Apoc. 1:8",
+              "Pasaje": "8. Yo soy el Alpha y la Omega, principio y fin, dice el Señor, que es y que era y que ha de venir, el Todopoderoso."
+            }
+          ]
+        },
+        {
+          "inciso": "5",
+          "citas": [
+            {
+              "cita": "Heb. 1:3",
+              "Pasaje": "3. El cual siendo el resplandor de su gloria, y la misma imagen de su sustancia, y sustentando todas las cosas con la palabra de su potencia, habiendo hecho la purgación de nuestros pecados por sí mismo, se sentó á la diestra de la Majestad en las alturas,"
+            }
+          ]
+        },
+        {
+          "inciso": "6",
+          "citas": [
+            {
+              "cita": "Fil. 2:6",
+              "Pasaje": "6. El cual, siendo en forma de Dios, no tuvo por usurpación ser igual á Dios:"
+            }
+          ]
+        },
+        {
+          "inciso": "7",
+          "citas": [
+            {
+              "cita": "Jn. 8:23,58",
+              "Pasaje": "23. Y decíales: Vosotros sois de abajo, yo soy de arriba; vosotros sois de este mundo, yo no soy de este mundo.\n58. Díjoles Jesús: De cierto, de cierto os digo: Antes que Abraham fuese, yo soy."
+            },
+            {
+              "cita": "Jn. 9:35-37",
+              "Pasaje": "35. Oyó Jesús que le habían echado fuera; y hallándole, díjole: ¿Crees tú en el Hijo de Dios?\n36. Respondió él, y dijo: ¿Quién es, Señor, para que crea en él?\n37. Y díjole Jesús: Y le has visto, y el que habla contigo, él es."
+            },
+            {
+              "cita": "Hech. 8:37",
+              "Pasaje": "37. Y Felipe dijo: Si crees de todo corazón, bien puedes. Y respondiendo, dijo: Creo que Jesucristo es el Hijo de Dios."
+            },
+            {
+              "cita": "Rom. 9:5",
+              "Pasaje": "5. Cuyos son los padres, y de los cuales es Cristo según la carne, el cual es Dios sobre todas las cosas, bendito por los siglos. Amén."
+            }
+          ]
+        },
+        {
+          "inciso": "8",
+          "citas": [
+            {
+              "cita": "Gén. 1:1",
+              "Pasaje": "1. EN el principio crió Dios los cielos y la tierra."
+            }
+          ]
+        },
+        {
+          "inciso": "9",
+          "citas": [
+            {
+              "cita": "Jn. 1:3",
+              "Pasaje": "3. Todas las cosas por él fueron hechas; y sin él nada de lo que es hecho, fué hecho."
+            }
+          ]
+        },
+        {
+          "inciso": "10",
+          "citas": [
+            {
+              "cita": "Heb. 1:2",
+              "Pasaje": "2. En estos postreros días nos ha hablado por el Hijo, al cual constituyó heredero de todo, por el cual asimismo hizo el universo:"
+            }
+          ]
+        },
+        {
+          "inciso": "11",
+          "citas": [
+            {
+              "cita": "Col. 1:16",
+              "Pasaje": "16. Porque por él fueron criadas todas las cosas que [están] en los cielos, y que [están] en la tierra, visibles é invisibles; sean tronos, sean dominios, sean principados, sean potestades; todo fué criado por él y para él."
+            }
+          ]
+        },
+        {
+          "inciso": "12",
+          "citas": [
+            {
+              "cita": "Col. 1:16",
+              "Pasaje": "16. Porque por él fueron criadas todas las cosas que [están] en los cielos, y que [están] en la tierra, visibles é invisibles; sean tronos, sean dominios, sean principados, sean potestades; todo fué criado por él y para él."
+            }
+          ]
+        },
+        {
+          "inciso": "13",
+          "citas": [
+            {
+              "cita": "Miq. 5:2",
+              "Pasaje": "2. Mas tú, Beth-lehem Ephrata, pequeña para ser en los millares de Judá, de ti me saldrá el que será Señor en Israel; y sus salidas son desde el principio, desde los días del siglo."
+            }
+          ]
+        },
+        {
+          "inciso": "14",
+          "citas": [
+            {
+              "cita": "Heb. 7:3",
+              "Pasaje": "3. Sin padre, sin madre, sin linaje; que ni tiene principio de días, ni fin de vida, mas hecho semejante al Hijo de Dios, permanece sacerdote para siempre."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,550 @@
+{
+  "metodo": "Traducción propia al español del texto francés revisado en el Sínodo de Dort (1619), tal como lo imprime Philip Schaff, The Creeds of Christendom, vol. III (Nueva York, 1877), pp. 383-436, a partir del manuscrito auténtico de 1580 con la revisión de Dort (dominio público; archive.org: creedsofchriste03scha). Los títulos de los artículos traducen los encabezados latinos de esa edición. Cada nota al pie de Schaff es un inciso; las citas se muestran con la Reina-Valera 1909. Transcrito de las imágenes de las páginas; el OCR solo sirvió para localizar el texto.",
+  "articulos": {
+    "1": {
+      "tituloLatin": "DE NATURA DEI",
+      "titulo": "La naturaleza de Dios",
+      "frances": "Nous croyons tous de cœur et confessons de bouche, qu'il y a une seule et simple essence[1] spirituelle,[2] laquelle nous appelons Dieu éternel,[3] incompréhensible,[4] invisible,[5] immuable,[6] infini;[7] lequel est tout puissant, tout sage,[8] juste,[9] et bon,[10] et source très-abondante de tous biens.[11]",
+      "texto": "Todos creemos con el corazón y confesamos con la boca que hay una sola y simple esencia espiritual, a la cual llamamos Dios: eterno, incomprensible, invisible, inmutable, infinito; el cual es todopoderoso, sapientísimo, justo y bueno, y fuente abundantísima de todos los bienes.",
+      "notas": [
+        {
+          "impreso": "Eph. iv. 6; Deut. vi. 4; 1 Tim. ii. 5; 1 Cor. viii. 6",
+          "citas": [
+            "Ephesians 4:6",
+            "Deuteronomy 6:4",
+            "1 Timothy 2:5",
+            "1 Corinthians 8:6"
+          ]
+        },
+        {
+          "impreso": "Jean iv. 24",
+          "citas": [
+            "John 4:24"
+          ]
+        },
+        {
+          "impreso": "Es. xl. 28",
+          "citas": [
+            "Isaiah 40:28"
+          ]
+        },
+        {
+          "impreso": "Rom. xi. 33",
+          "citas": [
+            "Romans 11:33"
+          ]
+        },
+        {
+          "impreso": "Rom. i. 20",
+          "citas": [
+            "Romans 1:20"
+          ]
+        },
+        {
+          "impreso": "Mal. iii. 6",
+          "citas": [
+            "Malachi 3:6"
+          ]
+        },
+        {
+          "impreso": "Es. xliv. 6",
+          "citas": [
+            "Isaiah 44:6"
+          ]
+        },
+        {
+          "impreso": "1 Tim. i. 17",
+          "citas": [
+            "1 Timothy 1:17"
+          ]
+        },
+        {
+          "impreso": "Jér. xii. 1",
+          "citas": [
+            "Jeremiah 12:1"
+          ]
+        },
+        {
+          "impreso": "Matt. xix. 17",
+          "citas": [
+            "Matthew 19:17"
+          ]
+        },
+        {
+          "impreso": "Jacq. i. 17; 1 Chron. xxix. 10, 11, 12",
+          "citas": [
+            "James 1:17",
+            "1 Chronicles 29:10-12"
+          ]
+        }
+      ]
+    },
+    "2": {
+      "tituloLatin": "DE COGNITIONE DEI",
+      "titulo": "El conocimiento de Dios",
+      "frances": "Nous le connaissons par deux moyens. Premièrement: Par la création, conservation et gouvernement du monde universel,[1] d'autant que c'est devant nos yeux comme un beau livre, auquel toutes créatures, petites et grandes, servent de lettres pour nous faire contempler les choses invisibles de Dieu, savoir sa puissance éternelle et sa divinité, comme dit l'Apôtre saint Paul (Rom. i. 20). Toutes lesquelles choses sont suffisantes pour convaincre les hommes, et les rendre inexcusables.\nSecondement: Il se donne à connaître à nous plus manifestement et évidemment par sa sainte et divine Parole,[2] tout autant pleinement qu'il nous est de besoin en cette vie pour sa gloire et le salut des siens.",
+      "texto": "Lo conocemos por dos medios. Primero, por la creación, conservación y gobierno del mundo entero, ya que este es ante nuestros ojos como un hermoso libro, en el cual todas las criaturas, pequeñas y grandes, sirven de letras para hacernos contemplar las cosas invisibles de Dios, a saber, su eterno poder y su divinidad, como dice el apóstol san Pablo (Rom. 1:20). Todas estas cosas bastan para convencer a los hombres y dejarlos sin excusa.\nSegundo, se nos da a conocer más clara y evidentemente por su santa y divina Palabra, tan plenamente como nos es necesario en esta vida, para su gloria y la salvación de los suyos.",
+      "notas": [
+        {
+          "impreso": "Psa. xix. 2; Eph. iv. 6",
+          "citas": [
+            {
+              "ref": "Psalm 19:1",
+              "nota": "En la edición francesa «Psa. xix. 2»: el título del salmo cuenta como versículo 1, así que en la Reina-Valera 1909 es el versículo 1."
+            },
+            "Ephesians 4:6",
+            {
+              "ref": "Romans 1:20",
+              "nota": "Citado en el texto del artículo."
+            }
+          ]
+        },
+        {
+          "impreso": "Psa. xix. 8; 1 Cor. xii. 6",
+          "citas": [
+            {
+              "ref": "Psalm 19:7",
+              "nota": "En la edición francesa «Psa. xix. 8»: el título del salmo cuenta como versículo 1, así que en la Reina-Valera 1909 es el versículo 7."
+            },
+            "1 Corinthians 12:6"
+          ]
+        }
+      ]
+    },
+    "3": {
+      "tituloLatin": "DE SACRA SCRIPTURA",
+      "titulo": "La Sagrada Escritura",
+      "frances": "Nous confessons que cette Parole de Dieu n'a point été envoyée ni apportée par volonté humaine: mais les saints hommes de Dieu ont parlé étant poussés du Saint-Esprit, comme dit saint Pierre.[1] Puis après, par le soin singulier que notre Dieu a de nous et de notre salut, il a commandé à ses serviteurs les Prophètes[2] et Apôtres[3] de rédiger ses oracles par écrit: et lui-même a écrit de son doigt les deux Tables de la Loi.[4] Pour cette cause, nous appelons tels écrits: Écritures saintes et divines.",
+      "texto": "Confesamos que esta Palabra de Dios no fue enviada ni traída por voluntad humana, sino que los santos hombres de Dios hablaron movidos por el Espíritu Santo, como dice san Pedro. Después, por el cuidado singular que nuestro Dios tiene de nosotros y de nuestra salvación, mandó a sus siervos los profetas y los apóstoles que pusieran sus oráculos por escrito; y él mismo escribió con su dedo las dos tablas de la Ley. Por esta causa llamamos a tales escritos Escrituras santas y divinas.",
+      "notas": [
+        {
+          "impreso": "2 Pier. i. 21",
+          "citas": [
+            "2 Peter 1:21"
+          ]
+        },
+        {
+          "impreso": "Exod. xxiv. 4; Psa. cii. 19; Hab. ii. 2",
+          "citas": [
+            "Exodus 24:4",
+            {
+              "ref": "Psalm 102:18",
+              "nota": "En la edición francesa «Psa. cii. 19»: el título del salmo cuenta como versículo 1, así que en la Reina-Valera 1909 es el versículo 18."
+            },
+            "Habakkuk 2:2"
+          ]
+        },
+        {
+          "impreso": "2 Tim. iii. 16; Apoc. i. 11",
+          "citas": [
+            "2 Timothy 3:16",
+            "Revelation 1:11"
+          ]
+        },
+        {
+          "impreso": "Exod. xxxi. 18",
+          "citas": [
+            "Exodus 31:18"
+          ]
+        }
+      ]
+    },
+    "4": {
+      "tituloLatin": "DE CANONICIS LIBRIS VETERIS ET NOVI TESTAMENTI",
+      "titulo": "Los libros canónicos del Antiguo y del Nuevo Testamento",
+      "frances": "Nous comprenons l'Écriture Sainte aux deux volumes du Vieux et du Nouveau Testament, qui sont livres canoniques, auxquels il n'y a rien à répliquer. Le nombre en est tel en l'Église de Dieu.\nDans l'Ancien Testament: Les cinq livres de Moïse, le livre de Josué, des Juges, Ruth, les deux livres de Samuël, et deux des Rois, les deux livres des Chroniques dits Paralipomènes, le premier d'Esdras, Néhémie, Ester, Job, les Psaumes de David, les trois livres de Salomon, savoir: les Proverbes, l'Écclésiaste, et le Cantique; les quatre grands Prophètes: Esaïe, Jérémie, Ezéchiel, et Daniel. Puis les autres douze petits Prophètes: Osée, Joël, Amos, Abdias, Jonas, Michée, Nahum, Habacuc, Sophonie, Aggée, Zacharie, Malachie.\nDans le Nouveau Testament: les quatre Évangélistes, saint Matthieu, saint Marc, saint Luc, saint Jean; les Actes des Apôtres, les quatorze Épîtres de saint Paul: aux Romains, deux aux Corinthiens, aux Galates, Éphésiens, Philippiens, Colossiens, deux aux Thessaloniciens, deux à Timothée, à Tite, Philémon, aux Hébreux; et les sept Épîtres des autres Apôtres, savoir une de saint Jacques, deux de saint Pierre, trois de saint Jean, et une de saint Jude; enfin l'Apocalypse de saint Jean Apôtre.",
+      "texto": "Comprendemos la Santa Escritura en los dos volúmenes del Antiguo y del Nuevo Testamento, que son libros canónicos, contra los cuales no hay nada que objetar. Su número en la Iglesia de Dios es el siguiente.\nEn el Antiguo Testamento: los cinco libros de Moisés; el libro de Josué, el de los Jueces y el de Rut; los dos libros de Samuel y los dos de los Reyes; los dos libros de las Crónicas, llamados Paralipómenos; el primero de Esdras, Nehemías, Ester y Job; los Salmos de David; los tres libros de Salomón, a saber, los Proverbios, el Eclesiastés y el Cantar; los cuatro profetas mayores: Isaías, Jeremías, Ezequiel y Daniel; y luego los otros doce profetas menores: Oseas, Joel, Amós, Abdías, Jonás, Miqueas, Nahúm, Habacuc, Sofonías, Hageo, Zacarías y Malaquías.\nEn el Nuevo Testamento: los cuatro evangelistas, san Mateo, san Marcos, san Lucas y san Juan; los Hechos de los Apóstoles; las catorce epístolas de san Pablo: a los Romanos, dos a los Corintios, a los Gálatas, a los Efesios, a los Filipenses, a los Colosenses, dos a los Tesalonicenses, dos a Timoteo, a Tito, a Filemón y a los Hebreos; las siete epístolas de los otros apóstoles, a saber, una de Santiago, dos de san Pedro, tres de san Juan y una de san Judas; y, por último, el Apocalipsis del apóstol san Juan.",
+      "notas": []
+    },
+    "5": {
+      "tituloLatin": "DE AUCTORITATE SACRAE SCRIPTURAE",
+      "titulo": "La autoridad de la Sagrada Escritura",
+      "frances": "Nous recevons tous ces livres-là seulement, pour saints et canoniques, pour régler, fonder et établir notre foi, et croyons pleinement toutes les choses qui y sont contenues, non pas tant parce que l'Église les reçoit et approuve tels, mais principalement parce que le Saint-Esprit nous rend témoignage en notre cœur, qu'ils sont de Dieu, et aussi qu'ils sont approuvés tels par eux-mêmes; car les aveugles mêmes peuvent apercevoir que les choses adviennent qui y sont prédites.",
+      "texto": "Recibimos todos estos libros, y solo estos, como santos y canónicos, para regular, fundar y establecer nuestra fe; y creemos plenamente todas las cosas que contienen, no tanto porque la Iglesia los recibe y aprueba como tales, sino principalmente porque el Espíritu Santo da testimonio en nuestro corazón de que son de Dios, y también porque ellos mismos se acreditan como tales; pues aun los ciegos pueden percibir que se cumplen las cosas que en ellos están predichas.",
+      "notas": []
+    },
+    "6": {
+      "tituloLatin": "DE DISCRIMINE LIBRORUM CANONICORUM ET APOCRYPHORUM",
+      "titulo": "La diferencia entre los libros canónicos y los apócrifos",
+      "frances": "Nous mettons différence entre ces saints livres et les livres apocryphes, qui sont le troisième et quatrième livre d'Esdras, le livre de Tobie, Judith, Sapience, Ecclésiastique, Baruc, ce qui a été ajouté à l'histoire d'Ester, le cantique des trois Enfants en la fournaise, l'histoire de Susanne, l'histoire de l'idole Bel et du Dragon, l'Oraison de Manassé, et les deux livres des Maccabées, lesquels l'Église peut bien lire et y prendre instruction dans les choses conformes aux livres canoniques; mais ils n'ont point telle force et vertu que par un témoignage qui en est tiré, on puisse arrêter quelque chose de la foi ou religion chrétienne, tant s'en faut qu'ils puissent ramoindrir l'autorité des autres saints livres.",
+      "texto": "Hacemos diferencia entre estos libros santos y los libros apócrifos, que son: el tercero y el cuarto libro de Esdras, el libro de Tobías, Judit, Sabiduría, Eclesiástico, Baruc, lo que se añadió a la historia de Ester, el cántico de los tres jóvenes en el horno, la historia de Susana, la historia del ídolo Bel y del dragón, la oración de Manasés y los dos libros de los Macabeos. La Iglesia bien puede leerlos y tomar de ellos enseñanza en las cosas que concuerdan con los libros canónicos; pero no tienen tal fuerza y autoridad que por algún testimonio tomado de ellos se pueda establecer algo de la fe o de la religión cristiana; mucho menos pueden disminuir la autoridad de los otros libros santos.",
+      "notas": []
+    },
+    "7": {
+      "tituloLatin": "DE PERFECTIONE SACRAE SCRIPTURAE",
+      "titulo": "La perfección de la Sagrada Escritura",
+      "frances": "Nous croyons que cette Écriture Sainte contient parfaitement la volonté divine, et que tout ce que l'homme doit croire pour être sauvé, y est suffisamment enseigné.[1] Car puisque toute la manière du service que Dieu requiert de nous y est très au long décrite, les hommes, même fussent-ils Apôtres, ne doivent enseigner autrement[2] que ce qui nous a été enseigné par les Saintes Écritures, encore même que ce fût un ange du Ciel, comme dit saint Paul:[3] car puisqu'il est défendu d'ajouter ni diminuer à la Parole de Dieu,[4] cela démontre bien que la doctrine est très-parfaite et accomplie en toutes sortes. Aussi ne faut-il pas comparer les écrits des hommes, quelque saints qu'ils aient été, aux écrits divins,[5] ni la coutume à la vérité de Dieu[6] (car la vérité est par-dessus tout), ni le grand nombre, ni l'ancienneté, ni la succession des temps ni des personnes, ni les conciles, décrets, ou arrêts: car tous hommes d'eux-mêmes sont menteurs,[7] et plus vains que la vanité même. C'est pourquoi nous rejetons de tout notre cœur tout ce qui ne s'accorde à cette règle infaillible,[8] comme nous sommes enseignés de faire par les Apôtres, disant: Éprouvez les esprits s'ils sont de Dieu,[9] et: Si quelqu'un vient à vous et n'apporte point cette doctrine, ne le recevez point en votre maison.[10]",
+      "texto": "Creemos que esta Santa Escritura contiene perfectamente la voluntad de Dios, y que en ella está suficientemente enseñado todo lo que el hombre debe creer para ser salvo. Pues, ya que en ella está descrita muy extensamente toda la manera del culto que Dios requiere de nosotros, los hombres, aunque fueran apóstoles, no deben enseñar otra cosa que lo que nos ha sido enseñado por las Santas Escrituras; ni aun un ángel del cielo, como dice san Pablo. Y, ya que está prohibido añadir o quitar a la Palabra de Dios, esto demuestra bien que su doctrina es perfectísima y cumplida en todo.\nTampoco se deben comparar los escritos de los hombres, por santos que hayan sido, con los escritos divinos, ni la costumbre con la verdad de Dios (porque la verdad está por encima de todo), ni la multitud, ni la antigüedad, ni la sucesión de tiempos o de personas, ni los concilios, decretos o resoluciones; porque todos los hombres por sí mismos son mentirosos y más vanos que la vanidad misma. Por eso rechazamos de todo corazón todo lo que no concuerda con esta regla infalible, como nos lo enseñan los apóstoles cuando dicen: «Probad los espíritus si son de Dios», y también: «Si alguno viene a vosotros y no trae esta doctrina, no lo recibáis en casa».",
+      "notas": [
+        {
+          "impreso": "Rom. xv. 4; Jean iv. 25; 2 Tim. iii. 15, 16, 17; 1 Pier. i. 1; Prov. xxx. 5; Gal. xxx. 15; Apoc. xxii. 18; Jean xv. 15; Act. ii. 27",
+          "citas": [
+            "Romans 15:4",
+            "John 4:25",
+            "2 Timothy 3:15-17",
+            "1 Peter 1:1",
+            "Proverbs 30:5",
+            {
+              "ref": "Galatians 3:15",
+              "nota": "En la edición consultada se imprime «Gal. xxx. 15», que no existe porque Gálatas tiene 6 capítulos. Se muestra Gál. 3:15, sobre el pacto confirmado al que nadie añade."
+            },
+            "Revelation 22:18",
+            "John 15:15",
+            {
+              "ref": "Acts 20:27",
+              "nota": "En la edición consultada se imprime «Act. ii. 27», que habla de la resurrección. Se muestra Hech. 20:27, «no he rehuido anunciaros todo el consejo de Dios», que corresponde a lo que enseña el artículo."
+            }
+          ]
+        },
+        {
+          "impreso": "1 Pier. iv. 11; 1 Cor. xv. 2, 3; 2 Tim. iii. 14; 1 Tim. i. 3; 2 Jean 10",
+          "citas": [
+            "1 Peter 4:11",
+            "1 Corinthians 15:2-3",
+            "2 Timothy 3:14",
+            "1 Timothy 1:3",
+            "2 John 10"
+          ]
+        },
+        {
+          "impreso": "Gal. i. 8, 9; 1 Cor. xv. 2; Act. xxvi. 22; Rom. xv. 4; 1 Pier. iv. 11; 2 Tim. iii. 14",
+          "citas": [
+            "Galatians 1:8-9",
+            "1 Corinthians 15:2",
+            "Acts 26:22",
+            "Romans 15:4",
+            "1 Peter 4:11",
+            "2 Timothy 3:14"
+          ]
+        },
+        {
+          "impreso": "Deut. xii. 32; Prov. xxx. 6; Apoc. xxii. 18; Jean iv. 25",
+          "citas": [
+            "Deuteronomy 12:32",
+            "Proverbs 30:6",
+            "Revelation 22:18",
+            "John 4:25"
+          ]
+        },
+        {
+          "impreso": "Matt. xv. 3; xvii. 5; Marc vii. 7; Es. i. 12; 1 Cor. ii. 4",
+          "citas": [
+            "Matthew 15:3",
+            "Matthew 17:5",
+            "Mark 7:7",
+            "Isaiah 1:12",
+            "1 Corinthians 2:4"
+          ]
+        },
+        {
+          "impreso": "Es. i. 12; Rom. iii. 4; 2 Tim. iv. 3, 4",
+          "citas": [
+            "Isaiah 1:12",
+            "Romans 3:4",
+            "2 Timothy 4:3-4"
+          ]
+        },
+        {
+          "impreso": "Psa. lxii. 10",
+          "citas": [
+            {
+              "ref": "Psalm 62:9",
+              "nota": "En la edición francesa «Psa. lxii. 10»: el título del salmo cuenta como versículo 1, así que en la Reina-Valera 1909 es el versículo 9."
+            }
+          ]
+        },
+        {
+          "impreso": "Gal. vi. 16; 1 Cor. iii. 11; 2 Thess. ii. 2",
+          "citas": [
+            "Galatians 6:16",
+            "1 Corinthians 3:11",
+            "2 Thessalonians 2:2"
+          ]
+        },
+        {
+          "impreso": "1 Jean iv. 1",
+          "citas": [
+            "1 John 4:1"
+          ]
+        },
+        {
+          "impreso": "2 Jean 10",
+          "citas": [
+            "2 John 10"
+          ]
+        }
+      ]
+    },
+    "8": {
+      "tituloLatin": "DE SACROSANCTA TRINITATE PERSONARUM IN UNICA ESSENTIA DIVINA",
+      "titulo": "La santísima Trinidad: tres personas en una sola esencia divina",
+      "frances": "Suivant cette vérité et Parole de Dieu, nous croyons en un seul Dieu qui est une seule essence,[1] en laquelle il y a trois personnes[2] réellement, et à la vérité, et éternellement distinguées selon leurs propriétés incommunicables, savoir: le Père, le Fils, et le Saint-Esprit;[3] le Père étant cause, origine et commencement de toutes choses, tant visibles qu'invisibles.[4] Le Fils qui est la Parole,[5] la Sagesse,[6] et l'Image du Père.[7] Le Saint-Esprit, la Vertu et Puissance éternelle[8] procédante du Père et du Fils.[9] Et cependant une telle distinction ne fait pas que Dieu soit divisé en trois, puisque l'Écriture nous enseigne que le Père, le Fils, et le Saint-Esprit ont chacun sa personne distincte par des propriétés; de sorte, toutefois, que ces trois personnes ne sont qu'un seul Dieu. Il est donc manifeste que le Père n'est point le Fils, et que le Fils n'est point le Père: semblablement que le Saint-Esprit n'est pas le Père ni le Fils. Cependant ces personnes ainsi distinctes ne sont pas divisées, ni confondues, ni mêlées: car le Père n'a point pris chair ni aussi le Saint-Esprit, mais ç'a été seulement le Fils.[10] Le Père n'a jamais été sans son Fils ni sans son Saint-Esprit, parce que tous trois sont d'éternité égale, en une même essence. Il n'y a point de premier ni de dernier, car tous trois sont un en vérité et puissance, en bonté et miséricorde.",
+      "texto": "Conforme a esta verdad y Palabra de Dios, creemos en un solo Dios, que es una sola esencia, en la cual hay tres personas, real, verdadera y eternamente distintas según sus propiedades incomunicables, a saber: el Padre, el Hijo y el Espíritu Santo. El Padre es causa, origen y principio de todas las cosas, tanto visibles como invisibles. El Hijo es el Verbo, la Sabiduría y la Imagen del Padre. El Espíritu Santo es la Virtud y Potencia eterna, que procede del Padre y del Hijo.\nSin embargo, esta distinción no hace que Dios esté dividido en tres, puesto que la Escritura nos enseña que el Padre, el Hijo y el Espíritu Santo tienen cada uno su persona, distinta por sus propiedades; de tal manera, no obstante, que estas tres personas no son más que un solo Dios. Es manifiesto, pues, que el Padre no es el Hijo, ni el Hijo es el Padre; y asimismo, que el Espíritu Santo no es ni el Padre ni el Hijo. Con todo, estas personas así distintas no están divididas, ni confundidas, ni mezcladas; porque ni el Padre ni el Espíritu Santo tomaron carne, sino solamente el Hijo. El Padre nunca ha estado sin su Hijo ni sin su Espíritu Santo, porque los tres son de igual eternidad en una misma esencia. No hay primero ni último, porque los tres son uno en verdad y en poder, en bondad y en misericordia.",
+      "notas": [
+        {
+          "impreso": "Es. xliii. 10",
+          "citas": [
+            "Isaiah 43:10"
+          ]
+        },
+        {
+          "impreso": "1 Jean v. 7; Héb. i. 3",
+          "citas": [
+            "1 John 5:7",
+            "Hebrews 1:3"
+          ]
+        },
+        {
+          "impreso": "Matt. xxviii. 19",
+          "citas": [
+            "Matthew 28:19"
+          ]
+        },
+        {
+          "impreso": "1 Cor. viii. 6; Col. i. 16",
+          "citas": [
+            "1 Corinthians 8:6",
+            "Colossians 1:16"
+          ]
+        },
+        {
+          "impreso": "Jean i. 1, 2; Apoc. xix. 13; Prov. viii. 12",
+          "citas": [
+            "John 1:1-2",
+            "Revelation 19:13",
+            "Proverbs 8:12"
+          ]
+        },
+        {
+          "impreso": "Prov. viii. 12, 22, etc.",
+          "citas": [
+            {
+              "ref": "Proverbs 8:12, 22-31",
+              "nota": "En la edición consultada: «Prov. viii. 12, 22, etc.»; se muestra el pasaje de la Sabiduría hasta el versículo 31."
+            }
+          ]
+        },
+        {
+          "impreso": "Col. i. 15; Héb. i. 3",
+          "citas": [
+            "Colossians 1:15",
+            "Hebrews 1:3"
+          ]
+        },
+        {
+          "impreso": "Matt. xii. 28",
+          "citas": [
+            "Matthew 12:28"
+          ]
+        },
+        {
+          "impreso": "Jean xv. 26; Gal. iv. 6",
+          "citas": [
+            "John 15:26",
+            "Galatians 4:6"
+          ]
+        },
+        {
+          "impreso": "Phil. ii. 6, 7; Gal. iv. 4; Jean i. 14",
+          "citas": [
+            "Philippians 2:6-7",
+            "Galatians 4:4",
+            "John 1:14"
+          ]
+        }
+      ]
+    },
+    "9": {
+      "tituloLatin": "DE SACROSANCTA TRINITATE SCRIPTURAE TESTIMONIA",
+      "titulo": "Testimonios de la Escritura sobre la santísima Trinidad",
+      "frances": "Nous connaissons toutes ces choses tant par les témoignages de la Sainte Écriture, que par les effets, et principalement par ceux-là que nous sentons en nous. Les témoignages des Écritures Saintes qui nous enseignent de croire cette sainte Trinité sont écrits en plusieurs lieux de l'Ancien Testament, qui n'ont point besoin de dénombrement, mais de choix et de discrétion. Au livre de la Genèse Dieu dit: Faisons l'homme à notre image, et selon notre semblance, etc.[1] Dieu donc créa l'homme à son image: il les créa, dis-je, mâle et femelle. Voici Adam est fait comme l'un de nous.[2] Il appert par cela, qu'il y a pluralité de personnes en la Divinité, quand il dit: Faisons l'homme à notre image; et puis il montre l'unité quand il dit: Dieu créa, etc. Il est vrai qu'il ne dit point là combien il y a de personnes; mais ce qui nous est obscur en l'Ancien Testament nous est très-clair au Nouveau.\nCar quand notre Seigneur fût baptisé au Jourdain,[3] la voix du Père a été entendue, disant: Celui-ci est mon Fils bien-aimé; le Fils est vu en l'eau, et le Saint-Esprit apparaît en forme de colombe. De même au baptême de tous fidèles cette façon a été ordonnée de Christ: Baptisez toutes les nations au nom du Père et du Fils et du Saint-Esprit.[4] En l'Évangile selon Saint Luc, l'ange Gabriel parle ainsi à Marie, mère de notre Seigneur: Le Saint-Esprit surviendra en toi et la vertu du Souverain te couvrira de son ombre, c'est pourquoi ce qui naîtra de toi saint, sera appelé le Fils de Dieu.[5] Et ailleurs il est dit: La grâce de notre Seigneur Jésus-Christ, et la charité de Dieu, et la communication du Saint-Esprit soient avec vous.[6] Il y en a trois qui donnent témoignage au Ciel, le Père, la Parole, et le Saint-Esprit et ces trois sont un.[7] Dans tous ces passages nous sommes à plein enseignés des trois personnes en une seule essence divine. Et quoique cette doctrine surpasse l'entendement humain, cependant nous la croyons maintenant par la Parole, attendant d'en avoir pleine connaissance et jouissance au ciel.[8]\nOr il faut aussi noter les offices et effets particuliers des trois personnes envers nous. Le Père est appelé notre Créateur par sa vertu.[9] Le Fils est notre Sauveur et Rédempteur par son sang.[10] Le Saint-Esprit est notre sanctificateur par sa demeurance en nos cœurs.[11]\nCette doctrine de la sainte Trinité a toujours été maintenue en la vraie Église, depuis le temps des Apôtres jusqu'à présent, contre les Juifs, les Mahométans, et con contre les Juifs, les Mahométans, et contre quelques faux Chrétiens et Hérétiques, comme Marcion, Manès, Praxéas, Sabellius, Paul de Samosate, Arius et autres semblables, lesquels à bon droit ont été condamnés par les Saints Pères.\nAinsi nous recevons volontiers en cette matière les trois symboles, celui des Apôtres, ceux de Nicée et d'Athanase, et semblablement ce qui en a été déterminé par les Anciens conformément à ceux-ci.",
+      "texto": "Todo esto lo sabemos tanto por los testimonios de la Santa Escritura como por sus efectos, y principalmente por los que sentimos en nosotros. Los testimonios de las Sagradas Escrituras que nos enseñan a creer esta santa Trinidad están escritos en muchos lugares del Antiguo Testamento; no hace falta enumerarlos todos, sino escogerlos con discernimiento. En el libro del Génesis dice Dios: «Hagamos al hombre a nuestra imagen, conforme a nuestra semejanza», etc. «Y creó Dios al hombre a su imagen; varón y hembra los creó». «He aquí el hombre es como uno de nosotros». Por esto se ve que hay pluralidad de personas en la Divinidad, cuando dice: «Hagamos al hombre a nuestra imagen»; y luego muestra la unidad cuando dice: «Creó Dios», etc. Es verdad que allí no dice cuántas personas hay; pero lo que nos es oscuro en el Antiguo Testamento nos es clarísimo en el Nuevo.\nPorque cuando nuestro Señor fue bautizado en el Jordán, se oyó la voz del Padre, que decía: «Este es mi Hijo amado»; el Hijo fue visto en el agua, y el Espíritu Santo apareció en forma de paloma. Asimismo, para el bautismo de todos los fieles Cristo ordenó esta fórmula: «Bautizad a todas las naciones en el nombre del Padre, y del Hijo, y del Espíritu Santo». En el Evangelio según san Lucas, el ángel Gabriel habla así a María, la madre de nuestro Señor: «El Espíritu Santo vendrá sobre ti, y el poder del Altísimo te cubrirá con su sombra; por lo cual también lo santo que nacerá de ti será llamado Hijo de Dios». Y en otro lugar se dice: «La gracia de nuestro Señor Jesucristo, y el amor de Dios, y la comunión del Espíritu Santo sean con vosotros». «Tres son los que dan testimonio en el cielo: el Padre, el Verbo y el Espíritu Santo; y estos tres son uno». En todos estos pasajes se nos enseña plenamente que hay tres personas en una sola esencia divina. Y aunque esta doctrina sobrepasa el entendimiento humano, la creemos ahora por la Palabra, esperando gozar en el cielo de su pleno conocimiento.\nAdemás, hay que notar los oficios y obras particulares de las tres personas para con nosotros. El Padre es llamado nuestro Creador por su poder. El Hijo es nuestro Salvador y Redentor por su sangre. El Espíritu Santo es nuestro Santificador por su morada en nuestros corazones.\nEsta doctrina de la santa Trinidad siempre ha sido mantenida en la verdadera Iglesia, desde el tiempo de los apóstoles hasta ahora, contra los judíos, los mahometanos y algunos falsos cristianos y herejes, como Marción, Manes, Práxeas, Sabelio, Pablo de Samosata, Arrio y otros semejantes, que con justa razón fueron condenados por los santos padres. Así, en esta materia recibimos de buena gana los tres credos: el de los Apóstoles, el de Nicea y el de Atanasio, y asimismo lo que los antiguos determinaron conforme a ellos.",
+      "notas": [
+        {
+          "impreso": "Gen. i. 26, 27",
+          "citas": [
+            "Genesis 1:26-27"
+          ]
+        },
+        {
+          "impreso": "Gen. iii. 22",
+          "citas": [
+            "Genesis 3:22"
+          ]
+        },
+        {
+          "impreso": "Matt. iii. 16, 17",
+          "citas": [
+            "Matthew 3:16-17"
+          ]
+        },
+        {
+          "impreso": "Matt. xxviii. 19",
+          "citas": [
+            "Matthew 28:19"
+          ]
+        },
+        {
+          "impreso": "Luc i. 35",
+          "citas": [
+            "Luke 1:35"
+          ]
+        },
+        {
+          "impreso": "2 Cor. xiii. 13",
+          "citas": [
+            "2 Corinthians 13:13"
+          ]
+        },
+        {
+          "impreso": "1 Jean v. 7 [?]",
+          "citas": [
+            {
+              "ref": "1 John 5:7",
+              "nota": "La edición consultada marca esta cita con «[?]» porque las palabras «en el cielo: el Padre, el Verbo y el Espíritu Santo» no están en los manuscritos griegos más antiguos."
+            }
+          ]
+        },
+        {
+          "impreso": "Psa. xlv. 8; Es. lxi. 1",
+          "citas": [
+            {
+              "ref": "Psalm 45:7",
+              "nota": "En la edición francesa «Psa. xlv. 8»: el título del salmo cuenta como versículo 1, así que en la Reina-Valera 1909 es el versículo 7."
+            },
+            "Isaiah 61:1"
+          ]
+        },
+        {
+          "impreso": "Eccl. xii. 3; Mal. ii. 10; 1 Pier. i. 2",
+          "citas": [
+            {
+              "ref": "Ecclesiastes 12:1",
+              "nota": "En la edición consultada se imprime «Eccl. xii. 3». Se muestra Ecl. 12:1, «Acuérdate de tu Criador», que corresponde a lo que enseña el artículo."
+            },
+            "Malachi 2:10",
+            "1 Peter 1:2"
+          ]
+        },
+        {
+          "impreso": "1 Pier. i. 2; 1 Jean i. 7; iv. 14",
+          "citas": [
+            "1 Peter 1:2",
+            "1 John 1:7",
+            "1 John 4:14"
+          ]
+        },
+        {
+          "impreso": "1 Cor. vi. 11; 1 Pier. i. 2; Gal. iv. 6; Tit. iii. 5; Rom. viii. 9; Jean xiv. 16",
+          "citas": [
+            "1 Corinthians 6:11",
+            "1 Peter 1:2",
+            "Galatians 4:6",
+            "Titus 3:5",
+            "Romans 8:9",
+            "John 14:16"
+          ]
+        }
+      ]
+    },
+    "10": {
+      "tituloLatin": "DE AETERNA DEITATE FILII DEI, DOMINI NOSTRI JESU CHRISTI",
+      "titulo": "La eterna divinidad del Hijo de Dios, nuestro Señor Jesucristo",
+      "frances": "Nous croyons que Jésus-Christ, quant à sa nature divine, est Fils unique de Dieu,[1] éternellement engendré,[2] n'étant ni fait ni créé (car il serait créature), d'une essence avec le Père,[3] coéternel,[4] la marque engravée de la personne du Père, et la splendeur de sa gloire,[5] étant en tout semblable à Lui;[6] lequel est Fils de Dieu non point seulement depuis qu'il a pris notre nature, mais de toute éternité;[7] comme ces témoignages nous enseignent, étant rapportés l'un à l'autre. Moyse dit que Dieu a créé le monde;[8] Saint-Jean dit que toutes choses ont été créées par la Parole, laquelle il appelle Dieu.[9] L'Apôtre dit que Dieu a fait les siècles par son Fils.[10] Saint-Paul dit encore que Dieu a créé toutes choses par Jésus-Christ.[11] Il faut donc que celui qui est nommé Dieu, Parole, Fils, et Jésus-Christ, ait déjà été lorsque toutes choses ont été créées par lui.[12] C'est pourquoi le prophète Michée dit: Son issue est dès les jours d'éternité.[13] Et l'Apôtre: Il est sans commencement de jours, sans fin de vie.[14] Il est donc le vrai Dieu éternel, le Tout-Puissant, lequel nous invoquons, adorons et servons.",
+      "texto": "Creemos que Jesucristo, según su naturaleza divina, es el Hijo unigénito de Dios, engendrado desde la eternidad, no hecho ni creado (porque entonces sería criatura), de una misma esencia con el Padre, coeterno, la imagen misma de la persona del Padre y el resplandor de su gloria, en todo semejante a él. Él es Hijo de Dios no solamente desde que tomó nuestra naturaleza, sino desde toda la eternidad, como nos enseñan estos testimonios cuando se comparan entre sí. Moisés dice que Dios creó el mundo; san Juan dice que todas las cosas fueron creadas por el Verbo, al cual llama Dios; el apóstol dice que Dios hizo los siglos por su Hijo; y san Pablo dice también que Dios creó todas las cosas por Jesucristo. Por tanto, es necesario que el que es llamado Dios, Verbo, Hijo y Jesucristo existiera ya cuando todas las cosas fueron creadas por él. Por eso dice el profeta Miqueas: «Sus salidas son desde los días de la eternidad». Y el apóstol: «No tiene principio de días ni fin de vida». Él es, pues, el verdadero Dios eterno, el Todopoderoso, a quien invocamos, adoramos y servimos.",
+      "notas": [
+        {
+          "impreso": "Jean i. 18, 49",
+          "citas": [
+            "John 1:18, 49"
+          ]
+        },
+        {
+          "impreso": "Jean i. 14; Col. i. 15",
+          "citas": [
+            "John 1:14",
+            "Colossians 1:15"
+          ]
+        },
+        {
+          "impreso": "Jean x. 30; Phil ii. 6",
+          "citas": [
+            "John 10:30",
+            "Philippians 2:6"
+          ]
+        },
+        {
+          "impreso": "Jean i. 2; xvii. 5; Apoc. i. 8",
+          "citas": [
+            "John 1:2",
+            "John 17:5",
+            "Revelation 1:8"
+          ]
+        },
+        {
+          "impreso": "Héb. i. 3",
+          "citas": [
+            "Hebrews 1:3"
+          ]
+        },
+        {
+          "impreso": "Phil. ii. 6",
+          "citas": [
+            "Philippians 2:6"
+          ]
+        },
+        {
+          "impreso": "Jean viii. 23, 58; ix. 35, 36, 37; Act. viii. 37; Rom. ix. 5",
+          "citas": [
+            "John 8:23, 58",
+            "John 9:35-37",
+            "Acts 8:37",
+            "Romans 9:5"
+          ]
+        },
+        {
+          "impreso": "Gen. i. 1",
+          "citas": [
+            "Genesis 1:1"
+          ]
+        },
+        {
+          "impreso": "Jean i. 3",
+          "citas": [
+            "John 1:3"
+          ]
+        },
+        {
+          "impreso": "Héb. i. 2",
+          "citas": [
+            "Hebrews 1:2"
+          ]
+        },
+        {
+          "impreso": "Col. i. 16",
+          "citas": [
+            "Colossians 1:16"
+          ]
+        },
+        {
+          "impreso": "Col. i. 16",
+          "citas": [
+            "Colossians 1:16"
+          ]
+        },
+        {
+          "impreso": "Mich. v. 2",
+          "citas": [
+            "Micah 5:2"
+          ]
+        },
+        {
+          "impreso": "Héb. vii. 3",
+          "citas": [
+            "Hebrews 7:3"
+          ]
+        }
+      ]
+    }
+  }
+}

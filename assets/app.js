@@ -57,6 +57,13 @@ function estadoCorto(texto) {
 }
 const contarCitas = (q) => (q.referenciasBiblicas || []).reduce((s, g) => s + (Array.isArray(g.citas) ? g.citas.length : 0), 0);
 const plural = (n, uno, varios) => `${n} ${n === 1 ? uno : varios}`;
+// Un documento con «unidad»: «artículo» (p. ej. una confesión de fe) se lee por artículos en vez de preguntas.
+function unidadDe(datos) {
+  return datos && !Array.isArray(datos) && datos.unidad === 'artículo'
+    ? { articulo: true, uno: 'artículo', varios: 'artículos', Uno: 'Artículo', la: 'el artículo', una: 'un artículo', esta: 'este artículo' }
+    : { articulo: false, uno: 'pregunta', varios: 'preguntas', Uno: 'Pregunta', la: 'la pregunta', una: 'una pregunta', esta: 'esta pregunta' };
+}
+const unidad = () => unidadDe(estado.documento);
 
 function el(tag, clase, texto) {
   const n = document.createElement(tag);
@@ -99,6 +106,7 @@ function filtrar() {
 
 /* ---------- Tarjetas ---------- */
 function tarjeta(q) {
+  const u = unidad();
   const art = el('article', 'tarjeta');
   art.id = `pregunta-${q.numero}`;
   art.tabIndex = -1;
@@ -106,17 +114,18 @@ function tarjeta(q) {
   const cab = el('div', 'tarjeta-cabecera');
   cab.append(el('span', 'numero', q.numero ?? '—'));
   const titulos = el('div');
-  titulos.append(el('span', 'etiqueta-pregunta', `Pregunta ${q.numero ?? '—'}`), el('h3', 'pregunta', q.pregunta || 'Pregunta sin texto'));
+  titulos.append(el('span', 'etiqueta-pregunta', `${u.Uno} ${q.numero ?? '—'}`), el('h3', 'pregunta', q.pregunta || `${u.Uno} sin título`));
   cab.append(titulos);
   art.append(cab);
 
   const resp = el('div', 'respuesta');
-  resp.append(el('span', 'etiqueta-respuesta', 'Respuesta'), el('p', '', q.respuesta || 'No se incluyó respuesta.'));
+  if (!u.articulo) resp.append(el('span', 'etiqueta-respuesta', 'Respuesta'));
+  resp.append(el('p', '', q.respuesta || (u.articulo ? 'No se incluyó el texto.' : 'No se incluyó respuesta.')));
   art.append(resp);
 
   if (q.completa === false) {
     const aviso = el('p', 'aviso aviso-alerta');
-    aviso.append(icono(ICONO_ALERTA), el('span', '', 'Esta pregunta está incompleta en el documento proporcionado. El texto podría continuar en otra página.'));
+    aviso.append(icono(ICONO_ALERTA), el('span', '', `${u.esta[0].toUpperCase()}${u.esta.slice(1)} ${u.articulo ? 'está incompleto' : 'está incompleta'} en el documento proporcionado. El texto podría continuar en otra página.`));
     art.append(aviso);
   }
   for (const nota of [q.observacion, q.observaciones].flat().filter(Boolean)) {
@@ -149,12 +158,14 @@ function tarjeta(q) {
   escuchar.type = 'button';
   escuchar.dataset.voz = '';
   escuchar.append(icono(ICONO_VOZ), el('span', '', 'Escuchar'));
-  escuchar.setAttribute('aria-label', `Escuchar pregunta ${q.numero} y su respuesta`);
-  escuchar.addEventListener('click', () => alternarVoz(`Pregunta ${q.numero}. ${q.pregunta || ''} Respuesta: ${q.respuesta || ''}`, escuchar));
+  escuchar.setAttribute('aria-label', u.articulo ? `Escuchar artículo ${q.numero}` : `Escuchar pregunta ${q.numero} y su respuesta`);
+  escuchar.addEventListener('click', () => alternarVoz(u.articulo
+    ? `Artículo ${q.numero}. ${q.pregunta || ''}. ${q.respuesta || ''}`
+    : `Pregunta ${q.numero}. ${q.pregunta || ''} Respuesta: ${q.respuesta || ''}`, escuchar));
   const compartir = el('button', 'boton boton-suave');
   compartir.type = 'button';
   compartir.append(icono(ICONO_COMPARTIR), el('span', '', 'Compartir'));
-  compartir.setAttribute('aria-label', `Compartir pregunta ${q.numero}`);
+  compartir.setAttribute('aria-label', `Compartir ${u.uno} ${q.numero}`);
   compartir.addEventListener('click', () => compartirPregunta(q, compartir));
   acciones.append(escuchar, compartir);
   art.append(acciones);
@@ -178,7 +189,7 @@ function referencias(q) {
   det.append(sum);
 
   const cuerpo = el('div', 'ref-cuerpo');
-  if (!grupos.length) cuerpo.append(el('p', 'meta', 'El archivo todavía no contiene referencias bíblicas para esta pregunta.'));
+  if (!grupos.length) cuerpo.append(el('p', 'meta', `El archivo todavía no contiene referencias bíblicas para ${unidad().esta}.`));
   for (const g of grupos) {
     const fila = el('div', 'ref-fila');
     fila.append(el('span', 'inciso', g.inciso ? `${g.inciso}.` : '•'));
@@ -213,6 +224,7 @@ function referencias(q) {
 /* ---------- Render principal ---------- */
 function render() {
   const { termino, lista } = filtrar();
+  const u = unidad();
   const totalPaginas = Math.max(1, Math.ceil(lista.length / POR_PAGINA));
   estado.pagina = Math.min(Math.max(1, estado.pagina), totalPaginas);
   const inicio = (estado.pagina - 1) * POR_PAGINA;
@@ -224,10 +236,10 @@ function render() {
   const primero = lista.length ? inicio + 1 : 0;
   const ultimo = Math.min(inicio + POR_PAGINA, lista.length);
   $('resultado').textContent = lista.length
-    ? `Mostrando ${primero}–${ultimo} de ${lista.length} preguntas${lista.length !== estado.preguntas.length ? ' encontradas' : ''} · Orden ascendente`
+    ? `Mostrando ${primero}–${ultimo} de ${lista.length} ${u.varios}${lista.length !== estado.preguntas.length ? (u.articulo ? ' encontrados' : ' encontradas') : ''} · Orden ascendente`
     : 'Sin resultados';
   $('limpiar').hidden = !termino;
-  const total = plural(estado.preguntas.length, 'pregunta', 'preguntas');
+  const total = plural(estado.preguntas.length, u.uno, u.varios);
   $('totalPreguntas').textContent = total;
   $('totalPortada').textContent = total;
   renderPaginacion(totalPaginas);
@@ -259,7 +271,7 @@ function renderPaginacion(totalPaginas) {
     previa = p;
   }
   boton('Siguiente ›', estado.pagina + 1, { deshabilitado: estado.pagina === totalPaginas, aria: 'Página siguiente', clase: 'pagina-paso' });
-  nav.append(fila, el('p', 'paginacion-nota', `Página ${estado.pagina} de ${totalPaginas} · ${POR_PAGINA} preguntas por página`));
+  nav.append(fila, el('p', 'paginacion-nota', `Página ${estado.pagina} de ${totalPaginas} · ${POR_PAGINA} ${unidad().varios} por página`));
 }
 
 function irAPagina(p) {
@@ -275,7 +287,7 @@ function renderIndice() {
   cont.replaceChildren(...numeros.map((n) => {
     const b = el('button', 'indice-numero', n);
     b.type = 'button';
-    b.setAttribute('aria-label', `Ir a la pregunta ${n}`);
+    b.setAttribute('aria-label', `Ir a ${unidad().la} ${n}`);
     b.addEventListener('click', () => irAPregunta(n));
     return b;
   }));
@@ -325,8 +337,9 @@ function renderNotas() {
   const agregar = (dt, dd) => { if (dd == null || dd === '') return; datos.append(el('dt', '', dt), el('dd', '', dd)); };
   agregar('Título', doc.titulo);
   agregar('Páginas del original', Array.isArray(doc.paginas) ? doc.paginas.join(', ') : doc.paginas);
-  agregar('Total de preguntas', doc.totalPreguntas);
-  agregar('Preguntas completas', doc.preguntasCompletas);
+  const u = unidad();
+  agregar(`Total de ${u.varios}`, doc.totalPreguntas);
+  agregar(`${u.varios[0].toUpperCase()}${u.varios.slice(1)} ${u.articulo ? 'incluidos' : 'completas'}`, doc.preguntasCompletas);
   agregar('Versión bíblica', doc.versionBiblica);
   if (datos.childElementCount) cuerpo.append(datos);
   const lista = (titulo, notas) => {
@@ -359,7 +372,7 @@ function renderPendientes(cuerpo) {
     const li = el('li', resuelta(p) ? 'pendiente-resuelta' : '');
     const b = el('button', 'enlace-pendiente');
     b.type = 'button';
-    b.append(el('strong', '', `Pregunta ${p.pregunta}`), ` · ${p.cita}`);
+    b.append(el('strong', '', `${unidad().Uno} ${p.pregunta}`), ` · ${p.cita}`);
     b.addEventListener('click', () => {
       if (irAPregunta(p.pregunta)) $(`pregunta-${p.pregunta}`).querySelector('details.referencias').open = true;
     });
@@ -367,6 +380,16 @@ function renderPendientes(cuerpo) {
     ul.append(li);
   }
   cuerpo.append(ul);
+}
+
+function textosDeUnidad() {
+  const u = unidad();
+  $('etiquetaBuscar').textContent = `Buscar ${u.varios}`;
+  $('textoAbrirIndice').textContent = `Ir a ${u.una}`;
+  $('indice').setAttribute('aria-label', `Índice de ${u.varios}`);
+  $('ayudaIndice').textContent = `Toca el número de${u.articulo ? 'l artículo' : ' la pregunta'} que quieres leer.`;
+  $('vacio').textContent = `No encontramos ${u.varios} que coincidan con la búsqueda. Prueba con otra palabra o con el número de${u.articulo ? 'l artículo' : ' la pregunta'}.`;
+  $('paginacion').setAttribute('aria-label', `Páginas de ${u.varios}`);
 }
 
 /* ---------- Catálogo ---------- */
@@ -387,8 +410,10 @@ function renderCatalogo() {
     b.setAttribute('aria-pressed', String(c.id === estado.activo));
     const texto = el('span', 'libro-texto');
     texto.append(el('strong', '', c.titulo), el('small', '', c.subtitulo || 'Preguntas, respuestas y referencias bíblicas'));
-    const n = (c.id === estado.activo ? estado.preguntas : extraerPreguntas(EMBEBIDA.documentos[c.id]))?.length;
-    texto.append(el('small', 'libro-dato', [c.tipo || 'Catecismo', n ? plural(n, 'pregunta', 'preguntas') : ''].filter(Boolean).join(' · ')));
+    const datos = c.id === estado.activo ? estado.documento : EMBEBIDA.documentos[c.id];
+    const n = extraerPreguntas(datos)?.length;
+    const u = unidadDe(datos);
+    texto.append(el('small', 'libro-dato', [c.tipo || 'Catecismo', n ? plural(n, u.uno, u.varios) : ''].filter(Boolean).join(' · ')));
     const ic = el('span', 'libro-icono');
     ic.append(icono(ICONO_LIBRO));
     b.append(ic, texto);
@@ -435,6 +460,7 @@ function mostrarDocumento(c, datos, pendientes, { conservarPagina = false } = {}
   if (!conservarPagina) { estado.pagina = 1; $('buscar').value = ''; }
   $('tituloEstudio').textContent = c.titulo;
   $('subtituloEstudio').textContent = c.subtitulo || 'Preguntas, respuestas y referencias bíblicas';
+  textosDeUnidad();
   renderCatalogo();
   renderNotas();
   renderIndice();
@@ -563,9 +589,10 @@ async function compartirPregunta(q, boton) {
   url.hash = `pregunta-${q.numero}`;
   if (estado.catalogo.filter((c) => c.activo !== false).length > 1) url.searchParams.set('documento', estado.activo);
   const local = url.protocol === 'file:';
-  const texto = `Pregunta ${q.numero}: ${q.pregunta}\n${q.respuesta}`;
+  const u = unidad();
+  const texto = `${u.Uno} ${q.numero}: ${q.pregunta}\n${q.respuesta}`;
   try {
-    if (navigator.share && !local) { await navigator.share({ title: `Pregunta ${q.numero}`, text: texto, url: url.href }); return; }
+    if (navigator.share && !local) { await navigator.share({ title: `${u.Uno} ${q.numero}`, text: texto, url: url.href }); return; }
     await navigator.clipboard.writeText(local ? texto : `${texto}\n${url.href}`);
     avisoTemporal(boton, '✓ Copiado');
   } catch (e) {

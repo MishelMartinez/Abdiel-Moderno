@@ -24,6 +24,14 @@
       "tipo": "Catecismo",
       "archivo": "data/catecismo-heidelberg.json",
       "activo": true
+    },
+    {
+      "id": "confesion-belga",
+      "titulo": "Confesión de Fe Belga",
+      "subtitulo": "37 artículos con pasajes de la Reina-Valera 1909",
+      "tipo": "Confesión de fe",
+      "archivo": "data/confesion-belga.json",
+      "activo": true
     }
   ]
 }
