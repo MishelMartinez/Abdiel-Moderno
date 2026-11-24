@@ -86,7 +86,7 @@ export function citaRV1909(ref, nota = null) {
   const notas = nota ? [nota] : [];
   const lineas = out.map(({ cap, v }) => {
     const capitulo = `${libro[0]} ${cap}`;
-    if (POR_VERIFICAR.has(capitulo)) throw new Error(`«${ref}» cae en ${capitulo}, cuya numeración en la RV1909 debe verificarse`);
+    if (POR_VERIFICAR.has(capitulo) && !/\(entire\)/.test(ref)) throw new Error(`«${ref}» cae en ${capitulo}, cuya numeración en la RV1909 debe verificarse`);
     if (DESPLAZADOS[capitulo]) {
       const n = `En inglés «${ref}»; en la Reina-Valera 1909 este capítulo se numera ${DESPLAZADOS[capitulo]} versículo(s) más adelante.`;
       if (!notas.includes(n)) notas.push(n);

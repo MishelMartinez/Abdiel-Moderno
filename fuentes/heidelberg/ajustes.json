@@ -1,0 +1,78 @@
+{
+ "nota": "Ajustes del editor para capítulos de 1563 que ninguna edición cotejada precisa por versículo. Clave «pregunta|Libro capítulo». Sin «versos» se muestra el capítulo completo.",
+ "12|Numbers 23": {
+  "nota": "La edición de 1563 cita «Num. 23» (lectura dudosa del margen); ninguna edición cotejada precisa los versículos."
+ },
+ "15|Matthew 1": {
+  "versos": "21-23",
+  "nota": "La edición de 1563 indica solo «Matth. 1»; versículos elegidos por el editor (el nacimiento virginal y el nombre de Emmanuel)."
+ },
+ "16|Romans 5": {
+  "nota": "En el margen de 1563 parece leerse «Rom. 1»; se toma Rom. 5, como reformededucation.org."
+ },
+ "17|Jeremiah 33": {
+  "versos": "15-16",
+  "nota": "La edición de 1563 indica solo «Iere. 33»; versículos elegidos por el editor («Jehová, justicia nuestra»)."
+ },
+ "17|John 1": {
+  "versos": "4",
+  "nota": "La edición de 1563 indica solo «Iohan. 1»; versículo elegido por el editor («en él estaba la vida»)."
+ },
+ "21|2 Corinthians 4": {
+  "nota": "En el margen de 1563 parece leerse «1 Cor. 4»; se toma 2 Cor. 4:13, como el libro."
+ },
+ "26|Galatians 4": {
+  "nota": "El margen de 1563 dice «Gal. 5»; se toma Gál. 4, como el libro."
+ },
+ "26|Psalm 55": {
+  "nota": "El margen de 1563 dice «Psal. 54»; se toma el Salmo 55, como el libro."
+ },
+ "26|Psalm 146": {
+  "nota": "La edición de 1563 indica solo «Psa. 146»; ninguna edición cotejada precisa los versículos."
+ },
+ "46|Matthew 26": {
+  "versos": "64",
+  "nota": "La edición de 1563 indica solo «Matt. 26»; versículo elegido por el editor (el Hijo del hombre sentado a la diestra y viniendo en las nubes)."
+ },
+ "59|John 3": {
+  "nota": "En el margen de 1563 parece leerse «Ioan. 15»; se toma Juan 3, como el libro."
+ },
+ "60|Titus 3": {
+  "nota": "En el margen de 1563 parece leerse «2 Tim. 3»; se toma Tit. 3:5, como el libro."
+ },
+ "64|Matthew 7": {
+  "nota": "En el margen de 1563 parece leerse «Matt. 17»; se toma Mat. 7, como el libro."
+ },
+ "74|Isaiah 44": {
+  "nota": "El margen de 1563 dice «Esai. 46»; se toma Isa. 44, como el libro."
+ },
+ "78|1 Peter 3": {
+  "nota": "En el margen de 1563 parece leerse «1 Pet. 4»; se toma 1 Ped. 3:21, como el libro."
+ },
+ "85|2 Thessalonians 3": {
+  "nota": "El margen de 1563 dice «1 Thess. 3»; se toma 2 Tes. 3, como reformededucation.org."
+ },
+ "103|Acts 2": {
+  "nota": "En el margen de 1563 parece leerse «Act. 3»; se toma Hech. 2, como la edición alemana."
+ },
+ "108|Leviticus 18": {
+  "nota": "En el margen de 1563 parece leerse «Deut. 18»; se toma Lev. 18, como la edición alemana."
+ },
+ "116|Matthew 7": {
+  "nota": "En el margen de 1563 parece leerse «Matt. 2»; se toma Mat. 7."
+ },
+ "101|1 Samuel 24": {
+  "versosFijos": "21",
+  "cita": "1 Sam. 24:22",
+  "nota": "Se muestra el juramento que David hace a Saúl (1 Sam. 24:22 en la Reina-Valera 1909)."
+ },
+ "86|2 Peter 1": {
+  "nota": "El margen de 1563 dice «1 Pet. 1»; se toma 2 Ped. 1:10, como el libro y la edición alemana."
+ },
+ "94|1 Peter 5": {
+  "nota": "El margen de 1563 dice «1 Pet. 3»; se toma 1 Ped. 5:5, como el libro, la edición alemana y reformededucation.org."
+ },
+ "101|Joshua 9": {
+  "nota": "El margen de 1563 dice «Esai. 9» (y la edición alemana, «Jes 9, 15»); se toma Jos. 9:15, el juramento de Josué a los gabaonitas, como el libro y reformededucation.org."
+ }
+}

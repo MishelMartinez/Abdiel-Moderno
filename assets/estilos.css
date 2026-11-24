@@ -183,6 +183,11 @@ details[open] > summary .flecha svg { transform: rotate(180deg); }
 .etiqueta-respuesta { display: block; font-size: .7em; font-weight: 800; color: var(--acento); text-transform: uppercase; letter-spacing: .1em; margin-bottom: 4px; }
 .aviso { display: flex; gap: 10px; align-items: flex-start; margin: 14px 0 0; padding: 12px 16px; border-radius: 14px; font-size: .88em; }
 .aviso-alerta, .aviso-error { background: var(--alerta-fondo); border: 2px solid var(--alerta-borde); color: var(--alerta-tinta); font-weight: 600; }
+.dato-curioso { margin: 16px 0 0; padding: 14px 18px; border-radius: 14px; background: var(--superficie-2); border-left: 5px solid var(--acento, var(--borde)); }
+.dato-curioso-titulo { margin: 0 0 6px; font-size: 1em; }
+.dato-curioso p { margin: 0; }
+.dato-curioso-pasaje { margin: 12px 0 0; padding: 0 0 0 14px; border-left: 2px solid var(--borde); font-style: italic; }
+.dato-curioso-pasaje cite { display: block; margin-top: 6px; font-size: .85em; font-style: normal; color: var(--suave); }
 .aviso-nota { background: var(--superficie-2); border: 1px dashed var(--borde); color: var(--suave); }
 .meta { margin: 12px 0 0; font-size: .8em; color: var(--suave); }
 .acciones { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 16px; }
@@ -269,3 +274,4 @@ details[open] > summary .flecha svg { transform: rotate(180deg); }
 .muestra-sepia { background: linear-gradient(135deg, #fbf6ea 50%, #7a4e1f 50%); }
 .muestra-oscuro { background: linear-gradient(135deg, #17222e 50%, #7cc0ff 50%); }
 .muestra-contraste { background: linear-gradient(135deg, #000 50%, #ffd400 50%); }
+.dato-curioso-voz { margin-top: 12px; }

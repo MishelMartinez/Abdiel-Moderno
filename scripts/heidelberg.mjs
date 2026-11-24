@@ -6,6 +6,7 @@
 // Ejecutar: npm run heidelberg
 import { readdir, writeFile } from 'node:fs/promises';
 import { citaRV1909, leer, raiz } from './rv1909.mjs';
+import { analizar, analizarRE, combinar, leerIncisos } from './heidelberg-fuentes.mjs';
 
 // Abreviaturas de la fuente → nombre inglés que entiende citaRV1909.
 const ABREV = {
@@ -45,8 +46,13 @@ function versos(ref) {
   return out;
 }
 const TOTAL = 129;
+const margen = await leerIncisos('fuentes/heidelberg/margen-1563.txt');
+const libro = await leerIncisos('fuentes/heidelberg/libro-la-fe-que-confesamos.txt');
+const aleman2 = JSON.parse(await leer('fuentes/heidelberg/referencias-de.json')).preguntas;
+const ajustes = JSON.parse(await leer('fuentes/heidelberg/ajustes.json'));
+const datosCuriosos = JSON.parse(await leer('fuentes/heidelberg/datos-curiosos.json'));
 if (fuente.length !== TOTAL) throw new Error(`La fuente de referencias tiene ${fuente.length} preguntas y se esperaban ${TOTAL}`);
-const incidencias = [], origen = [], omitidasRE = [];
+const erroresRV = [], incidencias = [], origen = [], omitidasRE = [], revisar = [], sinLibro = [];
 let totalCitas = 0, totalVersiculos = 0, totalIncisos = 0;
 const preguntas = [];
 for (const o of fuente) {
@@ -55,7 +61,7 @@ for (const o of fuente) {
   if (!aleman[o.numero]) throw new Error(`Pregunta ${o.numero}: falta el texto alemán de 1563`);
   const resolver = (ref, nota) => {
     let r;
-    try { r = citaRV1909(ref, nota); } catch (e) { throw new Error(`Pregunta ${o.numero}: ${e.message}`); }
+    try { r = citaRV1909(ref, nota); } catch (e) { erroresRV.push(`Pregunta ${o.numero}: ${e.message}`); return { cita: '', Pasaje: '' }; }
     totalCitas++; totalVersiculos += r.versiculos;
     if (r.incidencia) incidencias.push(`Pregunta ${o.numero}, ${r.incidencia}`);
     return r.cita;
@@ -72,6 +78,23 @@ for (const o of fuente) {
       const faltan = [...versos(normalizar(p))].filter((v) => !incluidos.has(v) && !incluidos.has(v.replace(/:\d+$/, ':*')));
       if (faltan.length) omitidasRE.push(`Pregunta ${o.numero}: ${p}${faltan.length < versos(normalizar(p)).size ? ` (${faltan.length > 1 ? "versículos" : "versículo"} ${faltan.map((v) => v.split(':')[1]).join(', ')})` : ''}`);
     }
+  } else if (!t.incisos) {
+    const re = o.pruebas.flatMap((p) => { try { return analizarRE(p); } catch (e) { incidencias.push(`Pregunta ${o.numero}: referencia de reformededucation.org no reconocida «${p}».`); return []; } });
+    const c = combinar({ m: structuredClone(margen[o.numero] || []), l: libro[o.numero] || [], de: (aleman2[o.numero] || []).map((x) => analizar(x, true)), re, ajustes, numero: o.numero });
+    for (const inc of c.incisos) inc.citas = inc.citas.filter((x) => {
+      if (!x.ref.startsWith('Sirach')) return true;
+      incidencias.push(`Pregunta ${o.numero}: la edición de 1563 cita «Syr. 3» (Eclesiástico), libro deuterocanónico que no forma parte de la Reina-Valera 1909; se muestra como «Dato curioso» con el texto de la Biblia de Casiodoro de Reina (1569).`);
+      return false;
+    });
+    grupos = c.incisos.filter((inc) => inc.citas.length).map((inc, g) => ({ inciso: LETRAS[g % LETRAS.length], citas: inc.citas.map((x) => {
+      const cita = resolver(x.ref, x.nota || null);
+      if (x.cita) cita.cita = x.cita;
+      origen.push(`| ${o.numero} | ${LETRAS[g % LETRAS.length]} | ${cita.cita} | ${x.fuentes} |`);
+      return cita;
+    }) }));
+    for (const a of c.avisos) revisar.push(`Pregunta ${o.numero}: ${a}`);
+    for (const x of c.omitidas) omitidasRE.push(`Pregunta ${o.numero}: ${x}`);
+    if (!libro[o.numero]?.length) sinLibro.push(o.numero);
   } else {
     const tam = t.incisos || [];
     if (tam.reduce((s, n) => s + n, 0) !== o.pruebas.length) throw new Error(`Pregunta ${o.numero}: los incisos suman ${tam.reduce((s, n) => s + n, 0)} y la fuente tiene ${o.pruebas.length} referencias`);
@@ -82,9 +105,10 @@ for (const o of fuente) {
     }) }));
   }
   totalIncisos += grupos.length;
-  if (!o.pruebas.length) incidencias.push(`Pregunta ${o.numero}: la fuente no trae referencias bíblicas para esta pregunta.`);
-  preguntas.push({ numero: o.numero, pregunta: t.pregunta, respuesta: t.respuesta, referenciasBiblicas: grupos });
+  if (!grupos.length) incidencias.push(`Pregunta ${o.numero}: ninguna de las fuentes trae citas bíblicas para esta pregunta.`);
+  preguntas.push({ numero: o.numero, pregunta: t.pregunta, respuesta: t.respuesta, referenciasBiblicas: grupos, ...(datosCuriosos[o.numero] ? { datoCurioso: datosCuriosos[o.numero] } : {}) });
 }
+if (erroresRV.length) { console.error(erroresRV.join('\n')); process.exit(1); }
 preguntas.forEach((q, i) => { if (q.numero !== i + 1) throw new Error(`Numeración no consecutiva en la posición ${i + 1}: ${q.numero}`); });
 for (const q of preguntas) if (!q.pregunta.trim() || !q.respuesta.trim()) throw new Error(`Pregunta ${q.numero} vacía`);
 const incluidas = preguntas.length;
@@ -96,7 +120,7 @@ const documento = {
   observaciones: [
     incluidas < TOTAL ? `Versión en revisión: incluye las preguntas 1 a ${incluidas} de ${TOTAL}.` : `Incluye las ${TOTAL} preguntas.`,
     'Traducción propia al español a partir del texto original alemán de 1563 (dominio público).',
-    'Citas bíblicas cotejadas en tres fuentes: las notas al margen de la edición de 1563 (que dan las letras de los incisos y los capítulos), el libro «La fe que confesamos» y reformededucation.org (que dan los versículos exactos). Se añaden también las citas del libro, cada una en su inciso.'
+    'Citas bíblicas cotejadas: las notas al margen de la edición de 1563 dan los incisos y los capítulos; el libro «La fe que confesamos», una edición alemana con versículos y reformededucation.org dan los versículos exactos. Se añaden también las citas del libro, cada una en su inciso.'
   ],
   observacionesExtraccion: [
     'Pasajes tomados de la Reina-Valera 1909 de eBible.org (dominio público), conservando su ortografía histórica.',
@@ -126,15 +150,24 @@ Generado por \`npm run heidelberg\` (scripts/heidelberg.mjs).
 
 ${incidencias.length ? incidencias.map((i) => `- ${i}`).join('\n') : '- Ninguna.'}
 - La traducción se hizo desde el alemán de 1563 y es propia; requiere revisión y aprobación.
-- Método de las citas: incisos y capítulos según las notas al margen de 1563; versículos exactos según el libro «La fe que confesamos» (L) y reformededucation.org (RE); se añaden las citas de L, cada una en su inciso. Las letras de 1563 vuelven a empezar en cada página del original; aquí se numeran seguidas en cada pregunta.
+- Método de las citas: incisos y capítulos según las notas al margen de 1563; versículos exactos según el libro «La fe que confesamos» (L), la edición alemana con versículos de heidelberger-katechismus.net (DE) y reformededucation.org (RE); se añaden las citas de L, cada una en su inciso. Las preguntas 1–10 se cotejaron a mano (fuentes/heidelberg/citas-001-010.json); las 11–129 se combinan con scripts/heidelberg-fuentes.mjs a partir de las transcripciones de fuentes/heidelberg/ y los ajustes de fuentes/heidelberg/ajustes.json.
+- Preguntas sin notas en 1563 (4, 23, 24, 68, 75, 80, 83 y 92): se usan las citas del libro; si no hay, las de la edición alemana. La pregunta 80 no figura en la primera edición de 1563; su texto y las partes entre corchetes son de la segunda y la tercera edición. Las letras de 1563 vuelven a empezar en cada página del original; aquí se numeran seguidas en cada pregunta.
 - En la pregunta 1, el margen de 1563 pone 1 Jn. 3 en el inciso de «me guarda»; se ubicó junto a «me libró de todo el poder del diablo», como en L, porque 1 Jn. 3:8 trata de las obras del diablo.
 - Los capítulos completos (por ejemplo Gén. 3) se muestran completos de la RV1909, con la nota «Capítulo completo.».
 
-## Citas de reformededucation.org que no se incluyeron
+## Citas de otras ediciones que no se incluyeron
 
-Ni la edición de 1563 ni el libro traen estos versículos:
+Citas de reformededucation.org (preguntas 1–129) y de la edición alemana con versículos (preguntas 11–129) que no están en los capítulos de 1563 ni en el libro. Se registran aquí y no se muestran en la aplicación:
 
 ${omitidasRE.length ? omitidasRE.map((x) => `- ${x}`).join('\n') : '- Ninguna.'}
+
+## Para revisar
+
+${revisar.length ? revisar.map((x) => `- ${x}`).join('\n') : '- Nada.'}
+
+## Preguntas sin citas en el libro
+
+${sinLibro.length ? `El libro «La fe que confesamos» no trae citas para las preguntas ${sinLibro.join(', ')}. Sus citas siguen la edición de 1563, con los versículos de la edición alemana y de reformededucation.org.` : 'Ninguna.'}
 
 ## Origen de cada cita
 

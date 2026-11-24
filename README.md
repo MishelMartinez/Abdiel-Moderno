@@ -52,6 +52,7 @@ Los ajustes de lectura se guardan en el dispositivo.
 ## Catecismo de Heidelberg
 
 - `fuentes/heidelberg/original-de-1563.json`: texto alemán de 1563 (fuente primaria de la traducción).
+- `fuentes/heidelberg/margen-1563.txt`, `libro-la-fe-que-confesamos.txt`, `referencias-de.json` y `ajustes.json`: transcripciones de las citas que `scripts/heidelberg-fuentes.mjs` combina para las preguntas 11–129.
 - `fuentes/heidelberg/referencias-en.json`: las referencias bíblicas de las 129 preguntas, tomadas de reformededucation.org.
 - `fuentes/heidelberg/traduccion-*.json`: traducción propia por bloques.
 - `fuentes/heidelberg/citas-*.json`: citas cotejadas por inciso (notas al margen de 1563, el libro «La fe que confesamos» y reformededucation.org), con las fuentes de cada cita y, si hace falta, una `nota`.

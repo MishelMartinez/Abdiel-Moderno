@@ -91,6 +91,7 @@ function filtrar() {
       textos.push(g.inciso);
       for (const c of g.citas || []) textos.push(etiquetaCita(c), textoCita(c), c?.referenciaComparativa, c?.pasajeComparativo);
     }
+    if (q.datoCurioso) textos.push(q.datoCurioso.texto, q.datoCurioso.cita, q.datoCurioso.pasaje);
     return normalizar(textos.join(' ')).includes(termino);
   });
   return { termino, lista: seleccion.sort((a, b) => Number(a.numero) - Number(b.numero)) };
@@ -122,6 +123,24 @@ function tarjeta(q) {
     const aviso = el('p', 'aviso aviso-nota');
     aviso.append(icono(ICONO_NOTA), el('span', '', `Nota del archivo: ${nota}`));
     art.append(aviso);
+  }
+  if (q.datoCurioso) {
+    const d = q.datoCurioso;
+    const caja = el('aside', 'dato-curioso');
+    caja.append(el('h4', 'dato-curioso-titulo', d.titulo || 'Dato curioso'), el('p', '', d.texto || ''));
+    if (d.pasaje) {
+      const cita = el('blockquote', 'dato-curioso-pasaje');
+      cita.append(el('p', '', d.pasaje), el('cite', '', [d.cita, d.version].filter(Boolean).join(' · ')));
+      const oir = el('button', 'boton boton-suave dato-curioso-voz');
+      oir.type = 'button';
+      oir.dataset.voz = '';
+      oir.hidden = !voz;
+      oir.append(icono(ICONO_VOZ), el('span', '', 'Escuchar'));
+      oir.setAttribute('aria-label', `Escuchar ${d.cita || 'el pasaje'}`);
+      oir.addEventListener('click', () => alternarVoz(`${d.cita || ''}. ${d.pasaje}`, oir));
+      caja.append(cita, oir);
+    }
+    art.append(caja);
   }
 
 

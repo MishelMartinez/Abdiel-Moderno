@@ -1,5 +1,5 @@
 {
- "fuente": "Catechismus Oder Christlicher Vnderricht (Heidelberg, 1563), según el facsímil de A. Wolters, Der Heidelberger Katechismus in seiner ursprünglichen Gestalt (Bonn, 1864), archive.org/details/derheidelbergerk00unse_0, págs. 12–17. Dominio público. Ortografía modernizada para facilitar la lectura; el contenido no se altera.",
+ "fuente": "Catechismus Oder Christlicher Vnderricht (Heidelberg, 1563), según el facsímil de A. Wolters, Der Heidelberger Katechismus in seiner ursprünglichen Gestalt (Bonn, 1864), archive.org/details/derheidelbergerk00unse_0, págs. 12–17. Dominio público. Ortografía modernizada para facilitar la lectura; el contenido no se altera. Preguntas 11 a 129: texto alemán de 1563 según Philip Schaff, The Creeds of Christendom, vol. III (Nueva York, 1877), págs. 307–355, con la ortografía del siglo XIX de Schaff (transcripción de reformedconfessions.org); entre corchetes, los pasajes añadidos en la tercera edición de 1563. Dominio público.",
  "1": {
   "frage": "Was ist dein einiger Trost im Leben und im Sterben?",
   "antwort": "Dass ich mit Leib und Seele, beides, im Leben und im Sterben, nicht mein, sondern meines getreuen Heilands Jesu Christi eigen bin, der mit seinem teuren Blut für alle meine Sünden vollkömmlich bezahlt und mich aus aller Gewalt des Teufels erlöst hat und also bewahrt, dass ohne den Willen meines Vaters im Himmel kein Haar von meinem Haupt kann fallen, ja auch mir alles zu meiner Seligkeit dienen muss. Darum er mich auch durch seinen Heiligen Geist des ewigen Lebens versichert und ihm forthin zu leben von Herzen willig und bereit macht."
@@ -39,5 +39,481 @@
  "10": {
   "frage": "Will Gott solchen Ungehorsam und Abfall ungestraft lassen hingehen?",
   "antwort": "Mitnichten, sondern er zürnet schrecklich, beide über angeborne und wirkliche Sünden, und will sie aus gerechtem Urteil zeitlich und ewig strafen, wie er gesprochen hat: Verflucht sei jedermann, der nicht bleibet in allem dem, das geschrieben steht in dem Buch des Gesetzes, dass er's tue."
+ },
+ "11": {
+  "frage": "Ist denn Gott nicht auch barmherzig?",
+  "antwort": "Gott ist wohl barmherzig, Er ist aber auch gerecht. Derhalben erfordert seine Gerechtigkeit, daß die Sünde, welche wider die allerhöchste Majestät Gottes begangen ist, auch mit der höchsten, das ist, der ewigen Strafe, an Leib und Seele gestraft werde."
+ },
+ "12": {
+  "frage": "Dieweil wir denn nach dem gerechten Urtheil Gottes zeitliche und ewige Strafe verdienet haben: wie möchten wir dieser Strafe entgehen, und wiederum zu Gnaden kommen?",
+  "antwort": "Gott will, daß seiner Gerechtigkeit genug geschehe; deßwegen müssen wir derselben entweder durch uns selbst, oder durch einen Andern vollkommene Bezahlung thun."
+ },
+ "13": {
+  "frage": "Können wir aber durch uns selbst Bezahlung thun?",
+  "antwort": "Mit nichten: sondern wir machen auch die Schuld noch täglich größer."
+ },
+ "14": {
+  "frage": "Kann aber irgend eine bloße Creatur für uns bezahlen?",
+  "antwort": "Nein: denn erstlich will Gott an keiner andern Creatur strafen, was der Mensch verschuldet hat. Zum andern, so kann auch keine bloße Creatur die Last des ewigen Zornes Gottes wider die Sünde ertragen, und andere davon erlösen."
+ },
+ "15": {
+  "frage": "Was müssen wir denn für einen Mittler und Erlöser suchen?",
+  "antwort": "Einen solchen, der ein wahrer und gerechter Mensch, und doch stärker denn alle Creaturen, das ist, zugleich wahrer Gott sei."
+ },
+ "16": {
+  "frage": "Warum muß Er ein wahrer und gerechter Mensch sein?",
+  "antwort": "Darum, weil die Gerechtigkeit Gottes erfordert, daß die menschliche Natur, die gesündiget hat, für die Sünde bezahle, aber Einer, der selbst ein Sünder wäre, nicht könnte für Andere bezahlen."
+ },
+ "17": {
+  "frage": "Warum muß Er zugleich wahrer Gott sein?",
+  "antwort": "Daß er aus Kraft seiner Gottheit die Last des Zornes Gottes an seiner Menschheit ertragen, und uns die Gerechtigkeit und das Leben erwerben und wieder geben möchte."
+ },
+ "18": {
+  "frage": "Wer ist aber derselbe Mittler, der zugleich wahrer Gott und ein wahrer gerechter Mensch ist?",
+  "antwort": "Unser Herr Jesus Christus, der uns zur vollkommenen Erlösung und Gerechtigkeit geschenkt ist."
+ },
+ "19": {
+  "frage": "Woher weißt du das?",
+  "antwort": "Aus dem heiligen Evangelio, welches Gott selbst anfänglich im Paradies hat geoffenbaret, in der Folge durch die heiligen Erzväter und Propheten lassen verkündigen, und durch die Opfer und andere Ceremonien des Gesetzes vorgebildet, endlich aber durch seinen eingeliebten Sohn erfüllet."
+ },
+ "20": {
+  "frage": "Werden denn alle Menschen wiederum durch Christum selig, wie sie durch Adam sind verloren worden?",
+  "antwort": "Nein: sondern allein diejenigen, die durch wahren Glauben ihm werden einverleibt, und alle seine Wohlthaten annehmen."
+ },
+ "21": {
+  "frage": "Was ist wahrer Glaube?",
+  "antwort": "Es ist nicht allein eine gewisse Erkenntniß, dadurch ich Alles für wahr halte, was uns Gott in seinem Worte hat geoffenbaret, sondern auch ein herzliches Vertrauen, welches der heilige Geist durch's Evangelium in mir wirket, daß nicht allein Andern, sondern auch mir Vergebung der Sünden, ewige Gerechtigkeit und Seligkeit von Gott geschenket sei, aus lauter Gnaden, allein um des Verdienstes Christi willen."
+ },
+ "22": {
+  "frage": "Was ist aber einem Christen nöthig zu glauben?",
+  "antwort": "Alles, was uns im Evangelio verheißen wird, welches uns die Artikel unseres allgemeinen ungezweifelten christlichen Glaubens in einer Summa lehren."
+ },
+ "23": {
+  "frage": "Wie lauten dieselben?",
+  "antwort": "Ich glaube in Gott Vater, den Allmächtigen, Schöpfer Himmels und der Erden. Und in Jesum Christum, seinen eingebornen Sohn, unsern Herrn; der empfangen ist von dem heiligen Geiste, geboren aus Maria der Jungfrau; gelitten unter Pontio Pilato, gekreuziget, gestorben und begraben; abgestiegen zu der Hölle; am dritten Tage wieder auferstanden von den Todten; aufgefahren gen Himmel; sitzet zu der Rechten Gottes, des allmächtigen Vaters; von dannen Er kommen wird zu richten die Lebendigen und die Todten. Ich glaube in den heiligen Geist; eine heilige, allgemeine christliche Kirche; die Gemeinschaft der Heiligen; Vergebung der Sünden; Auferstehung des Fleisches, und ein ewiges Leben."
+ },
+ "24": {
+  "frage": "Wie werden diese Artikel abgetheilt?",
+  "antwort": "In drei Theile: Der erste ist von Gott dem Vater und unserer Erschaffung. Der andere von Gott dem Sohne und unserer Erlösung. Der dritte von Gott dem heiligen Geiste und unserer Heiligung."
+ },
+ "25": {
+  "frage": "Dieweil nur ein einig göttlich Wesen ist, warum nennest du drei, den Vater, Sohn und heiligen Geist?",
+  "antwort": "Darum, weil sich Gott also in seinem Wort geoffenbaret hat, daß diese drei unterschiedlichen Personen der einige wahrhaftige ewige Gott sind."
+ },
+ "26": {
+  "frage": "Was glaubest du, wenn du sprichst: Ich glabe in Gott Vater, den Allmächtigen, Schöpfer Himmels und der Erden?",
+  "antwort": "Daß der ewige Vater unsers Herrn Jesu Christi, der Himmel und Erde, sammt allem, was darinnen ist, aus nichts erschaffen, auch dieselbigen noch durch seinen ewigen Rath und Fürsehung erhält und regieret, um seines Sohnes Christi willen mein Gott und mein Vater sei, auf welchen ich also vertraue, daß ich nicht zweifle, Er werde mich mit aller Nothdurft Leibes und der Seele versorgen, auch alles Uebel, so Er mir in diesem Jammerthal zuschicket, mir zu gut wenden, dieweil Er's thun kann, als ein allmächtiger Gott, und auch thun will, als ein getreuer Vater."
+ },
+ "27": {
+  "frage": "Was verstehst du unter der Fürsehung Gottes?",
+  "antwort": "Die allmächtige und gegenwärtige Kraft Gottes, durch welche Er Himmel und Erde, sammt allen Creaturen, gleich als mit seiner Hand noch erhält, und also regieret, daß Laub und Gras, Regen und Dürre, fruchtbare und unfruchtbare Jahre, Essen und Trinken, Gesundheit und Krankheit, Reichtum und Armuth, und alles nicht von ohngefähr, sondern von seiner väterlichen Hand uns zukomme."
+ },
+ "28": {
+  "frage": "Was für Nutzen bekommen wir aus der Erkenntniß der Schöpfung und Fürsehung Gottes?",
+  "antwort": "Daß wir in aller Widerwärtigkeit geduldig, in Glückseligkeit dankbar, und auf's Zukünftige guter Zuversicht zu unserm getreuen Gott und Vater sein sollen, daß uns keine Creatur von seiner Liebe scheiden wird, dieweil alle Creaturen also in seiner Hand sind, daß sie sich ohne seinen Willen auch nicht regen noch bewegen können."
+ },
+ "29": {
+  "frage": "Warum wird der Sohn Gottes Jesus, das ist, Seligmacher, genannt?",
+  "antwort": "Darum, weil er uns selig macht von unsern Sünden, und weil bei keinem Andern einige Seligkeit zu suchen noch zu finden ist."
+ },
+ "30": {
+  "frage": "Glauben denn die auch an den einigen Seligmacher Jesum, die ihre Seligkeit und Heil bei Heiligen, bei sich selbst, oder anderswo suchen?",
+  "antwort": "Nein: sondern sie verläugnen mit der That den einigen Seligmacher und Heiland Jesum, ob sie sich sein gleich rühmen. Denn entweder Jesus nicht ein vollkommener Heiland sein kann, oder die diesen Heiland mit wahrem Glauben annehmen, müssen alles in Ihm haben, das zu ihrer Seligkeit vonnöthen ist."
+ },
+ "31": {
+  "frage": "Warum ist Er Christus, das ist, ein Gesalbter, genannt?",
+  "antwort": "Weil Er von Gott dem Vater verordnet und mit dem heiligen Geiste gesalbet ist zu unserm obersten Propheten und Lehrer, der uns den heimlichen Rath und Willen Gottes von unserer Erlösung vollkommen offenbaret; und zu unserm einigen Hohenpriester, der uns mit dem einigen Opfer seines Leibes erlöset hat, und immerdar mit seiner Fürbitte vor dem Vater vertritt; und zu unserm ewigen König, der uns mit seinem Wort und Geist regieret, und bei der erworbenen Erlösung schützet und erhält."
+ },
+ "32": {
+  "frage": "Warum wirst aber du ein Christ genannt?",
+  "antwort": "Weil ich durch den Glauben ein Glied Christi, und also seiner Salbung theilhaftig bin, auf daß auch ich seinen Namen bekenne, mich Ihm zu einem lebendigen Dankopfer darstelle, und mit freiem Gewissen in diesem Leben wider die Sünde und Teufel streite, und hernach in Ewigkeit mit Ihm über alle Creaturen herrsche."
+ },
+ "33": {
+  "frage": "Warum heißt Er Gottes eingeborener Sohn, so doch wir auch Gottes Kinder sind?",
+  "antwort": "Darum, weil Christus allein der ewige natürliche Sohn Gottes ist, wir aber um seinetwillen aus Gnaden zu Kindern Gottes angenommen sind."
+ },
+ "34": {
+  "frage": "Warum nennest du Ihn unsern Herrn?",
+  "antwort": "Weil Er uns mit Leib und Seele von der Sünde und aus aller Gewalt des Teufels nicht mit Gold oder Silber, sondern mit seinem theuren Blut ihm zum Eigenthum erlöset und erkaufet hat."
+ },
+ "35": {
+  "frage": "Was heißt, daß Er empfangen ist von dem heiligen Geist, geboren aus Maria der Jungfrau?",
+  "antwort": "Daß der ewige Sohn Gottes, der wahrer und ewiger Gott ist und bleibet, wahre menschliche Natur aus dem Fleisch und Blut der Jungfrau Maria, durch Wirkung des heiligen Geistes, an sich genommen hat, auf daß Er auch der wahre Same Davids sei, seinen Brüdern in allem gleich, ausgenommen die Sünde."
+ },
+ "36": {
+  "frage": "Was für Nutzen bekommst du aus der heiligen Empfängniß und Geburt Christi?",
+  "antwort": "Daß Er unser Mittler ist, und mit seiner Unschuld und vollkommenen Heiligkeit meine Sünde, darin ich bin empfangen, vor Gottes Angesicht bedecket."
+ },
+ "37": {
+  "frage": "Was verstehst du unter dem Wörtlein: Gelitten?",
+  "antwort": "Daß Er an Leib und Seele die ganze Zeit seines Lebens auf Erden, sonderlich aber am Ende desselben, den Zorn Gottes wider die Sünde des ganzen menschlichen Geschlechts getragen hat, auf daß Er mit seinem Leiden, als mit dem einigen Sühnopfer, unsern Leib und Seele von der ewigen Verdammniß erlösete, und uns Gottes Gnade, Gerechtigkeit und ewiges Leben erwürbe."
+ },
+ "38": {
+  "frage": "Warum hat Er under dem Richter Pontio Pilato gelitten?",
+  "antwort": "Auf daß Er urschuldig unter dem weltlichen Richter verdammet würde, und uns damit von dem strengen Urtheil Gottes, das über uns ergehen sollte, erledigte."
+ },
+ "39": {
+  "frage": "Ist es etwas mehr, daß Er ist gekreuziget worden, denn so Er eines andern Todes gestorben wäre?",
+  "antwort": "Ja: denn dadurch bin ich gewiß, daß Er die Vermaledeiung, die auf mir lag, auf sich geladen habe, dieweil der Tod des Kreuzes von Gott verflucht war."
+ },
+ "40": {
+  "frage": "Warum hat Christus den Tod müssen leiden?",
+  "antwort": "Darum, weil wegen der Gerechtigkeit und Wahrheit Gottes nicht anders für unsere Sünden möchte bezahlet werden, denn durch den Tod des Sohnes Gottes."
+ },
+ "41": {
+  "frage": "Warum ist Er begraben worden?",
+  "antwort": "Damit zu bezeugen, daß Er wahrhaftig gestorben sei."
+ },
+ "42": {
+  "frage": "Weil denn Christus für uns gestorben ist, wie kommt's, daß wir auch sterben müssen?",
+  "antwort": "Unser Tod ist nicht eine Bezahlung für unsere Sünde, sondern nur eine Absterbung der Sünden, und Eingang zum ewigen Leben."
+ },
+ "43": {
+  "frage": "Was bekommen wir mehr für Nutzen aus dem Opfer und Tod Christi am Kreuz?",
+  "antwort": "Daß durch seine Kraft unser alter Mensch mit Ihm gekreuziget, getödtet und begraben wird, auf daß die bösen Lüste des Fleisches nicht mehr in uns regieren, sondern daß wir uns selbst Ihm zur Danksagung aufopfern."
+ },
+ "44": {
+  "frage": "Warum folget: Abgestiegen zu der Hölle?",
+  "antwort": "Daß ich in meinen höchsten Anfechtungen versichert sei, mein Herr Christus habe mich durch seine unaussprechliche Angst, Schmerzen und Schrecken, die Er auch an seiner Seele am Kreuz und zuvor erlitten, vor der höllischen Angst und Pein erlöset."
+ },
+ "45": {
+  "frage": "Was nützet uns die Auferstehung Christi?",
+  "antwort": "Erstlich hat Er durch seine Auferstehung den Tod überwunden, daß Er uns der Gerechtigkeit, die Er uns durch seinen Tod erworben hat, könnte theilhaftig machen. Zum andern werden auch wir jetzt durch seine Kraft erwecket zu einem neuen Leben. Zum dritten ist uns die Auferstehung Christi ein gewisses Pfand unserer seligen Auferstehung."
+ },
+ "46": {
+  "frage": "Wie verstehst du [dieß], daß Er ist gen Himmel gefahren?",
+  "antwort": "Daß Christus vor den Augen seiner Jünger ist von der Erde aufgehoben gen Himmel, und uns zu gut daselbst ist, bis daß Er wiederkommt zu richten die Lebendigen und die Todten."
+ },
+ "47": {
+  "frage": "Ist denn Christus nicht bei uns bis an's Ende der Welt, wie Er uns verhießen hat?",
+  "antwort": "Christus ist wahrer Mensch und wahrer Gott: nach seiner menschlichen Natur ist Er jetzt nicht auf Erden, aber nach seiner Gottheit, Majestät, Gnade und Geist weicht Er nimmer von uns."
+ },
+ "48": {
+  "frage": "Werden aber auf diese Weise die zwei Naturen in Christo nicht von einander getrennt, so die Menschheit nicht überall ist, da die Gottheit ist?",
+  "antwort": "Mit nichten: denn weil die Gottheit unbegreiflich und allenthalben gegenwärtig ist, so muß folgen, daß sie wohl außerhalb ihrer angenommenen Menschheit, und dennoch nichts desto weniger auch in derselben ist, und persönlich mit ihr vereiniget bleibt."
+ },
+ "49": {
+  "frage": "Was nützet uns die Himmelfahrt Christi?",
+  "antwort": "Erstlich, daß Er im Himmel vor dem Angesicht seines Vaters unser Fürsprecher ist. Zum andern, daß wir unser Fleisch im Himmel zu einem sichern Pfand haben, daß Er, als das Haupt, uns, seine Gleider, auch zu sich werde hinauf nehmen. Zum dritten, daß Er uns seinen Geist zum Gegenpfand herab sendet, durch welches Kraft wir suchen, was droben ist, da Christus ist, sitzend zur Rechten Gottes, und nicht, das auf Erden ist."
+ },
+ "50": {
+  "frage": "Warum wird hinzugesetzt, daß Er sitze zur Rechten Gottes?",
+  "antwort": "Weil Christus darum gen Himmel gefahren ist, daß Er sich daselbst erzeige als das Haupt seiner christlichen Kirche, durch welches der Vater alles regieret."
+ },
+ "51": {
+  "frage": "Was nützet uns diese Herrlichkeit unsers Hauptes Christi?",
+  "antwort": "Erstlich, daß Er durch seinen heiligen Geist in uns, seine Glieder, die himmlischen Gaben ausgeußt; darnach, daß Er uns mit seiner Gewalt wider alle Feinde schützet und erhält."
+ },
+ "52": {
+  "frage": "Wes tröstet dich die Wiederkunft Christi zu richten die Lebendigen und die Todten?",
+  "antwort": "Daß ich in aller Trübsal und Verfolgung mit aufgerichtetem Haupt eben des Richters, der sich zuvor dem Gerichte Gottes für mich dargestellt und alle Vermaledeiung von mir hinweggenommen hat, aus dem Himmel gewärtig bin, daß Er alle seine und meine Feinde in die ewige Verdammniß werfe, mich aber, sammt allen Auserwählten, zu sich in die himmlische Freude und Herrlichkeit nehme."
+ },
+ "53": {
+  "frage": "Was glaubest du vom Heiligen Geiste?",
+  "antwort": "Erstlich, daß Er gleich ewiger Gott mit dem Vater und dem Sohne ist. Zum andern, daß Er auch mir gegeben ist, mich durch einen wahren Glauben Christi und aller seiner Wohlthaten theilhaftig macht, mich tröstet und bei mir bleiben wird bis in Ewigkeit."
+ },
+ "54": {
+  "frage": "Was glaubest du von der heiligen allgemeinen Christlichen Kirche?",
+  "antwort": "Daß der Sohn Gottes aus dem ganzen menschlichen Geschlechte sich eine auserwählte Gemeine zum ewigen Leben, durch seinen Geist und Wort, in Einigkeit des wahren Glaubens, von Anbeginn der Welt bis an's Ende versammle, schütze und erhalte; und daß ich derselben ein lebendiges Glied bin, und ewig bleiben werde."
+ },
+ "55": {
+  "frage": "Was verstehst du under der Gemeinschaft der Heiligen?",
+  "antwort": "Erstlich, daß alle und jede Gläubigen als Glieder an dem Herrn Christo und allen seinen Schätzen und Gaben Gemeinschaft haben. Zum andern, daß ein jeder seine Gaben zu Nutz und Heil der andern Glieder willig und mit Freuden anzulegen sich schuldig wissen soll."
+ },
+ "56": {
+  "frage": "Was glaubest du von der Vergebung der Sünden?",
+  "antwort": "Daß Gott um der Genugthuung Christi willen aller meiner Sünden, auch der sündlichen Art, mit der ich mein Leben lang zu streiten habe, nimmermehr gedenken will, sondern mir die Gerechtigkeit Christi aus Gnaden schenket, daß ich in's Gericht nimmermehr soll kommen."
+ },
+ "57": {
+  "frage": "Wes tröstet dich die Auferstehung des Fleisches?",
+  "antwort": "Daß nicht allein meine Seele nach diesem Leben alsbald zu Christo, ihrem Haupt, genommen wird, sondern auch, daß dieß mein Fleisch, durch die Kraft Christi auferwecket, wieder mit meiner Seele vereiniget, und dem herrlichen Leibe Christi gleichförmig werden soll."
+ },
+ "58": {
+  "frage": "Wes tröstet dich der Artikel vom ewigen Leben?",
+  "antwort": "Daß, nachdem ich jetzt den Anfang der ewigen Freude in meinem Herzen empfinde, ich nach diesem Leben vollkommene Seligkeit besitzen werde, die kein Auge gesehen, kein Ohr gehöret, und in keines Menschen Herz gekommen ist, Gott ewiglich darin zu preisen."
+ },
+ "59": {
+  "frage": "Was hilft es dir aber nun, wenn du dieß Alles glaubest?",
+  "antwort": "Daß ich in Christo vor Gott gerecht, und ein Erbe des ewigen Lebens bin."
+ },
+ "60": {
+  "frage": "Wie bist du gerecht vor Gott?",
+  "antwort": "Allein durch wahren Glauben in Jesum Christum: also, daß, ob mich schon mein Gewissen anklagt, daß ich wider alle Gebote Gottes schwerlich gesündiget, und derselben keines je gehalten habe, auch noch immerdar zu allem Bösen geneigt bin, doch Gott ohne all mein Verdienst aus lauter Gnaden, mir die vollkommene Genugthuung, Gerechtigkeit und Heiligkeit Christi schenket und zurechnet, als hätte ich nie eine Sünde begangen noch gehabt, und selbst allen den Gehorsam vollbracht, den Christus für mich hat geleistet, wenn ich allein solche Wohlthat mit gläubigem Herzen annehme."
+ },
+ "61": {
+  "frage": "Warum sagst du, daß du allein durch den Glauben gerecht seiest?",
+  "antwort": "Nicht daß ich von wegen der Würdigkeit meines Glaubens Gott gefalle, sondern darum, daß allein die Genugthuung, Gerechtigkeit, und Heiligkeit Christi meine Gerechtigkeit vor Gott ist, und ich dieselbe nicht anders, denn allein durch den Glauben annehmen, und mir zueignen kann."
+ },
+ "62": {
+  "frage": "Warum können aber unsere guten Werke nicht die Gerechtigkeit vor Gott oder ein Stück derselben sein?",
+  "antwort": "Darum, weil die Gerechtigkeit, so vor Gottes Gericht bestehen soll, durchaus vollkommen und dem Gesetz ganz gleichförmig sein muß, aber auch unsere besten Werke in diesem Leben alle unvollkommen und mit Sünden befleckt sind."
+ },
+ "63": {
+  "frage": "Verdienen aber unsere guten Werke nichts, so sie doch Gott in diesem und dem zukünftigen Leben will belohnen?",
+  "antwort": "Diese Belohnung geschieht nicht aus Verdienst, sondern aus Gnaden."
+ },
+ "64": {
+  "frage": "Macht aber diese Lehre nicht sorglose und verruchte Leute?",
+  "antwort": "Nein: denn es unmöglich ist, daß die, so Christo durch wahren Glauben sind eingepflanzet, nicht Frucht der Dankbarkeit sollen bringen."
+ },
+ "65": {
+  "frage": "Dieweil denn allein der Glaube uns Christi und aller seiner Wohlthaten theilhaftig macht, woher kommt solcher Glaube?",
+  "antwort": "Der Heilige Geist wirket denselben in unsern Herzen durch die Predigt des heiligen Evangeliums, und bestätigt ihn durch den Brauch der heiligen Sacramente."
+ },
+ "66": {
+  "frage": "Was sind die Sacramente?",
+  "antwort": "Es sind sichtbare heilige Wahrzeichen und Siegel, von Gott dazu eingesetzt, daß er uns durch den Brauch derselben die Verheißung des Evangeliums desto besser zu verstehen gebe und versiegele: nämlich, daß er uns von wegen des einigen Opfers Christi, am Kreuz vollbracht, Vergebung der Sünden und ewiges Leben aus Gnaden schenke."
+ },
+ "67": {
+  "frage": "Sind den beide, das Wort und die Sacramente, dahin gerichtet, daß sie unsern Glauben auf das Opfer Jesu Christi am Kreuz, als auf den einigen Grund unserer Seligkeit, weisen?",
+  "antwort": "Ja freilich: denn der Heilige Geist lehret im Evangelio, und bestätigt durch die heiligen Sacramente, daß unsere ganze Seligkeit stehe in dem einigen Opfer Christi, für uns am Kreuz geschehen."
+ },
+ "68": {
+  "frage": "Wie veil Sacramente hat Christus in Neuen Testament eingesetzt?",
+  "antwort": "Zwei: die heilige Taufe und das heilige Abendmahl."
+ },
+ "69": {
+  "frage": "Wie wirst du in der heiligen Taufe erinnert und versichert, daß das einige Opfer Christi am Kreuz dir zu gut komme?",
+  "antwort": "Also, daß Christus dieß äußerliche Wasserbad eingesetzt, und dabei verheißen hat, daß ich so gewiß mit seinem Blut und Geist von der Unreinigkeit meiner Seele, das ist, allen meinen Sünden gewaschen sei, so gewiß ich äußerlich mit dem Wasser, welches die Unsauberkeit des Leibes pflegt hinzunehmen, gewaschen bin."
+ },
+ "70": {
+  "frage": "Was heißt mit dem Blut und Geist Christi gewaschen sein?",
+  "antwort": "Es heißt Vergebung der Sünden von Gott aus Gnaden haben, um des Blutes Christi willen, welches er in seinem Opfer am Kreuz für uns vergossen hat; darnach auch durch den Heiligen Geist erneuert, und zu einem Glied Christi geheiliget sein, daß wir je länger je mehr der Sünde absterben, und in einem gottseligen, unsträflichen Leben wandeln."
+ },
+ "71": {
+  "frage": "Wo hat Christus verheißen, daß wir so gewiß mit seinem Blut und Geist, als mit dem Taufwasser, gewaschen sind?",
+  "antwort": "In der Einsetzung der Taufe, welche also lautet: Gehet hin, und lehret alle Völker, und taufet sie im Namen des Vaters, und des Sohnes, und des Heiligen Geistes: wer da glaubet und getauft wird, der wird selig werden; wer aber nicht glaubet, der wird verdammt werden. Diese Verheißung wird auch wiederholt, da die Schrift die Taufe das Bad der Wiedergeburt und Abwaschung der Sünden nennet."
+ },
+ "72": {
+  "frage": "Ist denn das äußerliche Wasserbad die Abwaschung der Sünden selbst?",
+  "antwort": "Nein; denn allein das Blut Jesu Christi, und der Heilige Geist reiniget uns von allen Sünden."
+ },
+ "73": {
+  "frage": "Warum nennet denn der Heilige Geist die Taufe das Bad der Wiedergeburt und die Abwaschung der Sünden?",
+  "antwort": "Gott redet also nicht ohne große Ursache: nämlich, nicht allein, daß Er uns damit will lehren, daß, gleichwie die Unsauberkeit des Leibes durch Wasser, also unsere Sünden durch's Blut und Geist Christi hinweg genommen werden; sondern vielmehr, daß Er uns durch dieß göttliche Pfand und Wahrzeichen will versichern, daß wir so wahrhaftig von unsern Sünden geistlich gewaschen sind, als wir mit dem leiblichen Wasser gewaschen werden."
+ },
+ "74": {
+  "frage": "Soll man auch die jungen Kinder taufen?",
+  "antwort": "Ja: denn dieweil sie sowohl als die Alten in den Bund Gottes und seine Gemeine gehören, und ihnen in dem Blut Christi die Erlösung von Sünden und der Heilige Geist, welcher den Glauben wirket, nicht weniger denn den Alten zugesagt wird; so sollen sie auch durch die Taufe, als des Bundes Zeichen, der christlichen Kirche eingeleibt und von der Ungläubigen Kindern unterschieden werden, wie im alten Testament durch die Beschneidung geschehen ist, an welcher Statt im neuen Testament die Taufe ist eingesetzt."
+ },
+ "75": {
+  "frage": "Wie wirst du im Heiligen Abendmahl erinnert und versichert, daß du an dem einigen Opfer Christi am Kreuz und allen seinen Gütern Gemeinschaft habest?",
+  "antwort": "Also, daß Christus mir und allen Gläubigen von diesem gebrochenen Brot zu essen, und von diesem Kelch zu trinken befohlen hat, zu seinem Gedächtniß, und dabei verheißen: Erstlich, daß sein Leib so gewiß für mich am Kreuz geopfert und gebrochen, und sein Blut für mich vergossen sei, so gewiß ich mit Augen sehe, daß das Brot des Herrn mir gebrochen, und der Kelch mir mitgetheilet wird; und zum andern, daß Er selbst meine Seele mit seinem gekreuzigten Leib und vergossenen Blut so gewiß zum ewigen Leben speise und tränke, als ich aus der Hand des Dieners empfange und leiblich genieße das Brot und den Kelch des Herrn, welche mir als gewisse Wahrzeichen des Leibes und Bluts Christi gegeben werden."
+ },
+ "76": {
+  "frage": "Was heißt den gekreuzigten Leib Christi essen und sein vergossenes Blut trinken?",
+  "antwort": "Es heißt nicht allein mit gläubigem Herzen das ganze Leiden und Sterben Christi annehmen, und dadurch Vergebung der Sünden und ewiges Leben bekommen, sondern auch daneben durch den Heiligen Geist, der zugleich in Christo und in uns wohnet, also mit seinem gebenedeiten Leibe je mehr und mehr vereiniget werden, daß wir, obgleich Er im Himmel, und wir auf Erden sind, dennoch Fleisch von seinem Fleisch und Bein von seinen Beinen sind, und von Einem Geiste (wie die Glieder unsers Leibes von Einer Seele) ewig leben und regieret werden."
+ },
+ "77": {
+  "frage": "Wo hat Christus verheißen, daß Er die Gläubigen so gewiß mit seinem Leib und Blut speise und tränke, als sie von diesem gebrochenen Brot essen, und von diesem Kelch trinken?",
+  "antwort": "In der Einsetzung des heiligen Abendmahls, welche also lautet: Unser Herr Jesus, in der Nacht, da Er verrathen ward, nahm Er das Brot, dankete, und brach's, und sprach: ‚Nehmet, esset, das ist mein Leib, der für euch gebrochen wird; solches thut zu meinem Gedächtniß.'Desselben gleichen auch den Kelch, nach dem Abendmahl, und sprach: ‚Dieser Kelch ist das Neue Testament in meinem Blut; solches thut, so oft ihr's trinket, zu meinem Gedächtniß.'Denn so oft ihr von diesem Brot esset, und von diesem Kelch trinket, sollt ihr des Herrn Tod verkündigen, bis daß Er kommt. Und diese Verheißung wird auch wiederholet durch St. Paulum, da er spricht: Der Kelch der Danksagung, damit wir danksagen, ist er nicht die Gemeinschaft des Bluts Christi? Das Brot, das wir brechen, ist das nicht die Gemeinschaft des Leibes Christi? Denn Ein Brot ist's, so sind wir viele Ein Leib, dieweil wir alle Eines Brots theilhaftig sind?"
+ },
+ "78": {
+  "frage": "Wird denn aus Brot und Wein der wesentliche Leib und Blut Christi?",
+  "antwort": "Nein: sondern wie das Wasser in der Taufe nicht in das Blut Christi verwandelt, oder die Abwaschung der Sünden selbst wird, deren es allein ein göttlich Wahrzeichen und Versicherung ist: also wird auch das heilige Brot im Abendmahl nicht der Leib Christi selbst, wiewohl es, nach Art und Brauch der Sacramente, der Leib Christi genennet wird."
+ },
+ "79": {
+  "frage": "Warum nennet denn Christus das Brot seinen Leib, und den Kelch sein Blut, oder das Neue Testament in seinem Blute, und St. Paulus die Gemeinschaft des Leibes und Blutes Jesu Christi?",
+  "antwort": "Christus redet also nicht ohne große Ursache: nämlich, daß Er uns nicht allein damit will lehren, daß, gleich wie Brot und Wein das zeitliche Leben erhalten, also sei auch sein gekreuzigter Leib und vergossen Blut die wahre Speise und Trank unserer Seelen zum ewigen Leben, sondern vielmehr, daß Er uns durch dieß sichtbare Zeichen und Pfand will versichern, daß wir so wahrhaftig seines wahren Leibes und Blutes durch Wirkung des Heiligen Geistes theilhaftig werden, als wir diese heiligen Wahrzeichen mit dem leiblichen Mund zu seinem Gedächtniß empfangen, und daß all sein Leiden und Gehorsam so gewiß unser eigen sei, als hätten wir selbst in unserer eigenen Person alles gelitten und genug gethan."
+ },
+ "80": {
+  "frage": "Was ist für ein Unterschied zwischen dem Abendmahl des Herrn und der päpstlichen Messe?",
+  "antwort": "Das Abendmahl bezeuget uns, daß wir vollkommene Vergebung aller unserer Sünden haben durch das einige Opfer Jesu Christi, so Er selbst einmal am Kreuz vollbracht hat; [und daß wir durch den Heiligen Geist Christo werden eingeleibet, der jetzt mit seinem wahren Leib im Himmel zur Rechten des Vaters ist, und daselbst will angebetet werden]. Die Messe aber lehret, daß die Lebendigen und die Todten nicht durch das Leiden Christi Vergebung der Sünden haben, es sei denn, daß Christus noch täglich für sie von den Meßpriestern geopfert werde; [und daß Christus leiblich unter der Gestalt Brots und Weins sei, und derhalben darin soll angebetet werden]. Und ist also die Messe im Grund nichts anders, denn eine Verläugnung des einigen Opfers und Leidens Jesu Christi [und eine vermaledeite Abgötterei]."
+ },
+ "81": {
+  "frage": "Welche sollen zum Tische des Herrn kommen?",
+  "antwort": "Die sich selbst um ihrer Sünden willen mißfallen, und doch vertrauen, daß dieselbigen ihnen verziehen, und die übrige Schwachheit mit dem Leiden und Sterben Christi bedeckt sei, begehren auch je mehr und mehr ihren Glauben zu stärken, und ihr Leben zu bessern. Die Unbußfertigen aber und Heuchler essen und trinken sich selbst das Gericht."
+ },
+ "82": {
+  "frage": "Sollen aber zu diesem Abendmahl auch zugelassen werden, die sich mit ihrem Bekenntniß und Leben als Ungläubige und Gottlose erzeigen?",
+  "antwort": "Nein: denn es wird also der Bund Gottes geschmähet, und sein Zorn über die ganze Gemeine gereizet. Derhalben die christliche Kirche schuldig ist, nach der Ordnung Christi und seiner Apostel, solche bis zur Besserung ihres Lebens durch das Amt der Schlüssel auszuschließen."
+ },
+ "83": {
+  "frage": "Was ist das Amt der Schlüssel?",
+  "antwort": "Die Predigt des heiligen Evangeliums, und die christliche Bußzucht, durch welche beide Stücke das Himmelreich den Gläubigen aufgeschlossen und den Ungläubigen zugeschlossen wird:"
+ },
+ "84": {
+  "frage": "Wie wird das Himmelreich durch die Predigt des heiligen Evangeliums auf- und zugeschlossen?",
+  "antwort": "Also, daß nach dem Befehl Christi allen und jeden Gläubigen verkündigt und öffentlich bezeuget wird, daß ihnen, so oft sie die Verheißung des Evangeliums mit wahrem Glauben annehmen, wahrhaftig alle ihre Sünden von Gott, um des Verdienstes Christi willen, vergeben sind; und hinwiederum allen Ungläubigen und Heuchlern, daß der Zorn Gottes und die ewige Verdammniß auf ihnen liegt, so lange sie sich nicht bekehren. Nach welchem Zeugniß des Evangelii Gott beide in diesem und dem zukünftigen Leben urtheilen will."
+ },
+ "85": {
+  "frage": "Wie wird das Himmelreich auf- und zugeschlossen durch die christliche Bußzucht?",
+  "antwort": "Also, daß nach dem Befehl Christi diejenigen, so unter dem christlichen Namen unchristliche Lehre oder Wandel führen, nachdem sie etlichemal brüderlich vermahnet sind, und von ihren Irrthümern oder Lastern nicht abstehen, der Kirche, oder denen, so von der Kirche dazu verordnet sind, angezeiget, und so sie sich an derselben Vermahnung auch nicht kehren, von ihnen durch Verbietung der heiligen Sacramente aus der christlichen Gemeine, und von Gott selbst aus dem Reiche Christi werden ausgeschlossen; und wiederum als Glieder Christi und der Kirche angenommen, wenn sie wahre Besserung verheißen und erzeigen."
+ },
+ "86": {
+  "frage": "Dieweil wir denn aus unserm Elend, ohne all unser Verdienst, aus Gnaden durch Christum erlöset sind, warum sollen wir gute Werke thun?",
+  "antwort": "Darum, daß Christus, nachdem Er uns mit seinem Blut erkauft hat, uns auch durch seinen Heiligen Geist erneuert zu seinem Ebenbild, daß wir mit unserm ganzen Leben uns dankbar gegen Gott für seine Wohlthat erzeigen, und Er durch uns gepriesen werde. Darnach auch, daß wir bei uns selbst unsers Glaubens aus seinen Früchten gewiß seien, und mit unserm gottseligen Wandel unsern Nächsten auch Christo gewinnen."
+ },
+ "87": {
+  "frage": "Können denn die nicht selig werden, die sich von ihrem undankbaren, unbußfertigen Wandel zu Gott nicht bekehren?",
+  "antwort": "Keineswegs; denn, wie die Schrift sagt: Kein Unkeuscher, Abgöttischer, Ehebrecher, Dieb, Geiziger, Trunkenbold, Lästerer, Räuber und dergleichen, wird das Reich Gottes erben."
+ },
+ "88": {
+  "frage": "In wie viel Stücken stehet die wahrhaftige Buße oder Bekehrung des Menschen?",
+  "antwort": "In zwei Stücken: in Absterbung des alten, und Auferstehung des neuen Menschen."
+ },
+ "89": {
+  "frage": "Was ist die Absterbung des alten Menschen?",
+  "antwort": "Sich die Sünde von Herzen lassen leid sein, und dieselbe je länger je mehr hassen und fliehen."
+ },
+ "90": {
+  "frage": "Was ist die Auferstehung des neuen Menschen?",
+  "antwort": "Herzliche Freude in Gott durch Christum, und Lust und Liebe haben, nach dem Willen Gottes in allen guten Werken zu leben."
+ },
+ "91": {
+  "frage": "Welches sind aber gute Werke?",
+  "antwort": "Allein die aus wahrem Glauben nach dem Gesetz Gottes ihm zu Ehren geschehen, und nicht die auf unser Gutdünken oder Menschen-Satzung gegründet sind."
+ },
+ "92": {
+  "frage": "Wie lautet das Gesetz des Herrn?",
+  "antwort": "Gott redet alle diese Worte: Das Erste Gebot. Ich bin der Herr, dein Gott, der Ich dich aus Aegyptenland, aus dem Diensthause, geführet habe. Du sollst keine anderen Götter vor Mir haben. Das Andere Gebot. Du sollst dir kein Bildniß, noch irgend ein Gleichniß machen, weder deß, das oben im Himmel, noch deß, das unten auf Erden, oder deß, das im Wasser unter der Erde ist; du sollst sie nicht anbeten, noch ihnen dienen. Denn Ich, der Herr, dein Gott, bin ein starker, eifriger Gott, der die Missethat der Väter heimsucht an den Kindern bis in's dritte und vierte Glied, derer, die Mich hassen, und thue Barmherzigkeit an vielen Tausenden, die Mich lieben und Meine Gebote halten. Das Dritte Gebot. Du sollst den Namen des Herrn, deines Gottes, nicht mißbrauchen, denn der Herr wird den nicht ungestraft lassen, der seinen Namen mißbraucht. Das Vierte Gebot. Gedenke des Sabbathtages, daß du ihn heiligest. Sechs Tage sollst du arbeiten, und alle deine Werke thun: aber am siebenten Tage ist der Sabbath des Herrn, deines Gottes; da sollst du keine Arbeit thun, noch dein Sohn, noch deine Tochter, noch dein Knecht, noch deine Magd, noch dein Vieh, noch der Fremdling, der in deinen Thoren ist; denn in sechs Tagen hat der Herr Himmel und Erde gemacht, und das Meer, und alles, was darinnen ist, und ruhete am siebenten Tage: darum segnete der Herr den Sabbathtag, und heiligte ihn. Das Fünfte Gebot. Du sollst deinen Vater und deine Mutter ehren, auf daß du lange lebest im Lande, das dir der Herr, dein Gott, giebt. Das Sechste Gebot. Du sollst nicht tödten. Das Siebente Gebot. Du sollst nicht ehebrechen. Das Achte Gebot. Du sollst nicht stehlen. Das Neunte Gebot. Du sollst kein falsch Zeugniß reden wider deinen Nächsten. Das Zehnte Gebot. Laß dich nicht gelüsten deines Nächsten Hauses; laß dich nicht gelüsten deines Nächsten Weibes, noch seines Knechts, noch seiner Magd, noch seines Ochsens, noch seines Esels, noch alles, was dein Nächster hat."
+ },
+ "93": {
+  "frage": "Wie werden diese Gebote getheilet?",
+  "antwort": "In zwei Tafeln: deren die erste in vier Geboten lehret, wie wir uns gegen Gott sollen halten; die andere in sechs Geboten, was wir unserm Nächsten schuldig sind."
+ },
+ "94": {
+  "frage": "Was fordert der Herr im ersten Gebot?",
+  "antwort": "Daß ich, bei Verlierung meiner Seelen Heil und Seligkeit, alle Abgötterei, Zauberei, abergläubische Segen, Anrufung der Heiligen oder anderer Creaturen, meiden und fliehen soll, und den einigen wahren Gott recht erkennen, ihm allein vertrauen, in aller Demuth und Geduld, von ihm allein alles Gute gewarten, und ihn von ganzem Herzen lieben, fürchten, und ehren; also, daß ich ehe alle Creaturen übergebe, denn in dem Geringsten wider seinen Willen thue."
+ },
+ "95": {
+  "frage": "Was ist Abgötterei?",
+  "antwort": "An Statt des einigen wahren Gottes, der sich in seinem Wort hat offenbaret, oder neben demselben, etwas anderes dichten oder haben, darauf der Mensch sein Vertrauen setzt."
+ },
+ "96": {
+  "frage": "Was will Gott im andern Gebot?",
+  "antwort": "Daß wir Gott in keinem Wege verbilden, noch auf irgend eine andere Weise, denn Er in seinem Wort befohlen hat, verehren sollen."
+ },
+ "97": {
+  "frage": "Soll man denn gar kein Bildniß machen?",
+  "antwort": "Gott kann und soll keineswegs abgebildet werden; die Creaturen aber, ob sie schon mögen abgebildet werden, so verbietet doch Gott derselben Bildniß zu machen und zu haben, daß man sie verehre, oder ihm damit diene."
+ },
+ "98": {
+  "frage": "Mögen aber nicht die Bilder als der Laien Bücher in den Kirchen geduldet werden?",
+  "antwort": "Nein: denn wir sollen nicht weiser sein denn Gott, welcher seine Christenheit nicht durch stumme Götzen, sondern durch die lebendige Predigt seines Worts will unterwiesen haben."
+ },
+ "99": {
+  "frage": "Was will das dritte Gebot?",
+  "antwort": "Daß wir nicht allein mit Fluchen, oder mit falschem Eid, sondern auch mit unnöthigem Schwören den Namen Gottes nicht lästern oder mißbrauchen, noch uns mit unserm Stillschweigen und Zusehen, solcher schrecklichen Sünden theilhaftig machen; und in Summa, daß wir den heiligen Namen Gottes anders nicht, denn mit Furcht und Ehrerbietung gebrauchen, auf daß er von uns recht bekennet, angerufen, und in allen unsern Worten und Werken gepriesen werde."
+ },
+ "100": {
+  "frage": "Ist denn mit Fluchen und Schwören Gottes Namen lästern so eine schwere Sünde, daß Gott auch über die zürnet, die, so viel an ihnen ist, dieselbe nicht helfen wehren und verbieten?",
+  "antwort": "Ja freilich: denn keine Sünde größer ist, noch Gott heftiger erzürnet, denn Lästerung seines Namens: darum er sie auch mit dem Tode zu strafen befohlen hat."
+ },
+ "101": {
+  "frage": "Mag man aber auch gottselig bei dem Namen Gottes einen Eid schwören?",
+  "antwort": "Ja: wenn es die Obrigkeit von ihren Unterthanen oder sonst die Noth erfordert, Treue und Wahrheit zu Gottes Ehre und des Nächsten Heil dadurch zu erhalten und zu fördern. Denn solches Eidschwören ist in Gottes Wort gegründet, und derhalben von den Heiligen im alten und neuen Testament recht gebraucht worden."
+ },
+ "102": {
+  "frage": "Mag man auch bei den Heiligen, oder andern Creaturen einen Eid schwören?",
+  "antwort": "Nein: denn ein rechtmäßiger Eid ist eine Anrufung Gottes, daß Er, als der einige Herzenskündiger, der Wahrheit Zeugniß wolle geben, und mich strafen, so ich falsch schwöre, welche Ehre denn keiner Creatur gebühret."
+ },
+ "103": {
+  "frage": "Was will Gott im vierten Gebot?",
+  "antwort": "Gott will erstlich, daß das Predigtamt und Schulen erhalten werden, und ich, sonderlich am Feiertag, zu der Gemeine Gottes fleißig komme, das Wort Gottes zu lernen, die heiligen Sacramente zu gebrauchen, den Herrn öffentlich anzurufen, und das christliche Almosen zu geben. Zum andern, daß ich alle Tage meines Lebens von meinen bösen Werken feire, den Herrn durch seinen Geist in mir wirken lasse, und also den ewigen Sabbath in diesem Leben anfange."
+ },
+ "104": {
+  "frage": "Was will Gott im fünften Gebot?",
+  "antwort": "Daß ich meinem Vater und Mutter, und allen, die mir vorgesetzt sind, alle Ehre, Liebe und Treue beweisen, und mich aller guten Lehre und Strafe mit gebührlichem Gehorsam unterwerfen, und auch mit ihren Gebrechen Geduld haben soll, dieweil uns Gott durch ihre Hand regieren will."
+ },
+ "105": {
+  "frage": "Was will Gott im sechsten Gebot?",
+  "antwort": "Daß ich meinen Nächsten weder mit Gedanken, noch mit Worten oder Geberden, viel weniger mit der That, durch mich selbst oder Andere, schmähen, hassen, beleidigen oder tödten; sondern alle Rachgierigkeit ablegen, auch mich selbst nicht beschädigen, oder muthwillig in Gefahr begeben soll. Darum auch die Obrigkeit, dem Todtschlag zu wehren, das Schwert trägt."
+ },
+ "106": {
+  "frage": "Redet doch dieß Gebot allein vom Tödten.",
+  "antwort": "Es will uns aber Gott durch Verbietung des Todtschlags lehren, daß Er die Wurzel des Todtschlags, als Neid, Haß, Zorn, Rachgierigkeit, hasset, und daß solches alles vor ihm ein heimlicher Todtschlag sei."
+ },
+ "107": {
+  "frage": "Ist's aber damit genug, daß wir unsern Nächsten, wie gemeldet, nicht tödten?",
+  "antwort": "Nein: denn indem Gott Neid, Haß und Zorn verdammt, will Er von uns haben, daß wir unsern Nächsten lieben, als uns selbst, gegen ihn Geduld, Friede, Sanftmuth, Barmherzigkeit und Freundlichkeit erzeigen, seinen Schaden, so viel uns möglich, abwenden, und auch unsern Feinden Gutes thun."
+ },
+ "108": {
+  "frage": "Was will das siebente Gebot?",
+  "antwort": "Daß alle Unkeuschheit von Gott vermaledeiet sei, und daß wir darum ihr von Herzen feind sein, und keusch und züchtig leben sollen, es sei im heiligen Ehestand, oder außerhalb desselben."
+ },
+ "109": {
+  "frage": "Verbietet Gott in diesem Gebot nichts mehr denn Ehebruch und dergleichen Schanden?",
+  "antwort": "Dieweil beide unser Leib und Seele ein Tempel des Heiligen Geistes sind: so will Er, daß wir sie beide sauber und heilig bewahren; verbietet derhalben alle unkeusche Thaten, Geberden, Worte, Gedanken, Lust, und was den Menschen dazu reizen mag."
+ },
+ "110": {
+  "frage": "Was verbietet Gott im achten Gebot?",
+  "antwort": "Er verbietet nicht allein den Diebstahl und Räuberei, welche die Obrigkeit straft; sondern Gott nennet auch Diebstahl alle böse Stücke und Anschläge, damit wir unseres Nächsten Gut gedenken an uns zu bringen, es sei mit Gewalt oder Schein des Rechtes, als unrechtem Gewicht, Elle, Maß, Waare, Münze, Wucher, oder durch einiges Mittel, das von Gott verboten ist; dazu auch allen Geiz und unnütze Verschwendung seiner Gaben."
+ },
+ "111": {
+  "frage": "Was gebietet dir aber Gott in diesem Gebot?",
+  "antwort": "Daß ich meines Nächsten Nutzen, wo ich kann und mag, fördere, gegen ihn also handele, wie ich wollte, daß man mit mir handelte, und treulich arbeite, auf daß ich dem Dürftigen in seiner Noth helfen möge."
+ },
+ "112": {
+  "frage": "Was will das neunte Gebot?",
+  "antwort": "Daß ich wider Niemand falsch Zeugniß gebe, Niemand seine Worte verkehre, kein Afterreder und Lästerer sei, Niemand unverhört und leichtlich verdammen helfe; sondern allerlei Lügen und Trügen, als eigene Werke des Teufels, bei schwerem Gottes-Zorn vermeide, in Gerichts- und allen andern Handlungen die Wahrheit liebe, aufrichtig sage und bekenne, auch meines Nächsten Ehre und Glimpf, nach meinem Vermögen, rette und fördere."
+ },
+ "113": {
+  "frage": "Was will das zehnte Gebot?",
+  "antwort": "Daß auch die geringste Lust oder Gedanken wider irgend ein Gebot Gottes in unser Herz nimmermehr kommen; sondern wir für und für von ganzem Herzen aller Sünde feind sein, und Lust zu aller Gerechtigkeit haben sollen."
+ },
+ "114": {
+  "frage": "Können aber die, so zu Gott bekehret sind, solche Gebote vollkommen halten?",
+  "antwort": "Nein; sondern es haben auch die Allerheiligsten, so lange sie in diesem Leben sind, nur einen geringen Anfang dieses Gehorsams; doch also, daß sie mit erstlichem Vorsatz, nicht allein nach etlichen, sondern nach allen Geboten Gottes anfangen zu leben."
+ },
+ "115": {
+  "frage": "Warum läßt uns denn Gott also scharf die zehn Gebote predigen, wenn sie in diesem Leben Niemand halten kann.",
+  "antwort": "Erstlich, auf daß wir unser ganzes Leben lang unsere sündliche Art je länger je mehr erkennen, und [so viel] desto begieriger Vergebung der Sünden und Gerechtigkeit in Christo suchen. Darnach, daß wir ohne Unterlaß uns befleißigen, und Gott bitten um die Gnade des Heiligen Geistes, daß wir je länger je mehr zu dem Ebenbilde Gottes erneuert werden, bis wir das Ziel der Vollkommenheit nach diesem Leben erreichen."
+ },
+ "116": {
+  "frage": "Warum ist den Christen das Gebet nöthig?",
+  "antwort": "Darum, weil es das vornehmste Stück der Dankbarkeit ist, welche Gott von uns fordert, und weil Gott seine Gnade und Heiligen Geist allein denen will geben, die ihn mit herzlichem Seufzen ohne Unterlaß darum bitten, und ihm dafür danken."
+ },
+ "117": {
+  "frage": "Was gehört zu einem solchen Gebet, das Gott gefalle, und von ihm erhört werde?",
+  "antwort": "Erstlich, daß wir allein den einigen wahren Gott, der sich uns in seinem Wort hat geoffenbaret, um alles, das er uns zu bitten befohlen hat, von Herzen anrufen. Zum andern, daß wir unsere Noth und Elend recht gründlich erkennen, uns vor dem Angesicht seiner Majestät zu demüthigen. Zum dritten, daß wir diesen festen Grund haben, daß Er unser Gebet, unangesehen, daß wir's unwürdig sind, doch um des Herrn Christi willen gewißlich wolle erhören, wie Er uns in seinem Wort verheißen hat."
+ },
+ "118": {
+  "frage": "Was hat uns Gott befohlen, von ihm zu bitten?",
+  "antwort": "Alle geistliche und leibliche Nothdurft, welche der Herr Christus begriffen hat in dem Gebet, das Er uns selbst gelehret."
+ },
+ "119": {
+  "frage": "Wie lautet das Gebet des Herrn?",
+  "antwort": "Unser Vater, der du bist in den Himmeln: Geheiliget werde dein Name. Dein Reich komme. Dein Wille geschehe auf Erden, wie im Himmel. Unser täglich Brot gieb uns heute. Und vergieb uns unsere Schulden, wie auch wir vergeben unsern Schuldigern. Und führe uns nicht in Versuchung, sondern erlöse uns vom Bösen. Denn dein ist das Reich, und die Kraft, und die Herrlichkeit in Ewigkeit. Amen."
+ },
+ "120": {
+  "frage": "Warum hat uns Christus befohlen, Gott also anzureden: Unser Vater?",
+  "antwort": "Daß Er gleich im Anfang unsers Gebets in uns erweck die kindliche Furcht und Zuversicht gegen Gott, welche der Grund unseres Gebets sein soll, nämlich, daß Gott unser Vater durch Christum worden sei, und wolle uns viel weniger versagen, warum wir ihn im Glauben bitten, denn unsere Väter uns irdische Dinge abschlagen."
+ },
+ "121": {
+  "frage": "Warum wird hinzugethan: Der du bist in den Himmeln?",
+  "antwort": "Auf daß wir von der himmlichen Majestät Gottes nichts Irdisches gedenken, und von seiner Allmächtigkeit alle Nothdurft Leibes und der Seele gewarten."
+ },
+ "122": {
+  "frage": "Was ist die erste Bitte?",
+  "antwort": "Geheiliget werde dein Name; das ist: Gieb uns erstlich, daß wir dich recht erkennen, und dich in allen deinen Werken, in welchen leuchtet deine Allmächtigkeit, Weisheit, Güte, Gerechtigkeit, Barmherzigkeit und Wahrheit, heiligen, rühmen und preisen. Darnach auch, daß wir unser ganzes Leben, Gedanken, Worte und Werke dahin richten, daß dein Name um unsertwillen nicht gelästert, sondern geehret und gepriesen werde."
+ },
+ "123": {
+  "frage": "Was ist die andere Bitte?",
+  "antwort": "Dein Reich komme; das ist, Regiere uns also durch dein Wort und Geist, daß wir uns dir je länger je mehr unterwerfen; erhalte und mehre deine Kirche, und zerstöre die Werke des Teufels und alle Gewalt, die sich wider dich erhebt, und alle bösen Rathschläge, die wider dein heiliges Wort erdacht werden, bis die Vollkommenheit deines Reichs herzukomme, darin du wirst Alles in Allen sein."
+ },
+ "124": {
+  "frage": "Was ist die dritte Bitte?",
+  "antwort": "Dein Wille geschehe auf Erden, wie im Himmel; das ist: Verleihe, daß wir und alle Menschen unserem eigenen Willen absagen, und deinem allein guten Willen, ohne alles Widersprechen, gehorchen; daß also Jedermann sein Amt und Beruf so willig und treulich ausrichte, wie die Engel im Himmel."
+ },
+ "125": {
+  "frage": "Was ist die vierte Bitte?",
+  "antwort": "Gieb uns heute unser täglich Brot; das ist: Wollest uns mit aller leiblichen Nothdurft versorgen, auf daß wir dadurch erkennen, daß Du der einige Ursprung alles Guten bist, und daß ohne deinen Segen weder unsere Sorgen und Arbeit, noch deine Gaben uns gedeihen, und wir derhalben unser Vertrauen von allen Creaturen abziehen, und allein auf dich setzen."
+ },
+ "126": {
+  "frage": "Was ist die fünfte Bitte?",
+  "antwort": "Vergieb uns unsere Schulden, wie auch wir vergeben unseren Schuldigern; das ist: Wollest uns armen Sündern alle unsere Missethat, auch das Böse, so uns noch immerdar anhänget, um des Bluts Christi willen nicht zurechnen, wie auch wir dieß Zeugniß deiner Gnade in uns finden, daß unser ganzer Vorsatz ist, unserem Nächsten von Herzen zu verzeihen."
+ },
+ "127": {
+  "frage": "Was ist die sechste Bitte?",
+  "antwort": "Und führe uns nicht in Versuchung, sondern erlöse uns vom Bösen; das ist: Dieweil wir aus uns selbst so schwach sind, daß wir nicht einen Augenblick bestehen können, und dazu unsere abgesagten Feinde, der Teufel, die Welt, und unser eigen Fleisch, nicht aufhören uns anzufechten: so wollest Du uns erhalten und stärken durch die Kraft deines Heiligen Geistes, auf daß wir ihnen mögen festen Widerstand thun, und in diesem geistlichen Streit nicht unterliegen, bis daß wir endlich den Sieg vollkommen behalten."
+ },
+ "128": {
+  "frage": "Wie beschließest du dieß Gebet?",
+  "antwort": "Denn dein ist das Reich, und die Kraft, und die Herrlichkeit in Ewigkeit; das ist, Solches alles bitten wir darum von Dir, weil Du, als unser König, und aller Dinge mächtig, uns alles Gute geben willst und kannst, und daß dadurch nicht wir, sondern Dein heiliger Name ewig soll gepriesen werden."
+ },
+ "129": {
+  "frage": "Was bedeutet das Wörtlein: Amen?",
+  "antwort": "Amen heißt: das soll wahr und gewiß sein; denn mein Gebet viel gewisser von Gott erhöret ist, denn ich in meinem Herzen fühle, daß ich solches von ihm begehre."
  }
 }
