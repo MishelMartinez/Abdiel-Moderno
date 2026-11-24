@@ -2724,15 +2724,18 @@
           "citas": [
             {
               "cita": "1 Cor. 7:2,3,5,34,36",
-              "Pasaje": "2. al hombre no tocar mujer; pero a causa de las fornicaciones, cada uno tenga su propia mujer, y cada una tenga su propio marido.\n3. El marido cumpla con la mujer el deber conyugal, y asimismo la mujer con el marido.\n5. No os neguéis el uno al otro, a no ser por algún tiempo de mutuo consentimiento, para ocuparos sosegadamente en la oración; y volved a juntaros en uno, para que no os tiente Satanás a causa de vuestra incontinencia.\n34. Hay asimismo diferencia entre la casada y la doncella. La doncella tiene cuidado de las cosas del Señor, para ser santa así en cuerpo como en espíritu; pero la casada tiene cuidado de las cosas del mundo, de cómo agradar a su marido.\n36. Pero si alguno piensa que es impropio para su hija virgen que pase ya de edad, y es necesario que así sea, haga lo que quiera, no peca; que se case."
+              "Pasaje": "2. al hombre no tocar mujer; pero a causa de las fornicaciones, cada uno tenga su propia mujer, y cada una tenga su propio marido.\n3. El marido cumpla con la mujer el deber conyugal, y asimismo la mujer con el marido.\n5. No os neguéis el uno al otro, a no ser por algún tiempo de mutuo consentimiento, para ocuparos sosegadamente en la oración; y volved a juntaros en uno, para que no os tiente Satanás a causa de vuestra incontinencia.\n34. Hay asimismo diferencia entre la casada y la doncella. La doncella tiene cuidado de las cosas del Señor, para ser santa así en cuerpo como en espíritu; pero la casada tiene cuidado de las cosas del mundo, de cómo agradar a su marido.\n36. Pero si alguno piensa que es impropio para su hija virgen que pase ya de edad, y es necesario que así sea, haga lo que quiera, no peca; que se case.",
+              "PasajeOso1569": "2. Mas por euitar las fornicaciones, cada vno tenga ſu muger, y cada vna tenga ſu marido.\n3. El marido pague à la muger la deuda: y anſi miſmo la muger àl marido.\n5. No hos defraudeys el vno àl otro, ſino fuere algo por tiempo, de conſentimiento de ambos, por occuparhos en ayuno y en oracion: y bolued à juntarhos en vno, porque no hos tiente Satanas à cauſa de vueſtra incontinencia.\n34. Y la muger por caſar y dõzella, tiene cuydado de las coſas q̃ ſon del Señor, para ſer ſancta anſi en el cuerpo como en el eſpiritu: mas la caſada, tiene cuydado de las coſas que ſon del mundo, como ha de agradar à ſu marido.\n36. Mas ſi à alguno parece coſa fea en ſu hija, que paſſe ya de edad, y q̃ anſi cõuiene que ſe haga, haga loque quiſiére: no pecca; caſe ſe."
             },
             {
               "cita": "Col. 4:6",
-              "Pasaje": "6. Sea vuestra palabra siempre con gracia, sazonada con sal, para que sepáis cómo debéis responder a cada uno."
+              "Pasaje": "6. Sea vuestra palabra siempre con gracia, sazonada con sal, para que sepáis cómo debéis responder a cada uno.",
+              "PasajeOso1569": "6. Vueſtra palabra ſiempre con gracia, adobada con ſal: que ſepays como hos cõuiene reſponder à cada vno."
             },
             {
               "cita": "1 Ped. 3:2",
-              "Pasaje": "2. ganados sin palabra por la conducta de sus esposas, considerando vuestra conducta casta y respetuosa."
+              "Pasaje": "2. ganados sin palabra por la conducta de sus esposas, considerando vuestra conducta casta y respetuosa.",
+              "PasajeOso1569": "2. Conſiderando vueſtra caſta conuerſacion, que es en temor."
             }
           ]
         }
@@ -2751,15 +2754,18 @@
           "citas": [
             {
               "cita": "Mat. 15:19",
-              "Pasaje": "19. Porque del corazón salen los malos pensamientos, los homicidios, los adulterios, las fornicaciones, los hurtos, los falsos testimonios, las blasfemias."
+              "Pasaje": "19. Porque del corazón salen los malos pensamientos, los homicidios, los adulterios, las fornicaciones, los hurtos, los falsos testimonios, las blasfemias.",
+              "PasajeOso1569": "19. Porque del coraçon ſalen los malos penſamientos: muertes, adulterios, fornicaciones, hurtos, falſos teſtimonios, maledicencias."
             },
             {
               "cita": "5:28",
-              "Pasaje": "28. Pero yo os digo que cualquiera que mira a una mujer para codiciarla, ya adulteró con ella en su corazón."
+              "Pasaje": "28. Pero yo os digo que cualquiera que mira a una mujer para codiciarla, ya adulteró con ella en su corazón.",
+              "PasajeOso1569": "28. Yo pues os digo, que qualquiera que mira la muger para cudiciarla, ya adulteró con ella en ſu coraçon."
             },
             {
               "cita": "Ef. 5:3,4",
-              "Pasaje": "3. Pero fornicación y toda inmundicia, o avaricia, ni aun se\n4. nombre entre vosotros, como conviene a santos; ni palabras deshonestas, ni necedades, ni truhanerías, que no convienen, sino antes bien acciones de gracias."
+              "Pasaje": "3. Pero fornicación y toda inmundicia, o avaricia, ni aun se\n4. nombre entre vosotros, como conviene a santos; ni palabras deshonestas, ni necedades, ni truhanerías, que no convienen, sino antes bien acciones de gracias.",
+              "PasajeOso1569": "3. Y fornicacion y toda immundicia, ò auaricia, ni aun ſe miente entre voſotros, como conuiene à Sanctos.\n4. Ni palabras torpes, ni locuras, ni truhanerias, que no conuienen: ſi no antes hazimiento de gracias."
             }
           ]
         }
@@ -2778,7 +2784,8 @@
           "citas": [
             {
               "cita": "Ex. 20:15",
-              "Pasaje": "15. No hurtarás."
+              "Pasaje": "15. No hurtarás.",
+              "PasajeOso1569": "15. No hurtarás."
             }
           ]
         }
@@ -2797,27 +2804,34 @@
           "citas": [
             {
               "cita": "Gén. 30:30",
-              "Pasaje": "30. Porque poco tenías antes de mi venida, y ha crecido en gran número, y Jehová te ha bendecido con mi llegada; y ahora, ¿cuándo trabajaré también por mi propia casa?"
+              "Pasaje": "30. Porque poco tenías antes de mi venida, y ha crecido en gran número, y Jehová te ha bendecido con mi llegada; y ahora, ¿cuándo trabajaré también por mi propia casa?",
+              "PasajeOso1569": "30. Porq̃ poco tenias antes de mi, y ha crecido en multitud, y Iehoua te ha bendicho con mi entrada: y aora quando tengo de hazer tambien yo por mi caſa?"
             },
             {
               "cita": "1 Tim. 5:8",
-              "Pasaje": "8. estas cosas, para que sean irreprensibles; porque si alguno no provee para los suyos, y mayormente para los de su casa, ha negado la fe, y es peor que un incrédulo."
+              "Pasaje": "8. estas cosas, para que sean irreprensibles; porque si alguno no provee para los suyos, y mayormente para los de su casa, ha negado la fe, y es peor que un incrédulo.",
+              "PasajeOso1569": "8. Y ſi alguno no tiene cuydado de los ſuyos, y mayormente de los de ſu caſa, la fe negó, y es peor que el que no creyó."
             },
             {
               "cita": "Lev. 25:35",
-              "Pasaje": "35. Y cuando tu hermano empobreciere y se acogiere a ti, tú lo ampararás; como forastero y extranjero vivirá contigo."
+              "Pasaje": "35. Y cuando tu hermano empobreciere y se acogiere a ti, tú lo ampararás; como forastero y extranjero vivirá contigo.",
+              "PasajeOso1569": "35. ¶ Item, Quando tu hermano empobreciere, y acoſtáre ſu mano à ti, tu lo recibirás: como peregrino y eſtrangero biuirá contigo."
             },
             {
               "cita": "Deu. 22:1-5",
-              "Pasaje": "1. Si vieres extraviado el buey de tu hermano, o su cordero, no le negarás tu ayuda; lo volverás a tu hermano.\n2. Y si tu hermano no fuere tu vecino, o no lo conocieres, lo recogerás en tu casa, y estará contigo hasta que tu hermano lo busque, y se lo devolverás.\n3. Así harás con su asno, así harás también con su vestido, y lo mismo harás con toda cosa de tu hermano que se le perdiere y tú la hallares; no podrás negarle tu ayuda.\n4. Si vieres el asno de tu hermano, o su buey, caído en el camino, no te apartarás de él; le ayudarás a levantarlo.\n5. No vestirá la mujer traje de hombre, ni el hombre vestirá ropa de mujer; porque abominación es a Jehová tu Dios cualquiera que esto hace."
+              "Pasaje": "1. Si vieres extraviado el buey de tu hermano, o su cordero, no le negarás tu ayuda; lo volverás a tu hermano.\n2. Y si tu hermano no fuere tu vecino, o no lo conocieres, lo recogerás en tu casa, y estará contigo hasta que tu hermano lo busque, y se lo devolverás.\n3. Así harás con su asno, así harás también con su vestido, y lo mismo harás con toda cosa de tu hermano que se le perdiere y tú la hallares; no podrás negarle tu ayuda.\n4. Si vieres el asno de tu hermano, o su buey, caído en el camino, no te apartarás de él; le ayudarás a levantarlo.\n5. No vestirá la mujer traje de hombre, ni el hombre vestirá ropa de mujer; porque abominación es a Jehová tu Dios cualquiera que esto hace.",
+              "PasajeOso1569": "1. NO verás el buey de tu hermano, o ſu cordero, perdidos, y te eſconderás deellos: boluiendo los boluerás à tu hermano.\n2. Y aun que tu hermano no ſea tu pariente, o nolo conocieres, recogerlos has en tu caſa, y eſtarán contigo haſta que tu hermano los buſque, y boluerſeloshás.\n3. Y anſi harás de ſu aſno, anſi harás tambien de ſu veſtido, anſi harás tambiẽ de toda coſa perdida de tu hermano q̃ ſe le perdiere, y la hallares tu, no te podrás eſconder.\n4. No verás el aſno de tu hermano, o ſu buey, caydos en el camino, y te eſcõderás de ellos, leuantando los leuantarás con el.\n5. ¶ No veſtirá la muger habito de hõbre ni el hombre veſtirá veſtido de muger, porque abominacion es à Iehoua tu Dios qualquiera que eſto haze."
             },
             {
               "cita": "Ex. 25:4,5",
-              "Pasaje": "4. que tomaréis de ellos: oro, plata, cobre, azul, púrpura, car-\n5. mesí, lino fino, pelo de cabras, pieles de carneros teñidas de"
+              "Pasaje": "4. que tomaréis de ellos: oro, plata, cobre, azul, púrpura, car-\n5. mesí, lino fino, pelo de cabras, pieles de carneros teñidas de",
+              "PasajeOso1569": "4. ¶ Si encontrares el buey de tu enemigo, o ſu aſno errado, boluiendo ſelobolueràs.\n5. Si vieres el aſno delque te aborrece echado debaxo de ſu carga, dexarlohas entonces deſamparado? ayudando ayudarás con el.",
+              "notaOso1569": "La cita del Catecismo es Éxodo 23:4-5 (el buey y el asno del enemigo); se muestra ese pasaje."
             },
             {
               "cita": "Gén. 47:14,20",
-              "Pasaje": "14. Y recogió José todo el dinero que había en la tierra de Egipto y en la tierra de Canaán, por los alimentos que de él compraban; y metió José el dinero en casa de Faraón.\n20. Entonces compró José toda la tierra de Egipto para Faraón; pues los egipcios vendieron cada uno sus tierras, porque se agravó el hambre sobre ellos; y la tierra vino a ser de Faraón."
+              "Pasaje": "14. Y recogió José todo el dinero que había en la tierra de Egipto y en la tierra de Canaán, por los alimentos que de él compraban; y metió José el dinero en casa de Faraón.\n20. Entonces compró José toda la tierra de Egipto para Faraón; pues los egipcios vendieron cada uno sus tierras, porque se agravó el hambre sobre ellos; y la tierra vino a ser de Faraón.",
+              "PasajeOso1569": "14. Y Ioſeph recogió todo el dinero que ſe halló en la tierra de Egypto y en la tierra de Chanaã por los alimentos que comprauan deel: y metió Ioſeph el dinero en caſa de Pharaon.\n20. Entõces Ioſeph compró toda la tierra de Egypto para Pharaon: porque los Egypcios vendieron cada vno ſus tierras, por que la hãbre ſe fortaleció ſobre ellos: y fué la tierra de Pharaon."
             }
           ]
         }
@@ -2836,20 +2850,24 @@
           "citas": [
             {
               "cita": "Prov. 21:7",
-              "Pasaje": "7. La rapiña de los impíos los destruirá, Por cuanto no quisieron hacer juicio."
+              "Pasaje": "7. La rapiña de los impíos los destruirá, Por cuanto no quisieron hacer juicio.",
+              "PasajeOso1569": "7. La rapina de los impios los deſtruyrá: porque no quiſieron hazer juyzio."
             },
             {
               "cita": "23:20,21",
-              "Pasaje": "20. No estés con los bebedores de vino, Ni con los comedores de carne;\n21. Porque el bebedor y el comilón empobrecerán, Y el sueño hará vestir vestidos rotos."
+              "Pasaje": "20. No estés con los bebedores de vino, Ni con los comedores de carne;\n21. Porque el bebedor y el comilón empobrecerán, Y el sueño hará vestir vestidos rotos.",
+              "PasajeOso1569": "20. No eſtés con los beuedores de vino, ni con los comedores de carne;\n21. Porque el beuedor y el comilon empobrecerán: y el ſueño hará veſtir veſtidos rotos."
             },
             {
               "cita": "28:19",
-              "Pasaje": "19. El que labra su tierra se saciará de pan; Mas el que sigue a los ociosos se llenará de pobreza."
+              "Pasaje": "19. El que labra su tierra se saciará de pan; Mas el que sigue a los ociosos se llenará de pobreza.",
+              "PasajeOso1569": "19. Elque labra ſu tierra ſe hartará de pan; mas el que ſigue los ocioſos, ſe hartará de pobreza."
             },
             {
               "cita": "Ef. 4:28",
               "Pasaje": null,
-              "estadoPasaje": "No se pudo extraer el pasaje del PDF"
+              "estadoPasaje": "No se pudo extraer el pasaje del PDF",
+              "PasajeOso1569": "28. Elque hurtaua, no hurte yá: antes trabaje obrando de ſus manos loque es bueno: paraque tenga deque dé àlque padeciere neceſsidad."
             }
           ]
         }
@@ -2868,7 +2886,8 @@
           "citas": [
             {
               "cita": "Ex. 20:16",
-              "Pasaje": "16. No hablarás contra tu prójimo falso testimonio."
+              "Pasaje": "16. No hablarás contra tu prójimo falso testimonio.",
+              "PasajeOso1569": "16. No hablarás contra tu proximo falſo teſtimonio."
             }
           ]
         }
@@ -2888,7 +2907,8 @@
             {
               "cita": "Zab. 8:16",
               "Pasaje": null,
-              "estadoPasaje": "Referencia no identificada en el PDF: requiere revisión"
+              "estadoPasaje": "Referencia no identificada en el PDF: requiere revisión",
+              "PasajeOso1569": "16. ¶ Eſtas ſon las coſas que hareys, Hablad verdad cada qual cõ ſu proximo; juzgad en vueſtras puertas verdad y juyzio de paz:"
             }
           ]
         },
@@ -2898,7 +2918,8 @@
             {
               "cita": "3 Jn. 12",
               "Pasaje": null,
-              "estadoPasaje": "Numeración de versículos inválida o no encontrada"
+              "estadoPasaje": "Numeración de versículos inválida o no encontrada",
+              "PasajeOso1569": "12. Todos dan teſtimonio de Demetrio, y aun la miſma verdad: pero tambien noſotros damos teſtimonio, y voſotros aueys conocido que nueſtro teſtimonio es verdadero."
             }
           ]
         },
@@ -2907,7 +2928,8 @@
           "citas": [
             {
               "cita": "Prov. 14:5,25",
-              "Pasaje": "5. El testigo verdadero no mentirá; Mas el testigo falso hablará mentiras.\n25. Mas el engañoso hablará mentiras. En el temor de Jehová está la fuerte confianza;"
+              "Pasaje": "5. El testigo verdadero no mentirá; Mas el testigo falso hablará mentiras.\n25. Mas el engañoso hablará mentiras. En el temor de Jehová está la fuerte confianza;",
+              "PasajeOso1569": "5. El teſtigo verdadero, no mentirá; mas el teſtigo falſo hablará mentiras.\n25. El teſtigo verdadero libra las animas; mas el engañoſo hablará mentiras."
             }
           ]
         }
@@ -2927,15 +2949,18 @@
           "citas": [
             {
               "cita": "1 S. 17:28",
-              "Pasaje": "28. Y oyéndole hablar Eliab su hermano mayor con aquellos hombres, se encendió en ira contra David y dijo: ¿Para qué has descendido acá? ¿y a quién has dejado aquellas pocas ovejas en el desierto? Yo conozco tu soberbia y la malicia de tu corazón, que para ver la batalla has venido. David respondió: ¿Qué he hecho yo ahora?"
+              "Pasaje": "28. Y oyéndole hablar Eliab su hermano mayor con aquellos hombres, se encendió en ira contra David y dijo: ¿Para qué has descendido acá? ¿y a quién has dejado aquellas pocas ovejas en el desierto? Yo conozco tu soberbia y la malicia de tu corazón, que para ver la batalla has venido. David respondió: ¿Qué he hecho yo ahora?",
+              "PasajeOso1569": "28. Y oyendolo hablar Eliab ſu hermano mayor con aquellos varones, Eliab ſe encendió en ira cõtra Dauid, y dixo: Paraque has decendido acá? y aquien has dexado aquellas pocas ouejas enel deſierto? Yo conozco tu ſoberuia y la malicia de tu coraçon, que para ver la batalla has venido."
             },
             {
               "cita": "Lev. 19:16",
-              "Pasaje": "16. No andarás chismeando entre tu pueblo. No atentarás contra la vida de tu prójimo. Yo Jehová."
+              "Pasaje": "16. No andarás chismeando entre tu pueblo. No atentarás contra la vida de tu prójimo. Yo Jehová.",
+              "PasajeOso1569": "16. No andarás chiſmeando en tus pueblos. No te pondrás contra la ſangre de tu proximo: Yo Iehoua."
             },
             {
               "cita": "Sal. 15:3",
-              "Pasaje": "3. El que no calumnia con su lengua, Ni hace mal a su prójimo, Ni admite reproche alguno contra su vecino."
+              "Pasaje": "3. El que no calumnia con su lengua, Ni hace mal a su prójimo, Ni admite reproche alguno contra su vecino.",
+              "PasajeOso1569": "3. Elque no reboluió con ſu lengua, ni hizo mal à ſu proximo, ni leuãtó verguença cõtra ſu cercano."
             }
           ]
         }
@@ -2954,7 +2979,8 @@
           "citas": [
             {
               "cita": "Ex. 20:17",
-              "Pasaje": "17. No codiciarás la casa de tu prójimo, no codiciarás la mujer de tu prójimo, ni su siervo, ni su criada, ni su buey, ni su asno, ni cosa alguna de tu prójimo."
+              "Pasaje": "17. No codiciarás la casa de tu prójimo, no codiciarás la mujer de tu prójimo, ni su siervo, ni su criada, ni su buey, ni su asno, ni cosa alguna de tu prójimo.",
+              "PasajeOso1569": "17. No cobdiciarás la caſa de tu proximo, no cobdiciarás la muger de tu proximo, ni ſu ſieruo, ni ſu criada, ni ſu buey, ni ſu aſno, ni coſa alguna de tu proximo."
             }
           ]
         }
@@ -2973,11 +2999,13 @@
           "citas": [
             {
               "cita": "Heb. 13:5",
-              "Pasaje": "5. Sean vuestras costumbres sin avaricia, contentos con lo que tenéis ahora; porque él dijo: No"
+              "Pasaje": "5. Sean vuestras costumbres sin avaricia, contentos con lo que tenéis ahora; porque él dijo: No",
+              "PasajeOso1569": "5. Sean las coſtumbres ſin auaricia, contentos de lo preſente: (porq̃ el dixo, No te deſampararé, ni te dexaré:)"
             },
             {
               "cita": "1 Tim. 6:6",
-              "Pasaje": "6. Pero gran ganancia es la piedad acompañada de"
+              "Pasaje": "6. Pero gran ganancia es la piedad acompañada de",
+              "PasajeOso1569": "6. Grande grangeria empero es la piedad con loque baſta."
             }
           ]
         },
@@ -2986,19 +3014,23 @@
           "citas": [
             {
               "cita": "Job. 31:29",
-              "Pasaje": "29. Si me alegré en el quebrantamiento del que me aborrecía, Y me re-"
+              "Pasaje": "29. Si me alegré en el quebrantamiento del que me aborrecía, Y me re-",
+              "PasajeOso1569": "29. Si me alegré en el quebrãtamiẽto del que me aborrecia; y me regozijé, quando lo halló el mal;"
             },
             {
               "cita": "Rom. 12:15",
-              "Pasaje": "15. Gozaos con los que se gozan; llorad con los que lloran."
+              "Pasaje": "15. Gozaos con los que se gozan; llorad con los que lloran.",
+              "PasajeOso1569": "15. Gozaos con los que ſe gozan: llorad con los que lloran."
             },
             {
               "cita": "1 Tim. 1:5",
-              "Pasaje": "5. Pues el propósito de este mandamiento es el amor nacido de corazón"
+              "Pasaje": "5. Pues el propósito de este mandamiento es el amor nacido de corazón",
+              "PasajeOso1569": "5. El fin del mandamiento es la charidad nacida de coraçon limpio, y de buena conſciencia, y de fe no fingida."
             },
             {
               "cita": "1 Cor. 13:4-7",
-              "Pasaje": "4. El amor es sufrido, es benigno; el amor no tiene envidia, el amor\n5. no es jactancioso, no se envanece; no hace nada indebido, no\n6. busca lo suyo, no se irrita, no guarda rencor; no se goza de la injusticia, mas se goza de la verdad.\n7. Todo lo sufre, todo lo cree, todo lo espera, todo lo soporta."
+              "Pasaje": "4. El amor es sufrido, es benigno; el amor no tiene envidia, el amor\n5. no es jactancioso, no se envanece; no hace nada indebido, no\n6. busca lo suyo, no se irrita, no guarda rencor; no se goza de la injusticia, mas se goza de la verdad.\n7. Todo lo sufre, todo lo cree, todo lo espera, todo lo soporta.",
+              "PasajeOso1569": "4. La Charidad es ſuffrida, es benigna: la Charidad no tiene embidia, la Charidad no haze ſin razon, no es hinchada,\n5. No es injurioſa, no buſca ſus prouechos, no ſe irrita, no pienſa mal,\n6. No ſe huelga de la injuſticia, mas huelgaſe de la verdad:\n7. Todo lo ſuffre, todo le cree, todo lo eſpera, todo lo ſupporta."
             }
           ]
         }
