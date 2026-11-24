@@ -316,6 +316,8 @@ test('Lectura bíblica: cambia entre Reina-Valera 1960 y la Biblia del Oso 1569,
   for (const q of ordenadas.slice(0, 50)) {
     for (const c of q.referenciasBiblicas.flatMap((g) => g.citas)) expect(c.PasajeOso1569?.trim(), `P${q.numero} ${c.cita}`).toBeTruthy();
   }
+  expect(cita(42, 'Mat. 22:37-40').PasajeOso1569).toMatch(/^37\. /);
+  expect(cita(49, 'Ex. 20:4-6').PasajeOso1569).toMatch(/^4\. /);
   expect(datos.versionBiblica).toBe('Reina-Valera 1960');
   await abrirRefs(page, 1);
   await page.locator('#pregunta-1').getByRole('button', { name: 'Ver pasaje bíblico Rom. 11:36' }).click();
