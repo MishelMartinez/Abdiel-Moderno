@@ -2416,15 +2416,18 @@
           "citas": [
             {
               "cita": "Eze. 22:26",
-              "Pasaje": "26. Sus sacerdotes violaron mi ley, y contaminaron mis santuarios; entre lo santo y lo profano no hicieron diferencia, ni distinguieron entre inmundo y limpio; y de mis días de reposo apartaron sus ojos, y yo he sido profanado en medio de ellos."
+              "Pasaje": "26. Sus sacerdotes violaron mi ley, y contaminaron mis santuarios; entre lo santo y lo profano no hicieron diferencia, ni distinguieron entre inmundo y limpio; y de mis días de reposo apartaron sus ojos, y yo he sido profanado en medio de ellos.",
+              "PasajeOso1569": "26. Sus Sacerdotes hurtaron mi Ley, y contaminarõ mis ſanctuarios: entre ſancto y profano no hizieron differencia ni entre immundo y limpio hizierõ manifeſtacion: y de mis ſabbados eſcondierõ ſus ojos, y yo era profanado en medio deellos."
             },
             {
               "cita": "Am. 8:5",
-              "Pasaje": "5. ¿Cuándo pasará el mes, y venderemos el trigo; y la semana, y abriremos los graneros del pan, y achicaremos la medida, y subiremos el"
+              "Pasaje": "5. ¿Cuándo pasará el mes, y venderemos el trigo; y la semana, y abriremos los graneros del pan, y achicaremos la medida, y subiremos el",
+              "PasajeOso1569": "5. Diziendo, Quando paſſâre el mes, venderemos el trigo: y paſſada la ſemana abriremos el pan: y achicaremos la medida, y engrandeceremos el precio, y falſaremos el peſo engañoſo."
             },
             {
               "cita": "Ml. 1:13",
-              "Pasaje": "13. ¡Oh, qué fastidio es esto! y me despreciáis, dice Jehová de los ejércitos; y trajisteis lo hurtado, o cojo, o enfermo, y presentasteis ofrenda. ¿Aceptaré yo eso de vuestra mano? dice Jehová."
+              "Pasaje": "13. ¡Oh, qué fastidio es esto! y me despreciáis, dice Jehová de los ejércitos; y trajisteis lo hurtado, o cojo, o enfermo, y presentasteis ofrenda. ¿Aceptaré yo eso de vuestra mano? dice Jehová.",
+              "PasajeOso1569": "13. Y dezis, O que trabajo? y deſechaſteslo, dixo Iehoua de los exercitos. Y truxiſtes hurtado, o coxo, o enfermo, y offreciſtes offrẽda. ſer meha accepto de vueſtra mano, dixo Iehoua?"
             }
           ]
         },
@@ -2433,7 +2436,8 @@
           "citas": [
             {
               "cita": "Hch. 20:7,9",
-              "Pasaje": "7. El primer día de la semana, reunidos los discípulos para partir el pan, Pablo les enseñaba, habiendo de salir al día siguiente; y alargó el discurso hasta la medianoche.\n9. to donde estaban reunidos; y un joven llamado Eutico, que estaba sentado en la ventana, rendido de un sueño profundo, por cuanto Pablo disertaba largamente, vencido del sueño cayó del tercer piso abajo, y fue levantado muerto."
+              "Pasaje": "7. El primer día de la semana, reunidos los discípulos para partir el pan, Pablo les enseñaba, habiendo de salir al día siguiente; y alargó el discurso hasta la medianoche.\n9. to donde estaban reunidos; y un joven llamado Eutico, que estaba sentado en la ventana, rendido de un sueño profundo, por cuanto Pablo disertaba largamente, vencido del sueño cayó del tercer piso abajo, y fue levantado muerto.",
+              "PasajeOso1569": "7. Y el Primero de los Sabbados, jũtos los diſcipulos à partir el pã, Paulo les enſeñaua, auiendo de partirſe el dia ſiguiente: y alargó el ſermon haſta la media noche.\n9. Y vn mancebo llamado Eutycho, que eſtaua ſentado en vna ventana, tomado de vn ſueño profundo, como Paulo diſputaua luengamente, derribado del ſueño cayó deſde el tercer cenadero abaxo: y fue alçado muerto."
             }
           ]
         },
@@ -2442,7 +2446,8 @@
           "citas": [
             {
               "cita": "Eze. 23:38",
-              "Pasaje": "38. Aun esto más me hicieron: contaminaron mi santuario en aquel día, y profanaron mis días de reposo."
+              "Pasaje": "38. Aun esto más me hicieron: contaminaron mi santuario en aquel día, y profanaron mis días de reposo.",
+              "PasajeOso1569": "38. Aun eſto mas me hizieron: cõtaminaron mi Sanctuario en aquel dia: y profanaron mis ſabbados."
             }
           ]
         },
@@ -2451,11 +2456,13 @@
           "citas": [
             {
               "cita": "Jer. 17:24-26",
-              "Pasaje": "24. No obstante, si vosotros me obedeciereis, dice Jehová, no metiendo carga por las puertas de esta ciudad en el día de reposo, sino que santificareis el día de reposo, no haciendo en él ningún trabajo,\n25. entrarán por las puertas de esta ciudad, en carros y en caballos, los reyes y los príncipes que se sientan sobre el trono de David, ellos y sus príncipes, los varones de Judá y los moradores de Jerusalén; y esta ciudad será habitada para siempre.\n26. Y vendrán de las ciudades de Judá, de los alrededores de Jerusalén, de tierra de Benjamín, de la Sefela, de los montes y del Neguev, trayendo holocausto y sacrificio, y ofrenda e incienso, y trayendo sacrificio de alabanza a la casa de Jehová."
+              "Pasaje": "24. No obstante, si vosotros me obedeciereis, dice Jehová, no metiendo carga por las puertas de esta ciudad en el día de reposo, sino que santificareis el día de reposo, no haciendo en él ningún trabajo,\n25. entrarán por las puertas de esta ciudad, en carros y en caballos, los reyes y los príncipes que se sientan sobre el trono de David, ellos y sus príncipes, los varones de Judá y los moradores de Jerusalén; y esta ciudad será habitada para siempre.\n26. Y vendrán de las ciudades de Judá, de los alrededores de Jerusalén, de tierra de Benjamín, de la Sefela, de los montes y del Neguev, trayendo holocausto y sacrificio, y ofrenda e incienso, y trayendo sacrificio de alabanza a la casa de Jehová.",
+              "PasajeOso1569": "24. Porque ſerá, que ſi oyendo me oyerdes, dixo Iehoua, que no metays carga por las puertas deeſta ciudad en el dia del Sabbado, mas ſanctificardes el dia del Sabbado no haziendo en el ninguna obra,\n25. Entrarán por las puertas deeſta ciudad los Reyes y los Principes, q̃ ſe aſsientan ſobre la ſilla de Dauid, en carros y en cauallos, ellos y ſus Principes, los varones de Iudá, y los moradores de Ieruſalem: y eſta ciudad ſerá habitada para ſiempre.\n26. Y vendrán de las ciudades de Iudá, y de los alderredores de Ieruſalem, y de tierra de Ben-jamin, y de los campos, y del monte, y del Auſtro, trayẽdo holocauſto y ſacrificio, y Preſente, y encienſo, y trayendo confeſsion à la Caſa de Iehoua."
             },
             {
               "cita": "Isa. 58:13",
-              "Pasaje": "13. Si retrajeres del día de reposo tu pie, de hacer tu voluntad en mi día santo, y lo llamares delicia, santo, glorioso de Jehová; y lo venerares, no andando en tus propios caminos, ni buscando tu voluntad, ni hablando"
+              "Pasaje": "13. Si retrajeres del día de reposo tu pie, de hacer tu voluntad en mi día santo, y lo llamares delicia, santo, glorioso de Jehová; y lo venerares, no andando en tus propios caminos, ni buscando tu voluntad, ni hablando",
+              "PasajeOso1569": "13. Si retraxéres del Sabbado tu pie, de hazer tu volũtad en mi dia ſancto. y àl Sabbado llamáres delicias, ſancto, glorioſo de Iehoua: y lo veneráres no haziendo tus caminos, ni buſcando tu voluntad, ni hablando palabra:"
             }
           ]
         }
@@ -2474,7 +2481,8 @@
           "citas": [
             {
               "cita": "Ex. 20:9",
-              "Pasaje": "9. Seis días trabajarás, y harás toda tu"
+              "Pasaje": "9. Seis días trabajarás, y harás toda tu",
+              "PasajeOso1569": "9. Seys dias obrarás, y harás toda tu obra,"
             }
           ]
         },
@@ -2483,7 +2491,8 @@
           "citas": [
             {
               "cita": "Ex. 20:11",
-              "Pasaje": "11. Porque en seis días hizo Jehová los cielos y la tierra, el mar, y todas las cosas que en ellos hay, y reposó en el séptimo día; por tanto, Jehová bendijo el día de reposo y lo santificó."
+              "Pasaje": "11. Porque en seis días hizo Jehová los cielos y la tierra, el mar, y todas las cosas que en ellos hay, y reposó en el séptimo día; por tanto, Jehová bendijo el día de reposo y lo santificó.",
+              "PasajeOso1569": "11. Porque en ſeys dias hizo Iehoua los cielos y la tierra, la mar y todas las coſas q̃ en ello ay: y en el dia Septimó repoſó: portanto Iehoua bendixo àl dia del Sabbado, y lo ſanctificó."
             }
           ]
         }
@@ -2502,7 +2511,8 @@
           "citas": [
             {
               "cita": "Ex. 20:12",
-              "Pasaje": "12. Honra a tu padre y a tu madre, para que tus días se alarguen en la tierra que Jehová tu Dios te da."
+              "Pasaje": "12. Honra a tu padre y a tu madre, para que tus días se alarguen en la tierra que Jehová tu Dios te da.",
+              "PasajeOso1569": "12. Honrra à tu padre y à tu madre, por que tus dias ſean alargados ſobre la tierra, que Iehoua tu Dios te dá."
             }
           ]
         }
@@ -2521,7 +2531,8 @@
           "citas": [
             {
               "cita": "Ef. 5:21",
-              "Pasaje": "21. Someteos unos a otros en el temor de Dios."
+              "Pasaje": "21. Someteos unos a otros en el temor de Dios.",
+              "PasajeOso1569": "21. Sujetos los vnos à los otros en el temor de Dios,"
             }
           ]
         },
@@ -2530,7 +2541,8 @@
           "citas": [
             {
               "cita": "1 Ped. 2:17",
-              "Pasaje": "17. Amad a los hermanos. Temed a Dios. Honrad al rey."
+              "Pasaje": "17. Amad a los hermanos. Temed a Dios. Honrad al rey.",
+              "PasajeOso1569": "17. Honrrad a todos. Amad fraternidad. Temed a Dios. Honrrad àl Rey."
             }
           ]
         },
@@ -2539,7 +2551,8 @@
           "citas": [
             {
               "cita": "Rom. 12:10",
-              "Pasaje": "10. Amaos los unos a los otros con amor fraternal; en cuanto a honra, prefiriéndoos los unos a los otros."
+              "Pasaje": "10. Amaos los unos a los otros con amor fraternal; en cuanto a honra, prefiriéndoos los unos a los otros.",
+              "PasajeOso1569": "10. Amando la charidad de la hermandad los vnos para con los otros: preuiniẽdo os con honrra los vnos à los otros."
             }
           ]
         }
@@ -2558,16 +2571,19 @@
           "citas": [
             {
               "cita": "Mat. 15:4-6",
-              "Pasaje": "4. Honra a tu padre y a tu madre; y: El que maldiga al padre o a la madre, muera irremisiblemente. Pero vosotros decís:\n5. Cualquiera que diga a su padre o a su madre: Es mi ofrenda a Dios todo aquello\n6. con que pudiera ayudarte, ya no ha de honrar a su padre o a su madre. Así habéis invalidado el mandamiento de Dios por vuestra tradición."
+              "Pasaje": "4. Honra a tu padre y a tu madre; y: El que maldiga al padre o a la madre, muera irremisiblemente. Pero vosotros decís:\n5. Cualquiera que diga a su padre o a su madre: Es mi ofrenda a Dios todo aquello\n6. con que pudiera ayudarte, ya no ha de honrar a su padre o a su madre. Así habéis invalidado el mandamiento de Dios por vuestra tradición.",
+              "PasajeOso1569": "4. Porq̃ Dios mandó, diziendo, Honrra àl padre y à la madre. Item, Elque maldixere àl padre ò à la madre, muera de muerte.\n5. Mas voſotros dezis, Qualquiera dirá àl padre ò à la madre, Toda offrenda mia à ti aprouechará: y no hõrrará a ſu padre, ò à ſu madre.\n6. Y aueys inualidado el mandamiento de Dios por vueſtro precepto."
             },
             {
               "cita": "Eze. 34:2-4",
               "Pasaje": "3. Coméis la grosura, y os vestís de la lana; la engordada degolláis, mas no apacentáis a las ovejas.\n4. No fortalecisteis las débiles, ni curasteis la enferma; no vendasteis la perniquebrada, no volvisteis al redil la descarriada, ni buscasteis la perdida, sino que os habéis enseñoreado de ellas con dureza y con violencia.",
-              "estadoPasaje": "Incompleto: faltan versículos 2"
+              "estadoPasaje": "Incompleto: faltan versículos 2",
+              "PasajeOso1569": "2. Hombre, prophetiza cõtra los paſtores de Iſrael, prophetiza, y di les a los paſtores: Anſi dixo el Señor Iehoua, Ay de los paſtores de Iſrael, q̃ apacientan à ſi miſmos. Los paſtores no apaciẽtã las ouejas?\n3. Comeys la leche, y veſtis os de la lana: la grueſſa degollays, no apacentays las ouejas.\n4. No esforçaſtes las flacas, ni curaſtes la enferma: no ligaſtes la perniquebrada, no tornaſtes la amontada, ni buſcaſtes la perdida: mas enſeñoreaſtes os deellas con dureza, y con violencia."
             },
             {
               "cita": "Rom. 13:8",
-              "Pasaje": "8. No debáis a nadie nada, sino el amaros unos a otros; porque el que ama al prójimo, ha cumplido la ley. Porque:"
+              "Pasaje": "8. No debáis a nadie nada, sino el amaros unos a otros; porque el que ama al prójimo, ha cumplido la ley. Porque:",
+              "PasajeOso1569": "8. ¶ No deuays à nadie nada, ſino que hos ameys vnos à otros: porque el que ama àl proximo, cumplió la Ley."
             }
           ]
         }
@@ -2586,11 +2602,13 @@
           "citas": [
             {
               "cita": "Deu. 5:16",
-              "Pasaje": "16. Honra a tu padre y a tu madre, como Jehová tu Dios te ha mandado, para que sean prolongados tus días, y para que te vaya bien sobre la, tierra que Jehová tu Dios te da. No matarás."
+              "Pasaje": "16. Honra a tu padre y a tu madre, como Jehová tu Dios te ha mandado, para que sean prolongados tus días, y para que te vaya bien sobre la, tierra que Jehová tu Dios te da. No matarás.",
+              "PasajeOso1569": "16. Honrra à tu padre y à tu madre, como Iehoua tu Dios te ha mandado, para que ſean prolongados tus dias, y para que ayas bien ſobre la tierra q̃ Iehoua tu Dios te da."
             },
             {
               "cita": "Ef. 6:2,3",
-              "Pasaje": "2. Honra a tu padre y a tu madre, que es el primer\n3. mandamiento con promesa; para que te vaya bien, y seas de larga vida sobre la tierra."
+              "Pasaje": "2. Honra a tu padre y a tu madre, que es el primer\n3. mandamiento con promesa; para que te vaya bien, y seas de larga vida sobre la tierra.",
+              "PasajeOso1569": "2. Honrra à tu padre y madre (que es el primer mandamiento con promeſſa)\n3. Paraque ayas bien: y ſeas de luenga edad ſobre la tierra."
             }
           ]
         }
@@ -2609,7 +2627,9 @@
           "citas": [
             {
               "cita": "Ex. 10:13",
-              "Pasaje": "13. Y extendió Moisés su vara sobre la tierra de Egipto, y Jehová trajo un viento oriental sobre el país todo aquel día y toda aquella noche; y al venir la mañana el viento oriental trajo la langosta."
+              "Pasaje": "13. Y extendió Moisés su vara sobre la tierra de Egipto, y Jehová trajo un viento oriental sobre el país todo aquel día y toda aquella noche; y al venir la mañana el viento oriental trajo la langosta.",
+              "PasajeOso1569": "13. No matarás.",
+              "notaOso1569": "La cita del Catecismo para el sexto mandamiento es Éxodo 20:13; se muestra ese versículo."
             }
           ]
         }
@@ -2629,7 +2649,8 @@
           "citas": [
             {
               "cita": "Ef. 5:28,29",
-              "Pasaje": "28. Así también los maridos deben amar a sus mujeres como a sus mismos cuerpos. El que ama a su mujer, a sí mismo se ama.\n29. Porque nadie aborreció jamás a su propia carne, sino que la sustenta y la cuida, como también Cristo a la iglesia,"
+              "Pasaje": "28. Así también los maridos deben amar a sus mujeres como a sus mismos cuerpos. El que ama a su mujer, a sí mismo se ama.\n29. Porque nadie aborreció jamás a su propia carne, sino que la sustenta y la cuida, como también Cristo a la iglesia,",
+              "PasajeOso1569": "28. Anſi han tambien los maridos de amar à ſus mugeres, como à ſus miſmos cuerpos. el que ama à ſu muger, à ſi miſmo ama.\n29. Porque ninguno aborreció jamas ſu propria carne: antes la ſuſtenta y regala, como tambien el Señor à ſu Igleſia:"
             }
           ]
         },
@@ -2638,7 +2659,8 @@
           "citas": [
             {
               "cita": "1 R. 18:4",
-              "Pasaje": "4. Porque cuando Jezabel destruía a los profetas de Jehová, Abdías tomó a cien profetas y los escondió de cincuenta en cincuenta en cuevas, y los sustentó con pan y agua."
+              "Pasaje": "4. Porque cuando Jezabel destruía a los profetas de Jehová, Abdías tomó a cien profetas y los escondió de cincuenta en cincuenta en cuevas, y los sustentó con pan y agua.",
+              "PasajeOso1569": "4. Porque quando Iezabel talaua los prophetas de Iehoua, Abdias tomó cien prophetas, los quales eſcondió de cincuenta en cincuenta por cueuas, y los ſuſtentó à pan y agua."
             }
           ]
         }
@@ -2657,11 +2679,13 @@
           "citas": [
             {
               "cita": "Hch. 16:28",
-              "Pasaje": "28. No te hagas ningún mal, pues todos estamos aquí."
+              "Pasaje": "28. No te hagas ningún mal, pues todos estamos aquí.",
+              "PasajeOso1569": "28. Entonces Paulo clamó à gran boz diziẽdo, No te hagas ningun mal: que todos eſtamos aqui."
             },
             {
               "cita": "Gén. 9:6",
-              "Pasaje": "6. El que derramare sangre de hombre, por el hombre su sangre será derramada; porque a imagen de Dios es hecho el hombre."
+              "Pasaje": "6. El que derramare sangre de hombre, por el hombre su sangre será derramada; porque a imagen de Dios es hecho el hombre.",
+              "PasajeOso1569": "6. Elque derramâre ſangre de hombre en el hombre, ſu ſangre ſerá derramada: porque à ymagen de Dios es hecho el hõbre."
             }
           ]
         }
@@ -2680,7 +2704,8 @@
           "citas": [
             {
               "cita": "Ex. 20:14",
-              "Pasaje": "14. No cometerás adulterio."
+              "Pasaje": "14. No cometerás adulterio.",
+              "PasajeOso1569": "14. No cometerás adulterio."
             }
           ]
         }
