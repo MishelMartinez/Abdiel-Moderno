@@ -2,10 +2,10 @@
   "titulo": "Confesión de Fe Belga",
   "unidad": "artículo",
   "totalPreguntas": 37,
-  "preguntasCompletas": 20,
+  "preguntasCompletas": 30,
   "versionBiblica": "Reina-Valera 1909",
   "observaciones": [
-    "Incluye los artículos 1 a 20 de 37; los demás se agregarán por etapas.",
+    "Incluye los artículos 1 a 30 de 37; los demás se agregarán por etapas.",
     "Escrita en francés por Guido de Brès en 1561 y revisada por el Sínodo de Dort en 1619.",
     "Traducción propia al español del texto francés revisado en el Sínodo de Dort (1619), tal como lo imprime Philip Schaff, The Creeds of Christendom, vol. III (Nueva York, 1877), pp. 383-436, a partir del manuscrito auténtico de 1580 con la revisión de Dort (dominio público; archive.org: creedsofchriste03scha). Los títulos de los artículos traducen los encabezados latinos de esa edición. Cada nota al pie de Schaff es un inciso; las citas se muestran con la Reina-Valera 1909. Transcrito de las imágenes de las páginas; el OCR solo sirvió para localizar el texto."
   ],
@@ -2236,6 +2236,1676 @@
             {
               "cita": "Rom. 4:25",
               "Pasaje": "25. El cual fué entregado por nuestros delitos, y resucitado para nuestra justificación."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 21,
+      "pregunta": "La satisfacción de Cristo por nuestros pecados",
+      "respuesta": "Creemos que Jesucristo es Sumo Sacerdote eterno, constituido con juramento según el orden de Melquisedec, y que se presentó en nuestro nombre delante de su Padre para aplacar su ira con plena satisfacción, ofreciéndose a sí mismo sobre el altar de la cruz y derramando su preciosa sangre para la purificación de nuestros pecados, como lo habían predicho los profetas. Porque está escrito que el castigo de nuestra paz fue puesto sobre el Hijo de Dios, y que por sus llagas fuimos nosotros curados; que fue llevado a la muerte como un cordero y contado con los pecadores; y condenado como malhechor por Poncio Pilato, aunque este lo declaró inocente. Así pagó lo que no había robado, y padeció, el justo por los injustos, tanto en su cuerpo como en su alma, de modo que, al sentir el horrible castigo que merecían nuestros pecados, su sudor fue como grandes gotas de sangre que caían hasta la tierra. Clamó: «Dios mío, Dios mío, ¿por qué me has desamparado?», y soportó todo esto para el perdón de nuestros pecados. Por eso decimos con razón, con san Pablo, que no conocemos otra cosa sino a Jesucristo, y a este crucificado; que tenemos todas las cosas por basura en comparación con la excelencia del conocimiento de nuestro Señor Jesucristo; que hallamos todo consuelo en sus llagas, y que no necesitamos buscar ni inventar otro medio para reconciliarnos con Dios fuera de este único sacrificio, ofrecido una sola vez, que hace perfectos para siempre a los fieles. Esta es también la razón por la que el ángel de Dios lo llamó Jesús, es decir, Salvador, porque había de salvar a su pueblo de sus pecados.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "1",
+          "citas": [
+            {
+              "cita": "Sal. 110:4",
+              "Pasaje": "4. Juró Jehová, y no se arrepentirá: Tú eres sacerdote para siempre según el orden de Melchîsedech."
+            },
+            {
+              "cita": "Heb. 5:10",
+              "Pasaje": "10. Nombrado de Dios pontífice según el orden de Melchîsedec."
+            }
+          ]
+        },
+        {
+          "inciso": "2",
+          "citas": [
+            {
+              "cita": "Col. 1:14",
+              "Pasaje": "14. En el cual tenemos redención por su sangre, la remisión de pecados:"
+            },
+            {
+              "cita": "Rom. 5:8-9",
+              "Pasaje": "8. Mas Dios encarece su caridad para con nosotros, porque siendo aún pecadores, Cristo murió por nosotros.\n9. Luego mucho más ahora, justificados en su sangre, por él seremos salvos de la ira."
+            },
+            {
+              "cita": "Col. 2:14",
+              "Pasaje": "14. Rayendo la cédula de los ritos que nos era contraria, que era contra nosotros, quitándola de en medio y enclavándola en la cruz;"
+            },
+            {
+              "cita": "Heb. 2:17",
+              "Pasaje": "17. Por lo cual, debía ser en todo semejante á los hermanos, para venir á ser misericordioso y fiel Pontífice en lo que es para con Dios, para expiar los pecados del pueblo."
+            },
+            {
+              "cita": "Heb. 9:14",
+              "Pasaje": "14. ¿Cuánto más la sangre de Cristo, el cual por el Espíritu eterno se ofreció á sí mismo sin mancha á Dios, limpiará vuestras conciencias de las obras de muerte para que sirváis al Dios vivo?"
+            },
+            {
+              "cita": "Rom. 3:24",
+              "Pasaje": "24. Siendo justificados gratuitamente por su gracia, por la redención que es en Cristo Jesús;"
+            },
+            {
+              "cita": "Rom. 8:2",
+              "Pasaje": "2. Porque la ley del Espíritu de vida en Cristo Jesús me ha librado de la ley del pecado y de la muerte."
+            },
+            {
+              "cita": "Jn. 15:3",
+              "Pasaje": "3. Ya vosotros sois limpios por la palabra que os he hablado."
+            },
+            {
+              "cita": "Hech. 2:24",
+              "Pasaje": "24. Al cual Dios levantó, sueltos los dolores de la muerte, por cuanto era imposible ser detenido de ella."
+            },
+            {
+              "cita": "Hech. 13:28",
+              "Pasaje": "28. Y sin hallar [en él] causa de muerte, pidieron á Pilato que le matasen."
+            },
+            {
+              "cita": "Jn. 3:16",
+              "Pasaje": "16. Porque de tal manera amó Dios al mundo, que ha dado á su Hijo unigénito, para que todo aquel que en él cree, no se pierda, mas tenga vida eterna."
+            },
+            {
+              "cita": "1 Tim. 2:6",
+              "Pasaje": "6. El cual se dió á sí mismo [en] precio del rescate por todos, [para] testimonio en sus tiempos:"
+            }
+          ]
+        },
+        {
+          "inciso": "3",
+          "citas": [
+            {
+              "cita": "Isa. 53:5,7,12",
+              "Pasaje": "5. Mas él herido fué por nuestras rebeliones, molido por nuestros pecados: el castigo de nuestra paz sobre él; y por su llaga fuimos nosotros curados.\n7. Angustiado él, y afligido, no abrió su boca: como cordero fué llevado al matadero; y como oveja delante de sus trasquiladores, enmudeció, y no abrió su boca.\n12. Por tanto yo le daré parte con los grandes, y con los fuertes repartirá despojos; por cuanto derramó su vida hasta la muerte, y fué contado con los perversos, habiendo él llevado el pecado de muchos, y orado por los transgresores."
+            }
+          ]
+        },
+        {
+          "inciso": "4",
+          "citas": [
+            {
+              "cita": "Luc. 23:22,24",
+              "Pasaje": "22. Y él les dijo la tercera vez: ¿Pues qué mal ha hecho éste? Ninguna culpa de muerte he hallado en él: le castigaré, pues, y le soltaré.\n24. Entonces Pilato juzgó que se hiciese lo que ellos pedían;"
+            },
+            {
+              "cita": "Hech. 13:28",
+              "Pasaje": "28. Y sin hallar [en él] causa de muerte, pidieron á Pilato que le matasen."
+            },
+            {
+              "cita": "Sal. 22:15",
+              "Pasaje": "15. Secóse como un tiesto mi vigor, y mi lengua se pegó á mi paladar; y me has puesto en el polvo de la muerte.",
+              "observacionPasaje": "En la edición francesa «Psa. xxii. 16»: el título del salmo cuenta como versículo 1, así que en la Reina-Valera 1909 corresponde a Sal. 22:15."
+            },
+            {
+              "cita": "Jn. 18:38",
+              "Pasaje": "38. Dícele Pilato: ¿Qué cosa es verdad? Y como hubo dicho esto, salió otra vez á los Judíos, y díceles: Yo no hallo en él ningún crimen."
+            },
+            {
+              "cita": "Sal. 69:4",
+              "Pasaje": "4. Hanse aumentado más que los cabellos de mi cabeza los que me aborrecen sin causa; hanse fortalecido mis enemigos, los que me destruyen sin por qué: he venido pues á pagar lo que no he tomado.",
+              "observacionPasaje": "En la edición francesa «Psa. lxix. 5»: el título del salmo cuenta como versículo 1, así que en la Reina-Valera 1909 corresponde a Sal. 69:4."
+            },
+            {
+              "cita": "1 Ped. 3:18",
+              "Pasaje": "18. Porque también Cristo padeció una vez por los pecados, el justo por los injustos, para llevarnos á Dios, siendo á la verdad muerto en la carne, pero vivificado en espíritu;"
+            }
+          ]
+        },
+        {
+          "inciso": "5",
+          "citas": [
+            {
+              "cita": "Sal. 69:4",
+              "Pasaje": "4. Hanse aumentado más que los cabellos de mi cabeza los que me aborrecen sin causa; hanse fortalecido mis enemigos, los que me destruyen sin por qué: he venido pues á pagar lo que no he tomado.",
+              "observacionPasaje": "En la edición francesa «Psa. lxix. 5»: el título del salmo cuenta como versículo 1, así que en la Reina-Valera 1909 corresponde a Sal. 69:4."
+            }
+          ]
+        },
+        {
+          "inciso": "6",
+          "citas": [
+            {
+              "cita": "1 Ped. 3:18",
+              "Pasaje": "18. Porque también Cristo padeció una vez por los pecados, el justo por los injustos, para llevarnos á Dios, siendo á la verdad muerto en la carne, pero vivificado en espíritu;"
+            }
+          ]
+        },
+        {
+          "inciso": "7",
+          "citas": [
+            {
+              "cita": "Luc. 22:44",
+              "Pasaje": "44. Y estando en agonía, oraba más intensamente: y fué su sudor como grandes gotas de sangre que caían hasta la tierra."
+            }
+          ]
+        },
+        {
+          "inciso": "8",
+          "citas": [
+            {
+              "cita": "Sal. 22:1",
+              "Pasaje": "1. Al Músico principal, sobre Ajeleth-sahar: Salmo de David. DIOS mío, Dios mío, ¿por qué me has dejado? ¿[por qué] estás lejos de mi salud, y de las palabras de mi clamor?",
+              "observacionPasaje": "En la edición francesa «Psa. xxii. 2»: el título del salmo cuenta como versículo 1, así que en la Reina-Valera 1909 corresponde a Sal. 22:1."
+            },
+            {
+              "cita": "Mat. 27:46",
+              "Pasaje": "46. Y cerca de la hora de nona, Jesús exclamó con grande voz, diciendo: Eli, Eli, ¿lama sabachtani? Esto es: Dios mío, Dios mío, ¿por qué me has desamparado?"
+            }
+          ]
+        },
+        {
+          "inciso": "9",
+          "citas": [
+            {
+              "cita": "1 Cor. 2:2",
+              "Pasaje": "2. Porque no me propuse saber algo entre vosotros, sino á Jesucristo, y á éste crucificado."
+            }
+          ]
+        },
+        {
+          "inciso": "10",
+          "citas": [
+            {
+              "cita": "Fil. 3:8",
+              "Pasaje": "8. Y ciertamente, aun reputo todas las cosas pérdida por el eminente conocimiento de Cristo Jesús, mi Señor, por amor del cual lo he perdido todo, y téngolo por estiércol, para ganar á Cristo,"
+            }
+          ]
+        },
+        {
+          "inciso": "11",
+          "citas": [
+            {
+              "cita": "Heb. 9:25-26",
+              "Pasaje": "25. Y no para ofrecerse muchas veces á sí mismo, como entra el pontífice en el santuario cada año con sangre ajena;\n26. De otra manera fuera necesario que hubiera padecido muchas veces desde el principio del mundo: mas ahora una vez en la consumación de los siglos, para deshacimiento del pecado se presentó por el sacrificio de sí mismo."
+            },
+            {
+              "cita": "Heb. 10:14",
+              "Pasaje": "14. Porque con una sola ofrenda hizo perfectos para siempre á los santificados."
+            }
+          ]
+        },
+        {
+          "inciso": "12",
+          "citas": [
+            {
+              "cita": "Mat. 1:21",
+              "Pasaje": "21. Y parirá un hijo, y llamarás su nombre JESUS, porque él salvará á su pueblo de sus pecados."
+            },
+            {
+              "cita": "Hech. 4:12",
+              "Pasaje": "12. Y en ningún otro hay salud; porque no hay otro nombre debajo del cielo, dado á los hombres, en que podamos ser salvos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 22,
+      "pregunta": "La fe que justifica",
+      "respuesta": "Creemos que, para que alcancemos el verdadero conocimiento de este gran misterio, el Espíritu Santo enciende en nuestros corazones una fe verdadera, que abraza a Jesucristo con todos sus méritos, lo hace suyo y no busca ya nada fuera de él. Porque necesariamente, o no está en Jesucristo todo lo que se requiere para nuestra salvación, o, si todo está en él, quien tiene a Jesucristo por la fe tiene toda su salvación. Decir, pues, que Cristo no basta, sino que hace falta algo más junto con él, es una blasfemia enorme contra Dios, porque se seguiría que Jesucristo no es más que medio Salvador. Por eso, con justa razón, decimos con san Pablo que somos justificados por la sola fe, o por la fe sin las obras. Sin embargo, no entendemos que, hablando con propiedad, sea la fe misma la que nos justifica, porque ella no es más que el instrumento con que abrazamos a Cristo, nuestra justicia. Es Jesucristo quien, al imputarnos todos sus méritos y tantas obras santas que hizo por nosotros y en nuestro nombre, es nuestra justicia; y la fe es el instrumento que nos mantiene con él en la comunión de todos sus bienes, los cuales, hechos nuestros, nos bastan con creces para absolvernos de nuestros pecados.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "1",
+          "citas": [
+            {
+              "cita": "Ef. 3:16-17",
+              "Pasaje": "16. Que os dé, conforme á las riquezas de su gloria, el ser corroborados con potencia en el hombre interior por su Espíritu.\n17. Que habite Cristo por la fe en vuestros corazones; para que, arraigados y fundados en amor,"
+            },
+            {
+              "cita": "Sal. 51:11",
+              "Pasaje": "11. No me eches de delante de ti; y no quites de mí tu santo espíritu.",
+              "observacionPasaje": "En la edición francesa «Psa. li. 13»: el título del salmo cuenta como versículos 1 y 2, así que en la Reina-Valera 1909 corresponde a Sal. 51:11."
+            },
+            {
+              "cita": "Ef. 1:17-18",
+              "Pasaje": "17. Que el Dios del Señor nuestro Jesucristo, el Padre de gloria, os dé espíritu de sabiduría y de revelación para su conocimiento;\n18. Alumbrando los ojos de vuestro entendimiento, para que sepáis cuál sea la esperanza de su vocación, y cuáles las riquezas de la gloria de su herencia en los santos,"
+            },
+            {
+              "cita": "1 Cor. 2:12",
+              "Pasaje": "12. Y nosotros hemos recibido, no el espíritu del mundo, sino el Espíritu que es de Dios, para que conozcamos lo que Dios nos ha dado;"
+            }
+          ]
+        },
+        {
+          "inciso": "2",
+          "citas": [
+            {
+              "cita": "1 Cor. 2:2",
+              "Pasaje": "2. Porque no me propuse saber algo entre vosotros, sino á Jesucristo, y á éste crucificado."
+            },
+            {
+              "cita": "Hech. 4:12",
+              "Pasaje": "12. Y en ningún otro hay salud; porque no hay otro nombre debajo del cielo, dado á los hombres, en que podamos ser salvos."
+            },
+            {
+              "cita": "Gál. 2:21",
+              "Pasaje": "21. No desecho la gracia de Dios: porque si por la ley fuese la justicia, entonces por demás murió Cristo."
+            },
+            {
+              "cita": "Jer. 23:6",
+              "Pasaje": "6. En sus días será salvo Judá, é Israel habitará confiado: y este será su nombre que le llamarán: JEHOVÁ, JUSTICIA NUESTRA."
+            },
+            {
+              "cita": "1 Cor. 1:30",
+              "Pasaje": "30. Mas de él sois vosotros en Cristo Jesús, el cual nos ha sido hecho por Dios sabiduría, y justificación, y santificación, y redención:"
+            },
+            {
+              "cita": "Jer. 31:10",
+              "Pasaje": "10. Oid palabra de Jehová, oh gentes, y hacedlo saber en las islas que están lejos, y decid: El que esparció á Israel lo juntará y guardará, como pastor á su ganado."
+            }
+          ]
+        },
+        {
+          "inciso": "3",
+          "citas": [
+            {
+              "cita": "Mat. 1:21",
+              "Pasaje": "21. Y parirá un hijo, y llamarás su nombre JESUS, porque él salvará á su pueblo de sus pecados."
+            },
+            {
+              "cita": "Rom. 3:27",
+              "Pasaje": "27. ¿Dónde pues está la jactancia? Es excluída. ¿Por cuál ley? ¿de las obras? No; mas por la ley de la fe."
+            },
+            {
+              "cita": "Rom. 8:1,33",
+              "Pasaje": "1. AHORA pues, ninguna condenación hay para los que están en Cristo Jesús, los que no andan conforme á la carne, mas conforme al espíritu.\n33. ¿Quién acusará á los escogidos de Dios? Dios es el que justifica."
+            }
+          ]
+        },
+        {
+          "inciso": "4",
+          "citas": [
+            {
+              "cita": "Rom. 3:27",
+              "Pasaje": "27. ¿Dónde pues está la jactancia? Es excluída. ¿Por cuál ley? ¿de las obras? No; mas por la ley de la fe."
+            },
+            {
+              "cita": "Gál. 2:6",
+              "Pasaje": "6. Empero de aquellos que parecían ser algo (cuáles hayan sido algún tiempo, no tengo que ver; Dios no acepta apariencia de hombre), á mí ciertamente los que parecían ser algo, nada me dieron."
+            },
+            {
+              "cita": "1 Ped. 1:4-5",
+              "Pasaje": "4. Para una herencia incorruptible, y que no puede contaminarse, ni marchitarse, reservada en los cielos\n5. Para nosotros que somos guardados en la virtud de Dios por fe, para alcanzar la salud que está aparejada para ser manifestada en el postrimero tiempo."
+            },
+            {
+              "cita": "Rom. 10:4",
+              "Pasaje": "4. Porque el fin de la ley es Cristo, para justicia á todo aquel que cree."
+            }
+          ]
+        },
+        {
+          "inciso": "5",
+          "citas": [
+            {
+              "cita": "Jer. 23:6",
+              "Pasaje": "6. En sus días será salvo Judá, é Israel habitará confiado: y este será su nombre que le llamarán: JEHOVÁ, JUSTICIA NUESTRA."
+            },
+            {
+              "cita": "1 Cor. 1:30",
+              "Pasaje": "30. Mas de él sois vosotros en Cristo Jesús, el cual nos ha sido hecho por Dios sabiduría, y justificación, y santificación, y redención:"
+            },
+            {
+              "cita": "2 Tim. 1:2",
+              "Pasaje": "2. A Timoteo, amado hijo: Gracia, misericordia, [y] paz de Dios el Padre y de Jesucristo nuestro Señor."
+            },
+            {
+              "cita": "Luc. 1:77",
+              "Pasaje": "77. Dando conocimiento de salud á su pueblo, para remisión de sus pecados,"
+            },
+            {
+              "cita": "Rom. 3:24-25",
+              "Pasaje": "24. Siendo justificados gratuitamente por su gracia, por la redención que es en Cristo Jesús;\n25. Al cual Dios ha propuesto en propiciación por la fe en su sangre, para manifestación de su justicia, atento á haber pasado por alto, en su paciencia, los pecados pasados,"
+            },
+            {
+              "cita": "Rom. 4:5",
+              "Pasaje": "5. Mas al que no obra, pero cree en aquél que justifica al impío, la fe le es contada por justicia."
+            },
+            {
+              "cita": "Sal. 32:1-2",
+              "Pasaje": "1. Salmo de David: Masquil. BIENAVENTURADO aquel cuyas iniquidades son perdonadas, [y] borrados sus pecados.\n2. Bienaventurado el hombre á quien no imputa Jehová la iniquidad, y en cuyo espíritu no hay superchería."
+            },
+            {
+              "cita": "Fil. 3:9",
+              "Pasaje": "9. Y ser hallado en él, no teniendo mi justicia, que es por la ley, sino la que es por la fe de Cristo, la justicia que es de Dios por la fe;"
+            },
+            {
+              "cita": "Tit. 3:5",
+              "Pasaje": "5. No por obras de justicia que nosotros habíamos hecho, mas por su misericordia nos salvó, por el lavacro de la regeneración, y de la renovación del Espíritu Santo;"
+            },
+            {
+              "cita": "2 Tim. 1:9",
+              "Pasaje": "9. Que nos salvó y llamó con vocación santa, no conforme á nuestras obras, mas según el intento suyo y gracia, la cual nos es dada en Cristo Jesús antes de los tiempos de los siglos,"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 23,
+      "pregunta": "Nuestra justicia delante de Dios",
+      "respuesta": "Creemos que nuestra bienaventuranza consiste en el perdón de nuestros pecados por causa de Jesucristo, y que en ello está contenida nuestra justicia delante de Dios, como nos enseñan David y san Pablo cuando declaran la bienaventuranza del hombre a quien Dios atribuye justicia sin obras. Y el mismo apóstol dice que somos justificados gratuitamente, o por gracia, mediante la redención que es en Cristo Jesús. Por eso mantenemos para siempre este fundamento firme, dando toda la gloria a Dios, humillándonos y reconociéndonos tales como somos, sin presumir nada de nosotros mismos ni de nuestros méritos; y nos apoyamos y descansamos en la sola obediencia de Cristo crucificado, la cual es nuestra cuando creemos en él. Ella basta para cubrir todas nuestras iniquidades y darnos confianza, y aleja de nuestra conciencia el temor, el horror y el espanto para que nos acerquemos a Dios, sin hacer como nuestro primer padre Adán, que temblando quería cubrirse con hojas de higuera. Y en verdad, si tuviéramos que comparecer delante de Dios apoyados, por poco que fuera, en nosotros mismos o en alguna otra criatura, ¡ay!, seríamos consumidos. Por eso cada uno debe decir con David: «Oh Señor, no entres en juicio con tus siervos, porque no se justificará delante de ti ningún viviente».",
+      "referenciasBiblicas": [
+        {
+          "inciso": "1",
+          "citas": [
+            {
+              "cita": "Luc. 1:77",
+              "Pasaje": "77. Dando conocimiento de salud á su pueblo, para remisión de sus pecados,"
+            },
+            {
+              "cita": "Col. 1:14",
+              "Pasaje": "14. En el cual tenemos redención por su sangre, la remisión de pecados:"
+            },
+            {
+              "cita": "Sal. 32:1-2",
+              "Pasaje": "1. Salmo de David: Masquil. BIENAVENTURADO aquel cuyas iniquidades son perdonadas, [y] borrados sus pecados.\n2. Bienaventurado el hombre á quien no imputa Jehová la iniquidad, y en cuyo espíritu no hay superchería."
+            },
+            {
+              "cita": "Rom. 4:6-7",
+              "Pasaje": "6. Como también David dice ser bienaventurado el hombre al cual Dios atribuye justicia sin obras,\n7. [Diciendo]: Bienaventurados aquellos cuyas iniquidades son perdonadas, y cuyos pecados son cubiertos."
+            }
+          ]
+        },
+        {
+          "inciso": "2",
+          "citas": [
+            {
+              "cita": "Rom. 3:23-24",
+              "Pasaje": "23. Por cuanto todos pecaron, y están destituídos de la gloria de Dios;\n24. Siendo justificados gratuitamente por su gracia, por la redención que es en Cristo Jesús;"
+            },
+            {
+              "cita": "Hech. 4:12",
+              "Pasaje": "12. Y en ningún otro hay salud; porque no hay otro nombre debajo del cielo, dado á los hombres, en que podamos ser salvos."
+            }
+          ]
+        },
+        {
+          "inciso": "3",
+          "citas": [
+            {
+              "cita": "Sal. 115:1",
+              "Pasaje": "1. NO á nosotros, oh Jehová, no á nosotros, sino á tu nombre da gloria; por tu misericordia, por tu verdad."
+            },
+            {
+              "cita": "1 Cor. 4:7",
+              "Pasaje": "7. Porque ¿quién te distingue? ¿ó qué tienes que no hayas recibido? Y si lo recibiste, ¿de qué te glorías como si no hubieras recibido?"
+            },
+            {
+              "cita": "Rom. 4:2",
+              "Pasaje": "2. Que si Abraham fué justificado por la obras, tiene de qué gloriarse; mas no para con Dios."
+            }
+          ]
+        },
+        {
+          "inciso": "4",
+          "citas": [
+            {
+              "cita": "1 Cor. 4:7",
+              "Pasaje": "7. Porque ¿quién te distingue? ¿ó qué tienes que no hayas recibido? Y si lo recibiste, ¿de qué te glorías como si no hubieras recibido?"
+            },
+            {
+              "cita": "Rom. 4:2",
+              "Pasaje": "2. Que si Abraham fué justificado por la obras, tiene de qué gloriarse; mas no para con Dios."
+            },
+            {
+              "cita": "1 Cor. 1:29,31",
+              "Pasaje": "29. Para que ninguna carne se jacte en su presencia.\n31. Para que, como está escrito: El que se gloría, gloríese en el Señor."
+            }
+          ]
+        },
+        {
+          "inciso": "5",
+          "citas": [
+            {
+              "cita": "Rom. 5:19",
+              "Pasaje": "19. Porque como por la desobediencia de un hombre los muchos fueron constituídos pecadores, así por la obediencia de uno los muchos serán constituídos justos."
+            }
+          ]
+        },
+        {
+          "inciso": "6",
+          "citas": [
+            {
+              "cita": "Heb. 11:6-7",
+              "Pasaje": "6. Empero sin fe es imposible agradar á Dios; porque es menester que el que á Dios se allega, crea que le hay, y que es galardonador de los que le buscan.\n7. Por la fe Noé, habiendo recibido respuesta de cosas que aun no se veían, con temor aparejó el arca en que su casa se salvase: por la cual [fe] condenó al mundo, y fué hecho heredero de la justicia que es por la fe."
+            },
+            {
+              "cita": "Ef. 2:8",
+              "Pasaje": "8. Porque por gracia sois salvos por la fe; y esto no de vosotros, [pues es] don de Dios:"
+            },
+            {
+              "cita": "2 Cor. 5:19",
+              "Pasaje": "19. Porque ciertamente Dios estaba en Cristo reconciliando el mundo á sí, no imputándole sus pecados, y puso en nosotros la palabra de la reconciliación."
+            },
+            {
+              "cita": "1 Tim. 2:6",
+              "Pasaje": "6. El cual se dió á sí mismo [en] precio del rescate por todos, [para] testimonio en sus tiempos:"
+            }
+          ]
+        },
+        {
+          "inciso": "7",
+          "citas": [
+            {
+              "cita": "Rom. 5:1",
+              "Pasaje": "1. JUSTIFICADOS pues por la fe, tenemos paz para con Dios por medio de nuestro Señor Jesucristo:"
+            },
+            {
+              "cita": "Ef. 3:12",
+              "Pasaje": "12. En el cual tenemos seguridad y entrada con confianza por la fe de él."
+            },
+            {
+              "cita": "1 Jn. 2:1",
+              "Pasaje": "1. HIJITOS míos, estas cosas os escribo, para que no pequéis; y si alguno hubiere pecado, abogado tenemos para con el Padre, á Jesucristo el justo;"
+            }
+          ]
+        },
+        {
+          "inciso": "8",
+          "citas": [
+            {
+              "cita": "Gén. 3:7",
+              "Pasaje": "7. Y fueron abiertos los ojos de entrambos, y conocieron que estaban desnudos: entonces cosieron hojas de higuera, y se hicieron delantales."
+            }
+          ]
+        },
+        {
+          "inciso": "9",
+          "citas": [
+            {
+              "cita": "Isa. 33:14",
+              "Pasaje": "14. Los pecadores se asombraron en Sión, espanto sobrecogió á los hipócritas. ¿Quién de nosotros morará con el fuego consumidor? ¿quién de nosotros habitará con las llamas eternas?"
+            },
+            {
+              "cita": "Deut. 27:26",
+              "Pasaje": "26. Maldito el que no confirmare las palabras de esta ley para cumplirlas. Y dirá todo el pueblo: Amén."
+            },
+            {
+              "cita": "Sant. 2:10",
+              "Pasaje": "10. Porque cualquiera que hubiere guardado toda la ley, y ofendiere en un [punto], es hecho culpado de todos."
+            }
+          ]
+        },
+        {
+          "inciso": "10",
+          "citas": [
+            {
+              "cita": "Sal. 130:3",
+              "Pasaje": "3. JAH, si mirares á los pecados, ¿quién, oh Señor, podrá mantenerse?"
+            },
+            {
+              "cita": "Mat. 18:23,26",
+              "Pasaje": "23. Por lo cual, el reino de los cielos es semejante á un hombre rey, que quiso hacer cuentas con sus siervos.\n26. Entonces aquel siervo, postrado, le adoraba, diciendo: Señor, ten paciencia conmigo, y yo te lo pagaré todo."
+            },
+            {
+              "cita": "Sal. 143:2",
+              "Pasaje": "2. Y no entres en juicio con tu siervo; porque no se justificará delante de ti ningún viviente."
+            },
+            {
+              "cita": "Luc. 16:15",
+              "Pasaje": "15. Y díjoles: Vosotros sois los que os justificáis á vosotros mismos delante de los hombres; mas Dios conoce vuestros corazones; porque lo que los hombres [tienen] por sublime, delante de Dios es abominación."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 24,
+      "pregunta": "La santificación y las buenas obras",
+      "respuesta": "Creemos que esta fe verdadera, engendrada en el hombre por el oír de la Palabra de Dios y por la obra del Espíritu Santo, lo regenera y lo hace un hombre nuevo, haciéndolo vivir una vida nueva y librándolo de la esclavitud del pecado. Así, lejos de que esta fe que justifica haga a los hombres tibios para vivir bien y santamente, es todo lo contrario: sin ella nunca harían nada por amor a Dios, sino solo por amor de sí mismos y por temor a ser condenados. Es, pues, imposible que esta santa fe esté ociosa en el hombre, ya que no hablamos de una fe vana, sino de la que la Escritura llama fe que obra por el amor, la cual mueve al hombre a ejercitarse en las obras que Dios mandó en su Palabra. Estas obras, como proceden de la buena raíz de la fe, son buenas y aceptas delante de Dios, porque todas son santificadas por su gracia. Sin embargo, no cuentan para justificarnos, porque somos justificados por la fe en Cristo aun antes de hacer buenas obras; de otro modo no podrían ser buenas, así como el fruto de un árbol no puede ser bueno si primero el árbol no es bueno.\nHacemos, pues, buenas obras, pero no para merecer (porque ¿qué mereceríamos?); más bien, nosotros somos deudores a Dios por las buenas obras que hacemos, y no él a nosotros, porque él es quien produce en nosotros así el querer como el hacer, por su buena voluntad. Y tenemos presente lo que está escrito: «Cuando hubiereis hecho todo lo que os es mandado, decid: Siervos inútiles somos, porque lo que debíamos hacer, hicimos».\nCon todo, no queremos negar que Dios recompense las buenas obras; pero es por su gracia que corona sus propios dones. Además, aunque hagamos buenas obras, no fundamos en ellas nuestra salvación; porque no podemos hacer ninguna obra que no esté manchada por nuestra carne y que no merezca castigo. Y aunque pudiéramos mostrar una, el recuerdo de un solo pecado basta para que Dios la rechace. De ese modo estaríamos siempre en duda, vacilando de un lado a otro sin ninguna certeza, y nuestras pobres conciencias estarían siempre atormentadas si no descansaran en el mérito de la muerte y pasión de nuestro Salvador.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "1",
+          "citas": [
+            {
+              "cita": "1 Ped. 1:23",
+              "Pasaje": "23. Siendo renacidos, no de simiente corruptible, sino de incorruptible, por la palabra de Dios, que vive y permanece para siempre."
+            },
+            {
+              "cita": "Rom. 10:17",
+              "Pasaje": "17. Luego la fe es por el oir; y el oir por la palabra de Dios."
+            },
+            {
+              "cita": "Jn. 5:24",
+              "Pasaje": "24. De cierto, de cierto os digo: El que oye mi palabra, y cree al que me ha enviado, tiene vida eterna; y no vendrá á condenación, mas pasó de muerte á vida."
+            }
+          ]
+        },
+        {
+          "inciso": "2",
+          "citas": [
+            {
+              "cita": "1 Tes. 1:5",
+              "Pasaje": "5. Por cuanto nuestro evangelio no fué á vosotros en palabra solamente, mas también en potencia, y en Espíritu Santo, y en gran plenitud; como sabéis cuáles fuimos entre vosotros por amor de vosotros."
+            },
+            {
+              "cita": "Rom. 8:15",
+              "Pasaje": "15. Porque no habéis recibido el espíritu de servidumbre para [estar] otra vez en temor; mas habéis recibido el espíritu de adopción, por el cual clamamos, Abba, Padre."
+            },
+            {
+              "cita": "Jn. 6:29",
+              "Pasaje": "29. Respondió Jesús, y díjoles: Esta es la obra de Dios, que creáis en el que él ha enviado."
+            },
+            {
+              "cita": "Col. 2:12",
+              "Pasaje": "12. Sepultados juntamente con él en el bautismo, en el cual también resucitasteis con él, por la fe de la operación de Dios que le levantó de los muertos."
+            },
+            {
+              "cita": "Fil. 1:1,29",
+              "Pasaje": "1. PABLO y Timoteo, siervos de Jesucristo, á todos los santos en Cristo Jesús que están en Filipos, con los obispos y diáconos:\n29. Porque á vosotros es concedido por Cristo, no sólo que creáis en él, sino también que padezcáis por él,"
+            },
+            {
+              "cita": "Ef. 2:8",
+              "Pasaje": "8. Porque por gracia sois salvos por la fe; y esto no de vosotros, [pues es] don de Dios:"
+            }
+          ]
+        },
+        {
+          "inciso": "3",
+          "citas": [
+            {
+              "cita": "Hech. 15:9",
+              "Pasaje": "9. Y ninguna diferencia hizo entre nosotros y ellos, purificando con la fe sus corazones."
+            },
+            {
+              "cita": "Rom. 6:4,22",
+              "Pasaje": "4. Porque somos sepultados juntamente con él á muerte por el bautismo; para que como Cristo resucitó de los muertos por la gloria del Padre, así también nosotros andemos en novedad de vida.\n22. Mas ahora, librados del pecado, y hechos siervos á Dios, tenéis por vuestro fruto la santificación, y por fin la vida eterna."
+            },
+            {
+              "cita": "Tit. 2:12",
+              "Pasaje": "12. Enseñándonos que, renunciando á la impiedad y á los deseos mundanos, vivamos en este siglo templada, y justa, y píamente,"
+            },
+            {
+              "cita": "Jn. 8:36",
+              "Pasaje": "36. Así que, si el Hijo os libertare, seréis verdaderamente libres."
+            }
+          ]
+        },
+        {
+          "inciso": "4",
+          "citas": [
+            {
+              "cita": "Tit. 2:12",
+              "Pasaje": "12. Enseñándonos que, renunciando á la impiedad y á los deseos mundanos, vivamos en este siglo templada, y justa, y píamente,"
+            }
+          ]
+        },
+        {
+          "inciso": "5",
+          "citas": [
+            {
+              "cita": "Tit. 3:8",
+              "Pasaje": "8. Palabra fiel, y estas cosas quiero que afirmes, para que los que creen á Dios procuren gobernarse en buenas obras. Estas cosas son buenas y útiles á los hombres."
+            },
+            {
+              "cita": "Jn. 15:5",
+              "Pasaje": "5. Yo soy la vid, vosotros los pámpanos: el que está en mí, y yo en él, éste lleva mucho fruto; porque sin mí nada podéis hacer."
+            },
+            {
+              "cita": "Heb. 11:6",
+              "Pasaje": "6. Empero sin fe es imposible agradar á Dios; porque es menester que el que á Dios se allega, crea que le hay, y que es galardonador de los que le buscan."
+            },
+            {
+              "cita": "1 Tim. 1:5",
+              "Pasaje": "5. Pues el fin del mandamiento es la caridad [nacida] de corazón limpio, y de buena conciencia, y de fe no fingida:"
+            }
+          ]
+        },
+        {
+          "inciso": "6",
+          "citas": [
+            {
+              "cita": "1 Tim. 1:5",
+              "Pasaje": "5. Pues el fin del mandamiento es la caridad [nacida] de corazón limpio, y de buena conciencia, y de fe no fingida:"
+            },
+            {
+              "cita": "Gál. 5:6",
+              "Pasaje": "6. Porque en Cristo Jesús ni la circuncisión vale algo, ni la incircuncisión; sino la fe que obra por la caridad."
+            },
+            {
+              "cita": "Tit. 3:8",
+              "Pasaje": "8. Palabra fiel, y estas cosas quiero que afirmes, para que los que creen á Dios procuren gobernarse en buenas obras. Estas cosas son buenas y útiles á los hombres."
+            }
+          ]
+        },
+        {
+          "inciso": "7",
+          "citas": [
+            {
+              "cita": "2 Tim. 1:9",
+              "Pasaje": "9. Que nos salvó y llamó con vocación santa, no conforme á nuestras obras, mas según el intento suyo y gracia, la cual nos es dada en Cristo Jesús antes de los tiempos de los siglos,"
+            },
+            {
+              "cita": "Rom. 9:32",
+              "Pasaje": "32. ¿Por qué? Porque [la seguían] no por fe, mas como por las obras de la ley: por lo cual tropezaron en la piedra de tropiezo,"
+            },
+            {
+              "cita": "Tit. 3:5",
+              "Pasaje": "5. No por obras de justicia que nosotros habíamos hecho, mas por su misericordia nos salvó, por el lavacro de la regeneración, y de la renovación del Espíritu Santo;"
+            }
+          ]
+        },
+        {
+          "inciso": "8",
+          "citas": [
+            {
+              "cita": "Rom. 4:4",
+              "Pasaje": "4. Empero al que obra, no se le cuenta el salario por merced, sino por deuda."
+            },
+            {
+              "cita": "Gén. 4:4",
+              "Pasaje": "4. Y Abel trajo también de los primogénitos de sus ovejas, y de su grosura. Y miró Jehová con agrado á Abel y á su ofrenda;"
+            }
+          ]
+        },
+        {
+          "inciso": "9",
+          "citas": [
+            {
+              "cita": "Heb. 11:6",
+              "Pasaje": "6. Empero sin fe es imposible agradar á Dios; porque es menester que el que á Dios se allega, crea que le hay, y que es galardonador de los que le buscan."
+            },
+            {
+              "cita": "Rom. 14:23",
+              "Pasaje": "23. Mas el que hace diferencia, si comiere, es condenado, porque no [comió] por fe: y todo lo que no es de fe, es pecado."
+            },
+            {
+              "cita": "Gén. 4:4",
+              "Pasaje": "4. Y Abel trajo también de los primogénitos de sus ovejas, y de su grosura. Y miró Jehová con agrado á Abel y á su ofrenda;"
+            },
+            {
+              "cita": "Mat. 7:17",
+              "Pasaje": "17. Así, todo buen árbol lleva buenos frutos; mas el árbol maleado lleva malos frutos."
+            }
+          ]
+        },
+        {
+          "inciso": "10",
+          "citas": [
+            {
+              "cita": "1 Cor. 4:7",
+              "Pasaje": "7. Porque ¿quién te distingue? ¿ó qué tienes que no hayas recibido? Y si lo recibiste, ¿de qué te glorías como si no hubieras recibido?"
+            },
+            {
+              "cita": "Isa. 26:12",
+              "Pasaje": "12. Jehová, tú nos depararás paz; porque también obraste en nosotros todas nuestras obras."
+            },
+            {
+              "cita": "Gál. 3:5",
+              "Pasaje": "5. Aquel, pues, que os daba el Espíritu, y obraba maravillas entre vosotros ¿[hacíalo] por las obras de la ley, ó por el oir de la fe?"
+            },
+            {
+              "cita": "1 Tes. 2:13",
+              "Pasaje": "13. Por lo cual, también nosotros damos gracias á Dios sin cesar, de que habiendo recibido la palabra de Dios que oísteis de nosotros, recibisteis no palabra de hombres, sino según es en verdad, la palabra de Dios, el cual obra en vosotros los que creísteis."
+            }
+          ]
+        },
+        {
+          "inciso": "11",
+          "citas": [
+            {
+              "cita": "Fil. 2:13",
+              "Pasaje": "13. Porque Dios es el que en vosotros obra así el querer como el hacer, por su buena voluntad."
+            }
+          ]
+        },
+        {
+          "inciso": "12",
+          "citas": [
+            {
+              "cita": "Luc. 17:10",
+              "Pasaje": "10. Así también vosotros, cuando hubiereis hecho todo lo que os es mandado, decid: Siervos inútiles somos, porque lo que debíamos hacer, hicimos."
+            }
+          ]
+        },
+        {
+          "inciso": "13",
+          "citas": [
+            {
+              "cita": "Mat. 10:42",
+              "Pasaje": "42. Y cualquiera que diere á uno de estos pequeñitos un vaso de agua fría solamente, en nombre de discípulo, de cierto os digo, [que] no perderá su recompensa."
+            },
+            {
+              "cita": "Mat. 25:34-35",
+              "Pasaje": "34. Entonces el Rey dirá á los que [estarán] á su derecha: Venid, benditos de mi Padre, heredad el reino preparado para vosotros desde la fundación del mundo:\n35. Porque tuve hambre, y me disteis de comer; tuve sed, y me disteis de beber; fuí huésped, y me recogisteis;"
+            },
+            {
+              "cita": "Apoc. 3:12,21",
+              "Pasaje": "12. Al que venciere, yo lo haré columna en el templo de mi Dios, y nunca más saldrá fuera; y escribiré sobre él el nombre de mi Dios, y el nombre de la ciudad de mi Dios, la nueva Jerusalem, la cual desciende del cielo de con mi Dios, y mi nombre nuevo.\n21. Al que venciere, yo le daré que se siente conmigo en mi trono; así como yo he vencido, y me he sentado con mi Padre en su trono."
+            },
+            {
+              "cita": "Rom. 2:6",
+              "Pasaje": "6. El cual pagará á cada uno conforme á sus obras:"
+            },
+            {
+              "cita": "Apoc. 2:11",
+              "Pasaje": "11. El que tiene oído, oiga lo que el Espíritu dice á las iglesias. El que venciere, no recibirá daño de la muerte segunda."
+            },
+            {
+              "cita": "2 Jn. 1:8",
+              "Pasaje": "8. Mirad por vosotros mismos, porque no perdamos las cosas que hemos obrado, sino que recibamos galardón cumplido."
+            },
+            {
+              "cita": "Rom. 11:6",
+              "Pasaje": "6. Y si por gracia, luego no por las obras; de otra manera la gracia ya no es gracia. Y si por las obras, ya no es gracia; de otra manera la obra ya no es obra."
+            }
+          ]
+        },
+        {
+          "inciso": "14",
+          "citas": [
+            {
+              "cita": "Ef. 2:9-10",
+              "Pasaje": "9. No por obras, para que nadie se gloríe.\n10. Porque somos hechura suya, criados en Cristo Jesús para buenas obras, las cuales Dios preparó para que anduviésemos en ellas."
+            }
+          ]
+        },
+        {
+          "inciso": "15",
+          "citas": [
+            {
+              "cita": "Isa. 64:6",
+              "Pasaje": "6. Si bien todos nosotros somos como suciedad, y todas nuestras justicias como trapo de inmundicia; y caímos todos nosotros como la hoja, y nuestras maldades nos llevaron como viento."
+            }
+          ]
+        },
+        {
+          "inciso": "16",
+          "citas": [
+            {
+              "cita": "Isa. 28:16",
+              "Pasaje": "16. Por tanto, el Señor Jehová dice así: He aquí que yo fundo en Sión una piedra, piedra de fortaleza, de esquina, de precio, de cimiento estable: el que creyere, no se apresure."
+            },
+            {
+              "cita": "Rom. 10:11",
+              "Pasaje": "11. Porque la Escritura dice: Todo aquel que en él creyere, no será avergonzado."
+            },
+            {
+              "cita": "Hab. 2:4",
+              "Pasaje": "4. He aquí se enorgullece aquel cuya alma no es derecha en él: mas el justo en su fe vivirá."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 25,
+      "pregunta": "La abolición de la ley ceremonial",
+      "respuesta": "Creemos que las ceremonias y figuras de la Ley cesaron con la venida de Cristo, y que todas las sombras llegaron a su fin, de modo que su uso debe ser quitado entre los cristianos. Sin embargo, su verdad y su sustancia permanecen para nosotros en Jesucristo, en quien tienen su cumplimiento. Con todo, seguimos usando los testimonios tomados de la Ley y de los Profetas para confirmarnos en el Evangelio, y también para ordenar nuestra vida en toda honestidad, para gloria de Dios, conforme a su voluntad.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "1",
+          "citas": [
+            {
+              "cita": "Rom. 10:4",
+              "Pasaje": "4. Porque el fin de la ley es Cristo, para justicia á todo aquel que cree."
+            }
+          ]
+        },
+        {
+          "inciso": "2",
+          "citas": [
+            {
+              "cita": "Gál. 5:2,4",
+              "Pasaje": "2. He aquí yo Pablo os digo, que si os circuncidareis, Cristo no os aprovechará nada.\n4. Vacíos sois de Cristo los que por la ley os justificáis; de la gracia habéis caído."
+            },
+            {
+              "cita": "Gál. 3:1",
+              "Pasaje": "1. ¡OH Gálatas insensatos! ¿quién os fascinó, para no obedecer á la verdad, ante cuyos ojos Jesucristo fué ya descrito [como] crucificado entre vosotros?"
+            },
+            {
+              "cita": "Gál. 4:10-11",
+              "Pasaje": "10. Guardáis los días, y los meses, y los tiempos, y los años.\n11. Temo de vosotros, que no haya trabajado en vano en vosotros."
+            },
+            {
+              "cita": "Col. 2:16-17",
+              "Pasaje": "16. Por tanto, nadie os juzgue en comida, ó en bebida, ó en parte de día de fiesta, ó de nueva luna, ó de sábados:\n17. Lo cual es la sombra de lo por venir; mas el cuerpo es de Cristo."
+            }
+          ]
+        },
+        {
+          "inciso": "3",
+          "citas": [
+            {
+              "cita": "2 Ped. 1:19",
+              "Pasaje": "19. Tenemos también la palabra profética más permanente, á la cual hacéis bien de estar atentos como á una antorcha que alumbra en lugar oscuro hasta que el día esclarezca, y el lucero de la mañana salga en vuestros corazones:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 26,
+      "pregunta": "La intercesión de Cristo",
+      "respuesta": "Creemos que no tenemos acceso a Dios sino por un solo Mediador y Abogado, Jesucristo el justo, que por esta causa se hizo hombre, uniendo la naturaleza divina y la humana, para que nosotros, los hombres, tengamos entrada a la majestad divina; de otro modo no tendríamos entrada. Pero este Mediador que el Padre nos dio entre él y nosotros no debe espantarnos por su grandeza, como si tuviéramos que buscar otro a nuestro antojo; porque no hay nadie, ni en el cielo ni en la tierra, entre las criaturas, que nos ame más que Jesucristo, quien, siendo en forma de Dios, se anonadó a sí mismo, tomando forma de hombre y de siervo por nosotros, y se hizo en todo semejante a sus hermanos. Si tuviéramos, pues, que buscar otro intercesor que nos tenga afecto, ¿a quién hallaríamos que nos ame más que el que dio su vida por nosotros, aun cuando éramos sus enemigos? Y si hay que buscar uno que tenga crédito y poder, ¿quién los tiene tanto como el que está sentado a la diestra del Padre y tiene todo poder en el cielo y en la tierra? ¿Y quién será escuchado antes que el propio Hijo amado de Dios?\nFue, pues, la sola desconfianza la que introdujo esta costumbre de deshonrar a los santos en lugar de honrarlos, haciendo lo que ellos nunca hicieron ni pidieron, sino que rechazaron constantemente, como era su deber, según consta en sus escritos. No se debe alegar aquí que no somos dignos, porque no se trata de presentar nuestras oraciones fundados en nuestra dignidad, sino solo en la excelencia y la dignidad de Jesucristo, cuya justicia es nuestra por la fe.\nPor eso, con razón, el apóstol, queriendo quitarnos este temor insensato, o más bien esta desconfianza, nos dice que Jesucristo fue hecho en todo semejante a sus hermanos, para ser sumo sacerdote misericordioso y fiel para expiar los pecados del pueblo; porque, por cuanto él mismo padeció siendo tentado, es poderoso para socorrer a los que son tentados. Y después, para darnos más ánimo de acercarnos a él, dice: «Teniendo, pues, un gran sumo sacerdote, Jesús el Hijo de Dios, que traspasó los cielos, retengamos nuestra profesión; porque no tenemos un sumo sacerdote que no pueda compadecerse de nuestras debilidades, sino uno que fue tentado en todo según nuestra semejanza, pero sin pecado. Acerquémonos, pues, confiadamente al trono de la gracia, para alcanzar misericordia y hallar gracia para el oportuno socorro». El mismo apóstol dice que tenemos libertad para entrar en el lugar santísimo por la sangre de Jesús: «Acerquémonos, pues», dice, «en plena certidumbre de fe», etc. Y también: «Cristo tiene un sacerdocio perpetuo; por lo cual puede también salvar perpetuamente a los que por él se acercan a Dios, viviendo siempre para interceder por ellos». ¿Qué más hace falta, si Cristo mismo declara: «Yo soy el camino, y la verdad, y la vida: nadie viene al Padre, sino por mí»? ¿Para qué buscaríamos otro abogado, si a Dios le agradó darnos a su Hijo como nuestro Abogado? No lo dejemos para tomar otro, o más bien para buscar sin hallar nunca; porque cuando Dios nos lo dio, bien sabía que éramos pecadores.\nPor eso, conforme al mandamiento de Cristo, invocamos al Padre celestial por medio de Cristo, nuestro único Mediador, como se nos enseña en la Oración del Señor, seguros de que todo lo que pidamos al Padre en su nombre lo obtendremos.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "1",
+          "citas": [
+            {
+              "cita": "1 Tim. 2:5",
+              "Pasaje": "5. Porque hay un Dios, asimismo un mediador entre Dios y los hombres, Jesucristo hombre;"
+            },
+            {
+              "cita": "1 Jn. 2:1",
+              "Pasaje": "1. HIJITOS míos, estas cosas os escribo, para que no pequéis; y si alguno hubiere pecado, abogado tenemos para con el Padre, á Jesucristo el justo;"
+            },
+            {
+              "cita": "Rom. 8:33",
+              "Pasaje": "33. ¿Quién acusará á los escogidos de Dios? Dios es el que justifica."
+            }
+          ]
+        },
+        {
+          "inciso": "2",
+          "citas": [
+            {
+              "cita": "Os. 13:9",
+              "Pasaje": "9. Te perdiste, oh Israel, mas en mí [está] tu ayuda."
+            },
+            {
+              "cita": "Jer. 2:13,33",
+              "Pasaje": "13. Porque dos males ha hecho mi pueblo: dejáronme á mí, fuente de agua viva, por cavar para sí cisternas, cisternas rotas que no detienen aguas.\n33. ¿Por qué abonas tu camino para hallar amor, pues aun á las malvadas enseñaste tus caminos?"
+            }
+          ]
+        },
+        {
+          "inciso": "3",
+          "citas": [
+            {
+              "cita": "Jn. 10:11",
+              "Pasaje": "11. Yo soy el buen pastor: el buen pastor su vida da por las ovejas."
+            },
+            {
+              "cita": "1 Jn. 4:10",
+              "Pasaje": "10. En esto consiste el amor: no que nosotros hayamos amado á Dios, sino que él nos amó á nosotros, y ha enviado á su Hijo [en] propiciación por nuestros pecados."
+            },
+            {
+              "cita": "Rom. 5:8",
+              "Pasaje": "8. Mas Dios encarece su caridad para con nosotros, porque siendo aún pecadores, Cristo murió por nosotros."
+            },
+            {
+              "cita": "Ef. 3:19",
+              "Pasaje": "19. Y conocer el amor de Cristo, que excede á todo conocimiento, para que seáis llenos de toda la plenitud de Dios."
+            },
+            {
+              "cita": "Jn. 15:13",
+              "Pasaje": "13. Nadie tiene mayor amor que este, que ponga alguno su vida por sus amigos."
+            }
+          ]
+        },
+        {
+          "inciso": "4",
+          "citas": [
+            {
+              "cita": "Fil. 2:7",
+              "Pasaje": "7. Sin embargo, se anonadó á sí mismo, tomando forma de siervo, hecho semejante á los hombres;"
+            }
+          ]
+        },
+        {
+          "inciso": "5",
+          "citas": [
+            {
+              "cita": "Rom. 5:8",
+              "Pasaje": "8. Mas Dios encarece su caridad para con nosotros, porque siendo aún pecadores, Cristo murió por nosotros."
+            }
+          ]
+        },
+        {
+          "inciso": "6",
+          "citas": [
+            {
+              "cita": "Mar. 16:19",
+              "Pasaje": "19. Y el Señor, después que les habló, fué recibido arriba en el cielo, y sentóse á la diestra de Dios."
+            },
+            {
+              "cita": "Col. 3:1",
+              "Pasaje": "1. SI habéis pues resucitado con Cristo, buscad las cosas de arriba, donde está Cristo sentado á la diestra de Dios."
+            },
+            {
+              "cita": "Rom. 8:33",
+              "Pasaje": "33. ¿Quién acusará á los escogidos de Dios? Dios es el que justifica."
+            },
+            {
+              "cita": "Mat. 11:27",
+              "Pasaje": "27. Todas las cosas me son entregadas de mi Padre: y nadie conoció al Hijo, sino el Padre; ni al Padre conoció alguno, sino el Hijo, y aquel á quien el Hijo [lo] quisiere revelar."
+            },
+            {
+              "cita": "Mat. 28:18",
+              "Pasaje": "18. Y llegando Jesús, les habló, diciendo: Toda potestad me es dada en el cielo y en la tierra."
+            }
+          ]
+        },
+        {
+          "inciso": "7",
+          "citas": [
+            {
+              "cita": "Hech. 10:26",
+              "Pasaje": "26. Mas Pedro le levantó, diciendo: Levántate; yo mismo también soy hombre."
+            },
+            {
+              "cita": "Hech. 14:15",
+              "Pasaje": "15. Y diciendo: Varones, ¿por qué hacéis esto? Nosotros también somos hombres semejantes á vosotros, que os anunciamos que de estas vanidades os convirtáis al Dios vivo, que hizo el cielo y la tierra, y la mar, y todo lo que está en ellos:"
+            }
+          ]
+        },
+        {
+          "inciso": "8",
+          "citas": [
+            {
+              "cita": "Dan. 9:17-18",
+              "Pasaje": "17. Ahora pues, Dios nuestro, oye la oración de tu siervo, y sus ruegos, y haz que tu rostro resplandezca sobre tu santuario asolado, por amor del Señor.\n18. Inclina, oh Dios mío, tu oído, y oye; abre tus ojos, y mira nuestros asolamientos, y la ciudad sobre la cual es llamado tu nombre: porque no derramamos nuestros ruegos ante tu acatamiento [confiados] en nuestras justicias, sino en tus muchas miseraciones."
+            },
+            {
+              "cita": "Jn. 16:23",
+              "Pasaje": "23. Y aquel día no me preguntaréis nada. De cierto, de cierto os digo, que todo cuanto pidiereis al Padre en mi nombre, os [lo] dará."
+            },
+            {
+              "cita": "Ef. 3:12",
+              "Pasaje": "12. En el cual tenemos seguridad y entrada con confianza por la fe de él."
+            },
+            {
+              "cita": "Hech. 4:12",
+              "Pasaje": "12. Y en ningún otro hay salud; porque no hay otro nombre debajo del cielo, dado á los hombres, en que podamos ser salvos."
+            },
+            {
+              "cita": "1 Cor. 1:31",
+              "Pasaje": "31. Para que, como está escrito: El que se gloría, gloríese en el Señor."
+            },
+            {
+              "cita": "Ef. 2:18",
+              "Pasaje": "18. Que por él los unos y los otros tenemos entrada por un mismo Espíritu al Padre."
+            }
+          ]
+        },
+        {
+          "inciso": "9",
+          "citas": [
+            {
+              "cita": "Heb. 2:17-18",
+              "Pasaje": "17. Por lo cual, debía ser en todo semejante á los hermanos, para venir á ser misericordioso y fiel Pontífice en lo que es para con Dios, para expiar los pecados del pueblo.\n18. Porque en cuanto él mismo padeció siendo tentado, es poderoso para socorrer á los que son tentados."
+            }
+          ]
+        },
+        {
+          "inciso": "10",
+          "citas": [
+            {
+              "cita": "Heb. 4:14,16",
+              "Pasaje": "14. Por tanto, teniendo un gran Pontífice, que penetró los cielos, Jesús el Hijo de Dios, retengamos nuestra profesión.\n16. Lleguémonos pues confiadamente al trono de la gracia, para alcanzar misericordia, y hallar gracia para el oportuno socorro."
+            }
+          ]
+        },
+        {
+          "inciso": "11",
+          "citas": [
+            {
+              "cita": "Heb. 10:19,22",
+              "Pasaje": "19. Así que, hermanos, teniendo libertad para entrar en el santuario por la sangre de Jesucristo,\n22. Lleguémonos con corazón verdadero, en plena certidumbre de fe, purificados los corazones de mala conciencia, y lavados los cuerpos con agua limpia."
+            }
+          ]
+        },
+        {
+          "inciso": "12",
+          "citas": [
+            {
+              "cita": "Heb. 7:24-25",
+              "Pasaje": "24. Mas éste, por cuanto permanece para siempre, tiene un sacerdocio inmutable:\n25. Por lo cual puede también salvar eternamente á los que por él se allegan á Dios, viviendo siempre para interceder por ellos."
+            }
+          ]
+        },
+        {
+          "inciso": "13",
+          "citas": [
+            {
+              "cita": "Jn. 14:6",
+              "Pasaje": "6. Jesús le dice: Yo soy el camino, y la verdad, y la vida: nadie viene al Padre, sino por mí."
+            }
+          ]
+        },
+        {
+          "inciso": "14",
+          "citas": [
+            {
+              "cita": "Sal. 44:20",
+              "Pasaje": "20. Si nos hubiésemos olvidado del nombre de nuestro Dios, ó alzado nuestras manos á dios ajeno,",
+              "observacionPasaje": "En la edición francesa «Psa. xliv. 21»: el título del salmo cuenta como versículo 1, así que en la Reina-Valera 1909 corresponde a Sal. 44:20."
+            }
+          ]
+        },
+        {
+          "inciso": "15",
+          "citas": [
+            {
+              "cita": "1 Tim. 2:5",
+              "Pasaje": "5. Porque hay un Dios, asimismo un mediador entre Dios y los hombres, Jesucristo hombre;"
+            },
+            {
+              "cita": "1 Jn. 2:1",
+              "Pasaje": "1. HIJITOS míos, estas cosas os escribo, para que no pequéis; y si alguno hubiere pecado, abogado tenemos para con el Padre, á Jesucristo el justo;"
+            },
+            {
+              "cita": "Rom. 8:33",
+              "Pasaje": "33. ¿Quién acusará á los escogidos de Dios? Dios es el que justifica."
+            }
+          ]
+        },
+        {
+          "inciso": "16",
+          "citas": [
+            {
+              "cita": "Luc. 11:2",
+              "Pasaje": "2. Y les dijo: Cuando orareis, decid: Padre nuestro que estás en los cielos; sea tu nombre santificado. Venga tu reino. Sea hecha tu voluntad, como en el cielo, así también en la tierra."
+            }
+          ]
+        },
+        {
+          "inciso": "17",
+          "citas": [
+            {
+              "cita": "Jn. 4:17",
+              "Pasaje": "17. Respondió la mujer, y dijo: No tengo marido. Dícele Jesús: Bien has dicho, No tengo marido;"
+            },
+            {
+              "cita": "Jn. 16:23",
+              "Pasaje": "23. Y aquel día no me preguntaréis nada. De cierto, de cierto os digo, que todo cuanto pidiereis al Padre en mi nombre, os [lo] dará."
+            },
+            {
+              "cita": "Jn. 14:13",
+              "Pasaje": "13. Y todo lo que pidiereis al Padre en mi nombre, esto haré, para que el Padre sea glorificado en el Hijo."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 27,
+      "pregunta": "La Iglesia católica o universal",
+      "respuesta": "Creemos y confesamos una sola Iglesia católica o universal, que es una santa congregación y asamblea de los verdaderos fieles cristianos, que esperan toda su salvación en Jesucristo, lavados por su sangre, y santificados y sellados por el Espíritu Santo.\nEsta Iglesia ha existido desde el principio del mundo y existirá hasta el fin, como se ve en que Cristo es Rey eterno, que no puede estar sin súbditos. Y esta santa Iglesia es preservada por Dios contra la furia del mundo entero, aunque por algún tiempo parezca muy pequeña a los ojos de los hombres, y como extinguida; así como el Señor, en un tiempo tan peligroso como el de Acab, se reservó siete mil hombres que no habían doblado la rodilla delante de Baal.\nAdemás, esta santa Iglesia no está situada, atada ni limitada a un lugar determinado ni a ciertas personas, sino que está extendida y dispersa por todo el mundo; y, con todo, está junta y unida de corazón y de voluntad en un mismo espíritu, por el poder de la fe.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "1",
+          "citas": [
+            {
+              "cita": "Isa. 2:2",
+              "Pasaje": "2. Y acontecerá en lo postrero de los tiempos, que será confirmado el monte de la casa de Jehová por cabeza de los montes, y será ensalzado sobre los collados, y correrán á él todas las gentes."
+            },
+            {
+              "cita": "Sal. 46:4",
+              "Pasaje": "4. Del río sus conductos alegrarán la ciudad de Dios, el santuario de las tiendas del Altísimo.",
+              "observacionPasaje": "En la edición francesa «Psa. xlvi. 5»: el título del salmo cuenta como versículo 1, así que en la Reina-Valera 1909 corresponde a Sal. 46:4."
+            },
+            {
+              "cita": "Sal. 102:13",
+              "Pasaje": "13. Tú levantándote, tendrás misericordia de Sión; porque el tiempo de tener misericordia de ella, porque el plazo es llegado.",
+              "observacionPasaje": "En la edición francesa «cii. 14»: el título del salmo cuenta como versículo 1, así que en la Reina-Valera 1909 corresponde a Sal. 102:13."
+            },
+            {
+              "cita": "Jer. 31:36",
+              "Pasaje": "36. Si estas leyes faltaren delante de mí, dice Jehová, también la simiente de Israel faltará para no ser nación delante de mí todos los días."
+            }
+          ]
+        },
+        {
+          "inciso": "2",
+          "citas": [
+            {
+              "cita": "Mat. 28:20",
+              "Pasaje": "20. Enseñándoles que guarden todas las cosas que os he mandado: y he aquí, yo estoy con vosotros todos los días, hasta el fin del mundo. Amén."
+            },
+            {
+              "cita": "2 Sam. 7:16",
+              "Pasaje": "16. Y será afirmada tu casa y tu reino para siempre delante de tu rostro; y tu trono será estable eternalmente."
+            }
+          ]
+        },
+        {
+          "inciso": "3",
+          "citas": [
+            {
+              "cita": "Luc. 1:32-33",
+              "Pasaje": "32. Este será grande, y será llamado Hijo del Altísimo: y le dará el Señor Dios el trono de David su padre:\n33. Y reinará en la casa de Jacob por siempre; y de su reino no habrá fin."
+            },
+            {
+              "cita": "Sal. 89:36-37",
+              "Pasaje": "36. Su simiente será para siempre, y su trono como el sol delante de mí.\n37. Como la luna será firme para siempre, y [como] un testigo fiel en el cielo. (Selah.)",
+              "observacionPasaje": "En la edición francesa «Psa. lxxxix. 37, 38»: el título del salmo cuenta como versículo 1, así que en la Reina-Valera 1909 corresponde a Sal. 89:36-37."
+            },
+            {
+              "cita": "Sal. 110:2,4",
+              "Pasaje": "2. La vara de tu fortaleza enviará Jehová desde Sión: domina en medio de tus enemigos.\n4. Juró Jehová, y no se arrepentirá: Tú eres sacerdote para siempre según el orden de Melchîsedech."
+            }
+          ]
+        },
+        {
+          "inciso": "4",
+          "citas": [
+            {
+              "cita": "Mat. 16:18",
+              "Pasaje": "18. Mas yo también te digo, que tú eres Pedro, y sobre esta piedra edificaré mi iglesia; y las puertas del infierno no prevalecerán contra ella."
+            },
+            {
+              "cita": "Jn. 16:33",
+              "Pasaje": "33. Estas cosas os he hablado, para que en mí tengáis paz. En el mundo tendréis aflicción: mas confiad, yo he vencido al mundo."
+            },
+            {
+              "cita": "Gén. 22:17",
+              "Pasaje": "17. Bendiciendo te bendeciré, y multiplicando multiplicaré tu simiente como las estrellas del cielo, y como la arena que está á la orilla del mar; y tu simiente poseerá las puertas de sus enemigos:"
+            },
+            {
+              "cita": "2 Tim. 2:19",
+              "Pasaje": "19. Pero el fundamento de Dios está firme, teniendo este sello: Conoce el Señor á los que son suyos; y: Apártese de iniquidad todo aquel que invoca el nombre de Cristo."
+            }
+          ]
+        },
+        {
+          "inciso": "5",
+          "citas": [
+            {
+              "cita": "Luc. 12:32",
+              "Pasaje": "32. No temáis, manada pequeña; porque al Padre ha placido daros el reino."
+            },
+            {
+              "cita": "Isa. 1:9",
+              "Pasaje": "9. Si Jehová de los ejércitos no hubiera hecho que nos quedasen muy cortos residuos, como Sodoma fuéramos, y semejantes á Gomorra."
+            },
+            {
+              "cita": "Apoc. 12:6,14",
+              "Pasaje": "6. Y la mujer huyó al desierto, donde tiene lugar aparejado de Dios, para que allí la mantengan mil doscientos y sesenta días.\n14. Y fueron dadas á la mujer dos alas de grande águila, para que de la presencia de la serpiente volase al desierto, á su lugar, donde es mantenida por un tiempo, y tiempos, y la mitad de un tiempo."
+            },
+            {
+              "cita": "Luc. 17:21",
+              "Pasaje": "21. Ni dirán: Helo aquí, ó helo allí: porque he aquí el reino de Dios entre vosotros está."
+            },
+            {
+              "cita": "Mat. 16:18",
+              "Pasaje": "18. Mas yo también te digo, que tú eres Pedro, y sobre esta piedra edificaré mi iglesia; y las puertas del infierno no prevalecerán contra ella."
+            }
+          ]
+        },
+        {
+          "inciso": "6",
+          "citas": [
+            {
+              "cita": "Rom. 12:4",
+              "Pasaje": "4. Porque de la manera que en un cuerpo tenemos muchos miembros, empero todos los miembros no tienen la misma operación;"
+            },
+            {
+              "cita": "Rom. 11:2,4",
+              "Pasaje": "2. No ha desechado Dios á su pueblo, al cual antes conoció. ¿O no sabéis qué dice de Elías la Escritura? cómo hablando con Dios contra Israel [dice]:\n4. Mas ¿qué le dice la divina respuesta? He dejado para mí siete mil hombres, que no han doblado la rodilla delante de Baal."
+            },
+            {
+              "cita": "1 Rey. 19:18",
+              "Pasaje": "18. Y yo haré que queden en Israel siete mil; todas rodillas que no se encorvaron á Baal, y bocas todas que no lo besaron."
+            },
+            {
+              "cita": "Isa. 1:9",
+              "Pasaje": "9. Si Jehová de los ejércitos no hubiera hecho que nos quedasen muy cortos residuos, como Sodoma fuéramos, y semejantes á Gomorra."
+            },
+            {
+              "cita": "Rom. 9:29",
+              "Pasaje": "29. Y como antes dijo Isaías: Si el Señor de los ejércitos no nos hubiera dejado simiente, como Sodoma habríamos venido á ser, y á Gomorra fuéramos semejantes."
+            }
+          ]
+        },
+        {
+          "inciso": "7",
+          "citas": [
+            {
+              "cita": "Hech. 4:32",
+              "Pasaje": "32. Y la multitud de los que habían creído era de un corazón y un alma: y ninguno decía ser suyo algo de lo que poseía; mas todas las cosas les eran comunes."
+            }
+          ]
+        },
+        {
+          "inciso": "8",
+          "citas": [
+            {
+              "cita": "Ef. 4:3-4",
+              "Pasaje": "3. Solícitos á guardar la unidad del Espíritu en el vínculo de la paz.\n4. Un cuerpo, y un Espíritu; como sois también llamados á una misma esperanza de vuestra vocación:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 28,
+      "pregunta": "Todos están obligados a unirse a la verdadera Iglesia",
+      "respuesta": "Creemos que, puesto que esta santa asamblea y congregación es la asamblea de los salvos, y fuera de ella no hay salvación, nadie, de cualquier condición o calidad que sea, debe apartarse para contentarse consigo mismo; sino que todos juntos deben incorporarse y unirse a ella, conservando la unidad de la Iglesia, sometiéndose a su enseñanza y disciplina, inclinando el cuello bajo el yugo de Jesucristo y sirviendo a la edificación de los hermanos, según los dones que Dios puso en ellos, como miembros comunes de un mismo cuerpo. Y para que esto se guarde mejor, es deber de todos los fieles, según la Palabra de Dios, separarse de los que no son de la Iglesia, para unirse a esta asamblea dondequiera que Dios la haya establecido, aunque los magistrados y los edictos de los príncipes se opongan, y aunque de ello dependan la muerte y el castigo corporal. Así, todos los que se apartan de ella o no se unen a ella contravienen la ordenanza de Dios.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "1",
+          "citas": [
+            {
+              "cita": "1 Ped. 3:20",
+              "Pasaje": "20. Los cuales en otro tiempo fueron desobedientes, cuando una vez esperaba la paciencia de Dios en los días de Noé, cuando se aparejaba el arca; en la cual pocas, es á saber, ocho personas fueron salvas por agua."
+            },
+            {
+              "cita": "Joel 2:32",
+              "Pasaje": "32. Y será que cualquiera que invocare el nombre de Jehová, será salvo: porque en el monte de Sión y en Jerusalem habrá salvación, como Jehová ha dicho, y en los que quedaren, á los cuales Jehová habrá llamado."
+            }
+          ]
+        },
+        {
+          "inciso": "2",
+          "citas": [
+            {
+              "cita": "Hech. 2:40",
+              "Pasaje": "40. Y con otras muchas palabras testificaba y exhortaba, diciendo: Sed salvos de esta perversa generación."
+            },
+            {
+              "cita": "Isa. 52:11",
+              "Pasaje": "11. Apartaos, apartaos, salid de ahí, no toquéis cosa inmunda; salid de en medio de ella; limpiaos los que lleváis los vasos de Jehová."
+            }
+          ]
+        },
+        {
+          "inciso": "3",
+          "citas": [
+            {
+              "cita": "Sal. 22:22",
+              "Pasaje": "22. Anunciaré tu nombre á mis hermanos: en medio de la congregación te alabaré.",
+              "observacionPasaje": "En la edición francesa «Psa. xxii. 23»: el título del salmo cuenta como versículo 1, así que en la Reina-Valera 1909 corresponde a Sal. 22:22."
+            },
+            {
+              "cita": "Ef. 4:3,12",
+              "Pasaje": "3. Solícitos á guardar la unidad del Espíritu en el vínculo de la paz.\n12. Para perfección de los santos, para la obra del ministerio, para edificación del cuerpo de Cristo;"
+            },
+            {
+              "cita": "Heb. 2:12",
+              "Pasaje": "12. Diciendo: Anunciaré á mis hermanos tu nombre, en medio de la congregación te alabaré."
+            }
+          ]
+        },
+        {
+          "inciso": "4",
+          "citas": [
+            {
+              "cita": "Sal. 2:10,12",
+              "Pasaje": "10. Y ahora, reyes, entended: admitid corrección, jueces de la tierra.\n12. Besad al Hijo, porque no se enoje, y perezcáis en el camino, cuando se encendiere un poco su furor. Bienaventurados todos los que en él confían."
+            },
+            {
+              "cita": "Mat. 11:29",
+              "Pasaje": "29. Llevad mi yugo sobre vosotros, y aprended de mí, que soy manso y humilde de corazón; y hallaréis descanso para vuestras almas."
+            }
+          ]
+        },
+        {
+          "inciso": "5",
+          "citas": [
+            {
+              "cita": "Ef. 4:12,16",
+              "Pasaje": "12. Para perfección de los santos, para la obra del ministerio, para edificación del cuerpo de Cristo;\n16. Del cual, todo el cuerpo compuesto y bien ligado entre sí por todas las junturas de su alimento, [que recibe] según la operación, cada miembro conforme á su medida toma aumento de cuerpo edificándose en amor."
+            },
+            {
+              "cita": "1 Cor. 12:12-27",
+              "Pasaje": "12. Porque de la manera que el cuerpo es uno, y tiene muchos miembros, empero todos los miembros del cuerpo, siendo muchos, son un cuerpo, así también Cristo.\n13. Porque por un Espíritu somos todos bautizados en un cuerpo, ora Judíos ó Griegos, ora siervos ó libres; y todos hemos bebido de un mismo Espíritu.\n14. Pues ni tampoco el cuerpo es un miembro, sino muchos.\n15. Si dijere el pie: Porque no soy mano, no soy del cuerpo: ¿por eso no será del cuerpo?\n16. Y si dijere la oreja: Porque no soy ojo, no soy del cuerpo: ¿por eso no será del cuerpo?\n17. Si todo el cuerpo fuese ojo, ¿dónde estaría el oído? Si todo fuese oído, ¿dónde estaría el olfato?\n18. Mas ahora Dios ha colocado los miembros cada uno de ellos en el cuerpo, como quiso.\n19. Que si todos fueran un miembro, ¿dónde estuviera el cuerpo?\n20. Mas ahora muchos miembros son á la verdad, empero un cuerpo.\n21. Ni el ojo puede decir á la mano: No te he menester: ni asimismo la cabeza á los pies: No tengo necesidad de vosotros.\n22. Antes, mucho más los miembros del cuerpo que parecen más flacos, son necesarios;\n23. Y á aquellos del cuerpo que estimamos ser más viles, á éstos vestimos más honrosamente; y los que en nosotros son menos honestos, tienen más compostura.\n24. Porque los que en nosotros son más honestos, no tienen necesidad: mas Dios ordenó el cuerpo, dando más abundante honor al que le faltaba;\n25. Para que no haya desavenencia en el cuerpo, sino que los miembros todos se interesen los unos por los otros.\n26. Por manera que si un miembro padece, todos los miembros á una se duelen; y si un miembro es honrado, todos los miembros á una se gozan.\n27. Pues vosotros sois el cuerpo de Cristo, y miembros en parte.",
+              "observacionPasaje": "La edición dice «1 Cor. xii. 12, etc.»; se muestra el pasaje hasta el versículo 27."
+            }
+          ]
+        },
+        {
+          "inciso": "6",
+          "citas": [
+            {
+              "cita": "Hech. 2:40",
+              "Pasaje": "40. Y con otras muchas palabras testificaba y exhortaba, diciendo: Sed salvos de esta perversa generación."
+            },
+            {
+              "cita": "Isa. 52:11",
+              "Pasaje": "11. Apartaos, apartaos, salid de ahí, no toquéis cosa inmunda; salid de en medio de ella; limpiaos los que lleváis los vasos de Jehová."
+            },
+            {
+              "cita": "2 Cor. 6:17",
+              "Pasaje": "17. Por lo cual salid de en medio de ellos, y apartaos, dice el Señor, y no toquéis lo inmundo; y yo os recibiré,"
+            },
+            {
+              "cita": "Apoc. 18:4",
+              "Pasaje": "4. Y oí otra voz del cielo, que decía: Salid de ella, pueblo mío, porque no seáis participantes de sus pecados, y que no recibáis de sus plagas;"
+            }
+          ]
+        },
+        {
+          "inciso": "7",
+          "citas": [
+            {
+              "cita": "Mat. 12:30",
+              "Pasaje": "30. El que no es conmigo, contra mí es; y el que conmigo no recoge, derrama."
+            },
+            {
+              "cita": "Mat. 24:28",
+              "Pasaje": "28. Porque donde quiera que estuviere el cuerpo muerto, allí se juntarán las águilas."
+            },
+            {
+              "cita": "Isa. 49:22",
+              "Pasaje": "22. Así dijo el Señor Jehová: He aquí, yo alzaré mi mano á las gentes, y á los pueblos levantaré mi bandera; y traerán en brazos tus hijos, y tus hijas serán traídas en hombros."
+            },
+            {
+              "cita": "Apoc. 17:14",
+              "Pasaje": "14. Ellos pelearán contra el Cordero, y el Cordero los vencerá, porque es el Señor de los señores, y el Rey de los reyes: y los que están con él son llamados, y elegidos, y fieles."
+            }
+          ]
+        },
+        {
+          "inciso": "8",
+          "citas": [
+            {
+              "cita": "Dan. 3:17-18",
+              "Pasaje": "17. He aquí nuestro Dios á quien honramos, puede librarnos del horno de fuego ardiendo; y de tu mano, oh rey, nos librará.\n18. Y si no, sepas, oh rey, que tu dios no adoraremos, ni tampoco honraremos la estatua que has levantado."
+            },
+            {
+              "cita": "Dan. 6:8,10",
+              "Pasaje": "8. Ahora, oh rey, confirma el edicto, y firma la escritura, para que no se pueda mudar, conforme á la ley de Media y de Persia, la cual no se revoca.\n10. Y Daniel, cuando supo que la escritura estaba firmada, entróse en su casa, y abiertas las ventanas de su cámara que estaban hacia Jerusalem, hincábase de rodillas tres veces al día, y oraba, y confesaba delante de su Dios, como lo solía hacer antes."
+            },
+            {
+              "cita": "Apoc. 14:14",
+              "Pasaje": "14. Y miré, y he aquí una nube blanca; y sobre la nube uno sentado semejante al Hijo del hombre, que tenía en su cabeza una corona de oro, y en su mano una hoz aguda."
+            },
+            {
+              "cita": "Hech. 4:17,19",
+              "Pasaje": "17. Todavía, porque no se divulgue más por el pueblo, amenacémoslos que no hablen de aquí adelante á hombre alguno en este nombre.\n19. Entonces Pedro y Juan, respondiendo, les dijeron: Juzgad si es justo delante de Dios obedecer antes á vosotros que á Dios:"
+            },
+            {
+              "cita": "Hech. 17:7",
+              "Pasaje": "7. A los cuales Jasón ha recibido; y todos estos hacen contra los decretos de César, diciendo que hay otro rey, Jesús."
+            },
+            {
+              "cita": "Hech. 18:13",
+              "Pasaje": "13. Diciendo: Que éste persuade á los hombres á honrar á Dios contra la ley."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 29,
+      "pregunta": "Las marcas de la verdadera Iglesia",
+      "respuesta": "Creemos que es necesario discernir con mucha diligencia y buena prudencia, por la Palabra de Dios, cuál es la verdadera Iglesia, ya que todas las sectas que hoy hay en el mundo se cubren con el nombre de Iglesia.\nNo hablamos aquí de la compañía de los hipócritas que están mezclados entre los buenos en la Iglesia, y que sin embargo no son de ella, aunque estén presentes en cuanto al cuerpo; sino que hablamos de distinguir el cuerpo y la comunión de la verdadera Iglesia de todas las demás sectas que dicen ser la Iglesia.\nLas marcas para reconocer la verdadera Iglesia son estas: si la Iglesia practica la predicación pura del Evangelio; si practica la administración pura de los sacramentos, como Cristo los instituyó; si se ejerce la disciplina eclesiástica para corregir los vicios. En suma, si se gobierna conforme a la Palabra pura de Dios, rechazando todo lo que le es contrario, y tiene a Jesucristo por única cabeza. Por estas marcas se puede tener la seguridad de reconocer la verdadera Iglesia, y nadie tiene derecho a separarse de ella. En cuanto a los que son de la Iglesia, se les puede reconocer por las marcas de los cristianos, a saber: por la fe; y porque, habiendo recibido a Jesucristo como único Salvador, huyen del pecado y siguen la justicia, aman al Dios verdadero y a su prójimo, sin desviarse a la derecha ni a la izquierda, y crucifican la carne con sus obras. No es que no haya en ellos una gran debilidad, sino que luchan contra ella por el Espíritu todos los días de su vida, y acuden continuamente a la sangre, la muerte, la pasión y la obediencia del Señor Jesús, en quien tienen el perdón de sus pecados por la fe en él.\nEn cuanto a la falsa Iglesia, se atribuye a sí misma y a sus ordenanzas más autoridad que a la Palabra de Dios. No quiere someterse al yugo de Cristo. No administra los sacramentos como Cristo ordenó en su Palabra, sino que les añade y les quita a su gusto; se funda en los hombres más que en Jesucristo; persigue a los que viven santamente según la Palabra de Dios y la reprenden por sus vicios, su avaricia y sus idolatrías. Estas dos Iglesias son fáciles de reconocer y de distinguir la una de la otra.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "1",
+          "citas": [
+            {
+              "cita": "Mat. 13:22",
+              "Pasaje": "22. Y el que fué sembrado en espinas, éste es el que oye la palabra; pero el afán de este siglo y el engaño de las riquezas, ahogan la palabra, y hácese infructuosa."
+            },
+            {
+              "cita": "2 Tim. 2:18,20",
+              "Pasaje": "18. Que se han descaminado de la verdad, diciendo que la resurrección es ya hecha, y trastornan la fe de algunos.\n20. Mas en una casa grande, no solamente hay vasos de oro y de plata, sino también de madera y de barro: y asimismo unos para honra, y otros para deshonra."
+            },
+            {
+              "cita": "Rom. 9:6",
+              "Pasaje": "6. No empero que la palabra de Dios haya faltado: porque no todos los que son de Israel son Israelitas;"
+            }
+          ]
+        },
+        {
+          "inciso": "2",
+          "citas": [
+            {
+              "cita": "Jn. 10:27",
+              "Pasaje": "27. Mis ovejas oyen mi voz, y yo las conozco, y me siguen;"
+            },
+            {
+              "cita": "Ef. 2:20",
+              "Pasaje": "20. Edificados sobre el fundamento de los apóstoles y profetas, siendo la principal piedra del ángulo Jesucristo mismo;"
+            },
+            {
+              "cita": "Hech. 17:11-12",
+              "Pasaje": "11. Y fueron éstos más nobles que los que [estaban] en Tesalónica, pues recibieron la palabra con toda solicitud, escudriñando cada día las Escrituras, si estas cosas eran así.\n12. Así que creyeron muchos de ellos; y mujeres Griegas de distinción, y no pocos hombres."
+            },
+            {
+              "cita": "Col. 1:23",
+              "Pasaje": "23. Si empero permanecéis fundados y firmes en la fe, y sin moveros de la esperanza del evangelio que habéis oído; el cual es predicado á toda criatura que está debajo del cielo; del cual yo Pablo soy hecho ministro."
+            },
+            {
+              "cita": "Jn. 8:47",
+              "Pasaje": "47. El que es de Dios, las palabras de Dios oye: por esto no [las] oís vosotros, porque no sois de Dios."
+            }
+          ]
+        },
+        {
+          "inciso": "3",
+          "citas": [
+            {
+              "cita": "Mat. 28:19",
+              "Pasaje": "19. Por tanto, id, y doctrinad á todos los Gentiles, bautizándolos en el nombre del Padre, y del Hijo, y del Espíritu Santo:"
+            },
+            {
+              "cita": "Luc. 22:19-20",
+              "Pasaje": "19. Y tomando el pan, habiendo dado gracias, partió, y les dió, diciendo: Esto es mi cuerpo, que por vosotros es dado: haced esto en memoria de mí.\n20. Asimismo también el vaso, después que hubo cenado, diciendo: Este vaso es el nuevo pacto en mi sangre, que por vosotros se derrama.",
+              "observacionPasaje": "La edición dice «Luc xxii. 19, etc.»; se muestra el pasaje hasta el versículo 20."
+            },
+            {
+              "cita": "1 Cor. 11:23-26",
+              "Pasaje": "23. Porque yo recibí del Señor lo que también os he enseñado: Que el Señor Jesús, la noche que fué entregado, tomó pan;\n24. Y habiendo dado gracias, lo partió, y dijo: Tomad, comed: esto es mi cuerpo que por vosotros es partido: haced esto en memoria de mí.\n25. Asimismo [tomó] también la copa, después de haber cenado, diciendo: Esta copa es el nuevo pacto en mi sangre: haced esto todas las veces que bebiereis, en memoria de mí.\n26. Porque todas las veces que comiereis este pan, y bebiereis esta copa, la muerte del Señor anunciáis hasta que venga.",
+              "observacionPasaje": "La edición dice «1 Cor. xi. 23, etc.»; se muestra el pasaje hasta el versículo 26."
+            }
+          ]
+        },
+        {
+          "inciso": "4",
+          "citas": [
+            {
+              "cita": "Mat. 18:15,18",
+              "Pasaje": "15. Por tanto, si tu hermano pecare contra ti, ve, y redargúyele entre ti y él solo: si te oyere, has ganado á tu hermano.\n18. De cierto os digo [que] todo lo que ligareis en la tierra, será ligado en el cielo; y todo lo que desatareis en la tierra, será desatado en el cielo."
+            },
+            {
+              "cita": "2 Tes. 3:14-15",
+              "Pasaje": "14. Y si alguno no obedeciere á nuestra palabra por carta, notad al tal, y no os juntéis con él, para que se avergüence.\n15. Mas no lo tengáis como á enemigo, sino amonestadle como á hermano."
+            }
+          ]
+        },
+        {
+          "inciso": "5",
+          "citas": [
+            {
+              "cita": "Mat. 28:20",
+              "Pasaje": "20. Enseñándoles que guarden todas las cosas que os he mandado: y he aquí, yo estoy con vosotros todos los días, hasta el fin del mundo. Amén.",
+              "observacionPasaje": "La edición dice «Matt. xxviii. 2», el ángel que removió la piedra. Se muestra Mat. 28:20, «guardar todas las cosas que os he mandado». Es una suposición."
+            },
+            {
+              "cita": "Gál. 1:6,8",
+              "Pasaje": "6. Estoy maravillado de que tan pronto os hayáis traspasado del que os llamó á la gracia de Cristo, á otro evangelio:\n8. Mas aun si nosotros ó un ángel del cielo os anunciare otro evangelio del que os hemos anunciado, sea anatema."
+            }
+          ]
+        },
+        {
+          "inciso": "6",
+          "citas": [
+            {
+              "cita": "Ef. 1:22-23",
+              "Pasaje": "22. Y sometió todas las cosas debajo de sus pies, y diólo por cabeza sobre todas las cosas á la iglesia,\n23. La cual es su cuerpo, la plenitud de Aquel que hinche todas las cosas en todos."
+            },
+            {
+              "cita": "Jn. 10:4-5,14",
+              "Pasaje": "4. Y como ha sacado fuera todas las propias, va delante de ellas; y las ovejas le siguen, porque conocen su voz.\n5. Mas al extraño no seguirán, antes huirán de él: porque no conocen la voz de los extraños.\n14. Yo soy el buen pastor; y conozco mis [ovejas], y las mías me conocen."
+            }
+          ]
+        },
+        {
+          "inciso": "7",
+          "citas": [
+            {
+              "cita": "Ef. 1:13",
+              "Pasaje": "13. En el cual [esperasteis] también vosotros en oyendo la palabra de verdad, el evangelio de vuestra salud: en el cual también desde que creísteis, fuisteis sellados con el Espíritu Santo de la promesa,"
+            },
+            {
+              "cita": "Jn. 17:20",
+              "Pasaje": "20. Mas no ruego solamente por éstos, sino también por los que han de creer en mí por la palabra de ellos."
+            }
+          ]
+        },
+        {
+          "inciso": "8",
+          "citas": [
+            {
+              "cita": "1 Jn. 4:2",
+              "Pasaje": "2. En esto conoced el Espíritu de Dios: todo espíritu que confiesa que Jesucristo es venido en carne es de Dios:"
+            }
+          ]
+        },
+        {
+          "inciso": "9",
+          "citas": [
+            {
+              "cita": "1 Jn. 3:8,10",
+              "Pasaje": "8. El que hace pecado, es del diablo; porque el diablo peca desde el principio. Para esto apareció el Hijo de Dios, para deshacer las obras del diablo.\n10. En esto son manifiestos los hijos de Dios, y los hijos del diablo: cualquiera que no hace justicia, y que no ama á su hermano, no es de Dios."
+            }
+          ]
+        },
+        {
+          "inciso": "10",
+          "citas": [
+            {
+              "cita": "Rom. 6:2",
+              "Pasaje": "2. En ninguna manera. Porque los que somos muertos al pecado, ¿cómo viviremos aún en él?"
+            },
+            {
+              "cita": "Gál. 5:24",
+              "Pasaje": "24. Porque los que son de Cristo, han crucificado la carne con los afectos y concupiscencias."
+            }
+          ]
+        },
+        {
+          "inciso": "11",
+          "citas": [
+            {
+              "cita": "Rom. 7:6,17-25",
+              "Pasaje": "6. Mas ahora estamos libres de la ley, habiendo muerto á aquella en la cual estábamos detenidos, para que sirvamos en novedad de espíritu, y no en vejez de letra.\n17. De manera que ya no obro aquello, sino el pecado que mora en mí.\n18. Y yo sé que en mí (es á saber, en mi carne) no mora el bien: porque tengo el querer, mas efectuar el bien no lo alcanzo.\n19. Porque no hago el bien que quiero; mas el mal que no quiero, éste hago.\n20. Y si hago lo que no quiero, ya no lo obro yo, sino el pecado que mora en mí.\n21. Así que, queriendo yo hacer el bien, hallo [esta] ley: Que el mal está en mí.\n22. Porque según el hombre interior, me deleito en la ley de Dios:\n23. Mas veo otra ley en mis miembros, que se rebela contra la ley de mi espíritu, y que me lleva cautivo á la ley del pecado que está en mis miembros.\n24. ¡Miserable hombre de mí! ¿quién me librará del cuerpo de esta muerte?\n25. Gracias doy á Dios, por Jesucristo Señor nuestro. Así que, yo mismo con la mente sirvo á la ley de Dios, mas con la carne á la ley del pecado.",
+              "observacionPasaje": "La edición dice «Rom. vii. 6, 17, etc.»; se muestra el pasaje hasta el versículo 25."
+            },
+            {
+              "cita": "Gál. 5:17",
+              "Pasaje": "17. Porque la carne codicia contra el Espíritu, y el Espíritu contra la carne: y estas cosas se oponen la una á la otra, para que no hagáis lo que quisiereis."
+            }
+          ]
+        },
+        {
+          "inciso": "12",
+          "citas": [
+            {
+              "cita": "Col. 1:14",
+              "Pasaje": "14. En el cual tenemos redención por su sangre, la remisión de pecados:"
+            }
+          ]
+        },
+        {
+          "inciso": "13",
+          "citas": [
+            {
+              "cita": "Col. 2:18-19",
+              "Pasaje": "18. Nadie os prive de vuestro premio, afectando humildad y culto á los ángeles, metiéndose en lo que no ha visto, vanamente hinchado en el sentido de su propia carne,\n19. Y no teniendo la cabeza, de la cual todo el cuerpo, alimentado y conjunto por las ligaduras y conjunturas, crece en aumento de Dios."
+            }
+          ]
+        },
+        {
+          "inciso": "14",
+          "citas": [
+            {
+              "cita": "Sal. 2:3",
+              "Pasaje": "3. Rompamos sus coyundas, y echemos de nosotros sus cuerdas."
+            }
+          ]
+        },
+        {
+          "inciso": "15",
+          "citas": [
+            {
+              "cita": "Apoc. 12:4",
+              "Pasaje": "4. Y su cola arrastraba la tercera parte de las estrellas del cielo, y las echó en tierra. Y el dragón se paró delante de la mujer que estaba para parir, á fin de devorar á su hijo cuando hubiese parido."
+            },
+            {
+              "cita": "Jn. 16:2",
+              "Pasaje": "2. Os echarán de las sinagogas; y aun viene la hora, cuando cualquiera que os matare, pensará que hace servicio á Dios."
+            }
+          ]
+        },
+        {
+          "inciso": "16",
+          "citas": [
+            {
+              "cita": "Apoc. 17:3-4,6",
+              "Pasaje": "3. Y me llevó en Espíritu al desierto; y vi una mujer sentada sobre una bestia bermeja llena de nombres de blasfemia [y] que tenía siete cabezas y diez cuernos.\n4. Y la mujer estaba vestida de púrpura y de escarlata, y dorada con oro, y [adornada] de piedras preciosas y de perlas, teniendo un cáliz de oro en su mano lleno de abominaciones, y de la suciedad de su fornicación;\n6. Y vi la mujer embriagada de la sangre de los santos, y de la sangre de los mártires de Jesús: y cuando la vi, quedé maravillado de grande admiración."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 30,
+      "pregunta": "El gobierno de la Iglesia",
+      "respuesta": "Creemos que esta verdadera Iglesia debe ser gobernada según el orden espiritual que nuestro Señor nos enseñó en su Palabra: que haya ministros o pastores para predicar la Palabra de Dios y administrar los sacramentos; que haya también ancianos y diáconos, que formen con los pastores como el consejo de la Iglesia; y que por este medio se conserve la verdadera religión, se haga que la verdadera doctrina siga su curso, y que los hombres viciosos sean corregidos espiritualmente y refrenados; y también que los pobres y todos los afligidos sean socorridos y consolados según su necesidad. Por este medio todo marchará bien y en buen orden en la Iglesia, cuando se elijan personas fieles, conforme a la regla que san Pablo da a Timoteo.",
+      "referenciasBiblicas": [
+        {
+          "inciso": "1",
+          "citas": [
+            {
+              "cita": "Ef. 4:11",
+              "Pasaje": "11. Y él mismo dió unos, ciertamente apóstoles; y otros, profetas; y otros, evangelistas; y otros, pastores y doctores;"
+            },
+            {
+              "cita": "1 Cor. 4:1-2",
+              "Pasaje": "1. TÉNGANNOS los hombres por ministros de Cristo, y dispensadores de los misterios de Dios.\n2. Mas ahora se requiere en los dispensadores, que cada uno sea hallado fiel."
+            },
+            {
+              "cita": "2 Cor. 5:20",
+              "Pasaje": "20. Así que, somos embajadores en nombre de Cristo, como si Dios rogase por medio nuestro; [os] rogamos en nombre de Cristo: Reconciliaos con Dios."
+            },
+            {
+              "cita": "Jn. 20:23",
+              "Pasaje": "23. A los que remitiereis los pecados, les son remitidos: á quienes los retuviereis, serán retenidos."
+            },
+            {
+              "cita": "Hech. 26:17-18",
+              "Pasaje": "17. Librándote del pueblo y de los Gentiles, á los cuales ahora te envío,\n18. Para que abras sus ojos, para que se conviertan de las tinieblas á la luz, y de la potestad de Satanás á Dios; para que reciban, por la fe que es en mí, remisión de pecados y suerte entre los santificados."
+            },
+            {
+              "cita": "Luc. 10:16",
+              "Pasaje": "16. El que á vosotros oye, á mí oye; y el que á vosotros desecha, á mí desecha; y el que á mí desecha, desecha al que me envió."
+            }
+          ]
+        },
+        {
+          "inciso": "2",
+          "citas": [
+            {
+              "cita": "Hech. 6:3",
+              "Pasaje": "3. Buscad pues, hermanos, siete varones de vosotros de buen testimonio, llenos de Espíritu Santo y de sabiduría, los cuales pongamos en esta obra."
+            },
+            {
+              "cita": "Hech. 14:23",
+              "Pasaje": "23. Y habiéndoles constituído ancianos en cada una de las iglesias, y habiendo orado con ayunos, los encomendaron al Señor en el cual habían creído."
+            }
+          ]
+        },
+        {
+          "inciso": "3",
+          "citas": [
+            {
+              "cita": "Mat. 18:17",
+              "Pasaje": "17. Y si no oyere á ellos, dilo á la iglesia: y si no oyere á la iglesia, tenle por étnico y publicano."
+            },
+            {
+              "cita": "1 Cor. 5:4-5",
+              "Pasaje": "4. En el nombre del Señor nuestro Jesucristo, juntados vosotros y mi espíritu, con la facultad de nuestro Señor Jesucristo,\n5. El tal sea entregado á Satanás para muerte de la carne, porque el espíritu sea salvo en el día del Señor Jesús."
+            }
+          ]
+        },
+        {
+          "inciso": "4",
+          "citas": [
+            {
+              "cita": "1 Tim. 3:1-13",
+              "Pasaje": "1. PALABRA fiel: Si alguno apetece obispado, buena obra desea.\n2. Conviene, pues, que el obispo sea irreprensible, marido de una mujer, solícito, templado, compuesto, hospedador, apto para enseñar;\n3. No amador del vino, no heridor, no codicioso de torpes ganancias, sino moderado, no litigioso, ajeno de avaricia;\n4. Que gobierne bien su casa, que tenga sus hijos en sujeción con toda honestidad;\n5. (Porque el que no sabe gobernar su casa, ¿cómo cuidará de la iglesia de Dios?)\n6. No un neófito, porque inflándose no caiga en juicio del diablo.\n7. También conviene que tenga buen testimonio de los extraños, porque no caiga en afrenta y en lazo del diablo.\n8. Los diáconos asimismo, [deben ser] honestos, no bilingües, no dados á mucho vino, no amadores de torpes ganancias;\n9. Que tengan el misterio de la fe con limpia conciencia.\n10. Y éstos también sean antes probados; y así ministren, si fueren sin crimen.\n11. Las mujeres asimismo, honestas, no detractoras, templadas, fieles en todo.\n12. Los diáconos sean maridos de una mujer, que gobiernen bien sus hijos y sus casas.\n13. Porque los que bien ministraren, ganan para sí buen grado, y mucha confianza en la fe que es en Cristo Jesús.",
+              "observacionPasaje": "La edición dice «1 Tim. iii. 1, etc.»; se muestra el pasaje hasta el versículo 13."
+            },
+            {
+              "cita": "Tit. 1:5-9",
+              "Pasaje": "5. Por esta causa te dejé en Creta, para que corrigieses lo que falta, y pusieses ancianos por las villas, así como yo te mandé:\n6. El que fuere sin crimen, marido de una mujer, que tenga hijos fieles que no estén acusados de disolución, ó contumaces.\n7. Porque es menester que el obispo sea sin crimen, como dispensador de Dios; no soberbio, no iracundo, no amador del vino, no heridor, no codicioso de torpes ganancias;\n8. Sino hospedador, amador de lo bueno, templado, justo, santo, continente;\n9. Retenedor de la fiel palabra que es conforme á la doctrina: para que también pueda exhortar con sana doctrina, y convencer á los que contradijeren.",
+              "observacionPasaje": "La edición dice «Tit. i. 5, etc.»; se muestra el pasaje hasta el versículo 9."
             }
           ]
         }
