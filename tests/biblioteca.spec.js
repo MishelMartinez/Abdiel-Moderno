@@ -313,7 +313,7 @@ test('al cambiar de documento después de abrir un enlace compartido, recargar c
 });
 
 test('Lectura bíblica: cambia entre Reina-Valera 1960 y la Biblia del Oso 1569, sin audio en 1569', async ({ page }) => {
-  for (const q of ordenadas.slice(0, 20)) {
+  for (const q of ordenadas.slice(0, 30)) {
     for (const c of q.referenciasBiblicas.flatMap((g) => g.citas)) expect(c.PasajeOso1569?.trim(), `P${q.numero} ${c.cita}`).toBeTruthy();
   }
   expect(datos.versionBiblica).toBe('Reina-Valera 1960');
@@ -346,9 +346,9 @@ test('Lectura bíblica: cambia entre Reina-Valera 1960 y la Biblia del Oso 1569,
   if (hayVoz) await expect(escuchar).toBeVisible();
   await page.keyboard.press('Escape');
   // Sin pasaje de 1569 todavía (pregunta 21): no se muestra el selector
-  await page.goto('/#pregunta-21');
-  await abrirRefs(page, 21);
-  await page.locator('#pregunta-21').getByRole('button', { name: /^Ver pasaje bíblico/ }).first().click();
+  await page.goto('/#pregunta-31');
+  await abrirRefs(page, 31);
+  await page.locator('#pregunta-31').getByRole('button', { name: /^Ver pasaje bíblico/ }).first().click();
   await expect(versiones).toBeHidden();
   if (hayVoz) await expect(escuchar).toBeVisible();
 });
