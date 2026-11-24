@@ -150,8 +150,12 @@
       </div>
       <button type="button" class="cerrar" data-cerrar aria-label="Cerrar pasaje" title="Cerrar">×</button>
     </div>
+    <div class="versiones" id="versionesPasaje" role="group" aria-label="Versión de la Biblia" hidden>
+      <button type="button" class="version-boton" data-version="rv" aria-pressed="true">Reina-Valera 1960</button>
+      <button type="button" class="version-boton" data-version="oso" aria-pressed="false">Biblia del Oso 1569</button>
+    </div>
     <p class="aviso aviso-alerta" id="estadoPasaje" hidden><svg class="ico" aria-hidden="true" viewBox="0 0 24 24"><path d="M12 3 2 20h20L12 3Z"/><path d="M12 10v4M12 17h.01"/></svg><span id="estadoPasajeTexto"></span></p>
-    <p class="pasaje" id="textoPasaje"></p>
+    <p class="pasaje" id="textoPasaje" aria-live="polite"></p>
     <div id="comparativo" hidden>
       <h3 class="subtitulo-pasaje">Compare con <span id="tituloComparativo"></span></h3>
       <p class="pasaje pasaje-comparativo" id="textoComparativo"></p>

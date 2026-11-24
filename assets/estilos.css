@@ -275,3 +275,10 @@ details[open] > summary .flecha svg { transform: rotate(180deg); }
 .muestra-oscuro { background: linear-gradient(135deg, #17222e 50%, #7cc0ff 50%); }
 .muestra-contraste { background: linear-gradient(135deg, #000 50%, #ffd400 50%); }
 .dato-curioso-voz { margin-top: 12px; }
+
+/* Selector de versión bíblica en la Lectura bíblica */
+.versiones { display: grid; grid-template-columns: repeat(2, 1fr); gap: 8px; margin: 4px 0 14px; }
+.version-boton { min-height: 52px; padding: 8px 12px; border-radius: 14px; border: 2px solid var(--borde); background: var(--superficie-2); color: inherit; font: inherit; font-weight: 700; font-size: .9em; cursor: pointer; }
+.version-boton:hover { border-color: var(--primario); }
+.version-boton[aria-pressed="true"] { border-color: var(--primario); box-shadow: inset 0 0 0 2px var(--primario); color: var(--primario); }
+.pasaje-1569 { font-family: Georgia, "Times New Roman", serif; }

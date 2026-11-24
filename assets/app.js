@@ -477,25 +477,42 @@ function prepararVentana(dialogo) {
   });
 }
 
+const VERSION_OSO = 'Biblia del Oso, Casiodoro de Reina (Basilea, 1569), con su ortografía original; transcrita del facsímil de archive.org (dominio público). Solo lectura';
+let versionElegida = 'rv';
+
 function mostrarPasaje(cita, disparador) {
   const etiqueta = etiquetaCita(cita);
-  const pasaje = textoCita(cita);
+  const oso = cita && typeof cita === 'object' ? String(cita.PasajeOso1569 ?? '') : '';
   $('tituloPasaje').textContent = etiqueta;
+  $('versionesPasaje').hidden = !oso;
+  document.querySelectorAll('#versionesPasaje [data-version]').forEach((b) => {
+    b.onclick = () => { versionElegida = b.dataset.version; detenerVoz(); pintarVersion(cita, etiqueta, oso); };
+  });
+  pintarVersion(cita, etiqueta, oso);
+  abrirVentana($('ventanaPasaje'), disparador);
+}
+
+function pintarVersion(cita, etiqueta, oso) {
+  const enOso = Boolean(oso) && versionElegida === 'oso';
+  document.querySelectorAll('#versionesPasaje [data-version]').forEach((b) => b.setAttribute('aria-pressed', String((b.dataset.version === 'oso') === enOso)));
+  const pasaje = enOso ? oso : textoCita(cita);
   $('textoPasaje').textContent = pasaje;
   $('textoPasaje').hidden = !pasaje;
-  $('estadoPasaje').hidden = !cita?.estadoPasaje;
+  $('textoPasaje').classList.toggle('pasaje-1569', enOso);
+  $('textoPasaje').lang = enOso ? 'es-ES' : '';
+  $('estadoPasaje').hidden = enOso || !cita?.estadoPasaje;
   $('estadoPasajeTexto').textContent = cita?.estadoPasaje || '';
-  $('notaPasaje').hidden = !cita?.observacionPasaje;
-  $('notaPasajeTexto').textContent = cita?.observacionPasaje ? `Nota: ${cita.observacionPasaje}` : '';
-  $('versionPasaje').textContent = `Versión: ${estado.documento?.versionBiblica || 'Reina-Valera 1960'}`;
-  const comp = cita?.pasajeComparativo;
+  const nota = enOso ? cita?.notaOso1569 : cita?.observacionPasaje;
+  $('notaPasaje').hidden = !nota;
+  $('notaPasajeTexto').textContent = nota ? `Nota: ${nota}` : '';
+  $('versionPasaje').textContent = `Versión: ${enOso ? VERSION_OSO : estado.documento?.versionBiblica || 'Reina-Valera 1960'}`;
+  const comp = enOso ? '' : cita?.pasajeComparativo;
   $('comparativo').hidden = !comp;
   $('tituloComparativo').textContent = cita?.referenciaComparativa || '';
   $('textoComparativo').textContent = comp || '';
   const escuchar = $('escucharPasaje');
-  escuchar.hidden = !voz || !pasaje;
-  escuchar.onclick = () => alternarVoz(`${etiqueta}. ${pasaje}${comp ? ` Compare con ${cita.referenciaComparativa || ''}. ${comp}` : ''}`, escuchar, { sinNumerosDeVersiculo: true });
-  abrirVentana($('ventanaPasaje'), disparador);
+  escuchar.hidden = !voz || !pasaje || enOso;
+  escuchar.onclick = enOso ? null : () => alternarVoz(`${etiqueta}. ${pasaje}${comp ? ` Compare con ${cita.referenciaComparativa || ''}. ${comp}` : ''}`, escuchar, { sinNumerosDeVersiculo: true });
 }
 
 /* ---------- Voz ---------- */
