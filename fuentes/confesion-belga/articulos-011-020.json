@@ -1,0 +1,722 @@
+{
+  "articulos": {
+    "11": {
+      "tituloLatin": "DE PERSONA ET ÆTERNA DEITATE SPIRITUS SANCTI",
+      "titulo": "La persona y la eterna divinidad del Espíritu Santo",
+      "frances": "Nous croyons et confessons aussi que le Saint-Esprit procède éternellement du Père[1] et du Fils,[2] n'étant ni fait, ni créé, ni aussi engendré, mais seulement procédant des deux; lequel est la troisième personne de la Trinité en ordre, d'une même essence et majesté et gloire avec le Père et le Fils, étant vrai et éternel Dieu, comme nous enseignent les Écritures Saintes.[3]",
+      "texto": "Creemos y confesamos también que el Espíritu Santo procede eternamente del Padre y del Hijo; que no es hecho, ni creado, ni tampoco engendrado, sino que solamente procede de ambos. Él es la tercera persona de la Trinidad en orden, de una misma esencia, majestad y gloria con el Padre y el Hijo, y es verdadero y eterno Dios, como nos enseñan las Santas Escrituras.",
+      "notas": [
+        {
+          "impreso": "Psa. xxxiii. 6, 17; Jean xiv. 16.",
+          "citas": [
+            "Psalm 33:6, 17",
+            "John 14:16"
+          ]
+        },
+        {
+          "impreso": "Gal. iv. 6; Rom. viii. 9; Jean xv. 26.",
+          "citas": [
+            "Galatians 4:6",
+            "Romans 8:9",
+            "John 15:26"
+          ]
+        },
+        {
+          "impreso": "Gen. i. 2; Es. xlviii. 16; lxi. 1; Act. v. 3, 4; xxviii. 25; 1 Cor. iii. 16; vi. 19; Psa. cxxxix. 7.",
+          "citas": [
+            "Genesis 1:2",
+            "Isaiah 48:16",
+            "Isaiah 61:1",
+            "Acts 5:3-4",
+            "Acts 28:25",
+            "1 Corinthians 3:16",
+            "1 Corinthians 6:19",
+            "Psalm 139:7"
+          ]
+        }
+      ]
+    },
+    "12": {
+      "tituloLatin": "DE CREATIONE MUNDI, ET DE ANGELIS",
+      "titulo": "La creación del mundo y los ángeles",
+      "frances": "Nous croyons que le Père a créé de rien le ciel et la terre, et toutes créatures, quand bon lui a semblé, par sa Parole, c'est-à-dire par son Fils,[1] donnant à chaque créature leur être, forme et figures, et divers offices pour servir à leur Créateur: et que maintenant même il les soutient et gouverne toutes selon sa providence éternelle et par sa vertu infinie,[2] pour servir à l'homme,[3] afin que l'homme serve à son Dieu.[4] Il a aussi créé les anges bons[5] pour être ses messagers[6] et pour servir à ses élus:[7] desquels les uns sont trébuchés de l'excellence en laquelle Dieu les avait créés, en perdition éternelle;[8] et les autres ont persisté et demeuré en leur premier état, par la grâce de Dieu.[9] Les diables et esprits malins sont tellement corrompus, qu'ils sont ennemis de Dieu et de tout bien, épiant l'Église comme brigands, de tout leur pouvoir,[10] et aussi chaque membre, pour tout détruire et gâter par leurs tromperies;[11] c'est pourquoi, par leur propre malice, ils sont condamnés à perpétuelle damnation, attendant de jour en jour leurs tourments.[12] Et sur ceci nous détestons l'erreur des Sadducéens qui nient qu'il y ait des esprits et des anges,[13] et aussi l'erreur des Manichéens qui disent que les diables ont leur origine d'eux-mêmes, étant mauvais de leur propre nature sans avoir été corrompus.",
+      "texto": "Creemos que el Padre, cuando le pareció bien, creó de la nada el cielo, la tierra y todas las criaturas por su Palabra, es decir, por su Hijo, y dio a cada criatura su ser, su forma y su figura, y diversos oficios para servir a su Creador. Creemos también que aun ahora las sostiene y gobierna todas según su providencia eterna y por su poder infinito, para que sirvan al hombre, a fin de que el hombre sirva a su Dios. También creó buenos a los ángeles, para que fueran sus mensajeros y sirvieran a sus elegidos. De ellos, unos cayeron de la excelencia en que Dios los había creado a la perdición eterna; y los otros, por la gracia de Dios, han perseverado y permanecido en su primer estado. Los demonios y espíritus malignos están tan corrompidos que son enemigos de Dios y de todo bien: con todo su poder acechan como bandidos a la Iglesia y a cada uno de sus miembros, para destruirlo y arruinarlo todo con sus engaños. Por eso, por su propia malicia, están condenados a perpetua condenación, y esperan cada día sus tormentos. Por tanto, rechazamos con aborrecimiento el error de los saduceos, que niegan que existan espíritus y ángeles; y también el error de los maniqueos, que dicen que los demonios tienen su origen en sí mismos y que son malos por su propia naturaleza, sin haber sido corrompidos.",
+      "notas": [
+        {
+          "impreso": "Gen. i. 1; Es. xl. 26; Héb. iii. 4; Apoc. iv. 11; 1 Cor. viii. 6; Jean i. 3; Col. i. 16.",
+          "citas": [
+            "Genesis 1:1",
+            "Isaiah 40:26",
+            "Hebrews 3:4",
+            "Revelation 4:11",
+            "1 Corinthians 8:6",
+            "John 1:3",
+            "Colossians 1:16"
+          ]
+        },
+        {
+          "impreso": "Héb. i. 3; Psa. civ. 10, etc.; Act. xvii. 25.",
+          "citas": [
+            "Hebrews 1:3",
+            {
+              "ref": "Psalm 104:10-30",
+              "nota": "La edición dice «Psa. civ. 10, etc.»; se muestra el pasaje hasta el versículo 30."
+            },
+            "Acts 17:25"
+          ]
+        },
+        {
+          "impreso": "1 Tim. iv. 3, 4; Gen. i. 29, 30; ix. 2, 3; Psa. civ. 14, 15.",
+          "citas": [
+            "1 Timothy 4:3-4",
+            "Genesis 1:29-30",
+            "Genesis 9:2-3",
+            "Psalm 104:14-15"
+          ]
+        },
+        {
+          "impreso": "1 Cor. iii. 22; vi. 20; Matt. iv. 10.",
+          "citas": [
+            "1 Corinthians 3:22",
+            "1 Corinthians 6:20",
+            "Matthew 4:10"
+          ]
+        },
+        {
+          "impreso": "Col. i. 16.",
+          "citas": [
+            "Colossians 1:16"
+          ]
+        },
+        {
+          "impreso": "Psa. ciii. 20; xxxiv. 8; cxlviii. 2.",
+          "citas": [
+            "Psalm 103:20",
+            {
+              "ref": "Psalm 34:7",
+              "nota": "En la edición francesa «xxxiv. 8»: el título del salmo cuenta como versículo 1, así que en la Reina-Valera 1909 corresponde a Sal. 34:7."
+            },
+            "Psalm 148:2"
+          ]
+        },
+        {
+          "impreso": "Héb. i. 14; Psa. xxxiv. 8.",
+          "citas": [
+            "Hebrews 1:14",
+            {
+              "ref": "Psalm 34:7",
+              "nota": "En la edición francesa «Psa. xxxiv. 8»: el título del salmo cuenta como versículo 1, así que en la Reina-Valera 1909 corresponde a Sal. 34:7."
+            }
+          ]
+        },
+        {
+          "impreso": "Jean viii. 44; 2 Pier. ii. 4; Luc viii. 31; Jud. 6.",
+          "citas": [
+            "John 8:44",
+            "2 Peter 2:4",
+            "Luke 8:31",
+            "Jude 6"
+          ]
+        },
+        {
+          "impreso": "Matt. xxv. 31.",
+          "citas": [
+            "Matthew 25:31"
+          ]
+        },
+        {
+          "impreso": "1 Pier. v. 8; Job i. 7.",
+          "citas": [
+            "1 Peter 5:8",
+            "Job 1:7"
+          ]
+        },
+        {
+          "impreso": "Gen. iii. 1; Matt. xiii. 25; 2 Cor. ii. 11; xi. 3, 14.",
+          "citas": [
+            "Genesis 3:1",
+            "Matthew 13:25",
+            "2 Corinthians 2:11",
+            "2 Corinthians 11:3, 14"
+          ]
+        },
+        {
+          "impreso": "Matt. xxv. 41; Luc viii. 30, 31.",
+          "citas": [
+            "Matthew 25:41",
+            "Luke 8:30-31"
+          ]
+        },
+        {
+          "impreso": "Act. xxiii. 8.",
+          "citas": [
+            "Acts 23:8"
+          ]
+        }
+      ]
+    },
+    "13": {
+      "tituloLatin": "DE PROVIDENTIA DEI",
+      "titulo": "La providencia de Dios",
+      "frances": "Nous croyons que ce bon Dieu, après avoir créé toutes choses, ne les a pas abandonnées à l'aventure ni à fortune; mais les conduit et gouverne de telle façon, selon sa sainte volonté,[1] que rien n'advient en ce monde sans son ordonnance,[2] quoique toutefois Dieu ne soit point auteur ni coupable du mal qui arrive; car sa puissance et bonté est tellement grande et incompréhensible, que même il ordonne et fait très-bien et justement son œuvre, quand même le diable et les méchants font injustement.[3] Et quant à ce qu'il fait outrepassant le sens humain, nous ne voulons nous en enquérir curieusement plus que notre capacité ne porte, mais, en toute humilité et révérence, nous adorons les justes jugements de Dieu qui nous sont cachés,[4] nous contentant d'être disciples de Christ, pour apprendre seulement ce qu'il nous montre par sa Parole, et ne point outrepasser ces bornes.\nCette doctrine nous apporte une consolation indicible, puisque nous sommes enseignés par elle, que rien ne nous peut arriver à l'aventure, mais par l'ordonnance de notre bon Père céleste, lequel veille pour nous par un soin paternel, tenant toutes créatures sujettes à lui;[5] de sorte que pas un des cheveux de notre tête (car ils sont tous nombrés) ni même un petit oiseau, ne peut tomber en terre, sans la volonté de notre Père.[6] En quoi nous nous reposons, sachant qu'il tient les diables en bride, et tous nos ennemis, qui ne nous peuvent nuire sans sa permission et bonne volonté.\nSur cela nous rejetons l'erreur damnable des Épicuriens, qui disent que Dieu ne se mêle de rien et laisse aller toutes choses à l'aventure.",
+      "texto": "Creemos que este buen Dios, después de haber creado todas las cosas, no las abandonó al azar ni a la fortuna, sino que las conduce y gobierna de tal manera, según su santa voluntad, que nada sucede en este mundo sin su ordenación. Con todo, Dios no es autor ni culpable del mal que sucede; porque su poder y su bondad son tan grandes e incomprensibles que ordena y hace su obra muy bien y con justicia, aun cuando el diablo y los malvados obran injustamente. Y en cuanto a lo que él hace y sobrepasa el entendimiento humano, no queremos indagarlo con curiosidad más allá de lo que alcanza nuestra capacidad; sino que, con toda humildad y reverencia, adoramos los justos juicios de Dios que nos están ocultos, y nos contentamos con ser discípulos de Cristo para aprender solamente lo que él nos muestra por su Palabra, sin traspasar estos límites.\nEsta doctrina nos trae un consuelo indecible, porque por ella se nos enseña que nada nos puede suceder por azar, sino por la ordenación de nuestro buen Padre celestial, que vela por nosotros con un cuidado paternal y tiene sujetas a sí todas las criaturas; de modo que ni uno de los cabellos de nuestra cabeza (porque todos están contados), ni siquiera un pajarillo, puede caer a tierra sin la voluntad de nuestro Padre. En esto descansamos, sabiendo que él tiene sujetos a los demonios y a todos nuestros enemigos, que no nos pueden hacer daño sin su permiso y su buena voluntad.\nPor eso rechazamos el error condenable de los epicúreos, que dicen que Dios no se ocupa de nada y que lo deja todo al azar.",
+      "notas": [
+        {
+          "impreso": "Jean v. 17; Héb. i. 3; Prov. xvi. 4; Psa. civ. 9, etc.; Psa. cxxxix. 2, etc.",
+          "citas": [
+            "John 5:17",
+            "Hebrews 1:3",
+            "Proverbs 16:4",
+            {
+              "ref": "Psalm 104:9-30",
+              "nota": "La edición dice «Psa. civ. 9, etc.»; se muestra el pasaje hasta el versículo 30."
+            },
+            {
+              "ref": "Psalm 139:2-16",
+              "nota": "La edición dice «Psa. cxxxix. 2, etc.»; se muestra el pasaje hasta el versículo 16."
+            }
+          ]
+        },
+        {
+          "impreso": "Jacq. iv. 15; Job i. 21; 1 Rois xxii. 20; Act. iv. 28; 1 Sam. ii. 25; Psa. cxv. 3; xlv. 7; Am. iii. 6; Deut. xix. 5; Prov. xxi. 1; Psa. cv. 25; Es. x. 5, 6, 7; 2 Thess. ii. 11; Ézéch. xiv. 9; Rom. i. 28; Gen. xlv. 8; l. 20; 2 Sam. xvi. 10; Gen. xxvii. 20; Psa. lxxv. 7, 8; Es. xlv. 7; Prov. xvi. 4; Lam. iii. 37, 38; 1 Rois xxii. 34, 38; Exod. xxi. 13.",
+          "citas": [
+            "James 4:15",
+            "Job 1:21",
+            "1 Kings 22:20",
+            "Acts 4:28",
+            "1 Samuel 2:25",
+            "Psalm 115:3",
+            {
+              "ref": "Psalm 45:6",
+              "nota": "En la edición francesa «xlv. 7»: el título del salmo cuenta como versículo 1, así que en la Reina-Valera 1909 corresponde a Sal. 45:6."
+            },
+            "Amos 3:6",
+            "Deuteronomy 19:5",
+            "Proverbs 21:1",
+            "Psalm 105:25",
+            "Isaiah 10:5-7",
+            "2 Thessalonians 2:11",
+            "Ezekiel 14:9",
+            "Romans 1:28",
+            "Genesis 45:8",
+            "Genesis 50:20",
+            "2 Samuel 16:10",
+            "Genesis 27:20",
+            {
+              "ref": "Psalm 75:6-7",
+              "nota": "En la edición francesa «Psa. lxxv. 7, 8»: el título del salmo cuenta como versículo 1, así que en la Reina-Valera 1909 corresponde a Sal. 75:6-7."
+            },
+            "Isaiah 45:7",
+            "Proverbs 16:4",
+            "Lamentations 3:37-38",
+            "1 Kings 22:34, 38",
+            "Exodus 21:13"
+          ]
+        },
+        {
+          "impreso": "Matt. viii. 31, 32; Jean iii. 8.",
+          "citas": [
+            "Matthew 8:31-32",
+            {
+              "ref": "1 John 3:8",
+              "nota": "La edición dice «Jean iii. 8», pero el artículo habla del diablo; se muestra 1 Jn. 3:8, «el que hace pecado, es del diablo». Es una suposición."
+            }
+          ]
+        },
+        {
+          "impreso": "Rom. xi. 33, 34.",
+          "citas": [
+            "Romans 11:33-34"
+          ]
+        },
+        {
+          "impreso": "Matt. viii. 31; Job i. 12; ii. 6.",
+          "citas": [
+            "Matthew 8:31",
+            "Job 1:12",
+            "Job 2:6"
+          ]
+        },
+        {
+          "impreso": "Matt. x. 29, 30.",
+          "citas": [
+            "Matthew 10:29-30"
+          ]
+        }
+      ]
+    },
+    "14": {
+      "tituloLatin": "DE HOMINIS CREATIONE, LAPSU ET CORRUPTIONE",
+      "titulo": "La creación y la caída del hombre, y su corrupción",
+      "frances": "Nous croyons que Dieu a créé l'homme du limon de la terre, et l'a fait et formé à son image et ressemblance,[1] bon, juste et saint, pouvant par son vouloir accorder en tout au vouloir de Dieu;[2] mais quand il a été en honneur, il n'en a rien su; et n'a pas reconnu son excellence,[3] mais s'est volontairement assujetti au péché, et par conséquent à mort et à malédiction, en prêtant l'oreille à la parole du diable.[4] Car il a transgressé le commandement de vie qu'il avait reçu,[5] et s'est retranché de Dieu, qui était sa vraie vie, par son péché,[6] ayant corrompu toute sa nature,[7] par où il s'est rendu coupable de mort corporelle et spirituelle,[8] et étant devenu méchant, pervers, corrompu en toutes ses voies, a perdu tous ses excellents dons qu'il avait reçus de Dieu,[9] et il ne lui en est demeuré de reste que de petites traces,[10] qui sont suffisantes pour rendre l'homme inexcusable,[11] d'autant que tout ce qui est de lumière en nous est converti en ténèbres,[12] comme l'Écriture nous enseigne, disant: La lumière luit dans les ténèbres et les ténèbres ne l'ont point comprise,[13] où saint Jean appelle les hommes ténèbres.\nPar quoi nous rejetons tout ce qu'on enseigne du franc arbitre de l'homme, parce qu'il n'est que serf de péché,[14] et ne peut aucune chose, s'il ne lui est donné du Ciel;[15] car qui est-ce qui se vantera de pouvoir faire quelque bien, comme de soi-même, puisque Christ dit: Nul ne peut venir à moi si mon Père qui m'a envoyé, ne l'attire?[16] Qui alléguera sa volonté, entendant que l'affection de la chair est inimitié contre Dieu?[17] Qui parlera de sa connaissance, voyant que l'homme sensuel ne comprend point les choses qui sont de l'Esprit de Dieu?[18] Bref, qui mettra en avant une seule pensée? vu qu'il entend que nous ne sommes pas capables de penser quelque chose comme de nous-mêmes mais que notre capacité est de Dieu?[19] C'est pourquoi ce que dit l'Apôtre doit à bon droit demeurer ferme et arrêté, que Dieu fait en nous le vouloir et le faire selon son bon plaisir.[20] Car il n'y a ni entendement ni volonté conforme à celle de Dieu si Christ n'y a opéré, ce qu'il nous enseigne, disant: Sans moi vous ne pouvez rien faire.[21]",
+      "texto": "Creemos que Dios creó al hombre del polvo de la tierra, y lo hizo y formó a su imagen y semejanza: bueno, justo y santo, capaz de conformar en todo su voluntad a la voluntad de Dios. Pero cuando estuvo en honra, no lo entendió ni reconoció su excelencia, sino que voluntariamente se sometió al pecado, y por consiguiente a la muerte y a la maldición, prestando oído a la palabra del diablo. Porque transgredió el mandamiento de vida que había recibido, y por su pecado se apartó de Dios, que era su verdadera vida; y corrompió toda su naturaleza, por lo cual se hizo culpable de la muerte corporal y espiritual. Y habiéndose vuelto malvado, perverso y corrompido en todos sus caminos, perdió todos los excelentes dones que había recibido de Dios, y no le quedaron de ellos más que pequeños rastros, que bastan para dejar al hombre sin excusa; porque toda la luz que hay en nosotros se ha convertido en tinieblas, como nos enseña la Escritura cuando dice: «La luz en las tinieblas resplandece, y las tinieblas no la comprendieron»; donde san Juan llama tinieblas a los hombres.\nPor eso rechazamos todo lo que se enseña acerca del libre albedrío del hombre, puesto que el hombre no es más que esclavo del pecado y no puede nada si no le es dado del cielo. Porque ¿quién se jactará de poder hacer algún bien por sí mismo, si Cristo dice: «Ninguno puede venir a mí, si el Padre que me envió no le trajere»? ¿Quién alegará su voluntad, si entiende que la inclinación de la carne es enemistad contra Dios? ¿Quién hablará de su conocimiento, viendo que el hombre natural no percibe las cosas que son del Espíritu de Dios? En suma, ¿quién presentará un solo pensamiento, si entiende que no somos capaces de pensar algo como de nosotros mismos, sino que nuestra suficiencia es de Dios? Por eso, lo que dice el apóstol debe con razón permanecer firme y seguro: que Dios obra en nosotros así el querer como el hacer, por su buena voluntad. Porque no hay entendimiento ni voluntad conforme a la de Dios si Cristo no ha obrado en ellos, como él nos enseña al decir: «Sin mí nada podéis hacer».",
+      "notas": [
+        {
+          "impreso": "Gen. i. 26; Eccl. vii. 29; Eph. iv. 24.",
+          "citas": [
+            "Genesis 1:26",
+            "Ecclesiastes 7:29",
+            "Ephesians 4:24"
+          ]
+        },
+        {
+          "impreso": "Gen. i. 31; Eph. 4. 24.",
+          "citas": [
+            "Genesis 1:31",
+            "Ephesians 4:24"
+          ]
+        },
+        {
+          "impreso": "Psa. xlix. 21; Es. lix. 2.",
+          "citas": [
+            {
+              "ref": "Psalm 49:20",
+              "nota": "En la edición francesa «Psa. xlix. 21»: el título del salmo cuenta como versículo 1, así que en la Reina-Valera 1909 corresponde a Sal. 49:20."
+            },
+            "Isaiah 59:2"
+          ]
+        },
+        {
+          "impreso": "Gen. iii. 6, 17.",
+          "citas": [
+            "Genesis 3:6, 17"
+          ]
+        },
+        {
+          "impreso": "Gen. i. 3, 7.",
+          "citas": [
+            {
+              "ref": "Genesis 3:3, 7",
+              "nota": "La edición dice «Gen. i. 3, 7», que habla de la luz y del firmamento. Se muestra Gén. 3:3 y 3:7, el mandamiento que Adán transgredió y su consecuencia. Es una suposición."
+            }
+          ]
+        },
+        {
+          "impreso": "Es. lix. 2.",
+          "citas": [
+            "Isaiah 59:2"
+          ]
+        },
+        {
+          "impreso": "Eph. iv. 18.",
+          "citas": [
+            "Ephesians 4:18"
+          ]
+        },
+        {
+          "impreso": "Rom. v. 12; Gen. ii. 17; iii. 19.",
+          "citas": [
+            "Romans 5:12",
+            "Genesis 2:17",
+            "Genesis 3:19"
+          ]
+        },
+        {
+          "impreso": "Rom. iii. 10, etc.",
+          "citas": [
+            {
+              "ref": "Romans 3:10-18",
+              "nota": "La edición dice «Rom. iii. 10, etc.»; se muestra el pasaje hasta el versículo 18."
+            }
+          ]
+        },
+        {
+          "impreso": "Act. xiv. 16, 17; xvii. 27.",
+          "citas": [
+            "Acts 14:16-17",
+            "Acts 17:27"
+          ]
+        },
+        {
+          "impreso": "Rom. i. 20, 21; Act. xvii. 27.",
+          "citas": [
+            "Romans 1:20-21",
+            "Acts 17:27"
+          ]
+        },
+        {
+          "impreso": "Eph. v. 8; Matt. vi. 23.",
+          "citas": [
+            "Ephesians 5:8",
+            "Matthew 6:23"
+          ]
+        },
+        {
+          "impreso": "Jean i. 5.",
+          "citas": [
+            "John 1:5"
+          ]
+        },
+        {
+          "impreso": "Es. xxvi. 12; Psa. xciv. 11; Jean viii. 34; Rom. vi. 17; vii. 5, 17.",
+          "citas": [
+            "Isaiah 26:12",
+            "Psalm 94:11",
+            "John 8:34",
+            "Romans 6:17",
+            "Romans 7:5, 17"
+          ]
+        },
+        {
+          "impreso": "Jean iii. 27; Es. xxvi. 12.",
+          "citas": [
+            "John 3:27",
+            "Isaiah 26:12"
+          ]
+        },
+        {
+          "impreso": "Jean iii. 27; vi. 44, 65.",
+          "citas": [
+            "John 3:27",
+            "John 6:44, 65"
+          ]
+        },
+        {
+          "impreso": "Rom. viii. 7.",
+          "citas": [
+            "Romans 8:7"
+          ]
+        },
+        {
+          "impreso": "1 Cor. ii. 14; Psa. xciv. 11.",
+          "citas": [
+            "1 Corinthians 2:14",
+            "Psalm 94:11"
+          ]
+        },
+        {
+          "impreso": "2 Cor. iii. 5.",
+          "citas": [
+            "2 Corinthians 3:5"
+          ]
+        },
+        {
+          "impreso": "Phil. ii. 13.",
+          "citas": [
+            "Philippians 2:13"
+          ]
+        },
+        {
+          "impreso": "Jean xv. 5.",
+          "citas": [
+            "John 15:5"
+          ]
+        }
+      ]
+    },
+    "15": {
+      "tituloLatin": "DE PECCATO ORIGINALI",
+      "titulo": "El pecado original",
+      "frances": "Nous croyons que par la désobéissance d'Adam, le péché originel a été répandu par tout le genre humain;[1] lequel péché est une corruption de toute la nature, et un vice héréditaire, duquel même sont entachés les petits enfants au ventre de leur mère:[2] et qui produit en l'homme toute sorte de péché, y servant de racine,[3] dont il est tant vilain et énorme devant Dieu qu'il est suffisant pour condamner le genre humain,[4] et n'est pas aboli même par le baptême, ou déraciné du tout, vu que toujours les bouillons en sortent comme d'une malheureuse source; quoique toutefois il ne soit point imputé à condamnation aux enfants de Dieu, mais pardonné par sa grâce et miséricorde, non point afin qu'ils s'endorment, mais afin que le sentiment de cette corruption fasse souvent gémir les fidèles, désirant d'être délivrés du corps de cette mort.[5] Sur cela nous rejetons l'erreur des Pélagiens qui disent que ce péché n'est autre chose qu'une imitation.",
+      "texto": "Creemos que, por la desobediencia de Adán, el pecado original se ha extendido a todo el género humano. Este pecado es una corrupción de toda la naturaleza y un vicio hereditario, del cual están manchados aun los niños pequeños en el vientre de su madre; y produce en el hombre toda clase de pecados, porque es su raíz. Por eso es tan vil y abominable delante de Dios que basta para condenar al género humano. Ni siquiera el bautismo lo anula ni lo arranca del todo, ya que de él brotan siempre los borbotones, como de una fuente desdichada. Sin embargo, a los hijos de Dios no se les imputa para condenación, sino que les es perdonado por su gracia y misericordia; no para que se duerman, sino para que el sentir esta corrupción haga gemir a menudo a los fieles, deseando ser librados del cuerpo de esta muerte. Por eso rechazamos el error de los pelagianos, que dicen que este pecado no es otra cosa que una imitación.",
+      "notas": [
+        {
+          "impreso": "Rom. v. 12, 13; Psa. li. 7; Rom. iii. 10; Gen. vi. 3; Jean iii. 6; Job xiv. 4.",
+          "citas": [
+            "Romans 5:12-13",
+            {
+              "ref": "Psalm 51:5",
+              "nota": "En la edición francesa «Psa. li. 7»: el título del salmo cuenta como versículos 1 y 2, así que en la Reina-Valera 1909 corresponde a Sal. 51:5."
+            },
+            "Romans 3:10",
+            "Genesis 6:3",
+            "John 3:6",
+            "Job 14:4"
+          ]
+        },
+        {
+          "impreso": "Es. xlviii. 8; Rom. v. 14.",
+          "citas": [
+            "Isaiah 48:8",
+            "Romans 5:14"
+          ]
+        },
+        {
+          "impreso": "Gal. v. 19; Rom. vii. 8, 10, 13, 17, 18, 20, 23.",
+          "citas": [
+            "Galatians 5:19",
+            "Romans 7:8, 10, 13, 17-18, 20, 23"
+          ]
+        },
+        {
+          "impreso": "Eph. ii. 3, 5.",
+          "citas": [
+            "Ephesians 2:3, 5"
+          ]
+        },
+        {
+          "impreso": "Rom. vii. 18, 24.",
+          "citas": [
+            "Romans 7:18, 24"
+          ]
+        }
+      ]
+    },
+    "16": {
+      "tituloLatin": "DE PRÆDESTINATIONE DIVINA",
+      "titulo": "La predestinación divina",
+      "frances": "Nous croyons que toute la race d'Adam étant ainsi précipitée en perdition et ruine par la faute du premier homme, Dieu s'est démontré tel qu'il est, savoir miséricordieux et juste:[1] miséricordieux, en retirant et sauvant de cette perdition ceux qu'en son conseil éternel et immuable il a élus et choisis par sa pure bonté en Jésus-Christ notre Seigneur, sans aucun égard de leurs œuvres;[2] juste, en laissant les autres en leur ruine et trébuchement où ils se sont précipités.[3]",
+      "texto": "Creemos que, estando toda la descendencia de Adán así precipitada en la perdición y la ruina por la culpa del primer hombre, Dios se mostró tal como es, a saber, misericordioso y justo. Misericordioso, porque saca y salva de esta perdición a los que, en su consejo eterno e inmutable, eligió y escogió por su pura bondad en Jesucristo nuestro Señor, sin consideración alguna de sus obras. Justo, porque deja a los demás en la ruina y la caída en que ellos mismos se precipitaron.",
+      "notas": [
+        {
+          "impreso": "Rom. ix. 18, 22, 23; iii. 12.",
+          "citas": [
+            "Romans 9:18, 22-23",
+            "Romans 3:12"
+          ]
+        },
+        {
+          "impreso": "Rom. ix. 15, 16; xi. 32; Eph. ii. 8, 9, 10; Psa. c. 3; 1 Jean iv. 10; Deut. xxxii. 8; 1 Sam. xii. 22; Psa. lxv. 5; Mal. i. 2; 2 Tim. i. 9; Rom. viii. 29; ix. 11, 21; xi. 5, 6; Eph. i. 4; Tit. iii. 4, 5; Act. ii. 47; xiii. 48; 2 Tim. ii. 19, 20; 1 Pier. i. 2; Jean vi. 27; xv. 16; xvii. 9.",
+          "citas": [
+            "Romans 9:15-16",
+            "Romans 11:32",
+            "Ephesians 2:8-10",
+            "Psalm 100:3",
+            "1 John 4:10",
+            "Deuteronomy 32:8",
+            "1 Samuel 12:22",
+            {
+              "ref": "Psalm 65:4",
+              "nota": "En la edición francesa «Psa. lxv. 5»: el título del salmo cuenta como versículo 1, así que en la Reina-Valera 1909 corresponde a Sal. 65:4."
+            },
+            "Malachi 1:2",
+            "2 Timothy 1:9",
+            "Romans 8:29",
+            "Romans 9:11, 21",
+            "Romans 11:5-6",
+            "Ephesians 1:4",
+            "Titus 3:4-5",
+            "Acts 2:47",
+            "Acts 13:48",
+            "2 Timothy 2:19-20",
+            "1 Peter 1:2",
+            "John 6:27",
+            "John 15:16",
+            "John 17:9"
+          ]
+        },
+        {
+          "impreso": "Rom. ix. 17, 18; 2 Tim. ii. 20.",
+          "citas": [
+            "Romans 9:17-18",
+            "2 Timothy 2:20"
+          ]
+        }
+      ]
+    },
+    "17": {
+      "tituloLatin": "DE REPARATIONE GENERIS HUMANI PER FILIUM DEI",
+      "titulo": "La restauración del género humano por medio del Hijo de Dios",
+      "frances": "Nous croyons que notre bon Dieu par sa merveilleuse sagesse et bonté, voyant que l'homme s'était ainsi précipité en la mort, tant corporelle que spirituelle, et rendu entièrement malheureux, s'est lui-même mis à le chercher, lorsque l'homme s'enfuyait de lui tout tremblant,[1] et l'a consolé, lui faisant promesse de lui donner son Fils, fait de femme, pour briser la tête du serpent, et le faire bienheureux.[2]",
+      "texto": "Creemos que nuestro buen Dios, por su maravillosa sabiduría y bondad, viendo que el hombre se había precipitado así en la muerte, tanto corporal como espiritual, y se había hecho del todo desdichado, se puso él mismo a buscarlo cuando el hombre huía de él todo tembloroso; y lo consoló con la promesa de darle a su Hijo, nacido de mujer, para quebrantar la cabeza de la serpiente y hacerlo bienaventurado.",
+      "notas": [
+        {
+          "impreso": "Gen. iii. 8, 9, 19; Es. lxv. 1, 2.",
+          "citas": [
+            "Genesis 3:8-9, 19",
+            "Isaiah 65:1-2"
+          ]
+        },
+        {
+          "impreso": "Héb. ii. 14; Gen. xxii. 18; Es. vii. 14; Jean vii. 42; 2 Tim. ii. 8; Héb. vii. 14; Gen. iii. 15; Gal. iv. 4.",
+          "citas": [
+            "Hebrews 2:14",
+            "Genesis 22:18",
+            "Isaiah 7:14",
+            "John 7:42",
+            "2 Timothy 2:8",
+            "Hebrews 7:14",
+            "Genesis 3:15",
+            "Galatians 4:4"
+          ]
+        }
+      ]
+    },
+    "18": {
+      "tituloLatin": "DE INCARNATIONE FILII DEI",
+      "titulo": "La encarnación del Hijo de Dios",
+      "frances": "Nous confessons donc que Dieu a accompli la promesse qu'il avait faite aux anciens Pères, par la bouche de ses saints Prophètes,[1] en envoyant son propre Fils unique et éternel au monde, au temps ordonné par lui; lequel a pris la forme de serviteur, fait à la ressemblance des hommes,[2] prenant vraiment à soi une vraie nature humaine, avec toutes ses infirmités (excepté le péché),[3] étant conçu dans le sein de la bienheureuse vierge Marie, par la vertu du Saint-Esprit sans œuvre d'homme;[4] et non seulement il a pris la nature humaine quant au corps, mais aussi une vraie âme humaine,[5] afin qu'il fût vrai homme: car puisque l'âme était aussi bien perdue que le corps il fallait qu'il prît à soi tous les deux pour les sauver ensemble. C'est pourquoi nous confessons—contre l'hérésie des Anabaptistes, niant que Christ a pris chair humaine de sa mère—que Christ a participé à la même chair et sang des enfants,[6] qu'il est fruit des reins de David selon la chair;[7] fait de la semence de David selon la chair;[8] fruit du ventre de la vierge Marie;[9] fait de femme;[10] germe de David;[11] rejeton de la racine de Jessé;[12] sorti de Juda;[13] descendu des Juifs selon la chair;[14] de la semence d'Abraham, puis qu'il a pris la semence d'Abraham,[15] et a été fait semblable à ses frères, excepté le péché;[16] de sorte qu'il est par ce moyen vraiment notre Emmanuel, c'est-à-dire Dieu avec nous.[17]",
+      "texto": "Confesamos, pues, que Dios cumplió la promesa que había hecho a los padres antiguos por boca de sus santos profetas, cuando envió al mundo, en el tiempo que él había señalado, a su propio Hijo, unigénito y eterno. El Hijo tomó forma de siervo, hecho semejante a los hombres, y asumió verdaderamente una verdadera naturaleza humana con todas sus debilidades, excepto el pecado; pues fue concebido en el seno de la bienaventurada virgen María por el poder del Espíritu Santo, sin obra de varón. Y no solo tomó la naturaleza humana en cuanto al cuerpo, sino también una verdadera alma humana, para ser verdadero hombre; porque, como el alma estaba tan perdida como el cuerpo, era necesario que tomara ambos para salvarlos juntos. Por eso confesamos, contra la herejía de los anabaptistas, que niegan que Cristo tomara carne humana de su madre, que Cristo participó de la misma carne y sangre de los hijos; que es fruto de los lomos de David según la carne; hecho del linaje de David según la carne; fruto del vientre de la virgen María; nacido de mujer; renuevo de David; vástago de la raíz de Isaí; descendiente de Judá; descendiente de los judíos según la carne; del linaje de Abraham, pues tomó la descendencia de Abraham, y fue hecho semejante a sus hermanos, excepto en el pecado. De modo que así es verdaderamente nuestro Emanuel, es decir, Dios con nosotros.",
+      "notas": [
+        {
+          "impreso": "Es. xi. 1; Luc i. 55; Gen. xxvi. 4; 2 Sam vii. 12; Psa. cxxxii. 11; Act. xiii. 23.",
+          "citas": [
+            "Isaiah 11:1",
+            "Luke 1:55",
+            "Genesis 26:4",
+            "2 Samuel 7:12",
+            "Psalm 132:11",
+            "Acts 13:23"
+          ]
+        },
+        {
+          "impreso": "1 Tim. ii. 5; iii. 16; Phil. ii. 7.",
+          "citas": [
+            "1 Timothy 2:5",
+            "1 Timothy 3:16",
+            "Philippians 2:7"
+          ]
+        },
+        {
+          "impreso": "Héb. ii. 14, 15; iv. 15.",
+          "citas": [
+            "Hebrews 2:14-15",
+            "Hebrews 4:15"
+          ]
+        },
+        {
+          "impreso": "Luc i. 31, 34, 35.",
+          "citas": [
+            "Luke 1:31, 34-35"
+          ]
+        },
+        {
+          "impreso": "Matt. xxvi. 38; Jean xii. 27.",
+          "citas": [
+            "Matthew 26:38",
+            "John 12:27"
+          ]
+        },
+        {
+          "impreso": "Héb. ii. 14.",
+          "citas": [
+            "Hebrews 2:14"
+          ]
+        },
+        {
+          "impreso": "Act. ii. 30.",
+          "citas": [
+            "Acts 2:30"
+          ]
+        },
+        {
+          "impreso": "Psa. cxxxii. 11; Rom. i. 3.",
+          "citas": [
+            "Psalm 132:11",
+            "Romans 1:3"
+          ]
+        },
+        {
+          "impreso": "Luc i. 42.",
+          "citas": [
+            "Luke 1:42"
+          ]
+        },
+        {
+          "impreso": "Gal. iv. 4.",
+          "citas": [
+            "Galatians 4:4"
+          ]
+        },
+        {
+          "impreso": "Jér. xxxiii. 15.",
+          "citas": [
+            "Jeremiah 33:15"
+          ]
+        },
+        {
+          "impreso": "Es. xi. 1.",
+          "citas": [
+            "Isaiah 11:1"
+          ]
+        },
+        {
+          "impreso": "Héb. vii. 14.",
+          "citas": [
+            "Hebrews 7:14"
+          ]
+        },
+        {
+          "impreso": "Rom. ix. 5.",
+          "citas": [
+            "Romans 9:5"
+          ]
+        },
+        {
+          "impreso": "Gen. xxii. 18; 2 Sam. vii. 12; Matt. i. 1; Gal. iii. 16.",
+          "citas": [
+            "Genesis 22:18",
+            "2 Samuel 7:12",
+            "Matthew 1:1",
+            "Galatians 3:16"
+          ]
+        },
+        {
+          "impreso": "Héb. ii. 15, 16, 17.",
+          "citas": [
+            "Hebrews 2:15-17"
+          ]
+        },
+        {
+          "impreso": "Es. vii. 14; Matt. i. 23.",
+          "citas": [
+            "Isaiah 7:14",
+            "Matthew 1:23"
+          ]
+        }
+      ]
+    },
+    "19": {
+      "tituloLatin": "DE UNIONE HYPOSTATICA, SEU PERSONALI, DUARUM NATURARUM IN CHRISTO",
+      "titulo": "La unión hipostática, o personal, de las dos naturalezas en Cristo",
+      "frances": "Nous croyons que par cette conception la personne du Fils a été unie et conjointe inséparablement avec la nature humaine, de sorte qu'il n'y a point deux Fils de Dieu ni deux personnes, mais deux natures unies en une seule personne, chaque nature retenant ses propriétés distinctes. Ainsi que la nature divine est toujours demeurée incréée, sans commencement de jours ni fin de vie,[1] remplissant le ciel et la terre: la nature humaine n'a pas perdu ses propriétés, mais est demeurée créature, ayant commencement de jours, étant d'une nature finie et retenant tout ce qui convient à un vrai corps.[2] Et encore que par sa résurrection il lui ait donné immortalité, néanmoins il n'a pas changé la vérité de sa nature humaine; attendu que notre salut et résurrection dépendent aussi de la vérité de son corps. Mais ces deux natures sont tellement unies ensemble en une personne, qu'elles n'ont pas même été séparées par sa mort. Ce qu'il a donc en mourant recommandé à son Père c'était un vrai esprit humain, lequel sortit de son corps,[3] mais cependant la nature divine demeura toujours unie à l'humaine, même étant gisante au tombeau; et la divinité ne laissait d'être en lui, comme elle était en lui quand il était petit enfant, quoique pour un peu de temps elle ne se démontrât pas ainsi.\nVoilà pourquoi nous le confessons être vrai Dieu et vrai homme: vrai Dieu pour vaincre la mort par sa puissance, et vrai homme, afin qu'il pût mourir pour nous selon l'infirmité de sa chair.",
+      "texto": "Creemos que, por esta concepción, la persona del Hijo quedó unida y ligada inseparablemente con la naturaleza humana, de modo que no hay dos Hijos de Dios ni dos personas, sino dos naturalezas unidas en una sola persona, y cada naturaleza conserva sus propiedades distintas. Así como la naturaleza divina ha permanecido siempre increada, sin principio de días ni fin de vida, y llena el cielo y la tierra, así la naturaleza humana no ha perdido sus propiedades, sino que ha permanecido criatura: tiene principio de días, es de naturaleza finita y conserva todo lo que corresponde a un cuerpo verdadero. Y aunque por su resurrección le dio inmortalidad, no cambió por eso la realidad de su naturaleza humana, ya que nuestra salvación y nuestra resurrección dependen también de la realidad de su cuerpo. Pero estas dos naturalezas están tan unidas en una persona que ni siquiera su muerte las separó. Así, lo que al morir encomendó a su Padre fue un verdadero espíritu humano, que salió de su cuerpo; pero entretanto la naturaleza divina permaneció siempre unida a la humana, aun cuando él yacía en el sepulcro; y la divinidad no dejaba de estar en él, como estaba en él cuando era un niño pequeño, aunque por un poco de tiempo no se mostrara así.\nPor eso confesamos que él es verdadero Dios y verdadero hombre: verdadero Dios, para vencer la muerte con su poder; y verdadero hombre, para poder morir por nosotros según la debilidad de su carne.",
+      "notas": [
+        {
+          "impreso": "Héb. vii. 3.",
+          "citas": [
+            "Hebrews 7:3"
+          ]
+        },
+        {
+          "impreso": "1 Cor. xv. 13, 21; Phil. iii. 21; Matt. xxvi. 11; Act. i. 2, 11; iii. 21; Luc xxiv. 39; Jean xx. 25, 27.",
+          "citas": [
+            "1 Corinthians 15:13, 21",
+            "Philippians 3:21",
+            "Matthew 26:11",
+            "Acts 1:2, 11",
+            "Acts 3:21",
+            "Luke 24:39",
+            "John 20:25, 27"
+          ]
+        },
+        {
+          "impreso": "Luc xxiii. 46; Matt. xxvii. 50.",
+          "citas": [
+            "Luke 23:46",
+            "Matthew 27:50"
+          ]
+        }
+      ]
+    },
+    "20": {
+      "tituloLatin": "DE MODO REDEMPTIONIS, PER DECLARATIONEM JUSTITIÆ ET MISERICORDIÆ DEI IN CHRISTO",
+      "titulo": "Dios ha manifestado su justicia y su misericordia en Cristo",
+      "frances": "Nous croyons que Dieu étant très-parfaitement miséricordieux et aussi très-juste, a envoyé son Fils prendre la nature en laquelle la désobéissance avait été commise, pour porter, en elle, la punition du péché par sa très-rigoureuse mort et passion.[1] Dieu donc a déclaré sa justice envers son Fils, chargé de nos péchés,[2] et a répandu sa bonté et miséricorde sur nous, coupables et dignes de damnation, nous donnant son Fils à la mort, par un très-parfait amour, et le ressuscitant pour notre justification;[3] afin que par lui nous eussions immortalité et vie éternelle.",
+      "texto": "Creemos que Dios, que es perfectamente misericordioso y también perfectamente justo, envió a su Hijo a tomar la naturaleza en la cual se había cometido la desobediencia, para llevar en ella el castigo del pecado por su muy rigurosa muerte y pasión. Así, Dios manifestó su justicia contra su Hijo, cargado con nuestros pecados, y derramó su bondad y su misericordia sobre nosotros, que éramos culpables y dignos de condenación: entregó a su Hijo a la muerte por un amor perfectísimo y lo resucitó para nuestra justificación, a fin de que por él tuviéramos inmortalidad y vida eterna.",
+      "notas": [
+        {
+          "impreso": "Héb. ii. 14; Rom. viii. 3, 32, 33.",
+          "citas": [
+            "Hebrews 2:14",
+            "Romans 8:3, 32-33"
+          ]
+        },
+        {
+          "impreso": "Es. liii. 6; Jean i. 29; 1 Jean iv. 9.",
+          "citas": [
+            "Isaiah 53:6",
+            "John 1:29",
+            "1 John 4:9"
+          ]
+        },
+        {
+          "impreso": "Rom. iv. 25.",
+          "citas": [
+            "Romans 4:25"
+          ]
+        }
+      ]
+    }
+  }
+}
