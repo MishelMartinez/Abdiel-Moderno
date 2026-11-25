@@ -52,6 +52,7 @@ Los ajustes de lectura se guardan en el dispositivo.
 ## Confesión de Fe Belga
 
 - `fuentes/confesion-belga/articulos-*.json`: por bloques de artículos, el texto francés revisado en Dort (1619) tal como lo imprime Schaff, *The Creeds of Christendom*, vol. III (1877), su traducción propia al español y, por cada nota al pie, la cita impresa y las referencias que se muestran (con `nota` si se corrigió o renumeró).
+- `fuentes/confesion-belga/notas-editor.json`: notas de Schaff sin citas bíblicas (por ejemplo, la del artículo 36), que se muestran en un recuadro «Nota del editor».
 - `npm run belga` genera `data/confesion-belga.json`. El documento usa `"unidad": "artículo"`, así que la aplicación muestra «Artículo N» con su título y texto, sin «Respuesta».
 
 ## Catecismo de Heidelberg

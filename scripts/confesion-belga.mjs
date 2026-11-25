@@ -14,6 +14,8 @@ for (const f of archivos) {
   Object.assign(articulos, fuente.articulos);
 }
 
+const notasEditor = JSON.parse(await leer('fuentes/confesion-belga/notas-editor.json'));
+
 const preguntas = Object.entries(articulos)
   .map(([n, a]) => {
     const numero = Number(n);
@@ -25,7 +27,7 @@ const preguntas = Object.entries(articulos)
         try { return citaRV1909(ref, aclaracion).cita; } catch (e) { throw new Error(`Artículo ${n}, nota ${i + 1}: ${e.message}`); }
       })
     }));
-    return { numero, pregunta: a.titulo, respuesta: a.texto, referenciasBiblicas };
+    return { numero, pregunta: a.titulo, respuesta: a.texto, referenciasBiblicas, ...(notasEditor[n] ? { datoCurioso: notasEditor[n] } : {}) };
   })
   .sort((a, b) => a.numero - b.numero);
 preguntas.forEach((q, i) => { if (q.numero !== i + 1) throw new Error(`Falta el artículo ${i + 1}`); });

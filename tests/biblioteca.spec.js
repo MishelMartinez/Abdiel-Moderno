@@ -305,6 +305,10 @@ test('Confesión de Fe Belga: se muestra por artículos con pasajes RV1909, tamb
   await page.locator('#buscar').fill('Arrio');
   await expect(page.locator('#pregunta-9')).toBeVisible();
   await expect(page.locator('#resultado')).toContainText('artículo');
+  await page.locator('#buscar').fill('gobierno civil');
+  await expect(page.locator('#pregunta-36 .dato-curioso')).toContainText('Nota del editor');
+  await expect(page.locator('#pregunta-36 .dato-curioso')).toContainText('unión entre la Iglesia y el Estado');
+  await expect(page.locator('#pregunta-36 .dato-curioso-voz')).toHaveCount(0);
   await page.locator('#selectorCatecismo').selectOption('catecismo-menor');
   await expect(page.locator('#etiquetaBuscar')).toHaveText('Buscar preguntas');
   await expect(page.locator('#pregunta-1 .etiqueta-respuesta')).toHaveText('Respuesta');
